@@ -14,54 +14,59 @@ All content follows OSMF specifications, enabling interoperability with any OSMF
 
 ## Repository Structure
 
-Models and their implementing documents are co-located:
-
 ```
 UL-Content/
-├── data/                           # Data Models + Documents
-│   ├── japanese-word/
-│   │   ├── japanese-word.schema.json
-│   │   └── documents/
-│   │       ├── neko.json
-│   │       ├── inu.json
-│   │       └── ...
-│   ├── japanese-phrase/
-│   │   ├── japanese-phrase.schema.json
-│   │   └── documents/
-│   │       └── ...
-│   └── [other-models]/
-│
-├── relational/                     # Relational Models + Documents
-│   ├── hierarchy/
-│   │   ├── hierarchy.schema.json
-│   │   └── documents/
-│   │       └── japanese-word-dependencies.json
-│   └── user-progress/
-│       ├── user-progress.schema.json
-│       └── documents/              # (templates/examples only; actual user data lives in app DB)
-│
-├── pedagogy/                       # Pedagogy Models + Documents
-│   ├── binary-srs-flashcard/
-│   │   ├── binary-srs-flashcard.schema.json
-│   │   └── documents/
-│   │       ├── japanese-kanji-to-kana.json
-│   │       └── ...
-│   └── [other-pedagogies]/
-│
-└── validate.sh                     # Schema validation script
+├── {language}/
+│   ├── data/
+│   │   └── {model}/
+│   │       ├── {language}-{model}.schema.json   # OSMF Model schema
+│   │       └── documents/                       # OSMF Documents
+│   │           └── *.json
+│   ├── docs/                                    # Language-specific documentation
+│   │   └── reports/                             # Generated analysis reports
+│   ├── scripts/
+│   │   ├── lib/                                 # Shared utilities
+│   │   ├── adapters/                            # Source dataset parsers
+│   │   ├── analyzers/                           # Domain analysis scripts
+│   │   ├── generators/                          # OSMF document generators
+│   │   └── source/                              # External source datasets
+│   └── tests/                                   # Unit, integration, validation tests
 ```
 
-## Validation
+## Scripts
 
-Content is validated against OSMF meta-schemas before being accepted:
+Each language directory contains scripts organized into four categories:
+
+| Category | Role | Output |
+|----------|------|--------|
+| **Adapters** | Reusable parsing/querying of source datasets | Python data structures |
+| **Analyzers** | Scan any domain (source or product), collect metrics | Reports and visualizations |
+| **Generators** | Create OSMF documents from source datasets (must be idempotent) | OSMF documents (JSON files) |
+| **Lib** | Shared utilities (normalizers, paths, I/O) | — |
+
+All generators must be **idempotent**: running them multiple times produces the same result.
+
+See the language-specific documentation for details on individual scripts:
+- [Japanese Content](japanese/docs/japanese_grapheme.md)
+
+## Testing
+
+Each language directory contains a `tests/` directory with test suites that validate content integrity. Tests minimally cover:
+
+- **Schema validation** — Every document is validated against its model's JSON Schema (data models use the full nested schema; relational models validate structural conformance)
+- **JSON integrity** — All document files parse as valid JSON
+- **`$id` presence** — Every document has a `$id` field
+
+Run tests from a language directory:
 
 ```bash
-./validate.sh
+cd japanese
+pytest tests/ -v
 ```
 
-Requires [check-jsonschema](https://github.com/python-jsonschema/check-jsonschema):
+Requires `pytest` and `jsonschema`:
 ```bash
-pip install check-jsonschema
+pip install pytest jsonschema
 ```
 
 ## Contributing
@@ -69,7 +74,7 @@ pip install check-jsonschema
 Contributions are welcome. All submissions must:
 
 1. Conform to the appropriate OSMF Model schema
-2. Pass validation (`./validate.sh`)
+2. Pass all tests (`pytest tests/ -v`)
 3. Include accurate metadata (`$id`, `$schema`)
 
 See the [OSMF specification](https://github.com/AndreiGrumazescu/OpenStudyModelFramework/blob/main/OSMF-def.md) for schema documentation.

@@ -1,0 +1,130 @@
+Grapheme Candidates Report
+========================================
+Generated: 2026-02-05 15:33:47 UTC
+
+Criteria: is_grapheme=NO AND popularity>0 AND atomic in at least one library
+Total candidates: 78
+
+Library Coverage (candidates only):
+  CHISE:   78 total (10 decomposed, 68 atomic)
+  KanjiVG: 75 total (60 decomposed, 15 atomic)
+
+Decomposition Sources:
+  chise:            10 (12.8%)
+  chise-atomic:      8 (10.3%)
+  kanjivg:          60 (76.9%)
+  kanjivg-atomic:    0 (0.0%)
+  none:              0 (0.0%)
+
+=== 3 Strokes (3 candidates) ===
+刄  pop:     8  src: kanjivg       (chise: atomic)
+丈  pop:     4  src: kanjivg       (chise: atomic)
+之  pop:     3  src: kanjivg       (chise: atomic)
+
+=== 4 Strokes (7 candidates) ===
+戸  pop:    23  src: chise-atomic  (kvg: atomic)
+尤  pop:    10  src: kanjivg       (chise: atomic)
+尹  pop:     7  src: kanjivg       (chise: atomic)
+卅  pop:     2  src: kanjivg       (chise: atomic)
+无  pop:     2  src: kanjivg       (chise: atomic)
+弔  pop:     1  src: kanjivg       (chise: atomic)
+丐  pop:     1  src: kanjivg       (chise: atomic)
+
+=== 5 Strokes (14 candidates) ===
+必  pop:    23  src: kanjivg       (chise: atomic)
+丘  pop:    10  src: kanjivg       (chise: atomic)
+冉  pop:    10  src: kanjivg       (chise: atomic)
+永  pop:     9  src: kanjivg       (chise: atomic)
+冊  pop:     7  src: kanjivg       (chise: atomic)
+斥  pop:     7  src: kanjivg       (chise: atomic)
+戉  pop:     5  src: kanjivg       (chise: atomic)
+乎  pop:     3  src: kanjivg       (chise: atomic)
+册  pop:     3  src: kanjivg       (chise: atomic)
+旡  pop:     3  src: kanjivg       (chise: atomic)
+史  pop:     2  src: kanjivg       (chise: atomic)
+丗  pop:     2  src: kanjivg       (chise: atomic)
+凹  pop:     1  src: kanjivg       (chise: atomic)
+丱  pop:     1  src: chise-atomic  (kvg: atomic)
+
+=== 6 Strokes (12 candidates) ===
+艸  pop:   322  src: kanjivg       (chise: atomic)
+网  pop:    33  src: kanjivg       (chise: atomic)
+襾  pop:    26  src: kanjivg       (chise: atomic)
+耒  pop:    22  src: kanjivg       (chise: atomic)
+夷  pop:    10  src: kanjivg       (chise: atomic)
+色  pop:    10  src: kanjivg       (chise: atomic)
+朿  pop:     8  src: kanjivg       (chise: atomic)
+曳  pop:     5  src: kanjivg       (chise: atomic)
+州  pop:     4  src: kanjivg       (chise: atomic)
+年  pop:     1  src: kanjivg       (chise: atomic)
+吏  pop:     1  src: kanjivg       (chise: atomic)
+両  pop:     1  src: kanjivg       (chise: atomic)
+
+=== 7 Strokes (8 candidates) ===
+邑  pop:    50  src: kanjivg       (chise: atomic)
+夾  pop:    24  src: kanjivg       (chise: atomic)
+我  pop:    18  src: kanjivg       (chise: atomic)
+求  pop:    14  src: kanjivg       (chise: atomic)
+呉  pop:     6  src: chise         (kvg: atomic)
+串  pop:     3  src: kanjivg       (chise: atomic)
+亜  pop:     2  src: kanjivg       (chise: atomic)
+来  pop:     2  src: kanjivg       (chise: atomic)
+
+=== 8 Strokes (8 candidates) ===
+阜  pop:    71  src: kanjivg       (chise: atomic)
+來  pop:    18  src: kanjivg       (chise: atomic)
+亞  pop:    14  src: kanjivg       (chise: atomic)
+垂  pop:    12  src: kanjivg       (chise: atomic)
+事  pop:     2  src: kanjivg       (chise: atomic)
+亟  pop:     2  src: chise-atomic  (kvg: atomic)
+命  pop:     1  src: chise         (kvg: atomic)
+秉  pop:     1  src: kanjivg       (chise: atomic)
+
+=== 9 Strokes (4 candidates) ===
+禹  pop:     8  src: kanjivg       (chise: atomic)
+為  pop:     1  src: kanjivg       (chise: atomic)
+乗  pop:     1  src: kanjivg       (chise: atomic)
+飛  pop:     1  src: kanjivg       (chise: atomic)
+
+=== 10 Strokes (3 candidates) ===
+師  pop:     6  src: chise         (kvg: atomic)
+脊  pop:     4  src: kanjivg       (chise: atomic)
+乘  pop:     2  src: kanjivg       (chise: atomic)
+
+=== 11 Strokes (4 candidates) ===
+畢  pop:    10  src: kanjivg       (chise: atomic)
+帶  pop:     9  src: chise         (kvg: atomic)
+粛  pop:     3  src: kanjivg       (chise: atomic)
+率  pop:     2  src: kanjivg       (chise: atomic)
+
+=== 12 Strokes (3 candidates) ===
+單  pop:    31  src: chise         (kvg: atomic)
+爲  pop:     6  src: kanjivg       (chise: atomic)
+黹  pop:     2  src: kanjivg       (chise: atomic)
+
+=== 13 Strokes (2 candidates) ===
+與  pop:    15  src: kanjivg       (chise: atomic)
+廌  pop:     2  src: chise-atomic  (kvg: none)
+
+=== 14 Strokes (3 candidates) ===
+熏  pop:     9  src: chise-atomic  (kvg: atomic)
+疑  pop:     8  src: chise         (kvg: atomic)
+夐  pop:     1  src: chise-atomic  (kvg: atomic)
+
+=== 15 Strokes (2 candidates) ===
+憂  pop:     5  src: chise         (kvg: atomic)
+奭  pop:     1  src: chise-atomic  (kvg: none)
+
+=== 16 Strokes (1 candidates) ===
+噩  pop:     2  src: chise-atomic  (kvg: none)
+
+=== 18 Strokes (1 candidates) ===
+龜  pop:     3  src: kanjivg       (chise: atomic)
+
+=== 20 Strokes (2 candidates) ===
+嚴  pop:     7  src: chise         (kvg: atomic)
+贏  pop:     1  src: chise         (kvg: atomic)
+
+=== 22 Strokes (1 candidates) ===
+聽  pop:     1  src: chise         (kvg: atomic)
+

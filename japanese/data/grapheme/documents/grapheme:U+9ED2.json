@@ -1,0 +1,13 @@
+{
+  "$id": "grapheme:U+9ED2",
+  "unicode": "U+9ED2",
+  "symbol": "黒",
+  "name": "Black",
+  "strokeCount": 11,
+  "variants": [
+    {
+      "unicode": "U+9ED1",
+      "symbol": "黑"
+    }
+  ]
+}

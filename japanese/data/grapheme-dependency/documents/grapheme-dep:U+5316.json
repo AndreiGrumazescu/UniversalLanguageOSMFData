@@ -1,0 +1,31 @@
+{
+  "$id": "grapheme-dep:U+5316",
+  "connectors": {
+    "parent": {
+      "$id": "grapheme:U+5316"
+    }
+  },
+  "many": [
+    {
+      "connectors": {
+        "component": {
+          "$id": "grapheme:U+4EBA"
+        }
+      }
+    },
+    {
+      "connectors": {
+        "component": {
+          "$id": "grapheme:U+5315"
+        }
+      }
+    },
+    {
+      "connectors": {
+        "component": {
+          "$id": "grapheme:U+4EBB"
+        }
+      }
+    }
+  ]
+}

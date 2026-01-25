@@ -1,0 +1,53 @@
+{
+  "$schema": "https://raw.githubusercontent.com/AndreiGrumazescu/OpenStudyModelFramework/main/data-model.schema.json",
+  "$id": "japanese-vocabulary.schema.json",
+  "name": "Japanese Vocabulary",
+  "schema": {
+    "type": "object",
+    "properties": {
+      "$id": {
+        "type": "string",
+        "description": "Unique identifier (slug or disambiguated form for homonyms)"
+      },
+      "japanese": {
+        "type": "string",
+        "description": "Written form (kanji/kana mix as typically written)"
+      },
+      "kana": {
+        "type": "string",
+        "description": "Full kana reading"
+      },
+      "englishKeys": {
+        "type": "array",
+        "items": { "type": "string" },
+        "description": "Searchable translation keywords"
+      },
+      "englishDetail": {
+        "type": "string",
+        "description": "Full definition with nuance and usage notes"
+      },
+      "pitchAccent": {
+        "type": "string",
+        "description": "Pitch accent pattern notation"
+      },
+      "category": {
+        "type": "string",
+        "description": "Part of speech or word category"
+      },
+      "subCategory": {
+        "type": "string",
+        "description": "More specific classification within category"
+      },
+      "jlptLevel": {
+        "type": "string",
+        "enum": ["N5", "N4", "N3", "N2", "N1", "common", "unspecified"],
+        "description": "JLPT level classification"
+      },
+      "audioAssetId": {
+        "type": "string",
+        "description": "Reference to pronunciation audio in R2"
+      }
+    },
+    "required": ["$id", "japanese", "kana", "englishKeys"]
+  }
+}

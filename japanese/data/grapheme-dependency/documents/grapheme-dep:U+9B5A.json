@@ -1,0 +1,17 @@
+{
+  "$id": "grapheme-dep:U+9B5A",
+  "connectors": {
+    "parent": {
+      "$id": "grapheme:U+9B5A"
+    }
+  },
+  "many": [
+    {
+      "connectors": {
+        "component": {
+          "$id": "grapheme:U+52F9"
+        }
+      }
+    }
+  ]
+}

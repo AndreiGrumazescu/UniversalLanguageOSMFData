@@ -1,0 +1,64 @@
+{
+  "$schema": "https://raw.githubusercontent.com/AndreiGrumazescu/OpenStudyModelFramework/main/relational-model.schema.json",
+  "$id": "kanji-composition.schema.json",
+  "name": "Kanji Composition Model",
+  "description": "Expresses composition relationships for kanji. A parent kanji is composed of components, each of which is either a grapheme or another kanji.",
+  "version": "1.0.0",
+  "$defs": {
+    "codepointCriteria": {
+      "required": ["$id"],
+      "properties": {
+        "$id": { "type": "string", "pattern": "^U\\+[0-9A-F]+$" }
+      }
+    },
+    "positionEnum": {
+      "type": "string",
+      "enum": ["left", "right", "top", "bottom", "enclosure", "other"]
+    }
+  },
+  "connectors": {
+    "parent": {
+      "criteria": { "$ref": "#/$defs/codepointCriteria" },
+      "description": "The kanji that is composed of other components"
+    },
+    "component": {
+      "criteria": { "$ref": "#/$defs/codepointCriteria" },
+      "description": "A grapheme or kanji that the parent is composed of"
+    }
+  },
+  "from": {
+    "type": "array",
+    "items": { "enum": ["parent"] },
+    "minItems": 1,
+    "maxItems": 1
+  },
+  "to": {
+    "type": "array",
+    "items": { "enum": ["component"] },
+    "minItems": 1,
+    "maxItems": 1
+  },
+  "data": {
+    "position": {
+      "$ref": "#/$defs/positionEnum",
+      "description": "Position of the component within the parent kanji"
+    }
+  },
+  "many": {
+    "type": "array",
+    "items": { "$ref": "https://raw.githubusercontent.com/AndreiGrumazescu/OpenStudyModelFramework/main/relational-model.schema.json#/$defs/manyItem" },
+    "itemConnectors": {
+      "$dynamicAnchor": "itemConnectors",
+      "properties": {
+        "component": { "$ref": "#/$defs/codepointCriteria" }
+      },
+      "required": ["component"]
+    },
+    "itemData": {
+      "$dynamicAnchor": "itemData",
+      "properties": {
+        "position": { "$ref": "#/$defs/positionEnum" }
+      }
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "$schema": "https://raw.githubusercontent.com/AndreiGrumazescu/OpenStudyModelFramework/main/data-model.schema.json",
+  "$id": "japanese-grammar.schema.json",
+  "name": "Japanese Grammar",
+  "schema": {
+    "type": "object",
+    "properties": {
+      "$id": {
+        "type": "string",
+        "description": "Unique identifier"
+      },
+      "japanese": {
+        "type": "string",
+        "description": "The grammar pattern or form"
+      },
+      "englishKeys": {
+        "type": "array",
+        "items": { "type": "string" },
+        "description": "Searchable translation/meaning keywords"
+      },
+      "usage": {
+        "type": "string",
+        "description": "Detailed explanation of usage and meaning"
+      },
+      "subtype": {
+        "type": "string",
+        "enum": ["particle", "conjugation", "pattern"],
+        "description": "Grammar classification: particle (が, に), conjugation (た-form), or pattern (〜ことがある)"
+      },
+      "template": {
+        "type": "string",
+        "description": "For patterns: slot template showing where to insert words (e.g., '〜ことがある')"
+      },
+      "slotType": {
+        "type": "string",
+        "enum": ["verb", "noun", "adjective"],
+        "description": "Type of word that fills the template slot"
+      },
+      "jlptLevel": {
+        "type": "string",
+        "enum": ["N5", "N4", "N3", "N2", "N1", "common", "unspecified"],
+        "description": "JLPT level classification"
+      }
+    },
+    "required": ["$id", "japanese", "englishKeys", "subtype"]
+  }
+}

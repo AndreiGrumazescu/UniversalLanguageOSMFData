@@ -1,0 +1,13 @@
+{
+  "$id": "grapheme:U+65E5",
+  "unicode": "U+65E5",
+  "symbol": "日",
+  "name": "Sun",
+  "strokeCount": 4,
+  "variants": [
+    {
+      "unicode": "U+66F0",
+      "symbol": "曰"
+    }
+  ]
+}

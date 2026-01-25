@@ -1,0 +1,48 @@
+{
+  "$schema": "https://raw.githubusercontent.com/AndreiGrumazescu/OpenStudyModelFramework/main/data-model.schema.json",
+  "$id": "japanese-kanji.schema.json",
+  "name": "Japanese Kanji",
+  "schema": {
+    "type": "object",
+    "properties": {
+      "$id": {
+        "type": "string",
+        "description": "Unicode codepoint (e.g., 'U+732B' for 猫, 'U+65E5' for 日)"
+      },
+      "symbol": {
+        "type": "string",
+        "description": "The kanji character itself (e.g., '猫', '日')"
+      },
+      "meanings": {
+        "type": "array",
+        "items": { "type": "string" },
+        "description": "English meanings"
+      },
+      "onyomi": {
+        "type": "array",
+        "items": { "type": "string" },
+        "description": "On'yomi (Chinese-derived) readings in katakana"
+      },
+      "kunyomi": {
+        "type": "array",
+        "items": { "type": "string" },
+        "description": "Kun'yomi (native Japanese) readings in hiragana"
+      },
+      "strokeCount": {
+        "type": "integer",
+        "minimum": 1,
+        "description": "Number of strokes"
+      },
+      "jlptLevel": {
+        "type": "string",
+        "enum": ["N5", "N4", "N3", "N2", "N1", "common", "unspecified"],
+        "description": "JLPT level classification"
+      },
+      "strokeOrderAssetId": {
+        "type": "string",
+        "description": "Reference to stroke order asset in R2"
+      }
+    },
+    "required": ["$id", "symbol", "meanings"]
+  }
+}

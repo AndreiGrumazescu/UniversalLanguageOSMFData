@@ -1,0 +1,13 @@
+{
+  "$id": "grapheme:U+5338",
+  "unicode": "U+5338",
+  "symbol": "匸",
+  "name": "Set",
+  "strokeCount": 2,
+  "variants": [
+    {
+      "unicode": "U+531A",
+      "symbol": "匚"
+    }
+  ]
+}

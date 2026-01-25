@@ -1,0 +1,13 @@
+{
+  "$id": "grapheme:U+5351",
+  "unicode": "U+5351",
+  "symbol": "卑",
+  "name": "Lowly",
+  "strokeCount": 8,
+  "variants": [
+    {
+      "symbol": "卑",
+      "unicode": "U+FA35"
+    }
+  ]
+}

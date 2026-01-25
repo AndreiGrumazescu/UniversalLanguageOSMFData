@@ -1,0 +1,13 @@
+{
+  "$id": "grapheme:U+6C34",
+  "unicode": "U+6C34",
+  "symbol": "水",
+  "name": "Water",
+  "strokeCount": 4,
+  "variants": [
+    {
+      "unicode": "U+6C3A",
+      "symbol": "氺"
+    }
+  ]
+}

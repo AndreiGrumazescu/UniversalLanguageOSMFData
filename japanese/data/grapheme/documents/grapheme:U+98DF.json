@@ -1,0 +1,13 @@
+{
+  "$id": "grapheme:U+98DF",
+  "unicode": "U+98DF",
+  "symbol": "食",
+  "name": "Food",
+  "strokeCount": 9,
+  "variants": [
+    {
+      "unicode": "U+98E0",
+      "symbol": "飠"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "grapheme:U+7530",
+  "unicode": "U+7530",
+  "symbol": "田",
+  "name": "Rice Paddy",
+  "strokeCount": 5,
+  "variants": [
+    {
+      "unicode": "U+7536",
+      "symbol": "甶"
+    }
+  ]
+}

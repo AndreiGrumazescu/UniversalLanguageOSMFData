@@ -1,0 +1,32 @@
+{
+  "$schema": "https://raw.githubusercontent.com/AndreiGrumazescu/OpenStudyModelFramework/main/data-model.schema.json",
+  "$id": "japanese-phrase.schema.json",
+  "name": "Japanese Phrase",
+  "schema": {
+    "type": "object",
+    "properties": {
+      "$id": {
+        "type": "string",
+        "description": "Unique identifier"
+      },
+      "japanese": {
+        "type": "string",
+        "description": "Full phrase text"
+      },
+      "elements": {
+        "type": "array",
+        "items": { "type": "string" },
+        "description": "Component $ids (vocabulary and grammar items)"
+      },
+      "english": {
+        "type": "string",
+        "description": "English translation"
+      },
+      "audioAssetId": {
+        "type": "string",
+        "description": "Reference to pronunciation audio in R2"
+      }
+    },
+    "required": ["$id", "japanese", "english"]
+  }
+}

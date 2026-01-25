@@ -1,0 +1,13 @@
+{
+  "$id": "grapheme:U+5927",
+  "unicode": "U+5927",
+  "symbol": "大",
+  "name": "Big",
+  "strokeCount": 3,
+  "variants": [
+    {
+      "unicode": "U+5928",
+      "symbol": "夨"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "grapheme:U+9577",
+  "unicode": "U+9577",
+  "symbol": "長",
+  "name": "Long",
+  "strokeCount": 8,
+  "variants": [
+    {
+      "unicode": "U+9578",
+      "symbol": "镸"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "$id": "grapheme-variant-group:dog",
+  "name": "Dog",
+  "many": [
+    {
+      "connectors": {
+        "member": {
+          "$id": "grapheme:U+72AC"
+        }
+      }
+    },
+    {
+      "connectors": {
+        "member": {
+          "$id": "grapheme:U+72AD"
+        }
+      }
+    }
+  ]
+}

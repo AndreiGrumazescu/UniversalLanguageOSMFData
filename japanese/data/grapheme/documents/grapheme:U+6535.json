@@ -1,0 +1,13 @@
+{
+  "$id": "grapheme:U+6535",
+  "unicode": "U+6535",
+  "symbol": "攵",
+  "name": "Strike",
+  "strokeCount": 4,
+  "variants": [
+    {
+      "unicode": "U+6534",
+      "symbol": "攴"
+    }
+  ]
+}

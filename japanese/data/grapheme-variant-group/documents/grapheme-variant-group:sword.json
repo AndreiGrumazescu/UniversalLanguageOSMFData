@@ -1,0 +1,20 @@
+{
+  "$id": "grapheme-variant-group:sword",
+  "name": "Sword",
+  "many": [
+    {
+      "connectors": {
+        "member": {
+          "$id": "grapheme:U+5200"
+        }
+      }
+    },
+    {
+      "connectors": {
+        "member": {
+          "$id": "grapheme:U+5202"
+        }
+      }
+    }
+  ]
+}

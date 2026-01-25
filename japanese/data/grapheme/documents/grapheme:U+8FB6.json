@@ -1,0 +1,13 @@
+{
+  "$id": "grapheme:U+8FB6",
+  "unicode": "U+8FB6",
+  "symbol": "辶",
+  "name": "Movement",
+  "strokeCount": 3,
+  "variants": [
+    {
+      "symbol": "辶",
+      "unicode": "U+FA66"
+    }
+  ]
+}

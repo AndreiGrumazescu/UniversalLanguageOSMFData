@@ -1,0 +1,20 @@
+{
+  "$id": "grapheme-variant-group:bed-left",
+  "name": "Bed Left",
+  "many": [
+    {
+      "connectors": {
+        "member": {
+          "$id": "grapheme:U+4E2C"
+        }
+      }
+    },
+    {
+      "connectors": {
+        "member": {
+          "$id": "grapheme:U+723F"
+        }
+      }
+    }
+  ]
+}

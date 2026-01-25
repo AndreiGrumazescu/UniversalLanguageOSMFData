@@ -1,0 +1,13 @@
+{
+  "$id": "grapheme:U+6BCB",
+  "unicode": "U+6BCB",
+  "symbol": "毋",
+  "name": "Do Not",
+  "strokeCount": 4,
+  "variants": [
+    {
+      "unicode": "U+6BCC",
+      "symbol": "毌"
+    }
+  ]
+}

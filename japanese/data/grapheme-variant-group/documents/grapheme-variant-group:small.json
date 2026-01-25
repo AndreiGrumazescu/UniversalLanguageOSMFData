@@ -1,0 +1,20 @@
+{
+  "$id": "grapheme-variant-group:small",
+  "name": "Small",
+  "many": [
+    {
+      "connectors": {
+        "member": {
+          "$id": "grapheme:U+2E8C"
+        }
+      }
+    },
+    {
+      "connectors": {
+        "member": {
+          "$id": "grapheme:U+5C0F"
+        }
+      }
+    }
+  ]
+}

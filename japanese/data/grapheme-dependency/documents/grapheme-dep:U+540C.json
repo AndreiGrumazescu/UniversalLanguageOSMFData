@@ -1,0 +1,31 @@
+{
+  "$id": "grapheme-dep:U+540C",
+  "connectors": {
+    "parent": {
+      "$id": "grapheme:U+540C"
+    }
+  },
+  "many": [
+    {
+      "connectors": {
+        "component": {
+          "$id": "grapheme:U+5182"
+        }
+      }
+    },
+    {
+      "connectors": {
+        "component": {
+          "$id": "grapheme:U+4E00"
+        }
+      }
+    },
+    {
+      "connectors": {
+        "component": {
+          "$id": "grapheme:U+53E3"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "$id": "grapheme:U+20089",
+  "unicode": "U+20089",
+  "symbol": "𠂉",
+  "name": "Person Top Variant",
+  "strokeCount": 2,
+  "nameAliases": ["Person Top"],
+  "variants": [
+    {
+      "unicode": "U+201A2",
+      "symbol": "𠆢"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "$id": "grapheme-variant-group:fire",
+  "name": "Fire",
+  "many": [
+    {
+      "connectors": {
+        "member": {
+          "$id": "grapheme:U+706B"
+        }
+      }
+    },
+    {
+      "connectors": {
+        "member": {
+          "$id": "grapheme:U+706C"
+        }
+      }
+    }
+  ]
+}

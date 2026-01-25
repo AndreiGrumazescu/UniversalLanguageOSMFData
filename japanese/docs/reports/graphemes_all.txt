@@ -1,0 +1,1330 @@
+Japanese Grapheme Dataset — 434 entries (sorted by stroke count)
+============================================================
+
+U+4E00  一  One
+  strokes: 1
+
+U+4E28  丨  Line
+  strokes: 1
+
+U+4E36  丶  Dot
+  strokes: 1
+
+U+4E3F  丿  Slash
+  strokes: 1
+
+U+4E59  乙  Second Rank
+  strokes: 1
+
+U+4E5A  乚  Hook
+  strokes: 1
+
+U+4E85  亅  Bend
+  strokes: 1
+
+U+20089  𠂉  Person Top Variant
+  strokes: 2
+  variants: 𠆢 (U+200A2)
+
+U+2008A  𠂊  Ku
+  strokes: 2
+
+U+30DE  マ  Ma
+  strokes: 2
+
+U+4E01  丁  Street
+  strokes: 2
+
+U+4E02  丂  Obstruction of Breath
+  strokes: 2
+
+U+4E03  七  Seven
+  strokes: 2
+
+U+4E29  丩  Connected Vine
+  strokes: 2
+
+U+4E42  乂  Mark
+  strokes: 2
+
+U+4E43  乃  Ownership
+  strokes: 2
+
+U+4E5D  九  Nine
+  strokes: 2
+
+U+4E86  了  Complete
+  strokes: 2
+
+U+4E8C  二  Two
+  strokes: 2
+
+U+4EA0  亠  Lid
+  strokes: 2
+
+U+4EBA  人  Person
+  strokes: 2
+
+U+4EBB  亻  Person Side Variant
+  strokes: 2
+
+U+513F  儿  Legs
+  strokes: 2
+
+U+5165  入  Enter
+  strokes: 2
+
+U+516B  八  Eight
+  strokes: 2
+
+U+5182  冂  Territory
+  strokes: 2
+
+U+5196  冖  Crown
+  strokes: 2
+
+U+51AB  冫  Ice
+  strokes: 2
+
+U+51E0  几  Table
+  strokes: 2
+
+U+51F5  凵  Open Box
+  strokes: 2
+
+U+5200  刀  Sword
+  strokes: 2
+
+U+5202  刂  Sword Variant
+  strokes: 2
+
+U+529B  力  Power
+  strokes: 2
+
+U+52F9  勹  Wrap
+  strokes: 2
+
+U+5315  匕  Spoon
+  strokes: 2
+
+U+5338  匸  Set
+  strokes: 2
+  variants: 匚 (U+531A)
+
+U+5341  十  Ten
+  strokes: 2
+
+U+535C  卜  Divination
+  strokes: 2
+
+U+5369  卩  Seal
+  strokes: 2
+  variants: 㔾 (U+353E)
+
+U+5382  厂  Cliff
+  strokes: 2
+
+U+53B6  厶  Private
+  strokes: 2
+
+U+53C8  又  Again
+  strokes: 2
+
+U+961D  阝  Mound
+  strokes: 2
+
+U+2E8C  ⺌  Small Variant
+  strokes: 3
+  variants: ⺍ (U+2E8D)
+
+U+2E95  ⺕  Pig Head
+  strokes: 3
+  variants: 彐 (U+5F50)
+
+U+2EA6  ⺦  Split Wood
+  strokes: 3
+
+U+4E07  万  Ten Thousand
+  strokes: 3
+
+U+4E09  三  Three
+  strokes: 3
+
+U+4E0A  上  Above
+  strokes: 3
+
+U+4E0B  下  Below
+  strokes: 3
+
+U+4E0C  丌  Table
+  strokes: 3
+
+U+4E38  丸  Circle
+  strokes: 3
+
+U+4E45  久  Long Duration
+  strokes: 3
+
+U+4E47  乇  Depend On
+  strokes: 3
+
+U+4E5F  也  To Be
+  strokes: 3
+
+U+4E8E  于  From
+  strokes: 3
+
+U+4EA1  亡  Deceased
+  strokes: 3
+
+U+5140  兀  Towering
+  strokes: 3
+
+U+52FA  勺  Ladle
+  strokes: 3
+
+U+5343  千  Thousand
+  strokes: 3
+
+U+53CA  及  Reach
+  strokes: 3
+
+U+53E3  口  Mouth
+  strokes: 3
+  variants: 囗 (U+56D7)
+
+U+571F  土  Soil
+  strokes: 3
+
+U+58EB  士  Military Man
+  strokes: 3
+
+U+5902  夂  Descend
+  strokes: 3
+
+U+5915  夕  Evening
+  strokes: 3
+
+U+5927  大  Big
+  strokes: 3
+  variants: 夨 (U+5928)
+
+U+5973  女  Woman
+  strokes: 3
+
+U+5B50  子  Child
+  strokes: 3
+
+U+5B80  宀  Protection
+  strokes: 3
+
+U+5BF8  寸  Inch
+  strokes: 3
+
+U+5C0F  小  Small
+  strokes: 3
+
+U+5C22  尢  Limping
+  strokes: 3
+
+U+5C38  尸  Corpse
+  strokes: 3
+
+U+5C6E  屮  Sprout
+  strokes: 3
+  variants: 屮
+
+U+5C71  山  Mountain
+  strokes: 3
+
+U+5DDD  川  River
+  strokes: 3
+  variants: 巛 (U+5DDB)
+
+U+5DE5  工  Construction
+  strokes: 3
+
+U+5DF1  己  Oneself
+  strokes: 3
+  variants: 巳 (U+5DF3)
+
+U+5DFE  巾  Cloth
+  strokes: 3
+
+U+5E72  干  Drying Rack
+  strokes: 3
+
+U+5E7A  幺  Short Thread
+  strokes: 3
+
+U+5E7F  广  Dotted Cliff
+  strokes: 3
+
+U+5EF4  廴  Long Stride
+  strokes: 3
+
+U+5EFE  廾  Hands Joined
+  strokes: 3
+
+U+5F0B  弋  Ceremony
+  strokes: 3
+
+U+5F13  弓  Bow
+  strokes: 3
+
+U+5F51  彑  Pig Nose
+  strokes: 3
+
+U+5F61  彡  Bristle
+  strokes: 3
+
+U+5F73  彳  Loiter
+  strokes: 3
+
+U+5FC4  忄  Heart Variant
+  strokes: 3
+
+U+624C  扌  Fingers
+  strokes: 3
+
+U+624D  才  Talent
+  strokes: 3
+
+U+6C35  氵  Water Variant
+  strokes: 3
+
+U+72AD  犭  Dog Variant
+  strokes: 3
+
+U+8279  艹  Grass
+  strokes: 3
+  variants: 䒑 (U+4491), 艹, 艹
+
+U+8FB6  辶  Movement
+  strokes: 3
+  variants: 辶
+
+U+2EA4  ⺤  Claw Variant
+  strokes: 4
+  variants: 爫 (U+722B)
+
+U+4E0D  不  Not
+  strokes: 4
+
+U+4E0F  丏  Conceal
+  strokes: 4
+
+U+4E11  丑  Of the Ox
+  strokes: 4
+
+U+4E2C  丬  Bed Left Variant
+  strokes: 4
+
+U+4E2D  中  Middle
+  strokes: 4
+
+U+4E30  丰  Bountiful
+  strokes: 4
+
+U+4E39  丹  Dried Blood Color
+  strokes: 4
+
+U+4E88  予  In Advance
+  strokes: 4
+
+U+4E92  互  Reciprocal
+  strokes: 4
+
+U+4E94  五  Five
+  strokes: 4
+
+U+4E95  井  Well
+  strokes: 4
+
+U+4ECA  今  Now
+  strokes: 4
+
+U+4ECB  介  Mediate
+  strokes: 4
+
+U+4ECE  从  Follow
+  strokes: 4
+
+U+5143  元  Origin
+  strokes: 4
+
+U+516C  公  Public
+  strokes: 4
+
+U+516D  六  Six
+  strokes: 4
+
+U+5184  冄  Soft
+  strokes: 4
+
+U+5185  内  Inside
+  strokes: 4
+
+U+5198  冘  Doubtful
+  strokes: 4
+
+U+5206  分  Part
+  strokes: 4
+
+U+52FF  勿  Must Not
+  strokes: 4
+
+U+5300  匀  Equal
+  strokes: 4
+
+U+5316  化  Transform
+  strokes: 4
+
+U+533A  区  District
+  strokes: 4
+
+U+536C  卬  Lofty
+  strokes: 4
+
+U+53CD  反  Anti
+  strokes: 4
+
+U+5929  天  Heaven
+  strokes: 4
+
+U+592B  夫  Husband
+  strokes: 4
+
+U+592C  夬  Split Apart
+  strokes: 4
+
+U+5C11  少  Few
+  strokes: 4
+
+U+5C3A  尺  Scale
+  strokes: 4
+
+U+5C6F  屯  Barracks
+  strokes: 4
+
+U+5DE8  巨  Gigantic
+  strokes: 4
+
+U+5DF4  巴  Comma
+  strokes: 4
+
+U+5EFF  廿  Twenty
+  strokes: 4
+
+U+5F00  开  Open
+  strokes: 4
+
+U+5FC3  心  Heart
+  strokes: 4
+
+U+6208  戈  Halberd
+  strokes: 4
+
+U+624B  手  Hand
+  strokes: 4
+
+U+652F  支  Branch
+  strokes: 4
+
+U+6534  攴  Strike Variant
+  strokes: 4
+
+U+6535  攵  Strike
+  strokes: 4
+  variants: 攴 (U+6534)
+
+U+6587  文  Literature
+  strokes: 4
+
+U+6597  斗  Volume
+  strokes: 4
+
+U+65A4  斤  Axe
+  strokes: 4
+
+U+65B9  方  Way
+  strokes: 4
+
+U+65E5  日  Sun
+  strokes: 4
+  variants: 曰 (U+66F0)
+
+U+6708  月  Moon
+  strokes: 4
+
+U+6728  木  Tree
+  strokes: 4
+
+U+6B20  欠  Lack
+  strokes: 4
+
+U+6B62  止  Stop
+  strokes: 4
+
+U+6B79  歹  Decay
+  strokes: 4
+
+U+6BB3  殳  Lance
+  strokes: 4
+
+U+6BCB  毋  Do Not
+  strokes: 4
+  variants: 毌 (U+6BCC)
+
+U+6BD4  比  Compare
+  strokes: 4
+
+U+6BDB  毛  Fur
+  strokes: 4
+
+U+6C0F  氏  Clan
+  strokes: 4
+
+U+6C14  气  Qi
+  strokes: 4
+
+U+6C34  水  Water
+  strokes: 4
+  variants: 氺 (U+6C3A)
+
+U+6C36  氶  Assist
+  strokes: 4
+
+U+706B  火  Fire
+  strokes: 4
+
+U+706C  灬  Fire Variant
+  strokes: 4
+
+U+722A  爪  Claw
+  strokes: 4
+
+U+7236  父  Father
+  strokes: 4
+
+U+723B  爻  Hexagram
+  strokes: 4
+
+U+723F  爿  Bed Left
+  strokes: 4
+
+U+7247  片  Bed Right
+  strokes: 4
+
+U+7259  牙  Fang
+  strokes: 4
+
+U+725B  牛  Cow
+  strokes: 4
+  variants: 牜 (U+725C)
+
+U+72AC  犬  Dog
+  strokes: 4
+
+U+738B  王  King
+  strokes: 4
+
+U+74E6  瓦  Tile
+  strokes: 4
+
+U+793B  礻  Spiritual
+  strokes: 4
+
+U+79B8  禸  Footprint
+  strokes: 4
+
+U+8002  耂  Old Age
+  strokes: 4
+
+U+215D7  𡗗  Three Hands
+  strokes: 5
+
+U+3563  㕣  Marsh
+  strokes: 5
+
+U+4E14  且  Also
+  strokes: 5
+
+U+4E16  世  Epoch
+  strokes: 5
+
+U+4E1A  业  Industry
+  strokes: 5
+
+U+4E3B  主  Master
+  strokes: 5
+
+U+4E4D  乍  During
+  strokes: 5
+
+U+4ED8  付  Attach
+  strokes: 5
+
+U+4EE4  令  Command
+  strokes: 5
+
+U+5142  兂  Hairpin
+  strokes: 5
+
+U+518B  冋  Desert
+  strokes: 5
+
+U+51AC  冬  Winter
+  strokes: 5
+
+U+51FA  出  Exit
+  strokes: 5
+
+U+5305  包  Bundle
+  strokes: 5
+
+U+534A  半  Half
+  strokes: 5
+
+U+5360  占  Occupy
+  strokes: 5
+
+U+536F  卯  Of the Hare
+  strokes: 5
+
+U+53BB  去  Past
+  strokes: 5
+
+U+53E4  古  Old
+  strokes: 5
+
+U+53E5  句  Phrase
+  strokes: 5
+
+U+53EC  召  Summon
+  strokes: 5
+
+U+53EF  可  Possible
+  strokes: 5
+
+U+53F0  台  Platform
+  strokes: 5
+
+U+53F8  司  Director
+  strokes: 5
+
+U+56DB  四  Four
+  strokes: 5
+
+U+5723  圣  Holy
+  strokes: 5
+
+U+592E  央  Center
+  strokes: 5
+
+U+5B81  宁  Calm
+  strokes: 5
+
+U+5E02  市  City
+  strokes: 5
+
+U+5E73  平  Flat
+  strokes: 5
+
+U+5F17  弗  Dollar
+  strokes: 5
+
+U+620A  戊  Fifth Rank
+  strokes: 5
+
+U+65E6  旦  Dawn
+  strokes: 5
+
+U+672A  未  Not Yet
+  strokes: 5
+
+U+672B  末  End
+  strokes: 5
+
+U+672C  本  Origin
+  strokes: 5
+
+U+6B63  正  Correct
+  strokes: 5
+
+U+6BCD  母  Mother
+  strokes: 5
+
+U+6C10  氐  Root
+  strokes: 5
+
+U+6C11  民  Citizen
+  strokes: 5
+
+U+72AE  犮  Dog Running
+  strokes: 5
+
+U+7384  玄  Mystery
+  strokes: 5
+
+U+7389  玉  Ball
+  strokes: 5
+
+U+74DC  瓜  Gourd
+  strokes: 5
+
+U+7518  甘  Sweet
+  strokes: 5
+
+U+751F  生  Life
+  strokes: 5
+
+U+7528  用  Task
+  strokes: 5
+
+U+7530  田  Rice Paddy
+  strokes: 5
+  variants: 甶 (U+7536)
+
+U+7531  由  Reason
+  strokes: 5
+
+U+7532  甲  Armor
+  strokes: 5
+
+U+7533  申  Monkey
+  strokes: 5
+
+U+758B  疋  Animal Counter
+  strokes: 5
+
+U+7592  疒  Sickness
+  strokes: 5
+
+U+7676  癶  Footsteps
+  strokes: 5
+
+U+767D  白  White
+  strokes: 5
+
+U+76AE  皮  Skin
+  strokes: 5
+
+U+76BF  皿  Dish
+  strokes: 5
+
+U+76EE  目  Eye
+  strokes: 5
+
+U+77DB  矛  Spearhead
+  strokes: 5
+
+U+77E2  矢  Arrow
+  strokes: 5
+
+U+77F3  石  Stone
+  strokes: 5
+
+U+793A  示  Show
+  strokes: 5
+
+U+79BE  禾  Grain
+  strokes: 5
+
+U+7A74  穴  Hole
+  strokes: 5
+
+U+7ACB  立  Stand
+  strokes: 5
+
+U+7F52  罒  Net
+  strokes: 5
+
+U+8864  衤  Clothes Variant
+  strokes: 5
+
+U+2298F  𢦏  Wound
+  strokes: 6
+
+U+4E51  乑  Three Men
+  strokes: 6
+
+U+4EA4  交  Mix
+  strokes: 6
+
+U+4EA5  亥  Boar
+  strokes: 6
+
+U+4EA6  亦  Furthermore
+  strokes: 6
+
+U+5146  兆  Omen
+  strokes: 6
+
+U+5149  光  Light
+  strokes: 6
+
+U+5171  共  Together
+  strokes: 6
+
+U+518E  冎  Bone
+  strokes: 6
+
+U+52A6  劦  Legion
+  strokes: 6
+
+U+5404  各  Each
+  strokes: 6
+
+U+5408  合  Match
+  strokes: 6
+
+U+5409  吉  Good Luck
+  strokes: 6
+
+U+540C  同  Same
+  strokes: 6
+
+U+56DE  回  Revolve
+  strokes: 6
+
+U+572D  圭  Square Jewel
+  strokes: 6
+
+U+5938  夸  Exaggerate
+  strokes: 6
+
+U+5BFA  寺  Temple
+  strokes: 6
+
+U+5C17  尗  Younger Uncle
+  strokes: 6
+
+U+5C70  屰  Disobedient
+  strokes: 6
+
+U+5E76  并  Merger
+  strokes: 6
+
+U+620D  戍  Guard
+  strokes: 6
+
+U+65E9  早  Early
+  strokes: 6
+
+U+66F2  曲  Twist
+  strokes: 6
+
+U+6709  有  Exist
+  strokes: 6
+
+U+767E  百  Hundred
+  strokes: 6
+
+U+7AF9  竹  Bamboo
+  strokes: 6
+
+U+7C73  米  Rice
+  strokes: 6
+
+U+7CF8  糸  Thread
+  strokes: 6
+
+U+7F36  缶  Tin Can
+  strokes: 6
+
+U+7F8A  羊  Sheep
+  strokes: 6
+
+U+7FBD  羽  Feather
+  strokes: 6
+
+U+800C  而  However
+  strokes: 6
+
+U+8033  耳  Ear
+  strokes: 6
+
+U+807F  聿  Ink Brush
+  strokes: 6
+
+U+8089  肉  Meat
+  strokes: 6
+
+U+81E3  臣  Vassal
+  strokes: 6
+
+U+81EA  自  Self
+  strokes: 6
+
+U+81F3  至  Climax
+  strokes: 6
+
+U+81FC  臼  Mortar
+  strokes: 6
+  variants: 𦥑 (U+26951)
+
+U+820C  舌  Tongue
+  strokes: 6
+
+U+821B  舛  Dancing Legs
+  strokes: 6
+
+U+821F  舟  Boat
+  strokes: 6
+
+U+826E  艮  Northeast
+  strokes: 6
+
+U+864D  虍  Tiger
+  strokes: 6
+
+U+866B  虫  Insect
+  strokes: 6
+
+U+8840  血  Blood
+  strokes: 6
+
+U+884C  行  Go
+  strokes: 6
+
+U+8863  衣  Clothes
+  strokes: 6
+
+U+897F  西  West
+  strokes: 6
+
+U+8980  覀  West Variant
+  strokes: 6
+
+U+342C  㐬  Wild
+  strokes: 7
+
+U+4E23  丣  Of the Rooster
+  strokes: 7
+
+U+4F59  余  Extra
+  strokes: 7
+
+U+514D  免  Excuse
+  strokes: 7
+  variants: 免
+
+U+541B  君  Monarch
+  strokes: 7
+
+U+543E  吾  Myself
+  strokes: 7
+
+U+5446  呆  Speechless
+  strokes: 7
+
+U+544A  告  Announce
+  strokes: 7
+
+U+5906  夆  Resist
+  strokes: 7
+
+U+590B  夋  Dawdle
+  strokes: 7
+
+U+5B5B  孛  Comet
+  strokes: 7
+
+U+5DE0  巠  Underground Stream
+  strokes: 7
+
+U+5E0C  希  Hope
+  strokes: 7
+
+U+5F1F  弟  Younger Brother
+  strokes: 7
+
+U+66F4  更  Renew
+  strokes: 7
+
+U+675F  束  Arrangement
+  strokes: 7
+
+U+752B  甫  Beginning
+  strokes: 7
+
+U+7537  男  Man
+  strokes: 7
+
+U+7CFB  系  System
+  strokes: 7
+
+U+8099  肙  Worm
+  strokes: 7
+
+U+826F  良  Good
+  strokes: 7
+
+U+898B  見  See
+  strokes: 7
+
+U+89D2  角  Angle
+  strokes: 7
+
+U+8A00  言  Speech
+  strokes: 7
+
+U+8C37  谷  Valley
+  strokes: 7
+
+U+8C46  豆  Bean
+  strokes: 7
+
+U+8C55  豕  Pig
+  strokes: 7
+
+U+8C78  豸  Badger
+  strokes: 7
+
+U+8C9D  貝  Shell
+  strokes: 7
+
+U+8D64  赤  Red
+  strokes: 7
+
+U+8D70  走  Run
+  strokes: 7
+
+U+8DB3  足  Foot
+  strokes: 7
+
+U+8EAB  身  Body
+  strokes: 7
+
+U+8ECA  車  Vehicle
+  strokes: 7
+
+U+8F9B  辛  Bitter
+  strokes: 7
+
+U+8FB0  辰  Of the Dragon
+  strokes: 7
+
+U+9149  酉  Sake
+  strokes: 7
+
+U+91C6  釆  Distinguish
+  strokes: 7
+
+U+91CC  里  Hometown
+  strokes: 7
+
+U+2099D  𠦝  Stand
+  strokes: 8
+
+U+3775  㝵  Obtain
+  strokes: 8
+
+U+4EAB  享  Enjoyment
+  strokes: 8
+
+U+4EAC  京  Capital
+  strokes: 8
+
+U+4F96  侖  Logic
+  strokes: 8
+
+U+5176  其  That
+  strokes: 8
+
+U+530A  匊  Handful
+  strokes: 8
+
+U+5351  卑  Lowly
+  strokes: 8
+  variants: 卑
+
+U+5352  卒  Peon
+  strokes: 8
+
+U+5393  厓  Precipice
+  strokes: 8
+
+U+5485  咅  Spit Out
+  strokes: 8
+
+U+5B98  官  Government Official
+  strokes: 8
+
+U+5E78  幸  Blessedness
+  strokes: 8
+
+U+6614  昔  Ancient Times
+  strokes: 8
+
+U+6771  東  East
+  strokes: 8
+
+U+6797  林  Forest
+  strokes: 8
+
+U+679C  果  Fruit
+  strokes: 8
+
+U+758C  疌  Fast
+  strokes: 8
+
+U+76F4  直  Straight
+  strokes: 8
+
+U+81FD  臽  Pitfall
+  strokes: 8
+
+U+91D1  金  Gold
+  strokes: 8
+
+U+9577  長  Long
+  strokes: 8
+  variants: 镸 (U+9578)
+
+U+9580  門  Gate
+  strokes: 8
+
+U+96B6  隶  Slave
+  strokes: 8
+
+U+96B9  隹  Old Bird
+  strokes: 8
+
+U+96E8  雨  Rain
+  strokes: 8
+
+U+9752  青  Blue
+  strokes: 8
+
+U+975E  非  Injustice
+  strokes: 8
+
+U+524D  前  Front
+  strokes: 9
+
+U+53DA  叚  False
+  strokes: 9
+
+U+53DF  叟  Elder
+  strokes: 9
+
+U+54A0  咠  Whisper
+  strokes: 9
+
+U+54A2  咢  Dispute
+  strokes: 9
+
+U+5794  垔  Dam
+  strokes: 9
+
+U+58F4  壴  Drum
+  strokes: 9
+
+U+5950  奐  Brilliant
+  strokes: 9
+
+U+5E1D  帝  Emperor
+  strokes: 9
+
+U+601D  思  Think
+  strokes: 9
+
+U+67BC  枼  Flat Counter
+  strokes: 9
+
+U+67EC  柬  Choose
+  strokes: 9
+
+U+7550  畐  Full
+  strokes: 9
+
+U+8011  耑  Tip
+  strokes: 9
+
+U+80C3  胃  Stomach
+  strokes: 9
+
+U+81FF  臿  Digging
+  strokes: 9
+
+U+91CD  重  Weighty
+  strokes: 9
+
+U+9762  面  Face
+  strokes: 9
+
+U+9769  革  Leather
+  strokes: 9
+
+U+97CB  韋  Tanned Leather
+  strokes: 9
+
+U+97ED  韭  Leek
+  strokes: 9
+
+U+97F3  音  Sound
+  strokes: 9
+
+U+9801  頁  Page
+  strokes: 9
+
+U+98A8  風  Wind
+  strokes: 9
+
+U+98DF  食  Food
+  strokes: 9
+  variants: 飠 (U+98E0)
+
+U+9996  首  Neck
+  strokes: 9
+
+U+9B3C  鬼  Devil
+  strokes: 9
+
+U+241FE  𤇾  Bonfire
+  strokes: 10
+
+U+25055  𥁕  Compassionate
+  strokes: 10
+
+U+4343  䍃  Vase
+  strokes: 10
+
+U+595A  奚  Servant
+  strokes: 10
+
+U+65C1  旁  Beside
+  strokes: 10
+
+U+8200  舀  Scoop
+  strokes: 10
+
+U+82BB  芻  Fodder
+  strokes: 10
+
+U+96BA  隺  Crane
+  strokes: 10
+
+U+99AC  馬  Horse
+  strokes: 10
+
+U+9AA8  骨  Skeleton
+  strokes: 10
+
+U+9AD8  高  Tall
+  strokes: 10
+
+U+9B25  鬥  Struggle
+  strokes: 10
+
+U+9B32  鬲  Cauldron
+  strokes: 10
+
+U+5547  啇  Stem
+  strokes: 11
+
+U+5A41  婁  Frequently
+  strokes: 11
+
+U+66FC  曼  Extended
+  strokes: 11
+
+U+7FCF  翏  High Flying
+  strokes: 11
+
+U+9B5A  魚  Fish
+  strokes: 11
+
+U+9CE5  鳥  Bird
+  strokes: 11
+
+U+9E7F  鹿  Deer
+  strokes: 11
+
+U+9EC4  黄  Yellow
+  strokes: 11
+
+U+9ED2  黒  Black
+  strokes: 11
+  variants: 黑 (U+9ED1)
+
+U+2696F  𦥯  Classroom
+  strokes: 12
+
+U+5C1E  尞  Sacrifical Fuel
+  strokes: 12
+
+U+68E5  棥  Railing
+  strokes: 12
+
+U+7571  畱  Stay
+  strokes: 12
+
+U+77DE  矞  Drill
+  strokes: 12
+
+U+7CA6  粦  Ghost Fire
+  strokes: 12
+
+U+83D0  菐  Troublesome
+  strokes: 12
+
+U+9EC3  黃  Yellow
+  strokes: 12
+
+U+50C9  僉  Unanimous
+  strokes: 13
+
+U+55BF  喿  Chirping
+  strokes: 13
+
+U+656B  敫  Ancient Instrument
+  strokes: 13
+
+U+6703  會  Meeting
+  strokes: 13
+
+U+757A  畺  Boundary
+  strokes: 13
+
+U+7758  睘  Stare
+  strokes: 13
+
+U+776A  睪  Spy On
+  strokes: 13
+
+U+84A6  蒦  Measuring Tool
+  strokes: 13
+
+U+8A79  詹  Verbose
+  strokes: 13
+
+U+8C66  豦  Wild Boar
+  strokes: 13
+
+U+9EFD  黽  Frog
+  strokes: 13
+
+U+9F20  鼠  Rat
+  strokes: 13
+
+U+7FDF  翟  Pheasant
+  strokes: 14
+
+U+9F4A  齊  Uniformity
+  strokes: 14
+
+U+9F8D  龍  Dragon
+  strokes: 16
+
+U+5B30  嬰  Infant
+  strokes: 17
+
+U+9FA0  龠  Flute
+  strokes: 17
+
+U+470C  䜌  Chaos
+  strokes: 19
+

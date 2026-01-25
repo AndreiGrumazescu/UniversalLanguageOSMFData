@@ -1,0 +1,13 @@
+{
+  "$id": "grapheme:U+53E3",
+  "unicode": "U+53E3",
+  "symbol": "口",
+  "name": "Mouth",
+  "strokeCount": 3,
+  "variants": [
+    {
+      "unicode": "U+56D7",
+      "symbol": "囗"
+    }
+  ]
+}

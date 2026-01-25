@@ -1,0 +1,21 @@
+{
+  "$id": "grapheme:U+8279",
+  "unicode": "U+8279",
+  "symbol": "艹",
+  "name": "Grass",
+  "strokeCount": 3,
+  "variants": [
+    {
+      "unicode": "U+4491",
+      "symbol": "䒑"
+    },
+    {
+      "symbol": "艹",
+      "unicode": "U+FA5D"
+    },
+    {
+      "symbol": "艹",
+      "unicode": "U+FA5E"
+    }
+  ]
+}

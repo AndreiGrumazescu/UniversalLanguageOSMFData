@@ -1,0 +1,27 @@
+{
+  "$id": "grapheme-variant-group:person",
+  "name": "Person",
+  "many": [
+    {
+      "connectors": {
+        "member": {
+          "$id": "grapheme:U+20089"
+        }
+      }
+    },
+    {
+      "connectors": {
+        "member": {
+          "$id": "grapheme:U+4EBA"
+        }
+      }
+    },
+    {
+      "connectors": {
+        "member": {
+          "$id": "grapheme:U+4EBB"
+        }
+      }
+    }
+  ]
+}

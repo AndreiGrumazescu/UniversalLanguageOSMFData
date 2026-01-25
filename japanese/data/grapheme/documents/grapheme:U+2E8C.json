@@ -1,0 +1,14 @@
+{
+  "$id": "grapheme:U+2E8C",
+  "unicode": "U+2E8C",
+  "symbol": "⺌",
+  "name": "Small Variant",
+  "strokeCount": 3,
+  "variants": [
+    {
+      "unicode": "U+2E8D",
+      "symbol": "⺍"
+    }
+  ],
+  "nameAliases": ["Small"]
+}

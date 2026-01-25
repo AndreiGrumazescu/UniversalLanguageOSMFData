@@ -1,0 +1,56 @@
+{
+  "$schema": "https://raw.githubusercontent.com/AndreiGrumazescu/OpenStudyModelFramework/main/data-model.schema.json",
+  "$id": "japanese-grapheme.schema.json",
+  "name": "Japanese Grapheme",
+  "schema": {
+    "type": "object",
+    "description": "Visual components used to build kanji. Graphemes are the foundational elements that kanji decompose into. Derived from KanjiVG (CC BY-SA 3.0).",
+    "properties": {
+      "$id": {
+        "type": "string",
+        "description": "Unique identifier in format 'grapheme:U+XXXX'"
+      },
+      "unicode": {
+        "type": "string",
+        "description": "Unicode codepoint (e.g., 'U+4E00')"
+      },
+      "symbol": {
+        "type": "string",
+        "description": "The grapheme character itself (e.g., '一', '氵', '艹')"
+      },
+      "name": {
+        "type": "string",
+        "description": "English mnemonic name (e.g., 'one', 'water', 'grass')"
+      },
+      "nameAliases": {
+        "type": "array",
+        "items": { "type": "string" },
+        "description": "Alternative acceptable names for practice/assessment (e.g., 'water radical' for 'water')"
+      },
+      "strokeCount": {
+        "type": "integer",
+        "minimum": 1,
+        "description": "Number of strokes"
+      },
+      "variants": {
+        "type": "array",
+        "description": "Visually similar variants of this grapheme that should be treated as equivalent during decomposition",
+        "items": {
+          "type": "object",
+          "properties": {
+            "unicode": {
+              "type": "string",
+              "description": "Unicode codepoint (e.g., 'U+2ECC')"
+            },
+            "symbol": {
+              "type": "string",
+              "description": "The variant character (e.g., '⻌')"
+            }
+          },
+          "required": ["unicode", "symbol"]
+        }
+      }
+    },
+    "required": ["$id", "unicode", "symbol", "name"]
+  }
+}

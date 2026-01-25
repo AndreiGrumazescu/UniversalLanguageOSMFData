@@ -1,0 +1,20 @@
+{
+  "$id": "grapheme-variant-group:water",
+  "name": "Water",
+  "many": [
+    {
+      "connectors": {
+        "member": {
+          "$id": "grapheme:U+6C34"
+        }
+      }
+    },
+    {
+      "connectors": {
+        "member": {
+          "$id": "grapheme:U+6C35"
+        }
+      }
+    }
+  ]
+}

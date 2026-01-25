@@ -1,0 +1,13 @@
+{
+  "$id": "grapheme:U+725B",
+  "unicode": "U+725B",
+  "symbol": "牛",
+  "name": "Cow",
+  "strokeCount": 4,
+  "variants": [
+    {
+      "unicode": "U+725C",
+      "symbol": "牜"
+    }
+  ]
+}

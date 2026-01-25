@@ -1,0 +1,13 @@
+{
+  "$id": "grapheme:U+81FC",
+  "unicode": "U+81FC",
+  "symbol": "臼",
+  "name": "Mortar",
+  "strokeCount": 6,
+  "variants": [
+    {
+      "unicode": "U+26951",
+      "symbol": "𦥑"
+    }
+  ]
+}

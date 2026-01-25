@@ -1,0 +1,14 @@
+{
+  "$id": "grapheme:U+2EA4",
+  "unicode": "U+2EA4",
+  "symbol": "⺤",
+  "name": "Claw Variant",
+  "strokeCount": 4,
+  "nameAliases": ["Claw"],
+  "variants": [
+    {
+      "unicode": "U+722B",
+      "symbol": "爫"
+    }
+  ]
+}

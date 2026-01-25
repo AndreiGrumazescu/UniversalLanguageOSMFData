@@ -1,0 +1,20 @@
+{
+  "$id": "grapheme-variant-group:strike",
+  "name": "Strike",
+  "many": [
+    {
+      "connectors": {
+        "member": {
+          "$id": "grapheme:U+6534"
+        }
+      }
+    },
+    {
+      "connectors": {
+        "member": {
+          "$id": "grapheme:U+6535"
+        }
+      }
+    }
+  ]
+}

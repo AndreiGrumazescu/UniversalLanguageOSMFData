@@ -1,0 +1,20 @@
+{
+  "$id": "grapheme-variant-group:claw",
+  "name": "Claw",
+  "many": [
+    {
+      "connectors": {
+        "member": {
+          "$id": "grapheme:U+2EA4"
+        }
+      }
+    },
+    {
+      "connectors": {
+        "member": {
+          "$id": "grapheme:U+722A"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "$id": "grapheme-variant-group:clothes",
+  "name": "Clothes",
+  "many": [
+    {
+      "connectors": {
+        "member": {
+          "$id": "grapheme:U+8863"
+        }
+      }
+    },
+    {
+      "connectors": {
+        "member": {
+          "$id": "grapheme:U+8864"
+        }
+      }
+    }
+  ]
+}

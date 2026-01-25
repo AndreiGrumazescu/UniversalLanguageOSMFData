@@ -1,0 +1,45 @@
+{
+  "$id": "grapheme-dep:U+9ED2",
+  "connectors": {
+    "parent": {
+      "$id": "grapheme:U+9ED2"
+    }
+  },
+  "many": [
+    {
+      "connectors": {
+        "component": {
+          "$id": "grapheme:U+7530"
+        }
+      }
+    },
+    {
+      "connectors": {
+        "component": {
+          "$id": "grapheme:U+706C"
+        }
+      }
+    },
+    {
+      "connectors": {
+        "component": {
+          "$id": "grapheme:U+91CC"
+        }
+      }
+    },
+    {
+      "connectors": {
+        "component": {
+          "$id": "grapheme:U+571F"
+        }
+      }
+    },
+    {
+      "connectors": {
+        "component": {
+          "$id": "grapheme:U+706B"
+        }
+      }
+    }
+  ]
+}

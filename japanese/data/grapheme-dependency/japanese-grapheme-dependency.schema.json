@@ -1,0 +1,64 @@
+{
+  "$schema": "https://raw.githubusercontent.com/AndreiGrumazescu/OpenStudyModelFramework/main/relational-model.schema.json",
+  "$id": "grapheme-dependency.schema.json",
+  "name": "Grapheme Dependency Model",
+  "description": "Expresses composition relationships between Japanese graphemes. A parent grapheme is composed of component graphemes. Derived from KanjiVG decomposition data (CC BY-SA 3.0).",
+  "version": "1.0.0",
+  "$defs": {
+    "graphemeCriteria": {
+      "required": ["$id"],
+      "properties": {
+        "$id": { "type": "string", "pattern": "^U\\+[0-9A-F]+$" }
+      }
+    },
+    "positionEnum": {
+      "type": "string",
+      "enum": ["left", "right", "top", "bottom", "enclosure", "other"]
+    }
+  },
+  "connectors": {
+    "parent": {
+      "criteria": { "$ref": "#/$defs/graphemeCriteria" },
+      "description": "The grapheme that is composed of other graphemes"
+    },
+    "component": {
+      "criteria": { "$ref": "#/$defs/graphemeCriteria" },
+      "description": "A grapheme that the parent is composed of"
+    }
+  },
+  "from": {
+    "type": "array",
+    "items": { "enum": ["parent"] },
+    "minItems": 1,
+    "maxItems": 1
+  },
+  "to": {
+    "type": "array",
+    "items": { "enum": ["component"] },
+    "minItems": 1,
+    "maxItems": 1
+  },
+  "data": {
+    "position": {
+      "$ref": "#/$defs/positionEnum",
+      "description": "Position of the component within the parent grapheme"
+    }
+  },
+  "many": {
+    "type": "array",
+    "items": { "$ref": "https://raw.githubusercontent.com/AndreiGrumazescu/OpenStudyModelFramework/main/relational-model.schema.json#/$defs/manyItem" },
+    "itemConnectors": {
+      "$dynamicAnchor": "itemConnectors",
+      "properties": {
+        "component": { "$ref": "#/$defs/graphemeCriteria" }
+      },
+      "required": ["component"]
+    },
+    "itemData": {
+      "$dynamicAnchor": "itemData",
+      "properties": {
+        "position": { "$ref": "#/$defs/positionEnum" }
+      }
+    }
+  }
+}

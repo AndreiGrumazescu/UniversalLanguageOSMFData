@@ -1,0 +1,20 @@
+{
+  "$id": "grapheme-variant-group:heart",
+  "name": "Heart",
+  "many": [
+    {
+      "connectors": {
+        "member": {
+          "$id": "grapheme:U+5FC3"
+        }
+      }
+    },
+    {
+      "connectors": {
+        "member": {
+          "$id": "grapheme:U+5FC4"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "grapheme:U+2E95",
+  "unicode": "U+2E95",
+  "symbol": "⺕",
+  "name": "Pig Head",
+  "strokeCount": 3,
+  "variants": [
+    {
+      "unicode": "U+5F50",
+      "symbol": "彐"
+    }
+  ]
+}

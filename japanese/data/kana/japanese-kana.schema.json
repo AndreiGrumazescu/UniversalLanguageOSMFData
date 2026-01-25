@@ -1,0 +1,28 @@
+{
+  "$schema": "https://raw.githubusercontent.com/AndreiGrumazescu/OpenStudyModelFramework/main/data-model.schema.json",
+  "$id": "japanese-kana.schema.json",
+  "name": "Japanese Kana",
+  "schema": {
+    "type": "object",
+    "properties": {
+      "$id": {
+        "type": "string",
+        "description": "The kana symbol itself (e.g., 'あ', 'ア')"
+      },
+      "type": {
+        "type": "string",
+        "enum": ["hiragana", "katakana"],
+        "description": "The kana writing system"
+      },
+      "romaji": {
+        "type": "string",
+        "description": "Romanized reading (e.g., 'a', 'ka')"
+      },
+      "strokeOrderAssetId": {
+        "type": "string",
+        "description": "Reference to stroke order asset in R2"
+      }
+    },
+    "required": ["$id", "type", "romaji"]
+  }
+}

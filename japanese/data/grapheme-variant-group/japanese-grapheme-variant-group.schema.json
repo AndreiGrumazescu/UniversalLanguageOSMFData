@@ -1,0 +1,33 @@
+{
+  "$schema": "https://raw.githubusercontent.com/AndreiGrumazescu/OpenStudyModelFramework/main/relational-model.schema.json",
+  "$id": "grapheme-variant-group.schema.json",
+  "name": "Grapheme Variant Group Model",
+  "description": "Groups related graphemes (visual variants) that should be studied together. Members share a common semantic meaning but have different visual forms (e.g., 水 Water and 氵 Water Variant).",
+  "version": "1.0.0",
+  "$defs": {
+    "graphemeCriteria": {
+      "required": ["$id"],
+      "properties": {
+        "$id": { "type": "string", "pattern": "^grapheme:U\\+[0-9A-F]+$" }
+      }
+    }
+  },
+  "connectors": {
+    "member": {
+      "criteria": { "$ref": "#/$defs/graphemeCriteria" },
+      "description": "A grapheme in this variant group"
+    }
+  },
+  "many": {
+    "type": "array",
+    "minItems": 2,
+    "items": { "$ref": "https://raw.githubusercontent.com/AndreiGrumazescu/OpenStudyModelFramework/main/relational-model.schema.json#/$defs/manyItem" },
+    "itemConnectors": {
+      "$dynamicAnchor": "itemConnectors",
+      "properties": {
+        "member": { "$ref": "#/$defs/graphemeCriteria" }
+      },
+      "required": ["member"]
+    }
+  }
+}
