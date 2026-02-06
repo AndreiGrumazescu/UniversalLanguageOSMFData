@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+84C4",
+  "unicode": "U+84C4",
+  "symbol": "蓄",
+  "meanings": [
+    "amass",
+    "raise",
+    "hoard",
+    "store"
+  ],
+  "onyomi": [
+    "チク"
+  ],
+  "kunyomi": [
+    "たくわ.える"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

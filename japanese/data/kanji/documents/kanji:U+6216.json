@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+6216",
+  "unicode": "U+6216",
+  "symbol": "或",
+  "meanings": [
+    "some",
+    "one",
+    "or",
+    "possibly",
+    "a certain"
+  ],
+  "onyomi": [
+    "ワク",
+    "コク",
+    "イキ"
+  ],
+  "kunyomi": [
+    "あ.る",
+    "あるい",
+    "あるいは"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

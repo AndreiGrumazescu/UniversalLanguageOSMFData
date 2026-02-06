@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+9C57",
+  "unicode": "U+9C57",
+  "symbol": "鱗",
+  "meanings": [
+    "scales (fish)"
+  ],
+  "onyomi": [
+    "リン"
+  ],
+  "kunyomi": [
+    "うろこ",
+    "こけ",
+    "こけら"
+  ],
+  "strokeCount": 24,
+  "jlptLevel": "unspecified"
+}

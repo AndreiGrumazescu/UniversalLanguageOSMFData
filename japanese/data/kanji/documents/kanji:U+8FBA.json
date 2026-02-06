@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+8FBA",
+  "unicode": "U+8FBA",
+  "symbol": "辺",
+  "meanings": [
+    "environs",
+    "boundary",
+    "border",
+    "vicinity"
+  ],
+  "onyomi": [
+    "ヘン"
+  ],
+  "kunyomi": [
+    "あた.り",
+    "ほと.り",
+    "-べ"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

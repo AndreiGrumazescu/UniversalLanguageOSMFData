@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+9D28",
+  "unicode": "U+9D28",
+  "symbol": "鴨",
+  "meanings": [
+    "wild duck",
+    "easy mark"
+  ],
+  "onyomi": [
+    "オウ"
+  ],
+  "kunyomi": [
+    "かも",
+    "あひる"
+  ],
+  "strokeCount": 16,
+  "jlptLevel": "unspecified"
+}

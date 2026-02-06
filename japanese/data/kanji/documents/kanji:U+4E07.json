@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+4E07",
+  "unicode": "U+4E07",
+  "symbol": "万",
+  "meanings": [
+    "ten thousand",
+    "10,000"
+  ],
+  "onyomi": [
+    "マン",
+    "バン"
+  ],
+  "kunyomi": [
+    "よろず"
+  ],
+  "strokeCount": 3,
+  "jlptLevel": "unspecified"
+}

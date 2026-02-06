@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+671B",
+  "unicode": "U+671B",
+  "symbol": "望",
+  "meanings": [
+    "ambition",
+    "full moon",
+    "hope",
+    "desire",
+    "aspire to",
+    "expect"
+  ],
+  "onyomi": [
+    "ボウ",
+    "モウ"
+  ],
+  "kunyomi": [
+    "のぞ.む",
+    "もち"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

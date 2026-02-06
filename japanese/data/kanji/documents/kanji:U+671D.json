@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+671D",
+  "unicode": "U+671D",
+  "symbol": "朝",
+  "meanings": [
+    "morning",
+    "dynasty",
+    "regime",
+    "epoch",
+    "period",
+    "(North) Korea"
+  ],
+  "onyomi": [
+    "チョウ"
+  ],
+  "kunyomi": [
+    "あさ"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

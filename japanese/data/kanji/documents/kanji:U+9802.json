@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+9802",
+  "unicode": "U+9802",
+  "symbol": "頂",
+  "meanings": [
+    "place on the head",
+    "receive",
+    "top of head",
+    "top",
+    "summit",
+    "peak"
+  ],
+  "onyomi": [
+    "チョウ"
+  ],
+  "kunyomi": [
+    "いただ.く",
+    "いただき"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

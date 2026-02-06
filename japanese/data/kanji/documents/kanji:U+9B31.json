@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+9B31",
+  "unicode": "U+9B31",
+  "symbol": "鬱",
+  "meanings": [
+    "gloom",
+    "depression",
+    "melancholy",
+    "luxuriant"
+  ],
+  "onyomi": [
+    "ウツ"
+  ],
+  "kunyomi": [
+    "うっ.する",
+    "ふさ.ぐ",
+    "しげ.る"
+  ],
+  "strokeCount": 29,
+  "jlptLevel": "unspecified"
+}

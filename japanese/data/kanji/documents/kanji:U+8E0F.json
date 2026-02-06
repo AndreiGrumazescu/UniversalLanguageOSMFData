@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+8E0F",
+  "unicode": "U+8E0F",
+  "symbol": "踏",
+  "meanings": [
+    "step",
+    "trample",
+    "carry through",
+    "appraise",
+    "evade payment"
+  ],
+  "onyomi": [
+    "トウ"
+  ],
+  "kunyomi": [
+    "ふ.む",
+    "ふ.まえる"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

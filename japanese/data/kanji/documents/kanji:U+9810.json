@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+9810",
+  "unicode": "U+9810",
+  "symbol": "預",
+  "meanings": [
+    "deposit",
+    "custody",
+    "leave with",
+    "entrust to"
+  ],
+  "onyomi": [
+    "ヨ"
+  ],
+  "kunyomi": [
+    "あず.ける",
+    "あず.かる"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

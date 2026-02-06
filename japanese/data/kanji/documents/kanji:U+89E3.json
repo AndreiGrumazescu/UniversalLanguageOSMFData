@@ -1,0 +1,35 @@
+{
+  "$id": "kanji:U+89E3",
+  "unicode": "U+89E3",
+  "symbol": "解",
+  "meanings": [
+    "unravel",
+    "notes",
+    "key",
+    "explanation",
+    "understanding",
+    "untie",
+    "undo",
+    "solve",
+    "answer",
+    "cancel",
+    "absolve",
+    "explain",
+    "minute"
+  ],
+  "onyomi": [
+    "カイ",
+    "ゲ"
+  ],
+  "kunyomi": [
+    "と.く",
+    "と.かす",
+    "と.ける",
+    "ほど.く",
+    "ほぐ.す",
+    "わか.る",
+    "さと.る"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

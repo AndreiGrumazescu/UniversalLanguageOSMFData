@@ -1,0 +1,17 @@
+{
+  "$id": "kanji:U+628A",
+  "unicode": "U+628A",
+  "symbol": "把",
+  "meanings": [
+    "grasp",
+    "faggot",
+    "bunch",
+    "counter for bundles"
+  ],
+  "onyomi": [
+    "ハ",
+    "ワ"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

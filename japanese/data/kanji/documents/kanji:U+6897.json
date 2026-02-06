@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+6897",
+  "unicode": "U+6897",
+  "symbol": "梗",
+  "meanings": [
+    "for the most part",
+    "close up",
+    "flower stem"
+  ],
+  "onyomi": [
+    "コウ",
+    "キョウ"
+  ],
+  "kunyomi": [
+    "ふさぐ",
+    "やまにれ",
+    "おおむね"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

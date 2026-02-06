@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+5841",
+  "unicode": "U+5841",
+  "symbol": "塁",
+  "meanings": [
+    "bases",
+    "fort",
+    "rampart",
+    "walls",
+    "base(ball)"
+  ],
+  "onyomi": [
+    "ルイ",
+    "ライ",
+    "スイ"
+  ],
+  "kunyomi": [
+    "とりで"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

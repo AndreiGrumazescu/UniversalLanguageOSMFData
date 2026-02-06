@@ -1,0 +1,17 @@
+{
+  "$id": "kanji:U+8237",
+  "unicode": "U+8237",
+  "symbol": "舷",
+  "meanings": [
+    "gunwale"
+  ],
+  "onyomi": [
+    "ゲン"
+  ],
+  "kunyomi": [
+    "ふなばた",
+    "ふなべり"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

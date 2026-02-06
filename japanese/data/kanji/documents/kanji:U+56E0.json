@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+56E0",
+  "unicode": "U+56E0",
+  "symbol": "因",
+  "meanings": [
+    "cause",
+    "factor",
+    "be associated with",
+    "depend on",
+    "be limited to"
+  ],
+  "onyomi": [
+    "イン"
+  ],
+  "kunyomi": [
+    "よ.る",
+    "ちな.む"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

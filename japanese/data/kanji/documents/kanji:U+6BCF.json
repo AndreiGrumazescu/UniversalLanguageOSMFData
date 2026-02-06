@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+6BCF",
+  "unicode": "U+6BCF",
+  "symbol": "每",
+  "meanings": [
+    "every",
+    "each"
+  ],
+  "onyomi": [
+    "マイ",
+    "バイ"
+  ],
+  "kunyomi": [
+    "つね"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

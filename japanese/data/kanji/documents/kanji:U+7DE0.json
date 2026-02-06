@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+7DE0",
+  "unicode": "U+7DE0",
+  "symbol": "締",
+  "meanings": [
+    "tighten",
+    "tie",
+    "shut",
+    "lock",
+    "fasten"
+  ],
+  "onyomi": [
+    "テイ"
+  ],
+  "kunyomi": [
+    "し.まる",
+    "し.まり",
+    "し.める",
+    "-し.め",
+    "-じ.め"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+5144",
+  "unicode": "U+5144",
+  "symbol": "兄",
+  "meanings": [
+    "elder brother",
+    "big brother"
+  ],
+  "onyomi": [
+    "ケイ",
+    "キョウ"
+  ],
+  "kunyomi": [
+    "あに"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

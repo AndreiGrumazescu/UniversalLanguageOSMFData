@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+637B",
+  "unicode": "U+637B",
+  "symbol": "捻",
+  "meanings": [
+    "twirl",
+    "twist",
+    "play with"
+  ],
+  "onyomi": [
+    "ネン",
+    "ジョウ"
+  ],
+  "kunyomi": [
+    "ね.じる",
+    "ねじ.る",
+    "ひね.くる",
+    "ひね.る"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

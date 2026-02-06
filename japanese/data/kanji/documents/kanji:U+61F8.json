@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+61F8",
+  "unicode": "U+61F8",
+  "symbol": "懸",
+  "meanings": [
+    "state of suspension",
+    "hang",
+    "depend",
+    "consult",
+    "distant",
+    "far apart"
+  ],
+  "onyomi": [
+    "ケン",
+    "ケ"
+  ],
+  "kunyomi": [
+    "か.ける",
+    "か.かる"
+  ],
+  "strokeCount": 20,
+  "jlptLevel": "unspecified"
+}

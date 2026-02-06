@@ -1,0 +1,25 @@
+{
+  "$id": "kanji:U+6FE1",
+  "unicode": "U+6FE1",
+  "symbol": "濡",
+  "meanings": [
+    "get wet",
+    "damp",
+    "make love"
+  ],
+  "onyomi": [
+    "ジュ",
+    "ニュ"
+  ],
+  "kunyomi": [
+    "ぬれ.る",
+    "ぬら.す",
+    "ぬ.れる",
+    "ぬ.らす",
+    "うるお.い",
+    "うるお.う",
+    "うるお.す"
+  ],
+  "strokeCount": 17,
+  "jlptLevel": "unspecified"
+}

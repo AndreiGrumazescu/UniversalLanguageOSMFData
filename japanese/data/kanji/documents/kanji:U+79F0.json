@@ -1,0 +1,27 @@
+{
+  "$id": "kanji:U+79F0",
+  "unicode": "U+79F0",
+  "symbol": "称",
+  "meanings": [
+    "appellation",
+    "praise",
+    "admire",
+    "name",
+    "title",
+    "fame"
+  ],
+  "onyomi": [
+    "ショウ"
+  ],
+  "kunyomi": [
+    "たた.える",
+    "とな.える",
+    "あ.げる",
+    "かな.う",
+    "はか.り",
+    "はか.る",
+    "ほめ.る"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

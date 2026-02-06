@@ -1,0 +1,17 @@
+{
+  "$id": "kanji:U+691B",
+  "unicode": "U+691B",
+  "symbol": "椛",
+  "meanings": [
+    "autumn foliage",
+    "birch",
+    "maple",
+    "(kokuji)"
+  ],
+  "kunyomi": [
+    "かば",
+    "もみじ"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

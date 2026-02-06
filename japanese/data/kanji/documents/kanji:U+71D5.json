@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+71D5",
+  "unicode": "U+71D5",
+  "symbol": "燕",
+  "meanings": [
+    "swallow (bird)"
+  ],
+  "onyomi": [
+    "エン"
+  ],
+  "kunyomi": [
+    "つばめ",
+    "つばくら",
+    "つばくろ"
+  ],
+  "strokeCount": 16,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+5609",
+  "unicode": "U+5609",
+  "symbol": "嘉",
+  "meanings": [
+    "applaud",
+    "praise",
+    "esteem",
+    "happy",
+    "auspicious"
+  ],
+  "onyomi": [
+    "カ"
+  ],
+  "kunyomi": [
+    "よみ.する",
+    "よい"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

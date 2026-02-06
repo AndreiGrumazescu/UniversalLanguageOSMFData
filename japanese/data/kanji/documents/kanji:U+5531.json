@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+5531",
+  "unicode": "U+5531",
+  "symbol": "唱",
+  "meanings": [
+    "chant",
+    "recite",
+    "call upon",
+    "yell"
+  ],
+  "onyomi": [
+    "ショウ"
+  ],
+  "kunyomi": [
+    "とな.える"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

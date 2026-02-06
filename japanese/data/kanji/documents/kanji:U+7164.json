@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+7164",
+  "unicode": "U+7164",
+  "symbol": "煤",
+  "meanings": [
+    "soot",
+    "smoke dried"
+  ],
+  "onyomi": [
+    "バイ",
+    "マイ"
+  ],
+  "kunyomi": [
+    "すす"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

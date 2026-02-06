@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+8FBF",
+  "unicode": "U+8FBF",
+  "symbol": "辿",
+  "meanings": [
+    "follow (road)",
+    "pursue"
+  ],
+  "onyomi": [
+    "テン"
+  ],
+  "kunyomi": [
+    "たど.る",
+    "たどり"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

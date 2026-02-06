@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+5DEB",
+  "unicode": "U+5DEB",
+  "symbol": "巫",
+  "meanings": [
+    "sorcerer",
+    "medium",
+    "shrine maiden"
+  ],
+  "onyomi": [
+    "フ"
+  ],
+  "kunyomi": [
+    "みこ",
+    "かんなぎ"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

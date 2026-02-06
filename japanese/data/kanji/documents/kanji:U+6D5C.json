@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+6D5C",
+  "unicode": "U+6D5C",
+  "symbol": "浜",
+  "meanings": [
+    "seacoast",
+    "beach",
+    "seashore"
+  ],
+  "onyomi": [
+    "ヒン"
+  ],
+  "kunyomi": [
+    "はま"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

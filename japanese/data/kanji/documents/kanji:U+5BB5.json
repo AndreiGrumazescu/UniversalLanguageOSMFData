@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+5BB5",
+  "unicode": "U+5BB5",
+  "symbol": "宵",
+  "meanings": [
+    "wee hours",
+    "evening",
+    "early night"
+  ],
+  "onyomi": [
+    "ショウ"
+  ],
+  "kunyomi": [
+    "よい"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

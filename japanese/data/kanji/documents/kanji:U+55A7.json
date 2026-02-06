@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+55A7",
+  "unicode": "U+55A7",
+  "symbol": "喧",
+  "meanings": [
+    "noisy",
+    "boisterous"
+  ],
+  "onyomi": [
+    "ケン"
+  ],
+  "kunyomi": [
+    "やかま.しい",
+    "かまびす.しい"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

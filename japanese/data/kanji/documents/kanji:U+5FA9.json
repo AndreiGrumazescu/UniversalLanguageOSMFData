@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+5FA9",
+  "unicode": "U+5FA9",
+  "symbol": "復",
+  "meanings": [
+    "restore",
+    "return to",
+    "revert",
+    "resume"
+  ],
+  "onyomi": [
+    "フク"
+  ],
+  "kunyomi": [
+    "また"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

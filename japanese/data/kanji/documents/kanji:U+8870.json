@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+8870",
+  "unicode": "U+8870",
+  "symbol": "衰",
+  "meanings": [
+    "decline",
+    "wane",
+    "weaken"
+  ],
+  "onyomi": [
+    "スイ"
+  ],
+  "kunyomi": [
+    "おとろ.える"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

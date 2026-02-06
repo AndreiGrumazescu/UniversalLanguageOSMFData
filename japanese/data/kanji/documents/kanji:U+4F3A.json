@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+4F3A",
+  "unicode": "U+4F3A",
+  "symbol": "伺",
+  "meanings": [
+    "pay respects",
+    "visit",
+    "ask",
+    "inquire",
+    "question",
+    "implore"
+  ],
+  "onyomi": [
+    "シ"
+  ],
+  "kunyomi": [
+    "うかが.う"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

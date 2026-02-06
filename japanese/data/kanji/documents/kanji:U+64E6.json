@@ -1,0 +1,25 @@
+{
+  "$id": "kanji:U+64E6",
+  "unicode": "U+64E6",
+  "symbol": "擦",
+  "meanings": [
+    "grate",
+    "rub",
+    "scratch",
+    "scrape",
+    "chafe",
+    "scour"
+  ],
+  "onyomi": [
+    "サツ"
+  ],
+  "kunyomi": [
+    "す.る",
+    "す.れる",
+    "-ず.れ",
+    "こす.る",
+    "こす.れる"
+  ],
+  "strokeCount": 17,
+  "jlptLevel": "unspecified"
+}

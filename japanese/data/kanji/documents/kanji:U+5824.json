@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+5824",
+  "unicode": "U+5824",
+  "symbol": "堤",
+  "meanings": [
+    "dike",
+    "bank",
+    "embankment"
+  ],
+  "onyomi": [
+    "テイ"
+  ],
+  "kunyomi": [
+    "つつみ"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+9801",
+  "unicode": "U+9801",
+  "symbol": "頁",
+  "meanings": [
+    "page",
+    "leaf"
+  ],
+  "onyomi": [
+    "ケツ"
+  ],
+  "kunyomi": [
+    "ぺえじ",
+    "おおがい",
+    "かしら"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

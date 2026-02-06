@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+5BE2",
+  "unicode": "U+5BE2",
+  "symbol": "寢",
+  "meanings": [
+    "sleep",
+    "rest",
+    "bed chamber"
+  ],
+  "onyomi": [
+    "シン"
+  ],
+  "kunyomi": [
+    "ね.る",
+    "ね.かす",
+    "い.ぬ",
+    "みたまや",
+    "や.める"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+6483",
+  "unicode": "U+6483",
+  "symbol": "撃",
+  "meanings": [
+    "beat",
+    "attack",
+    "defeat",
+    "conquer"
+  ],
+  "onyomi": [
+    "ゲキ"
+  ],
+  "kunyomi": [
+    "う.つ"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

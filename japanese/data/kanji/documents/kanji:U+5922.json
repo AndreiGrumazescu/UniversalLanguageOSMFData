@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+5922",
+  "unicode": "U+5922",
+  "symbol": "夢",
+  "meanings": [
+    "dream",
+    "vision",
+    "illusion"
+  ],
+  "onyomi": [
+    "ム",
+    "ボウ"
+  ],
+  "kunyomi": [
+    "ゆめ",
+    "ゆめ.みる",
+    "くら.い"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

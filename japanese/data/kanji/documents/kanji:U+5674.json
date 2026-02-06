@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+5674",
+  "unicode": "U+5674",
+  "symbol": "噴",
+  "meanings": [
+    "erupt",
+    "spout",
+    "emit",
+    "flush out"
+  ],
+  "onyomi": [
+    "フン"
+  ],
+  "kunyomi": [
+    "ふ.く"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

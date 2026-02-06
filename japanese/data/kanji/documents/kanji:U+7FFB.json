@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+7FFB",
+  "unicode": "U+7FFB",
+  "symbol": "翻",
+  "meanings": [
+    "flip",
+    "turn over",
+    "wave",
+    "flutter",
+    "change (mind)"
+  ],
+  "onyomi": [
+    "ホン",
+    "ハン"
+  ],
+  "kunyomi": [
+    "ひるがえ.る",
+    "ひるがえ.す"
+  ],
+  "strokeCount": 18,
+  "jlptLevel": "unspecified"
+}

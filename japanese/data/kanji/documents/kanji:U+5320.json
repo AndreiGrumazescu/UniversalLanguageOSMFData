@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+5320",
+  "unicode": "U+5320",
+  "symbol": "匠",
+  "meanings": [
+    "artisan",
+    "workman",
+    "carpenter"
+  ],
+  "onyomi": [
+    "ショウ"
+  ],
+  "kunyomi": [
+    "たくみ"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

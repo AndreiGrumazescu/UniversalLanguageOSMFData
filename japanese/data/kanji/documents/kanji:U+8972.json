@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+8972",
+  "unicode": "U+8972",
+  "symbol": "襲",
+  "meanings": [
+    "attack",
+    "advance on",
+    "succeed to",
+    "pile",
+    "heap"
+  ],
+  "onyomi": [
+    "シュウ"
+  ],
+  "kunyomi": [
+    "おそ.う",
+    "かさ.ね"
+  ],
+  "strokeCount": 22,
+  "jlptLevel": "unspecified"
+}

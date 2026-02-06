@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+4E8B",
+  "unicode": "U+4E8B",
+  "symbol": "事",
+  "meanings": [
+    "matter",
+    "thing",
+    "fact",
+    "business",
+    "reason",
+    "possibly"
+  ],
+  "onyomi": [
+    "ジ",
+    "ズ"
+  ],
+  "kunyomi": [
+    "こと",
+    "つか.う",
+    "つか.える"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

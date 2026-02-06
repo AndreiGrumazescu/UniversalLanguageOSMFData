@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+7DD6",
+  "unicode": "U+7DD6",
+  "symbol": "緖",
+  "meanings": [
+    "end of thread",
+    "thread",
+    "clue"
+  ],
+  "onyomi": [
+    "ショ",
+    "チョ"
+  ],
+  "kunyomi": [
+    "お",
+    "いとぐち"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

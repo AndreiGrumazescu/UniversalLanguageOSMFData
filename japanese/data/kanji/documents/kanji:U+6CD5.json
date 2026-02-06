@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+6CD5",
+  "unicode": "U+6CD5",
+  "symbol": "法",
+  "meanings": [
+    "method",
+    "law",
+    "rule",
+    "principle",
+    "model",
+    "system"
+  ],
+  "onyomi": [
+    "ホウ",
+    "ハッ",
+    "ホッ",
+    "フラン"
+  ],
+  "kunyomi": [
+    "のり"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

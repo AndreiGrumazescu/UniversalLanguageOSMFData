@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+5A01",
+  "unicode": "U+5A01",
+  "symbol": "威",
+  "meanings": [
+    "intimidate",
+    "dignity",
+    "majesty",
+    "menace",
+    "threaten"
+  ],
+  "onyomi": [
+    "イ"
+  ],
+  "kunyomi": [
+    "おど.す",
+    "おど.し",
+    "おど.かす"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

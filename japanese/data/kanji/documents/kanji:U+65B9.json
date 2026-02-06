@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+65B9",
+  "unicode": "U+65B9",
+  "symbol": "方",
+  "meanings": [
+    "direction",
+    "person",
+    "alternative"
+  ],
+  "onyomi": [
+    "ホウ"
+  ],
+  "kunyomi": [
+    "かた",
+    "-かた",
+    "-がた"
+  ],
+  "strokeCount": 4,
+  "jlptLevel": "unspecified"
+}

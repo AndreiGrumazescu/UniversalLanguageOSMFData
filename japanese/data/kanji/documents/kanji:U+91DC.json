@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+91DC",
+  "unicode": "U+91DC",
+  "symbol": "釜",
+  "meanings": [
+    "kettle",
+    "cauldron",
+    "iron pot"
+  ],
+  "onyomi": [
+    "フ"
+  ],
+  "kunyomi": [
+    "かま"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+59CB",
+  "unicode": "U+59CB",
+  "symbol": "始",
+  "meanings": [
+    "commence",
+    "begin"
+  ],
+  "onyomi": [
+    "シ"
+  ],
+  "kunyomi": [
+    "はじ.める",
+    "-はじ.める",
+    "はじ.まる"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

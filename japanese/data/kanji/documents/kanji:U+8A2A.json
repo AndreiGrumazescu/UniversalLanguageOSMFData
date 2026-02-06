@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+8A2A",
+  "unicode": "U+8A2A",
+  "symbol": "訪",
+  "meanings": [
+    "call on",
+    "visit",
+    "look up",
+    "offer sympathy"
+  ],
+  "onyomi": [
+    "ホウ"
+  ],
+  "kunyomi": [
+    "おとず.れる",
+    "たず.ねる",
+    "と.う"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

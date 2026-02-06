@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+51B4",
+  "unicode": "U+51B4",
+  "symbol": "冴",
+  "meanings": [
+    "be clear",
+    "serene",
+    "cold",
+    "skilful"
+  ],
+  "onyomi": [
+    "ゴ",
+    "コ"
+  ],
+  "kunyomi": [
+    "さ.える",
+    "こお.る",
+    "ひ.える"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

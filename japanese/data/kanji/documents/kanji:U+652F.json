@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+652F",
+  "unicode": "U+652F",
+  "symbol": "支",
+  "meanings": [
+    "branch",
+    "support",
+    "sustain",
+    "branch radical (no. 65)"
+  ],
+  "onyomi": [
+    "シ"
+  ],
+  "kunyomi": [
+    "ささ.える",
+    "つか.える",
+    "か.う"
+  ],
+  "strokeCount": 4,
+  "jlptLevel": "unspecified"
+}

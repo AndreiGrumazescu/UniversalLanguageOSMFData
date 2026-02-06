@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+7525",
+  "unicode": "U+7525",
+  "symbol": "甥",
+  "meanings": [
+    "nephew"
+  ],
+  "onyomi": [
+    "セイ",
+    "ソウ",
+    "ショウ"
+  ],
+  "kunyomi": [
+    "おい",
+    "むこ"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

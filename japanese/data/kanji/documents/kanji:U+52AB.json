@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+52AB",
+  "unicode": "U+52AB",
+  "symbol": "劫",
+  "meanings": [
+    "threat",
+    "long ages"
+  ],
+  "onyomi": [
+    "コウ",
+    "ゴウ",
+    "キョウ"
+  ],
+  "kunyomi": [
+    "おびや.かす"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

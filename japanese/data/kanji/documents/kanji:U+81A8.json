@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+81A8",
+  "unicode": "U+81A8",
+  "symbol": "膨",
+  "meanings": [
+    "swell",
+    "get fat",
+    "thick"
+  ],
+  "onyomi": [
+    "ボウ"
+  ],
+  "kunyomi": [
+    "ふく.らむ",
+    "ふく.れる"
+  ],
+  "strokeCount": 16,
+  "jlptLevel": "unspecified"
+}

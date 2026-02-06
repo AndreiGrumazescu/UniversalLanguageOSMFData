@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+53F6",
+  "unicode": "U+53F6",
+  "symbol": "叶",
+  "meanings": [
+    "grant",
+    "answer"
+  ],
+  "onyomi": [
+    "キョウ"
+  ],
+  "kunyomi": [
+    "かな.える",
+    "かな.う"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

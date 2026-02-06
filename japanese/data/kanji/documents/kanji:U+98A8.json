@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+98A8",
+  "unicode": "U+98A8",
+  "symbol": "風",
+  "meanings": [
+    "wind",
+    "air",
+    "style",
+    "manner"
+  ],
+  "onyomi": [
+    "フウ",
+    "フ"
+  ],
+  "kunyomi": [
+    "かぜ",
+    "かざ-"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

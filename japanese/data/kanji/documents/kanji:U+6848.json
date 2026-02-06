@@ -1,0 +1,26 @@
+{
+  "$id": "kanji:U+6848",
+  "unicode": "U+6848",
+  "symbol": "案",
+  "meanings": [
+    "plan",
+    "suggestion",
+    "draft",
+    "ponder",
+    "fear",
+    "proposition",
+    "idea",
+    "expectation",
+    "worry",
+    "table",
+    "bench"
+  ],
+  "onyomi": [
+    "アン"
+  ],
+  "kunyomi": [
+    "つくえ"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

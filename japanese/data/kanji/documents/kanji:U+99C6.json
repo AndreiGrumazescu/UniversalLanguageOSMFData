@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+99C6",
+  "unicode": "U+99C6",
+  "symbol": "駆",
+  "meanings": [
+    "drive",
+    "run",
+    "gallop",
+    "advance",
+    "inspire",
+    "impel"
+  ],
+  "onyomi": [
+    "ク"
+  ],
+  "kunyomi": [
+    "か.ける",
+    "か.る"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

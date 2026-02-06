@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+8DE8",
+  "unicode": "U+8DE8",
+  "symbol": "跨",
+  "meanings": [
+    "be",
+    "sit or stand astride",
+    "extend over",
+    "straddle"
+  ],
+  "onyomi": [
+    "コ",
+    "カ"
+  ],
+  "kunyomi": [
+    "また.がる",
+    "またが.る",
+    "また.ぐ"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

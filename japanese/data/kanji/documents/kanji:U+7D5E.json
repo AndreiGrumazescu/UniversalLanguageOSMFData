@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+7D5E",
+  "unicode": "U+7D5E",
+  "symbol": "絞",
+  "meanings": [
+    "strangle",
+    "constrict",
+    "wring"
+  ],
+  "onyomi": [
+    "コウ"
+  ],
+  "kunyomi": [
+    "しぼ.る",
+    "し.める",
+    "し.まる"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

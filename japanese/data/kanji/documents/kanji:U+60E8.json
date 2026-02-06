@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+60E8",
+  "unicode": "U+60E8",
+  "symbol": "惨",
+  "meanings": [
+    "wretched",
+    "disaster",
+    "cruelty",
+    "harsh"
+  ],
+  "onyomi": [
+    "サン",
+    "ザン"
+  ],
+  "kunyomi": [
+    "みじ.め",
+    "いた.む",
+    "むご.い"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

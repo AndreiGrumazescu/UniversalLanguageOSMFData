@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+9013",
+  "unicode": "U+9013",
+  "symbol": "逓",
+  "meanings": [
+    "relay",
+    "in turn",
+    "sending"
+  ],
+  "onyomi": [
+    "テイ"
+  ],
+  "kunyomi": [
+    "かわ.る",
+    "たがいに"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

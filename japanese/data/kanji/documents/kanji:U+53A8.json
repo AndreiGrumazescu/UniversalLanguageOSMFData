@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+53A8",
+  "unicode": "U+53A8",
+  "symbol": "厨",
+  "meanings": [
+    "kitchen"
+  ],
+  "onyomi": [
+    "シュウ",
+    "ズ",
+    "チュ",
+    "チュウ"
+  ],
+  "kunyomi": [
+    "くりや"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

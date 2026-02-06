@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+865A",
+  "unicode": "U+865A",
+  "symbol": "虚",
+  "meanings": [
+    "void",
+    "emptiness",
+    "unpreparedness",
+    "crack",
+    "fissure",
+    "untruth"
+  ],
+  "onyomi": [
+    "キョ",
+    "コ"
+  ],
+  "kunyomi": [
+    "むな.しい",
+    "うつ.ろ"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

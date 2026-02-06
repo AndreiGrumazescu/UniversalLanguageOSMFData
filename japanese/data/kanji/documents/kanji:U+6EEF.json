@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+6EEF",
+  "unicode": "U+6EEF",
+  "symbol": "滯",
+  "meanings": [
+    "block up",
+    "obstruct",
+    "stagnant"
+  ],
+  "onyomi": [
+    "タイ",
+    "テイ"
+  ],
+  "kunyomi": [
+    "とどこお.る"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

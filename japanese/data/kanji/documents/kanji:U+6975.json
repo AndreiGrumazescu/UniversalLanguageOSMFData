@@ -1,0 +1,32 @@
+{
+  "$id": "kanji:U+6975",
+  "unicode": "U+6975",
+  "symbol": "極",
+  "meanings": [
+    "extreme",
+    "pole",
+    "extremely",
+    "very",
+    "highly",
+    "most",
+    "end",
+    "settlement",
+    "conclusion",
+    "highest rank"
+  ],
+  "onyomi": [
+    "キョク",
+    "ゴク"
+  ],
+  "kunyomi": [
+    "きわ.める",
+    "きわ.まる",
+    "きわ.まり",
+    "きわ.み",
+    "き.める",
+    "-ぎ.め",
+    "き.まる"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

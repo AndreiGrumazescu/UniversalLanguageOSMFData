@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+6708",
+  "unicode": "U+6708",
+  "symbol": "月",
+  "meanings": [
+    "month",
+    "moon"
+  ],
+  "onyomi": [
+    "ゲツ",
+    "ガツ"
+  ],
+  "kunyomi": [
+    "つき"
+  ],
+  "strokeCount": 4,
+  "jlptLevel": "unspecified"
+}

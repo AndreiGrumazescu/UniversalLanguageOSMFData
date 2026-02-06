@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+8015",
+  "unicode": "U+8015",
+  "symbol": "耕",
+  "meanings": [
+    "till",
+    "plow",
+    "cultivate"
+  ],
+  "onyomi": [
+    "コウ"
+  ],
+  "kunyomi": [
+    "たがや.す"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

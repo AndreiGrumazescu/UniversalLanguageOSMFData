@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+5DFE",
+  "unicode": "U+5DFE",
+  "symbol": "巾",
+  "meanings": [
+    "towel",
+    "hanging scroll",
+    "width",
+    "cloth radical (no. 50)"
+  ],
+  "onyomi": [
+    "キン",
+    "フク"
+  ],
+  "kunyomi": [
+    "おお.い",
+    "ちきり",
+    "きれ"
+  ],
+  "strokeCount": 3,
+  "jlptLevel": "unspecified"
+}

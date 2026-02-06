@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+4F4E",
+  "unicode": "U+4F4E",
+  "symbol": "低",
+  "meanings": [
+    "lower",
+    "short",
+    "humble"
+  ],
+  "onyomi": [
+    "テイ"
+  ],
+  "kunyomi": [
+    "ひく.い",
+    "ひく.める",
+    "ひく.まる"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

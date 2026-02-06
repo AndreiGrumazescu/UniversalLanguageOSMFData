@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+8208",
+  "unicode": "U+8208",
+  "symbol": "興",
+  "meanings": [
+    "entertain",
+    "revive",
+    "retrieve",
+    "interest",
+    "pleasure"
+  ],
+  "onyomi": [
+    "コウ",
+    "キョウ"
+  ],
+  "kunyomi": [
+    "おこ.る",
+    "おこ.す"
+  ],
+  "strokeCount": 16,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+7C9B",
+  "unicode": "U+7C9B",
+  "symbol": "粛",
+  "meanings": [
+    "solemn",
+    "quietly",
+    "softly"
+  ],
+  "onyomi": [
+    "シュク",
+    "スク"
+  ],
+  "kunyomi": [
+    "つつし.む"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

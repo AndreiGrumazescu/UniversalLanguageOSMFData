@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+6E6F",
+  "unicode": "U+6E6F",
+  "symbol": "湯",
+  "meanings": [
+    "hot water",
+    "bath",
+    "hot spring"
+  ],
+  "onyomi": [
+    "トウ"
+  ],
+  "kunyomi": [
+    "ゆ"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

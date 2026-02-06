@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+53D6",
+  "unicode": "U+53D6",
+  "symbol": "取",
+  "meanings": [
+    "take",
+    "fetch",
+    "take up"
+  ],
+  "onyomi": [
+    "シュ"
+  ],
+  "kunyomi": [
+    "と.る",
+    "と.り",
+    "と.り-",
+    "とり",
+    "-ど.り"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+7247",
+  "unicode": "U+7247",
+  "symbol": "片",
+  "meanings": [
+    "one-sided",
+    "leaf",
+    "sheet",
+    "right-side kata radical (no. 91)"
+  ],
+  "onyomi": [
+    "ヘン"
+  ],
+  "kunyomi": [
+    "かた-",
+    "かた"
+  ],
+  "strokeCount": 4,
+  "jlptLevel": "unspecified"
+}

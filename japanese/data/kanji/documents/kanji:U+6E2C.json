@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+6E2C",
+  "unicode": "U+6E2C",
+  "symbol": "測",
+  "meanings": [
+    "fathom",
+    "plan",
+    "scheme",
+    "measure"
+  ],
+  "onyomi": [
+    "ソク"
+  ],
+  "kunyomi": [
+    "はか.る"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

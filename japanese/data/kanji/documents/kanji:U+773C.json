@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+773C",
+  "unicode": "U+773C",
+  "symbol": "眼",
+  "meanings": [
+    "eyeball"
+  ],
+  "onyomi": [
+    "ガン",
+    "ゲン"
+  ],
+  "kunyomi": [
+    "まなこ",
+    "め"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+970A",
+  "unicode": "U+970A",
+  "symbol": "霊",
+  "meanings": [
+    "spirits",
+    "soul"
+  ],
+  "onyomi": [
+    "レイ",
+    "リョウ"
+  ],
+  "kunyomi": [
+    "たま"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

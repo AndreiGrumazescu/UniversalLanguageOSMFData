@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+6367",
+  "unicode": "U+6367",
+  "symbol": "捧",
+  "meanings": [
+    "lift up",
+    "give",
+    "offer",
+    "consecrate",
+    "sacrifice",
+    "dedicate"
+  ],
+  "onyomi": [
+    "ホウ"
+  ],
+  "kunyomi": [
+    "ささ.げる"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

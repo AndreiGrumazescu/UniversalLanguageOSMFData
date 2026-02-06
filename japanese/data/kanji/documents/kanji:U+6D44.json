@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+6D44",
+  "unicode": "U+6D44",
+  "symbol": "浄",
+  "meanings": [
+    "clean",
+    "purify",
+    "cleanse",
+    "exorcise",
+    "Manchu Dynasty"
+  ],
+  "onyomi": [
+    "ジョウ",
+    "セイ"
+  ],
+  "kunyomi": [
+    "きよ.める",
+    "きよ.い"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

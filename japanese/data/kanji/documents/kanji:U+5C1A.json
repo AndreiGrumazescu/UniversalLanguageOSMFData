@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+5C1A",
+  "unicode": "U+5C1A",
+  "symbol": "尚",
+  "meanings": [
+    "esteem",
+    "furthermore",
+    "still",
+    "yet"
+  ],
+  "onyomi": [
+    "ショウ"
+  ],
+  "kunyomi": [
+    "なお"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

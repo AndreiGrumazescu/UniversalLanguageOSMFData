@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+51F9",
+  "unicode": "U+51F9",
+  "symbol": "凹",
+  "meanings": [
+    "concave",
+    "hollow",
+    "sunken"
+  ],
+  "onyomi": [
+    "オウ"
+  ],
+  "kunyomi": [
+    "くぼ.む",
+    "へこ.む",
+    "ぼこ"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

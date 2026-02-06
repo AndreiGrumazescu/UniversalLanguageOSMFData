@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+6075",
+  "unicode": "U+6075",
+  "symbol": "恵",
+  "meanings": [
+    "favor",
+    "blessing",
+    "grace",
+    "kindness"
+  ],
+  "onyomi": [
+    "ケイ",
+    "エ"
+  ],
+  "kunyomi": [
+    "めぐ.む",
+    "めぐ.み"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,27 @@
+{
+  "$id": "kanji:U+5F92",
+  "unicode": "U+5F92",
+  "symbol": "徒",
+  "meanings": [
+    "on foot",
+    "junior",
+    "emptiness",
+    "vanity",
+    "futility",
+    "uselessness",
+    "ephemeral thing",
+    "gang",
+    "set",
+    "party",
+    "people"
+  ],
+  "onyomi": [
+    "ト"
+  ],
+  "kunyomi": [
+    "いたずら",
+    "あだ"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

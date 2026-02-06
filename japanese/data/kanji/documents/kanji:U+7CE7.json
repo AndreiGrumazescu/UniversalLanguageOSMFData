@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+7CE7",
+  "unicode": "U+7CE7",
+  "symbol": "糧",
+  "meanings": [
+    "provisions",
+    "food",
+    "bread"
+  ],
+  "onyomi": [
+    "リョウ",
+    "ロウ"
+  ],
+  "kunyomi": [
+    "かて"
+  ],
+  "strokeCount": 18,
+  "jlptLevel": "unspecified"
+}

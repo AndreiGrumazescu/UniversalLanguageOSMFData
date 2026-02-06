@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+9803",
+  "unicode": "U+9803",
+  "symbol": "頃",
+  "meanings": [
+    "time",
+    "about",
+    "toward"
+  ],
+  "onyomi": [
+    "ケイ",
+    "キョウ"
+  ],
+  "kunyomi": [
+    "ころ",
+    "ごろ",
+    "しばら.く"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

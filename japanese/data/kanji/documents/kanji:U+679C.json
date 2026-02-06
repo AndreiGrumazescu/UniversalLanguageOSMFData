@@ -1,0 +1,28 @@
+{
+  "$id": "kanji:U+679C",
+  "unicode": "U+679C",
+  "symbol": "果",
+  "meanings": [
+    "fruit",
+    "reward",
+    "carry out",
+    "achieve",
+    "complete",
+    "end",
+    "finish",
+    "succeed"
+  ],
+  "onyomi": [
+    "カ"
+  ],
+  "kunyomi": [
+    "は.たす",
+    "はた.す",
+    "-は.たす",
+    "は.てる",
+    "-は.てる",
+    "は.て"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

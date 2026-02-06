@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+9006",
+  "unicode": "U+9006",
+  "symbol": "逆",
+  "meanings": [
+    "inverted",
+    "reverse",
+    "opposite",
+    "wicked"
+  ],
+  "onyomi": [
+    "ギャク",
+    "ゲキ"
+  ],
+  "kunyomi": [
+    "さか",
+    "さか.さ",
+    "さか.らう"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

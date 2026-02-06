@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+8FF0",
+  "unicode": "U+8FF0",
+  "symbol": "述",
+  "meanings": [
+    "mention",
+    "state",
+    "speak",
+    "relate"
+  ],
+  "onyomi": [
+    "ジュツ"
+  ],
+  "kunyomi": [
+    "の.べる"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

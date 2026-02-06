@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+6F2C",
+  "unicode": "U+6F2C",
+  "symbol": "漬",
+  "meanings": [
+    "pickling",
+    "soak",
+    "moisten",
+    "steep"
+  ],
+  "onyomi": [
+    "シ"
+  ],
+  "kunyomi": [
+    "つ.ける",
+    "つ.かる",
+    "-づ.け",
+    "-づけ"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

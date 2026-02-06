@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+5F1F",
+  "unicode": "U+5F1F",
+  "symbol": "弟",
+  "meanings": [
+    "younger brother",
+    "faithful service to elders"
+  ],
+  "onyomi": [
+    "テイ",
+    "ダイ",
+    "デ"
+  ],
+  "kunyomi": [
+    "おとうと"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+90E8",
+  "unicode": "U+90E8",
+  "symbol": "部",
+  "meanings": [
+    "section",
+    "bureau",
+    "dept",
+    "class",
+    "copy",
+    "part",
+    "portion",
+    "counter for copies of a newspaper or magazine"
+  ],
+  "onyomi": [
+    "ブ"
+  ],
+  "kunyomi": [
+    "-べ"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

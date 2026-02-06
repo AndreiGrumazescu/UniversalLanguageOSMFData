@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+52B9",
+  "unicode": "U+52B9",
+  "symbol": "効",
+  "meanings": [
+    "merit",
+    "efficacy",
+    "efficiency",
+    "benefit"
+  ],
+  "onyomi": [
+    "コウ"
+  ],
+  "kunyomi": [
+    "き.く",
+    "ききめ",
+    "なら.う"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

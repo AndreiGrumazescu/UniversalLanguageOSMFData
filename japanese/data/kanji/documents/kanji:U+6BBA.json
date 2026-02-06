@@ -1,0 +1,28 @@
+{
+  "$id": "kanji:U+6BBA",
+  "unicode": "U+6BBA",
+  "symbol": "殺",
+  "meanings": [
+    "kill",
+    "murder",
+    "butcher",
+    "slice off",
+    "split",
+    "diminish",
+    "reduce",
+    "spoil"
+  ],
+  "onyomi": [
+    "サツ",
+    "サイ",
+    "セツ"
+  ],
+  "kunyomi": [
+    "ころ.す",
+    "-ごろ.し",
+    "そ.ぐ",
+    "あや.める"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

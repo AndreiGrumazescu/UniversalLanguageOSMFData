@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+8D85",
+  "unicode": "U+8D85",
+  "symbol": "超",
+  "meanings": [
+    "transcend",
+    "super-",
+    "ultra-"
+  ],
+  "onyomi": [
+    "チョウ"
+  ],
+  "kunyomi": [
+    "こ.える",
+    "こ.す"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

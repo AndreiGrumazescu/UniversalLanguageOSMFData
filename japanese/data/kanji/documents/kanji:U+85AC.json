@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+85AC",
+  "unicode": "U+85AC",
+  "symbol": "薬",
+  "meanings": [
+    "medicine",
+    "chemical",
+    "enamel",
+    "gunpowder",
+    "benefit"
+  ],
+  "onyomi": [
+    "ヤク"
+  ],
+  "kunyomi": [
+    "くすり"
+  ],
+  "strokeCount": 16,
+  "jlptLevel": "unspecified"
+}

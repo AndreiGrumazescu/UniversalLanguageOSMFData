@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+8AE6",
+  "unicode": "U+8AE6",
+  "symbol": "諦",
+  "meanings": [
+    "truth",
+    "clarity",
+    "abandon",
+    "give up"
+  ],
+  "onyomi": [
+    "テイ",
+    "タイ"
+  ],
+  "kunyomi": [
+    "あきら.める",
+    "つまびらか",
+    "まこと"
+  ],
+  "strokeCount": 16,
+  "jlptLevel": "unspecified"
+}

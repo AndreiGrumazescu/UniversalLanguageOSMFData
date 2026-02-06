@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+6B8B",
+  "unicode": "U+6B8B",
+  "symbol": "残",
+  "meanings": [
+    "remainder",
+    "leftover",
+    "balance"
+  ],
+  "onyomi": [
+    "ザン",
+    "サン"
+  ],
+  "kunyomi": [
+    "のこ.る",
+    "のこ.す",
+    "そこな.う",
+    "のこ.り"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

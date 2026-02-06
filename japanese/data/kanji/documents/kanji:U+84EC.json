@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+84EC",
+  "unicode": "U+84EC",
+  "symbol": "蓬",
+  "meanings": [
+    "sagebrush",
+    "wormwood",
+    "mugwort"
+  ],
+  "onyomi": [
+    "ホウ",
+    "ブ"
+  ],
+  "kunyomi": [
+    "よもぎ"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+5E16",
+  "unicode": "U+5E16",
+  "symbol": "帖",
+  "meanings": [
+    "quire (of paper)",
+    "bundle of seaweed",
+    "counter for screens",
+    "notebook"
+  ],
+  "onyomi": [
+    "チョウ",
+    "ジョウ"
+  ],
+  "kunyomi": [
+    "かきもの"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+5968",
+  "unicode": "U+5968",
+  "symbol": "奨",
+  "meanings": [
+    "exhort",
+    "urge",
+    "encourage"
+  ],
+  "onyomi": [
+    "ショウ",
+    "ソウ"
+  ],
+  "kunyomi": [
+    "すす.める"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

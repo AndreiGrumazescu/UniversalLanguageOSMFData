@@ -1,0 +1,25 @@
+{
+  "$id": "kanji:U+88CF",
+  "unicode": "U+88CF",
+  "symbol": "裏",
+  "meanings": [
+    "back",
+    "amidst",
+    "in",
+    "reverse",
+    "inside",
+    "palm",
+    "sole",
+    "rear",
+    "lining",
+    "wrong side"
+  ],
+  "onyomi": [
+    "リ"
+  ],
+  "kunyomi": [
+    "うら"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

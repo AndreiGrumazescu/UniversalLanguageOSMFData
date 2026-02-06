@@ -1,0 +1,26 @@
+{
+  "$id": "kanji:U+4E57",
+  "unicode": "U+4E57",
+  "symbol": "乗",
+  "meanings": [
+    "ride",
+    "power",
+    "multiplication",
+    "record",
+    "counter for vehicles",
+    "board",
+    "mount",
+    "join"
+  ],
+  "onyomi": [
+    "ジョウ",
+    "ショウ"
+  ],
+  "kunyomi": [
+    "の.る",
+    "-の.り",
+    "の.せる"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

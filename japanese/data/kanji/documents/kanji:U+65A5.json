@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+65A5",
+  "unicode": "U+65A5",
+  "symbol": "斥",
+  "meanings": [
+    "reject",
+    "retreat",
+    "recede",
+    "withdraw",
+    "repel",
+    "repulse"
+  ],
+  "onyomi": [
+    "セキ"
+  ],
+  "kunyomi": [
+    "しりぞ.ける"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

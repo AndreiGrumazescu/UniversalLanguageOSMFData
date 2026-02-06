@@ -1,0 +1,33 @@
+{
+  "$id": "kanji:U+639B",
+  "unicode": "U+639B",
+  "symbol": "掛",
+  "meanings": [
+    "hang",
+    "suspend",
+    "depend",
+    "arrive at",
+    "tax",
+    "pour"
+  ],
+  "onyomi": [
+    "カイ",
+    "ケイ"
+  ],
+  "kunyomi": [
+    "か.ける",
+    "-か.ける",
+    "か.け",
+    "-か.け",
+    "-が.け",
+    "か.かる",
+    "-か.かる",
+    "-が.かる",
+    "か.かり",
+    "-が.かり",
+    "かかり",
+    "-がかり"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

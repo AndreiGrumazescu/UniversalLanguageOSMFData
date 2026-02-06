@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+6307",
+  "unicode": "U+6307",
+  "symbol": "指",
+  "meanings": [
+    "finger",
+    "point to",
+    "indicate",
+    "put into",
+    "play (chess)",
+    "measure (ruler)"
+  ],
+  "onyomi": [
+    "シ"
+  ],
+  "kunyomi": [
+    "ゆび",
+    "さ.す",
+    "-さ.し"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

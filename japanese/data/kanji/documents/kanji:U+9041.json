@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+9041",
+  "unicode": "U+9041",
+  "symbol": "遁",
+  "meanings": [
+    "flee",
+    "escape",
+    "shirk",
+    "evade",
+    "set free"
+  ],
+  "onyomi": [
+    "トン",
+    "シュン"
+  ],
+  "kunyomi": [
+    "のが.れる"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

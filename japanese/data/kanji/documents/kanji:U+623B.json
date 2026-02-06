@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+623B",
+  "unicode": "U+623B",
+  "symbol": "戻",
+  "meanings": [
+    "re-",
+    "return",
+    "revert",
+    "resume",
+    "restore",
+    "go backwards"
+  ],
+  "onyomi": [
+    "レイ"
+  ],
+  "kunyomi": [
+    "もど.す",
+    "もど.る"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

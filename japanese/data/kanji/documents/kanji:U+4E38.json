@@ -1,0 +1,27 @@
+{
+  "$id": "kanji:U+4E38",
+  "unicode": "U+4E38",
+  "symbol": "丸",
+  "meanings": [
+    "round",
+    "full (month)",
+    "perfection",
+    "-ship",
+    "pills",
+    "make round",
+    "roll up",
+    "curl up",
+    "seduce",
+    "explain away"
+  ],
+  "onyomi": [
+    "ガン"
+  ],
+  "kunyomi": [
+    "まる",
+    "まる.める",
+    "まる.い"
+  ],
+  "strokeCount": 3,
+  "jlptLevel": "unspecified"
+}

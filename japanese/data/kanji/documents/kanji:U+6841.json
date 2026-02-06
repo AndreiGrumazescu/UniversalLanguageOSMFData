@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+6841",
+  "unicode": "U+6841",
+  "symbol": "桁",
+  "meanings": [
+    "beam",
+    "girder",
+    "spar",
+    "unit or column (accounting)"
+  ],
+  "onyomi": [
+    "コウ"
+  ],
+  "kunyomi": [
+    "けた"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

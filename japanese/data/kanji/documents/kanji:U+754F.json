@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+754F",
+  "unicode": "U+754F",
+  "symbol": "畏",
+  "meanings": [
+    "fear",
+    "majestic",
+    "graciously",
+    "be apprehensive"
+  ],
+  "onyomi": [
+    "イ"
+  ],
+  "kunyomi": [
+    "おそ.れる",
+    "かしこま.る",
+    "かしこ",
+    "かしこ.し"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

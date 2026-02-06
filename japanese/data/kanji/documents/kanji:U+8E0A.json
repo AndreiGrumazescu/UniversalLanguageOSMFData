@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+8E0A",
+  "unicode": "U+8E0A",
+  "symbol": "踊",
+  "meanings": [
+    "jump",
+    "dance",
+    "leap",
+    "skip"
+  ],
+  "onyomi": [
+    "ヨウ"
+  ],
+  "kunyomi": [
+    "おど.る"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+91CC",
+  "unicode": "U+91CC",
+  "symbol": "里",
+  "meanings": [
+    "ri",
+    "village",
+    "parent's home",
+    "league"
+  ],
+  "onyomi": [
+    "リ"
+  ],
+  "kunyomi": [
+    "さと"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

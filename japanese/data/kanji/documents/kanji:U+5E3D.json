@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+5E3D",
+  "unicode": "U+5E3D",
+  "symbol": "帽",
+  "meanings": [
+    "cap",
+    "headgear"
+  ],
+  "onyomi": [
+    "ボウ",
+    "モウ"
+  ],
+  "kunyomi": [
+    "ずきん",
+    "おお.う"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

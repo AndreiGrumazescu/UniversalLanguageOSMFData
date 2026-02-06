@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+907A",
+  "unicode": "U+907A",
+  "symbol": "遺",
+  "meanings": [
+    "bequeath",
+    "leave behind",
+    "reserve"
+  ],
+  "onyomi": [
+    "イ",
+    "ユイ"
+  ],
+  "kunyomi": [
+    "のこ.す"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

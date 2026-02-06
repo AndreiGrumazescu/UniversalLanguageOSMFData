@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+5DEE",
+  "unicode": "U+5DEE",
+  "symbol": "差",
+  "meanings": [
+    "distinction",
+    "difference",
+    "variation",
+    "discrepancy",
+    "margin",
+    "balance"
+  ],
+  "onyomi": [
+    "サ"
+  ],
+  "kunyomi": [
+    "さ.す",
+    "さ.し"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

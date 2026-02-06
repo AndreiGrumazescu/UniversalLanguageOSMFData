@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+6CBC",
+  "unicode": "U+6CBC",
+  "symbol": "沼",
+  "meanings": [
+    "marsh",
+    "lake",
+    "bog",
+    "swamp",
+    "pond"
+  ],
+  "onyomi": [
+    "ショウ"
+  ],
+  "kunyomi": [
+    "ぬま"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

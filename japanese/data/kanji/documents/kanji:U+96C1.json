@@ -1,0 +1,17 @@
+{
+  "$id": "kanji:U+96C1",
+  "unicode": "U+96C1",
+  "symbol": "雁",
+  "meanings": [
+    "wild goose"
+  ],
+  "onyomi": [
+    "ガン"
+  ],
+  "kunyomi": [
+    "かり",
+    "かりがね"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

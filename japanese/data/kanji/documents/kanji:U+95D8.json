@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+95D8",
+  "unicode": "U+95D8",
+  "symbol": "闘",
+  "meanings": [
+    "fight",
+    "war"
+  ],
+  "onyomi": [
+    "トウ"
+  ],
+  "kunyomi": [
+    "たたか.う",
+    "あらそ.う"
+  ],
+  "strokeCount": 18,
+  "jlptLevel": "unspecified"
+}

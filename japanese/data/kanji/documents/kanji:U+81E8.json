@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+81E8",
+  "unicode": "U+81E8",
+  "symbol": "臨",
+  "meanings": [
+    "look to",
+    "face",
+    "meet",
+    "confront",
+    "attend",
+    "call on"
+  ],
+  "onyomi": [
+    "リン"
+  ],
+  "kunyomi": [
+    "のぞ.む"
+  ],
+  "strokeCount": 18,
+  "jlptLevel": "unspecified"
+}

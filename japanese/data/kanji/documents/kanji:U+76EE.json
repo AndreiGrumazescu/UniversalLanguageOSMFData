@@ -1,0 +1,25 @@
+{
+  "$id": "kanji:U+76EE",
+  "unicode": "U+76EE",
+  "symbol": "目",
+  "meanings": [
+    "eye",
+    "class",
+    "look",
+    "insight",
+    "experience",
+    "care",
+    "favor"
+  ],
+  "onyomi": [
+    "モク",
+    "ボク"
+  ],
+  "kunyomi": [
+    "め",
+    "-め",
+    "ま-"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+6668",
+  "unicode": "U+6668",
+  "symbol": "晨",
+  "meanings": [
+    "morning",
+    "early"
+  ],
+  "onyomi": [
+    "シン"
+  ],
+  "kunyomi": [
+    "あした",
+    "とき",
+    "あさ"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

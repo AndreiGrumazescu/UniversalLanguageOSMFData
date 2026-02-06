@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+80FD",
+  "unicode": "U+80FD",
+  "symbol": "能",
+  "meanings": [
+    "ability",
+    "talent",
+    "skill",
+    "capacity"
+  ],
+  "onyomi": [
+    "ノウ"
+  ],
+  "kunyomi": [
+    "よ.く",
+    "あた.う"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

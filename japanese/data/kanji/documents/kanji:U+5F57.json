@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+5F57",
+  "unicode": "U+5F57",
+  "symbol": "彗",
+  "meanings": [
+    "comet",
+    "broom"
+  ],
+  "onyomi": [
+    "スイ",
+    "エ",
+    "ケイ",
+    "セイ"
+  ],
+  "kunyomi": [
+    "ほうき"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

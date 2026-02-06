@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+9162",
+  "unicode": "U+9162",
+  "symbol": "酢",
+  "meanings": [
+    "vinegar",
+    "sour",
+    "acid",
+    "tart"
+  ],
+  "onyomi": [
+    "サク"
+  ],
+  "kunyomi": [
+    "す"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

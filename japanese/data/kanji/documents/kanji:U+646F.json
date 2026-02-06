@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+646F",
+  "unicode": "U+646F",
+  "symbol": "摯",
+  "meanings": [
+    "gift",
+    "seriousness"
+  ],
+  "onyomi": [
+    "シ"
+  ],
+  "kunyomi": [
+    "いた.る",
+    "つか.む",
+    "にえ"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

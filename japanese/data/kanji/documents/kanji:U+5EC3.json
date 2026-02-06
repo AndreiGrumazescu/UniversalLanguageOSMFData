@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+5EC3",
+  "unicode": "U+5EC3",
+  "symbol": "廃",
+  "meanings": [
+    "abolish",
+    "obsolete",
+    "cessation",
+    "discarding",
+    "abandon"
+  ],
+  "onyomi": [
+    "ハイ"
+  ],
+  "kunyomi": [
+    "すた.れる",
+    "すた.る"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

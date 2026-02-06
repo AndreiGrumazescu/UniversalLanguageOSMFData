@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+793E",
+  "unicode": "U+793E",
+  "symbol": "社",
+  "meanings": [
+    "company",
+    "firm",
+    "office",
+    "association",
+    "shrine"
+  ],
+  "onyomi": [
+    "シャ"
+  ],
+  "kunyomi": [
+    "やしろ"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

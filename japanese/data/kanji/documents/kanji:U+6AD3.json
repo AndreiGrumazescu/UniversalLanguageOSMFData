@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+6AD3",
+  "unicode": "U+6AD3",
+  "symbol": "櫓",
+  "meanings": [
+    "oar",
+    "tower"
+  ],
+  "onyomi": [
+    "ロ"
+  ],
+  "kunyomi": [
+    "やぐら",
+    "おおだて"
+  ],
+  "strokeCount": 19,
+  "jlptLevel": "unspecified"
+}

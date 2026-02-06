@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+9019",
+  "unicode": "U+9019",
+  "symbol": "這",
+  "meanings": [
+    "crawl",
+    "creep",
+    "grovel",
+    "trail (vines)"
+  ],
+  "onyomi": [
+    "シャ",
+    "ゲン"
+  ],
+  "kunyomi": [
+    "は.う",
+    "は.い",
+    "むか.える",
+    "この"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

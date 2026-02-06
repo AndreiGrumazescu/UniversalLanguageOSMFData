@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+85CF",
+  "unicode": "U+85CF",
+  "symbol": "藏",
+  "meanings": [
+    "hide",
+    "own",
+    "have",
+    "possess"
+  ],
+  "onyomi": [
+    "ゾウ",
+    "ソウ"
+  ],
+  "kunyomi": [
+    "くら",
+    "おさ.める",
+    "かく.れる"
+  ],
+  "strokeCount": 18,
+  "jlptLevel": "unspecified"
+}

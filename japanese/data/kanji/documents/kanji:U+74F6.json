@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+74F6",
+  "unicode": "U+74F6",
+  "symbol": "瓶",
+  "meanings": [
+    "bottle",
+    "vial",
+    "jar",
+    "jug",
+    "vat",
+    "urn"
+  ],
+  "onyomi": [
+    "ビン",
+    "ヘイ"
+  ],
+  "kunyomi": [
+    "かめ"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

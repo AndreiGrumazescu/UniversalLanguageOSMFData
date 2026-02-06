@@ -1,0 +1,30 @@
+{
+  "$id": "kanji:U+53C2",
+  "unicode": "U+53C2",
+  "symbol": "参",
+  "meanings": [
+    "nonplussed",
+    "three (in documents)",
+    "going",
+    "coming",
+    "visiting",
+    "visit",
+    "be defeated",
+    "die",
+    "be madly in love",
+    "participate",
+    "take part in"
+  ],
+  "onyomi": [
+    "サン",
+    "シン"
+  ],
+  "kunyomi": [
+    "まい.る",
+    "まい-",
+    "まじわる",
+    "みつ"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

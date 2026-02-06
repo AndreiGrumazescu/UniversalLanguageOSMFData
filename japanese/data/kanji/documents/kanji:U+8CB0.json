@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+8CB0",
+  "unicode": "U+8CB0",
+  "symbol": "貰",
+  "meanings": [
+    "get",
+    "have",
+    "obtain"
+  ],
+  "onyomi": [
+    "セイ",
+    "シャ"
+  ],
+  "kunyomi": [
+    "もら.う"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,29 @@
+{
+  "$id": "kanji:U+629C",
+  "unicode": "U+629C",
+  "symbol": "抜",
+  "meanings": [
+    "slip out",
+    "extract",
+    "pull out",
+    "pilfer",
+    "quote",
+    "remove",
+    "omit"
+  ],
+  "onyomi": [
+    "バツ",
+    "ハツ",
+    "ハイ"
+  ],
+  "kunyomi": [
+    "ぬ.く",
+    "-ぬ.く",
+    "ぬ.き",
+    "ぬ.ける",
+    "ぬ.かす",
+    "ぬ.かる"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+515C",
+  "unicode": "U+515C",
+  "symbol": "兜",
+  "meanings": [
+    "helmet",
+    "head piece"
+  ],
+  "onyomi": [
+    "トウ",
+    "ト"
+  ],
+  "kunyomi": [
+    "かぶと"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

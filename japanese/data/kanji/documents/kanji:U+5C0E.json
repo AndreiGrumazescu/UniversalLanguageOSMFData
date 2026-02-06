@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+5C0E",
+  "unicode": "U+5C0E",
+  "symbol": "導",
+  "meanings": [
+    "guidance",
+    "leading",
+    "conduct",
+    "usher"
+  ],
+  "onyomi": [
+    "ドウ"
+  ],
+  "kunyomi": [
+    "みちび.く"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

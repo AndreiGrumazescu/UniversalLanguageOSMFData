@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+60A3",
+  "unicode": "U+60A3",
+  "symbol": "患",
+  "meanings": [
+    "afflicted",
+    "disease",
+    "suffer from",
+    "be ill"
+  ],
+  "onyomi": [
+    "カン"
+  ],
+  "kunyomi": [
+    "わずら.う"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

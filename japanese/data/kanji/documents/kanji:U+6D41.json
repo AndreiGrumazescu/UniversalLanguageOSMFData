@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+6D41",
+  "unicode": "U+6D41",
+  "symbol": "流",
+  "meanings": [
+    "current",
+    "a sink",
+    "flow",
+    "forfeit"
+  ],
+  "onyomi": [
+    "リュウ",
+    "ル"
+  ],
+  "kunyomi": [
+    "なが.れる",
+    "なが.れ",
+    "なが.す",
+    "-なが.す"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+5D69",
+  "unicode": "U+5D69",
+  "symbol": "嵩",
+  "meanings": [
+    "be aggravated",
+    "grow worse",
+    "grow bulky",
+    "swell"
+  ],
+  "onyomi": [
+    "スウ",
+    "シュウ"
+  ],
+  "kunyomi": [
+    "かさ",
+    "かさ.む",
+    "たか.い"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,25 @@
+{
+  "$id": "kanji:U+66FD",
+  "unicode": "U+66FD",
+  "symbol": "曽",
+  "meanings": [
+    "formerly",
+    "once",
+    "before",
+    "ever",
+    "never",
+    "ex-"
+  ],
+  "onyomi": [
+    "ソウ",
+    "ソ",
+    "ゾウ"
+  ],
+  "kunyomi": [
+    "かつ",
+    "かつて",
+    "すなわち"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+8105",
+  "unicode": "U+8105",
+  "symbol": "脅",
+  "meanings": [
+    "threaten",
+    "coerce"
+  ],
+  "onyomi": [
+    "キョウ"
+  ],
+  "kunyomi": [
+    "おびや.かす",
+    "おど.す",
+    "おど.かす"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

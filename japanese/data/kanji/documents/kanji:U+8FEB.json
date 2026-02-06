@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+8FEB",
+  "unicode": "U+8FEB",
+  "symbol": "迫",
+  "meanings": [
+    "urge",
+    "force",
+    "imminent",
+    "spur on"
+  ],
+  "onyomi": [
+    "ハク"
+  ],
+  "kunyomi": [
+    "せま.る"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

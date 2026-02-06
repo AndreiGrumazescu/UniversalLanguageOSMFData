@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+7E41",
+  "unicode": "U+7E41",
+  "symbol": "繁",
+  "meanings": [
+    "luxuriant",
+    "thick",
+    "overgrown",
+    "frequency",
+    "complexity",
+    "trouble"
+  ],
+  "onyomi": [
+    "ハン"
+  ],
+  "kunyomi": [
+    "しげ.る",
+    "しげ.く"
+  ],
+  "strokeCount": 16,
+  "jlptLevel": "unspecified"
+}

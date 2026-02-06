@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+5834",
+  "unicode": "U+5834",
+  "symbol": "場",
+  "meanings": [
+    "location",
+    "place"
+  ],
+  "onyomi": [
+    "ジョウ",
+    "チョウ"
+  ],
+  "kunyomi": [
+    "ば"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

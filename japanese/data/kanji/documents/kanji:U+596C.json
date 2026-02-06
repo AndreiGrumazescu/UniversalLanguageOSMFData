@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+596C",
+  "unicode": "U+596C",
+  "symbol": "奬",
+  "meanings": [
+    "prize",
+    "reward",
+    "give award to"
+  ],
+  "onyomi": [
+    "ショウ",
+    "ソウ"
+  ],
+  "kunyomi": [
+    "すす.める"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

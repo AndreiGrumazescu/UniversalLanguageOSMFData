@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+7532",
+  "unicode": "U+7532",
+  "symbol": "甲",
+  "meanings": [
+    "armor",
+    "high (voice)",
+    "A grade",
+    "first class",
+    "former",
+    "instep",
+    "carapace"
+  ],
+  "onyomi": [
+    "コウ",
+    "カン"
+  ],
+  "kunyomi": [
+    "きのえ"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

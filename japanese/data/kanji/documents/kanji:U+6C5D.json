@@ -1,0 +1,27 @@
+{
+  "$id": "kanji:U+6C5D",
+  "unicode": "U+6C5D",
+  "symbol": "汝",
+  "meanings": [
+    "you",
+    "thou"
+  ],
+  "onyomi": [
+    "ジョ"
+  ],
+  "kunyomi": [
+    "なんじ",
+    "なれ",
+    "い",
+    "うぬ",
+    "いまし",
+    "し",
+    "しゃ",
+    "な",
+    "なむち",
+    "まし",
+    "みまし"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

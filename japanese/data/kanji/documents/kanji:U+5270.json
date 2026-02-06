@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+5270",
+  "unicode": "U+5270",
+  "symbol": "剰",
+  "meanings": [
+    "surplus",
+    "besides"
+  ],
+  "onyomi": [
+    "ジョウ"
+  ],
+  "kunyomi": [
+    "あまつさえ",
+    "あま.り",
+    "あま.る"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

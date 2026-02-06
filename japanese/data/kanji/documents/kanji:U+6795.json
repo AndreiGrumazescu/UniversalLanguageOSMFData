@@ -1,0 +1,17 @@
+{
+  "$id": "kanji:U+6795",
+  "unicode": "U+6795",
+  "symbol": "枕",
+  "meanings": [
+    "pillow"
+  ],
+  "onyomi": [
+    "チン",
+    "シン"
+  ],
+  "kunyomi": [
+    "まくら"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

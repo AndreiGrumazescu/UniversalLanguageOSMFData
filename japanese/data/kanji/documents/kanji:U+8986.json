@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+8986",
+  "unicode": "U+8986",
+  "symbol": "覆",
+  "meanings": [
+    "capsize",
+    "cover",
+    "shade",
+    "mantle",
+    "be ruined"
+  ],
+  "onyomi": [
+    "フク"
+  ],
+  "kunyomi": [
+    "おお.う",
+    "くつがえ.す",
+    "くつがえ.る"
+  ],
+  "strokeCount": 18,
+  "jlptLevel": "unspecified"
+}

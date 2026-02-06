@@ -1,0 +1,17 @@
+{
+  "$id": "kanji:U+9CE5",
+  "unicode": "U+9CE5",
+  "symbol": "鳥",
+  "meanings": [
+    "bird",
+    "chicken"
+  ],
+  "onyomi": [
+    "チョウ"
+  ],
+  "kunyomi": [
+    "とり"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

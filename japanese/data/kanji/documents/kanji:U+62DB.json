@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+62DB",
+  "unicode": "U+62DB",
+  "symbol": "招",
+  "meanings": [
+    "beckon",
+    "invite",
+    "summon",
+    "engage"
+  ],
+  "onyomi": [
+    "ショウ"
+  ],
+  "kunyomi": [
+    "まね.く"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

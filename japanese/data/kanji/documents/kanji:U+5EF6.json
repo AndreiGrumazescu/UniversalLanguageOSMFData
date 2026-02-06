@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+5EF6",
+  "unicode": "U+5EF6",
+  "symbol": "延",
+  "meanings": [
+    "prolong",
+    "stretching"
+  ],
+  "onyomi": [
+    "エン"
+  ],
+  "kunyomi": [
+    "の.びる",
+    "の.べる",
+    "の.べ",
+    "の.ばす"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+9396",
+  "unicode": "U+9396",
+  "symbol": "鎖",
+  "meanings": [
+    "chain",
+    "irons",
+    "connection"
+  ],
+  "onyomi": [
+    "サ"
+  ],
+  "kunyomi": [
+    "くさり",
+    "とざ.す"
+  ],
+  "strokeCount": 18,
+  "jlptLevel": "unspecified"
+}

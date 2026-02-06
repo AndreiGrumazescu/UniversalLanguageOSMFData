@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+99FF",
+  "unicode": "U+99FF",
+  "symbol": "駿",
+  "meanings": [
+    "a good horse",
+    "speed",
+    "a fast person"
+  ],
+  "onyomi": [
+    "シュン",
+    "スン"
+  ],
+  "kunyomi": [
+    "すぐ.れる"
+  ],
+  "strokeCount": 17,
+  "jlptLevel": "unspecified"
+}

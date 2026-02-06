@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+61A4",
+  "unicode": "U+61A4",
+  "symbol": "憤",
+  "meanings": [
+    "aroused",
+    "resent",
+    "be indignant",
+    "anger"
+  ],
+  "onyomi": [
+    "フン"
+  ],
+  "kunyomi": [
+    "いきどお.る"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

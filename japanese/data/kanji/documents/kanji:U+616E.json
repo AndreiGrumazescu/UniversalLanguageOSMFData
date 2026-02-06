@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+616E",
+  "unicode": "U+616E",
+  "symbol": "慮",
+  "meanings": [
+    "prudence",
+    "thought",
+    "concern",
+    "consider",
+    "deliberate",
+    "fear"
+  ],
+  "onyomi": [
+    "リョ"
+  ],
+  "kunyomi": [
+    "おもんぱく.る",
+    "おもんぱか.る"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

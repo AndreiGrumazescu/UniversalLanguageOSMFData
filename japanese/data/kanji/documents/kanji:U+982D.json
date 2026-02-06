@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+982D",
+  "unicode": "U+982D",
+  "symbol": "頭",
+  "meanings": [
+    "head",
+    "counter for large animals"
+  ],
+  "onyomi": [
+    "トウ",
+    "ズ",
+    "ト"
+  ],
+  "kunyomi": [
+    "あたま",
+    "かしら",
+    "-がしら",
+    "かぶり"
+  ],
+  "strokeCount": 16,
+  "jlptLevel": "unspecified"
+}

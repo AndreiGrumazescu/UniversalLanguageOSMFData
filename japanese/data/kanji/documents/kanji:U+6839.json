@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+6839",
+  "unicode": "U+6839",
+  "symbol": "根",
+  "meanings": [
+    "root",
+    "radical",
+    "head (pimple)"
+  ],
+  "onyomi": [
+    "コン"
+  ],
+  "kunyomi": [
+    "ね",
+    "-ね"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

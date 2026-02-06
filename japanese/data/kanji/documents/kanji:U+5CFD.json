@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+5CFD",
+  "unicode": "U+5CFD",
+  "symbol": "峽",
+  "meanings": [
+    "gorge",
+    "strait",
+    "ravine",
+    "isthmus"
+  ],
+  "onyomi": [
+    "キョウ",
+    "コウ"
+  ],
+  "kunyomi": [
+    "はざま"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

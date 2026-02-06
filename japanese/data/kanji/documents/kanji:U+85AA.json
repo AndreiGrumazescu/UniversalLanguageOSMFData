@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+85AA",
+  "unicode": "U+85AA",
+  "symbol": "薪",
+  "meanings": [
+    "fuel",
+    "firewood",
+    "kindling"
+  ],
+  "onyomi": [
+    "シン"
+  ],
+  "kunyomi": [
+    "たきぎ",
+    "まき"
+  ],
+  "strokeCount": 16,
+  "jlptLevel": "unspecified"
+}

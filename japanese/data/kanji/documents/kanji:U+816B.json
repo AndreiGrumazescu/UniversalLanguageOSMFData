@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+816B",
+  "unicode": "U+816B",
+  "symbol": "腫",
+  "meanings": [
+    "tumor",
+    "swelling"
+  ],
+  "onyomi": [
+    "シュ",
+    "ショウ"
+  ],
+  "kunyomi": [
+    "は.れる",
+    "は.れ",
+    "は.らす",
+    "はれもの"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

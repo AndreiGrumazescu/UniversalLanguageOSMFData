@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+8DDD",
+  "unicode": "U+8DDD",
+  "symbol": "距",
+  "meanings": [
+    "long-distance",
+    "spur",
+    "fetlock"
+  ],
+  "onyomi": [
+    "キョ"
+  ],
+  "kunyomi": [
+    "へだ.たる",
+    "けづめ"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

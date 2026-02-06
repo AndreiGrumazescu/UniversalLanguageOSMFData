@@ -1,0 +1,25 @@
+{
+  "$id": "kanji:U+4E71",
+  "unicode": "U+4E71",
+  "symbol": "乱",
+  "meanings": [
+    "riot",
+    "war",
+    "disorder",
+    "disturb"
+  ],
+  "onyomi": [
+    "ラン",
+    "ロン"
+  ],
+  "kunyomi": [
+    "みだ.れる",
+    "みだ.る",
+    "みだ.す",
+    "みだ",
+    "おさ.める",
+    "わた.る"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

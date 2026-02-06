@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+6AC2",
+  "unicode": "U+6AC2",
+  "symbol": "櫂",
+  "meanings": [
+    "oar",
+    "scull",
+    "paddle"
+  ],
+  "onyomi": [
+    "トウ",
+    "タク"
+  ],
+  "kunyomi": [
+    "かい",
+    "かじ"
+  ],
+  "strokeCount": 18,
+  "jlptLevel": "unspecified"
+}

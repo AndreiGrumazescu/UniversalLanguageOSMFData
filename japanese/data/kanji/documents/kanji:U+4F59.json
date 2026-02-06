@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+4F59",
+  "unicode": "U+4F59",
+  "symbol": "余",
+  "meanings": [
+    "too much",
+    "myself",
+    "surplus",
+    "other",
+    "remainder"
+  ],
+  "onyomi": [
+    "ヨ"
+  ],
+  "kunyomi": [
+    "あま.る",
+    "あま.り",
+    "あま.す",
+    "あんま.り"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

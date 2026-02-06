@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+5F14",
+  "unicode": "U+5F14",
+  "symbol": "弔",
+  "meanings": [
+    "condolences",
+    "mourning",
+    "funeral"
+  ],
+  "onyomi": [
+    "チョウ"
+  ],
+  "kunyomi": [
+    "とむら.う",
+    "とぶら.う"
+  ],
+  "strokeCount": 4,
+  "jlptLevel": "unspecified"
+}

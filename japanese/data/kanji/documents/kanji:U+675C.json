@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+675C",
+  "unicode": "U+675C",
+  "symbol": "杜",
+  "meanings": [
+    "woods",
+    "grove"
+  ],
+  "onyomi": [
+    "ト",
+    "トウ",
+    "ズ"
+  ],
+  "kunyomi": [
+    "もり",
+    "ふさ.ぐ",
+    "やまなし"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

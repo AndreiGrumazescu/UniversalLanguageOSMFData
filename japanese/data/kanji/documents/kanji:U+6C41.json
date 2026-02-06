@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+6C41",
+  "unicode": "U+6C41",
+  "symbol": "汁",
+  "meanings": [
+    "soup",
+    "juice",
+    "broth",
+    "sap",
+    "gravy",
+    "pus"
+  ],
+  "onyomi": [
+    "ジュウ"
+  ],
+  "kunyomi": [
+    "しる",
+    "-しる",
+    "つゆ"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

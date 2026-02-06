@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+59A8",
+  "unicode": "U+59A8",
+  "symbol": "妨",
+  "meanings": [
+    "disturb",
+    "prevent",
+    "hamper",
+    "obstruct"
+  ],
+  "onyomi": [
+    "ボウ"
+  ],
+  "kunyomi": [
+    "さまた.げる"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

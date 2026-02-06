@@ -1,0 +1,17 @@
+{
+  "$id": "kanji:U+786F",
+  "unicode": "U+786F",
+  "symbol": "硯",
+  "meanings": [
+    "inkstone"
+  ],
+  "onyomi": [
+    "ケン",
+    "ゲン"
+  ],
+  "kunyomi": [
+    "すずり"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

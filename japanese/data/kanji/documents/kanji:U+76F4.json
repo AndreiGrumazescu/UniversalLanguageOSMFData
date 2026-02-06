@@ -1,0 +1,27 @@
+{
+  "$id": "kanji:U+76F4",
+  "unicode": "U+76F4",
+  "symbol": "直",
+  "meanings": [
+    "straightaway",
+    "honesty",
+    "frankness",
+    "fix",
+    "repair"
+  ],
+  "onyomi": [
+    "チョク",
+    "ジキ",
+    "ジカ"
+  ],
+  "kunyomi": [
+    "ただ.ちに",
+    "なお.す",
+    "-なお.す",
+    "なお.る",
+    "なお.き",
+    "す.ぐ"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

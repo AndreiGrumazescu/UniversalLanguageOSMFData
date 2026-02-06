@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+8857",
+  "unicode": "U+8857",
+  "symbol": "街",
+  "meanings": [
+    "boulevard",
+    "street",
+    "town"
+  ],
+  "onyomi": [
+    "ガイ",
+    "カイ"
+  ],
+  "kunyomi": [
+    "まち"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

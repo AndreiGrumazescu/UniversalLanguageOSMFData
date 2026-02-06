@@ -1,0 +1,25 @@
+{
+  "$id": "kanji:U+546A",
+  "unicode": "U+546A",
+  "symbol": "呪",
+  "meanings": [
+    "spell",
+    "curse",
+    "charm",
+    "malediction"
+  ],
+  "onyomi": [
+    "ジュ",
+    "シュ",
+    "シュウ",
+    "ズ"
+  ],
+  "kunyomi": [
+    "まじな.う",
+    "のろ.い",
+    "まじな.い",
+    "のろ.う"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

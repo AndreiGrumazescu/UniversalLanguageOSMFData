@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+9EBA",
+  "unicode": "U+9EBA",
+  "symbol": "麺",
+  "meanings": [
+    "noodles",
+    "wheat flour"
+  ],
+  "onyomi": [
+    "メン",
+    "ベン"
+  ],
+  "kunyomi": [
+    "むぎこ"
+  ],
+  "strokeCount": 16,
+  "jlptLevel": "unspecified"
+}

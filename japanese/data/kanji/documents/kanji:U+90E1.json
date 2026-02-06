@@ -1,0 +1,17 @@
+{
+  "$id": "kanji:U+90E1",
+  "unicode": "U+90E1",
+  "symbol": "郡",
+  "meanings": [
+    "county",
+    "district"
+  ],
+  "onyomi": [
+    "グン"
+  ],
+  "kunyomi": [
+    "こおり"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

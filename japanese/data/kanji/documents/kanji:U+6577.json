@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+6577",
+  "unicode": "U+6577",
+  "symbol": "敷",
+  "meanings": [
+    "spread",
+    "pave",
+    "sit",
+    "promulgate"
+  ],
+  "onyomi": [
+    "フ"
+  ],
+  "kunyomi": [
+    "し.く",
+    "-し.き"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

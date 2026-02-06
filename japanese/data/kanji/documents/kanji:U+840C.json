@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+840C",
+  "unicode": "U+840C",
+  "symbol": "萌",
+  "meanings": [
+    "show symptoms of",
+    "sprout",
+    "bud",
+    "malt"
+  ],
+  "onyomi": [
+    "ホウ"
+  ],
+  "kunyomi": [
+    "も.える",
+    "きざ.す",
+    "めばえ",
+    "きざ.し"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

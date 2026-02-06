@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+7DCF",
+  "unicode": "U+7DCF",
+  "symbol": "総",
+  "meanings": [
+    "general",
+    "whole",
+    "all",
+    "full",
+    "total"
+  ],
+  "onyomi": [
+    "ソウ"
+  ],
+  "kunyomi": [
+    "す.べて",
+    "すべ.て",
+    "ふさ"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

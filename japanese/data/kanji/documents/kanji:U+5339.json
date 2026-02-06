@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+5339",
+  "unicode": "U+5339",
+  "symbol": "匹",
+  "meanings": [
+    "equal",
+    "head",
+    "counter for small animals",
+    "roll of cloth"
+  ],
+  "onyomi": [
+    "ヒツ"
+  ],
+  "kunyomi": [
+    "ひき"
+  ],
+  "strokeCount": 4,
+  "jlptLevel": "unspecified"
+}

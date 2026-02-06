@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+5965",
+  "unicode": "U+5965",
+  "symbol": "奥",
+  "meanings": [
+    "heart",
+    "interior"
+  ],
+  "onyomi": [
+    "オウ"
+  ],
+  "kunyomi": [
+    "おく",
+    "おく.まる",
+    "くま"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

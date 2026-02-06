@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+5DF2",
+  "unicode": "U+5DF2",
+  "symbol": "已",
+  "meanings": [
+    "stop",
+    "halt",
+    "previously",
+    "already",
+    "long ago"
+  ],
+  "onyomi": [
+    "イ"
+  ],
+  "kunyomi": [
+    "や.む",
+    "すで.に",
+    "のみ",
+    "はなはだ"
+  ],
+  "strokeCount": 3,
+  "jlptLevel": "unspecified"
+}

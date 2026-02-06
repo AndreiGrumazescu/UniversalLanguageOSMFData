@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+5E61",
+  "unicode": "U+5E61",
+  "symbol": "幡",
+  "meanings": [
+    "flag"
+  ],
+  "onyomi": [
+    "マン",
+    "ハン",
+    "バン",
+    "ホン"
+  ],
+  "kunyomi": [
+    "はた"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

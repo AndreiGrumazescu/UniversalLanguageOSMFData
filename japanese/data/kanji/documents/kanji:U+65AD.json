@@ -1,0 +1,27 @@
+{
+  "$id": "kanji:U+65AD",
+  "unicode": "U+65AD",
+  "symbol": "断",
+  "meanings": [
+    "severance",
+    "decline",
+    "refuse",
+    "apologize",
+    "warn",
+    "dismiss",
+    "prohibit",
+    "decision",
+    "judgement",
+    "cutting"
+  ],
+  "onyomi": [
+    "ダン"
+  ],
+  "kunyomi": [
+    "た.つ",
+    "ことわ.る",
+    "さだ.める"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

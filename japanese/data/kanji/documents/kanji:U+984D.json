@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+984D",
+  "unicode": "U+984D",
+  "symbol": "額",
+  "meanings": [
+    "forehead",
+    "tablet",
+    "plaque",
+    "framed picture",
+    "sum",
+    "amount",
+    "volume"
+  ],
+  "onyomi": [
+    "ガク"
+  ],
+  "kunyomi": [
+    "ひたい"
+  ],
+  "strokeCount": 18,
+  "jlptLevel": "unspecified"
+}

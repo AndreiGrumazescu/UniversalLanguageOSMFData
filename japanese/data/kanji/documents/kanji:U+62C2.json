@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+62C2",
+  "unicode": "U+62C2",
+  "symbol": "拂",
+  "meanings": [
+    "clear out",
+    "sweep away"
+  ],
+  "onyomi": [
+    "ヒツ",
+    "フツ",
+    "ホツ"
+  ],
+  "kunyomi": [
+    "はら.う"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

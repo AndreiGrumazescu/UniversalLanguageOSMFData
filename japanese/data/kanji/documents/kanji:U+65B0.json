@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+65B0",
+  "unicode": "U+65B0",
+  "symbol": "新",
+  "meanings": [
+    "new"
+  ],
+  "onyomi": [
+    "シン"
+  ],
+  "kunyomi": [
+    "あたら.しい",
+    "あら.た",
+    "あら-",
+    "にい-"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

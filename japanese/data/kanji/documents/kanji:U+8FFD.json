@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+8FFD",
+  "unicode": "U+8FFD",
+  "symbol": "追",
+  "meanings": [
+    "chase",
+    "drive away",
+    "follow",
+    "pursue",
+    "meanwhile"
+  ],
+  "onyomi": [
+    "ツイ"
+  ],
+  "kunyomi": [
+    "お.う"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

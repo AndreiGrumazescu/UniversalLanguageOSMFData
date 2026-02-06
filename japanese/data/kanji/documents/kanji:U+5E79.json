@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+5E79",
+  "unicode": "U+5E79",
+  "symbol": "幹",
+  "meanings": [
+    "tree trunk",
+    "main part",
+    "talent",
+    "capability"
+  ],
+  "onyomi": [
+    "カン"
+  ],
+  "kunyomi": [
+    "みき"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

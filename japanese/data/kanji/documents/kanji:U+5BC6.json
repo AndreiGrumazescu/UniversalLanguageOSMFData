@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+5BC6",
+  "unicode": "U+5BC6",
+  "symbol": "密",
+  "meanings": [
+    "secrecy",
+    "density (pop)",
+    "minuteness",
+    "carefulness"
+  ],
+  "onyomi": [
+    "ミツ"
+  ],
+  "kunyomi": [
+    "ひそ.か"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

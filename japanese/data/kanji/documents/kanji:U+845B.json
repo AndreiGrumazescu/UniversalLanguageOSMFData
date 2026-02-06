@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+845B",
+  "unicode": "U+845B",
+  "symbol": "葛",
+  "meanings": [
+    "arrowroot",
+    "kudzu"
+  ],
+  "onyomi": [
+    "カツ",
+    "カチ"
+  ],
+  "kunyomi": [
+    "つづら",
+    "くず"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

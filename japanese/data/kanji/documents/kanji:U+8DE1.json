@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+8DE1",
+  "unicode": "U+8DE1",
+  "symbol": "跡",
+  "meanings": [
+    "tracks",
+    "mark",
+    "print",
+    "impression"
+  ],
+  "onyomi": [
+    "セキ"
+  ],
+  "kunyomi": [
+    "あと"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

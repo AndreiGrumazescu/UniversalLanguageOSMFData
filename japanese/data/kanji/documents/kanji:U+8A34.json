@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+8A34",
+  "unicode": "U+8A34",
+  "symbol": "訴",
+  "meanings": [
+    "accusation",
+    "sue",
+    "complain of pain",
+    "appeal to"
+  ],
+  "onyomi": [
+    "ソ"
+  ],
+  "kunyomi": [
+    "うった.える"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

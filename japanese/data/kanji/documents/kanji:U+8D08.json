@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+8D08",
+  "unicode": "U+8D08",
+  "symbol": "贈",
+  "meanings": [
+    "presents",
+    "send",
+    "give to",
+    "award to",
+    "confer on",
+    "presenting something"
+  ],
+  "onyomi": [
+    "ゾウ",
+    "ソウ"
+  ],
+  "kunyomi": [
+    "おく.る"
+  ],
+  "strokeCount": 18,
+  "jlptLevel": "unspecified"
+}

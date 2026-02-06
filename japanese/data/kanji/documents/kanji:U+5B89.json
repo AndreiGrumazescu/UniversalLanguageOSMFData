@@ -1,0 +1,25 @@
+{
+  "$id": "kanji:U+5B89",
+  "unicode": "U+5B89",
+  "symbol": "安",
+  "meanings": [
+    "relax",
+    "cheap",
+    "low",
+    "quiet",
+    "rested",
+    "contented",
+    "peaceful"
+  ],
+  "onyomi": [
+    "アン"
+  ],
+  "kunyomi": [
+    "やす.い",
+    "やす.まる",
+    "やす",
+    "やす.らか"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

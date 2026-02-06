@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+6F81",
+  "unicode": "U+6F81",
+  "symbol": "澁",
+  "meanings": [
+    "astringent",
+    "harsh",
+    "uneven",
+    "rough"
+  ],
+  "onyomi": [
+    "ジュウ",
+    "シュウ"
+  ],
+  "kunyomi": [
+    "しぶ",
+    "しぶ.い",
+    "しぶ.る"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

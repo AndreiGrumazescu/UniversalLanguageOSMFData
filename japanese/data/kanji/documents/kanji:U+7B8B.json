@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+7B8B",
+  "unicode": "U+7B8B",
+  "symbol": "箋",
+  "meanings": [
+    "paper",
+    "label",
+    "letter",
+    "composition"
+  ],
+  "onyomi": [
+    "セン"
+  ],
+  "kunyomi": [
+    "ふだ"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

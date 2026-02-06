@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+8CAB",
+  "unicode": "U+8CAB",
+  "symbol": "貫",
+  "meanings": [
+    "pierce",
+    "8 1/3lbs",
+    "penetrate",
+    "brace"
+  ],
+  "onyomi": [
+    "カン"
+  ],
+  "kunyomi": [
+    "つらぬ.く",
+    "ぬ.く",
+    "ぬき"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

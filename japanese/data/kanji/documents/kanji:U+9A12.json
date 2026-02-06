@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+9A12",
+  "unicode": "U+9A12",
+  "symbol": "騒",
+  "meanings": [
+    "boisterous",
+    "make noise",
+    "clamor",
+    "disturb",
+    "excite"
+  ],
+  "onyomi": [
+    "ソウ"
+  ],
+  "kunyomi": [
+    "さわ.ぐ",
+    "うれい",
+    "さわ.がしい"
+  ],
+  "strokeCount": 18,
+  "jlptLevel": "unspecified"
+}

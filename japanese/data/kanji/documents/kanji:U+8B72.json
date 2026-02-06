@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+8B72",
+  "unicode": "U+8B72",
+  "symbol": "譲",
+  "meanings": [
+    "defer",
+    "turnover",
+    "transfer",
+    "convey"
+  ],
+  "onyomi": [
+    "ジョウ"
+  ],
+  "kunyomi": [
+    "ゆず.る"
+  ],
+  "strokeCount": 20,
+  "jlptLevel": "unspecified"
+}

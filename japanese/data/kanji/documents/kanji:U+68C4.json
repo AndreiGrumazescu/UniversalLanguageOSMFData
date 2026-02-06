@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+68C4",
+  "unicode": "U+68C4",
+  "symbol": "棄",
+  "meanings": [
+    "abandon",
+    "throw away",
+    "discard",
+    "resign",
+    "reject",
+    "sacrifice"
+  ],
+  "onyomi": [
+    "キ"
+  ],
+  "kunyomi": [
+    "す.てる"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

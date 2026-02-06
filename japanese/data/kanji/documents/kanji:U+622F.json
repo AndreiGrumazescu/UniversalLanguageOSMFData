@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+622F",
+  "unicode": "U+622F",
+  "symbol": "戯",
+  "meanings": [
+    "frolic",
+    "play",
+    "sport"
+  ],
+  "onyomi": [
+    "ギ",
+    "ゲ"
+  ],
+  "kunyomi": [
+    "たわむ.れる",
+    "ざ.れる",
+    "じゃ.れる"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

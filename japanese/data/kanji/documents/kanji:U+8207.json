@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+8207",
+  "unicode": "U+8207",
+  "symbol": "與",
+  "meanings": [
+    "participate in",
+    "give",
+    "award",
+    "impart",
+    "provide",
+    "cause"
+  ],
+  "onyomi": [
+    "ヨ"
+  ],
+  "kunyomi": [
+    "あた.える",
+    "あずか.る",
+    "くみ.する",
+    "ともに"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

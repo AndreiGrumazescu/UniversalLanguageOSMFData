@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+4F4F",
+  "unicode": "U+4F4F",
+  "symbol": "住",
+  "meanings": [
+    "dwell",
+    "reside",
+    "live",
+    "inhabit"
+  ],
+  "onyomi": [
+    "ジュウ",
+    "ヂュウ",
+    "チュウ"
+  ],
+  "kunyomi": [
+    "す.む",
+    "す.まう",
+    "-ず.まい"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

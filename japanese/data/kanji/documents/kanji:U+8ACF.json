@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+8ACF",
+  "unicode": "U+8ACF",
+  "symbol": "諏",
+  "meanings": [
+    "consult"
+  ],
+  "onyomi": [
+    "シュ",
+    "ス"
+  ],
+  "kunyomi": [
+    "そう",
+    "はか.る"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

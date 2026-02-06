@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+9003",
+  "unicode": "U+9003",
+  "symbol": "逃",
+  "meanings": [
+    "escape",
+    "flee",
+    "shirk",
+    "evade",
+    "set free"
+  ],
+  "onyomi": [
+    "トウ"
+  ],
+  "kunyomi": [
+    "に.げる",
+    "に.がす",
+    "のが.す",
+    "のが.れる"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

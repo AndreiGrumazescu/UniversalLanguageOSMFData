@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+5026",
+  "unicode": "U+5026",
+  "symbol": "倦",
+  "meanings": [
+    "lose interest in",
+    "tire of"
+  ],
+  "onyomi": [
+    "ケン"
+  ],
+  "kunyomi": [
+    "あき.る",
+    "あぐ.む",
+    "あぐ.ねる",
+    "う.む",
+    "つか.れる"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

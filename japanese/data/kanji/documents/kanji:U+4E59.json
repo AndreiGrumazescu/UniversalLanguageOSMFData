@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+4E59",
+  "unicode": "U+4E59",
+  "symbol": "乙",
+  "meanings": [
+    "the latter",
+    "duplicate",
+    "strange",
+    "witty",
+    "fishhook radical (no. 5)"
+  ],
+  "onyomi": [
+    "オツ",
+    "イツ"
+  ],
+  "kunyomi": [
+    "おと-",
+    "きのと"
+  ],
+  "strokeCount": 1,
+  "jlptLevel": "unspecified"
+}

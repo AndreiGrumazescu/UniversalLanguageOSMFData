@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+63DA",
+  "unicode": "U+63DA",
+  "symbol": "揚",
+  "meanings": [
+    "raise",
+    "elevate",
+    "hoist",
+    "praise",
+    "extol",
+    "fry in deep fat"
+  ],
+  "onyomi": [
+    "ヨウ"
+  ],
+  "kunyomi": [
+    "あ.げる",
+    "-あ.げ",
+    "あ.がる"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

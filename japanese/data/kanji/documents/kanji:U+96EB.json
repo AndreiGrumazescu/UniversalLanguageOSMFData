@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+96EB",
+  "unicode": "U+96EB",
+  "symbol": "雫",
+  "meanings": [
+    "drop",
+    "trickle",
+    "dripping",
+    "(kokuji)"
+  ],
+  "onyomi": [
+    "ダ"
+  ],
+  "kunyomi": [
+    "しずく"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

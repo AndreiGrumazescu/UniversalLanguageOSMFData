@@ -1,0 +1,28 @@
+{
+  "$id": "kanji:U+5BFE",
+  "unicode": "U+5BFE",
+  "symbol": "対",
+  "meanings": [
+    "vis-a-vis",
+    "opposite",
+    "even",
+    "equal",
+    "versus",
+    "anti-",
+    "compare"
+  ],
+  "onyomi": [
+    "タイ",
+    "ツイ"
+  ],
+  "kunyomi": [
+    "あいて",
+    "こた.える",
+    "そろ.い",
+    "つれあ.い",
+    "なら.ぶ",
+    "むか.う"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

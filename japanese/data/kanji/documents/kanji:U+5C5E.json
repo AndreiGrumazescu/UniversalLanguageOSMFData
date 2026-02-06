@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+5C5E",
+  "unicode": "U+5C5E",
+  "symbol": "属",
+  "meanings": [
+    "belong",
+    "genus",
+    "subordinate official",
+    "affiliated"
+  ],
+  "onyomi": [
+    "ゾク",
+    "ショク"
+  ],
+  "kunyomi": [
+    "さかん",
+    "つく",
+    "やから"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+5642",
+  "unicode": "U+5642",
+  "symbol": "噂",
+  "meanings": [
+    "rumor",
+    "gossip",
+    "hearsay"
+  ],
+  "onyomi": [
+    "ソン"
+  ],
+  "kunyomi": [
+    "うわさ"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

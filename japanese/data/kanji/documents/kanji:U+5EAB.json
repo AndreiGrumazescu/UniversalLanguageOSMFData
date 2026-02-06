@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+5EAB",
+  "unicode": "U+5EAB",
+  "symbol": "庫",
+  "meanings": [
+    "warehouse",
+    "storehouse"
+  ],
+  "onyomi": [
+    "コ",
+    "ク"
+  ],
+  "kunyomi": [
+    "くら"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

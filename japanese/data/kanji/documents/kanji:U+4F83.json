@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+4F83",
+  "unicode": "U+4F83",
+  "symbol": "侃",
+  "meanings": [
+    "strong",
+    "just",
+    "righteous",
+    "peace-loving"
+  ],
+  "onyomi": [
+    "カン"
+  ],
+  "kunyomi": [
+    "つよ.い"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

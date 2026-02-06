@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+53BB",
+  "unicode": "U+53BB",
+  "symbol": "去",
+  "meanings": [
+    "gone",
+    "past",
+    "quit",
+    "leave",
+    "elapse",
+    "eliminate",
+    "divorce"
+  ],
+  "onyomi": [
+    "キョ",
+    "コ"
+  ],
+  "kunyomi": [
+    "さ.る",
+    "-さ.る"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

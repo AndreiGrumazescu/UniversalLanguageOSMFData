@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+7626",
+  "unicode": "U+7626",
+  "symbol": "瘦",
+  "meanings": [
+    "thin",
+    "emaciated",
+    "lean",
+    "meager"
+  ],
+  "onyomi": [
+    "ソウ",
+    "チュウ",
+    "シュウ",
+    "チュ"
+  ],
+  "kunyomi": [
+    "やせ.る"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

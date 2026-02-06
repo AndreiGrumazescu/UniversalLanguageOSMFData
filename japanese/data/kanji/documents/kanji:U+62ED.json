@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+62ED",
+  "unicode": "U+62ED",
+  "symbol": "拭",
+  "meanings": [
+    "wipe",
+    "mop",
+    "swab"
+  ],
+  "onyomi": [
+    "ショク",
+    "シキ"
+  ],
+  "kunyomi": [
+    "ぬぐ.う",
+    "ふ.く"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

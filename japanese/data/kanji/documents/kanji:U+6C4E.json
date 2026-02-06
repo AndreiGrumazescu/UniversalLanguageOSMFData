@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+6C4E",
+  "unicode": "U+6C4E",
+  "symbol": "汎",
+  "meanings": [
+    "pan-"
+  ],
+  "onyomi": [
+    "ハン",
+    "ブ",
+    "フウ",
+    "ホウ",
+    "ホン"
+  ],
+  "kunyomi": [
+    "ただよ.う",
+    "ひろ.い"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

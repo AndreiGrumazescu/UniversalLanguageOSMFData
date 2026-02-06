@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+7893",
+  "unicode": "U+7893",
+  "symbol": "碓",
+  "meanings": [
+    "pestle"
+  ],
+  "onyomi": [
+    "カク",
+    "タイ"
+  ],
+  "kunyomi": [
+    "たし.か",
+    "かく.たる"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

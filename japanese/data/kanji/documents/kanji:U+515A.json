@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+515A",
+  "unicode": "U+515A",
+  "symbol": "党",
+  "meanings": [
+    "party",
+    "faction",
+    "clique"
+  ],
+  "onyomi": [
+    "トウ"
+  ],
+  "kunyomi": [
+    "なかま",
+    "むら"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

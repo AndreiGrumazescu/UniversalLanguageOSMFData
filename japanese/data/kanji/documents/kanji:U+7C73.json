@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+7C73",
+  "unicode": "U+7C73",
+  "symbol": "米",
+  "meanings": [
+    "rice",
+    "USA",
+    "metre"
+  ],
+  "onyomi": [
+    "ベイ",
+    "マイ",
+    "メエトル"
+  ],
+  "kunyomi": [
+    "こめ",
+    "よね"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+5185",
+  "unicode": "U+5185",
+  "symbol": "内",
+  "meanings": [
+    "inside",
+    "within",
+    "between",
+    "among",
+    "house",
+    "home"
+  ],
+  "onyomi": [
+    "ナイ",
+    "ダイ"
+  ],
+  "kunyomi": [
+    "うち"
+  ],
+  "strokeCount": 4,
+  "jlptLevel": "unspecified"
+}

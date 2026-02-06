@@ -1,0 +1,17 @@
+{
+  "$id": "kanji:U+501F",
+  "unicode": "U+501F",
+  "symbol": "借",
+  "meanings": [
+    "borrow",
+    "rent"
+  ],
+  "onyomi": [
+    "シャク"
+  ],
+  "kunyomi": [
+    "か.りる"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

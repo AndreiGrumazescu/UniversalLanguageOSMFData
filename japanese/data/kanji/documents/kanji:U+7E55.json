@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+7E55",
+  "unicode": "U+7E55",
+  "symbol": "繕",
+  "meanings": [
+    "darning",
+    "repair",
+    "mend",
+    "trim",
+    "tidy up",
+    "adjust"
+  ],
+  "onyomi": [
+    "ゼン"
+  ],
+  "kunyomi": [
+    "つくろ.う"
+  ],
+  "strokeCount": 18,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+5728",
+  "unicode": "U+5728",
+  "symbol": "在",
+  "meanings": [
+    "exist",
+    "outskirts",
+    "suburbs",
+    "located in"
+  ],
+  "onyomi": [
+    "ザイ"
+  ],
+  "kunyomi": [
+    "あ.る"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

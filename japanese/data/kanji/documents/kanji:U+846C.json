@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+846C",
+  "unicode": "U+846C",
+  "symbol": "葬",
+  "meanings": [
+    "interment",
+    "bury",
+    "shelve"
+  ],
+  "onyomi": [
+    "ソウ"
+  ],
+  "kunyomi": [
+    "ほうむ.る"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

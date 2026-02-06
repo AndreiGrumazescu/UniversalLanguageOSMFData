@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+98FD",
+  "unicode": "U+98FD",
+  "symbol": "飽",
+  "meanings": [
+    "sated",
+    "tired of",
+    "bored",
+    "satiate"
+  ],
+  "onyomi": [
+    "ホウ"
+  ],
+  "kunyomi": [
+    "あ.きる",
+    "あ.かす",
+    "あ.く"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

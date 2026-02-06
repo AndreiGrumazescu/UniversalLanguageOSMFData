@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+6CCA",
+  "unicode": "U+6CCA",
+  "symbol": "泊",
+  "meanings": [
+    "overnight stay",
+    "put up at",
+    "ride at anchor"
+  ],
+  "onyomi": [
+    "ハク"
+  ],
+  "kunyomi": [
+    "と.まる",
+    "と.める"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

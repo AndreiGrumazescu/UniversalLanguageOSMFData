@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+56FA",
+  "unicode": "U+56FA",
+  "symbol": "固",
+  "meanings": [
+    "harden",
+    "set",
+    "clot",
+    "curdle"
+  ],
+  "onyomi": [
+    "コ"
+  ],
+  "kunyomi": [
+    "かた.める",
+    "かた.まる",
+    "かた.まり",
+    "かた.い"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

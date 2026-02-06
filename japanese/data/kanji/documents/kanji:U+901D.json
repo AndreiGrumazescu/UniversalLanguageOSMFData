@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+901D",
+  "unicode": "U+901D",
+  "symbol": "逝",
+  "meanings": [
+    "departed",
+    "die"
+  ],
+  "onyomi": [
+    "セイ"
+  ],
+  "kunyomi": [
+    "ゆ.く",
+    "い.く"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+505C",
+  "unicode": "U+505C",
+  "symbol": "停",
+  "meanings": [
+    "halt",
+    "stopping"
+  ],
+  "onyomi": [
+    "テイ"
+  ],
+  "kunyomi": [
+    "と.める",
+    "と.まる"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

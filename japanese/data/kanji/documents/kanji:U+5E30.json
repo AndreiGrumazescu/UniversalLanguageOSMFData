@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+5E30",
+  "unicode": "U+5E30",
+  "symbol": "帰",
+  "meanings": [
+    "homecoming",
+    "arrive at",
+    "lead to",
+    "result in"
+  ],
+  "onyomi": [
+    "キ"
+  ],
+  "kunyomi": [
+    "かえ.る",
+    "かえ.す",
+    "おく.る",
+    "とつ.ぐ"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

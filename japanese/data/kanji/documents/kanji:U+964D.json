@@ -1,0 +1,25 @@
+{
+  "$id": "kanji:U+964D",
+  "unicode": "U+964D",
+  "symbol": "降",
+  "meanings": [
+    "descend",
+    "precipitate",
+    "fall",
+    "surrender"
+  ],
+  "onyomi": [
+    "コウ",
+    "ゴ"
+  ],
+  "kunyomi": [
+    "お.りる",
+    "お.ろす",
+    "ふ.る",
+    "ふ.り",
+    "くだ.る",
+    "くだ.す"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

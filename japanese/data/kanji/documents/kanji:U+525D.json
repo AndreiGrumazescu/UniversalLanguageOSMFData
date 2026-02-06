@@ -1,0 +1,27 @@
+{
+  "$id": "kanji:U+525D",
+  "unicode": "U+525D",
+  "symbol": "剝",
+  "meanings": [
+    "come off",
+    "peel",
+    "fade",
+    "discolor"
+  ],
+  "onyomi": [
+    "ハク",
+    "ホク"
+  ],
+  "kunyomi": [
+    "へ.ぐ",
+    "へず.る",
+    "む.く",
+    "む.ける",
+    "は.がれる",
+    "は.ぐ",
+    "は.げる",
+    "は.がす"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

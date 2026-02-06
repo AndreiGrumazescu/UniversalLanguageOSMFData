@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+63A2",
+  "unicode": "U+63A2",
+  "symbol": "探",
+  "meanings": [
+    "grope",
+    "search",
+    "look for"
+  ],
+  "onyomi": [
+    "タン"
+  ],
+  "kunyomi": [
+    "さぐ.る",
+    "さが.す"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

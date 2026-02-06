@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+7740",
+  "unicode": "U+7740",
+  "symbol": "着",
+  "meanings": [
+    "don",
+    "arrive",
+    "wear",
+    "counter for suits of clothing"
+  ],
+  "onyomi": [
+    "チャク",
+    "ジャク"
+  ],
+  "kunyomi": [
+    "き.る",
+    "き.せる",
+    "つ.く",
+    "つ.ける"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

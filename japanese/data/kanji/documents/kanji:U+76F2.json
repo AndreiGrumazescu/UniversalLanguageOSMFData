@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+76F2",
+  "unicode": "U+76F2",
+  "symbol": "盲",
+  "meanings": [
+    "blind",
+    "blind man",
+    "ignoramus"
+  ],
+  "onyomi": [
+    "モウ"
+  ],
+  "kunyomi": [
+    "めくら"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

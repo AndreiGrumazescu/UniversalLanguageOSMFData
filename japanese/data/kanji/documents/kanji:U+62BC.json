@@ -1,0 +1,30 @@
+{
+  "$id": "kanji:U+62BC",
+  "unicode": "U+62BC",
+  "symbol": "押",
+  "meanings": [
+    "push",
+    "stop",
+    "check",
+    "subdue",
+    "attach",
+    "seize",
+    "weight",
+    "shove",
+    "press",
+    "seal",
+    "do in spite of"
+  ],
+  "onyomi": [
+    "オウ"
+  ],
+  "kunyomi": [
+    "お.す",
+    "お.し-",
+    "お.っ-",
+    "お.さえる",
+    "おさ.える"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

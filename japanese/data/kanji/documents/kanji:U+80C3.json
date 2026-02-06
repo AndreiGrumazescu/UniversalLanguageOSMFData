@@ -1,0 +1,16 @@
+{
+  "$id": "kanji:U+80C3",
+  "unicode": "U+80C3",
+  "symbol": "胃",
+  "meanings": [
+    "stomach",
+    "paunch",
+    "crop",
+    "craw"
+  ],
+  "onyomi": [
+    "イ"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

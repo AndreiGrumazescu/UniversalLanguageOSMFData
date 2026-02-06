@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+53CC",
+  "unicode": "U+53CC",
+  "symbol": "双",
+  "meanings": [
+    "pair",
+    "set",
+    "comparison",
+    "counter for pairs"
+  ],
+  "onyomi": [
+    "ソウ"
+  ],
+  "kunyomi": [
+    "ふた",
+    "たぐい",
+    "ならぶ",
+    "ふたつ"
+  ],
+  "strokeCount": 4,
+  "jlptLevel": "unspecified"
+}

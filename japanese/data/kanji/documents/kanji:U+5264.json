@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+5264",
+  "unicode": "U+5264",
+  "symbol": "剤",
+  "meanings": [
+    "dose",
+    "medicine",
+    "drug"
+  ],
+  "onyomi": [
+    "ザイ",
+    "スイ",
+    "セイ"
+  ],
+  "kunyomi": [
+    "かる",
+    "けず.る"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

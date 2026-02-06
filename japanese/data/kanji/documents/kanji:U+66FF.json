@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+66FF",
+  "unicode": "U+66FF",
+  "symbol": "替",
+  "meanings": [
+    "exchange",
+    "spare",
+    "substitute",
+    "per-"
+  ],
+  "onyomi": [
+    "タイ"
+  ],
+  "kunyomi": [
+    "か.える",
+    "か.え-",
+    "か.わる"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

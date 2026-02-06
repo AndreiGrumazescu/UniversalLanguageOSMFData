@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+5B57",
+  "unicode": "U+5B57",
+  "symbol": "字",
+  "meanings": [
+    "character",
+    "letter",
+    "word",
+    "section of village"
+  ],
+  "onyomi": [
+    "ジ"
+  ],
+  "kunyomi": [
+    "あざ",
+    "あざな",
+    "-な"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

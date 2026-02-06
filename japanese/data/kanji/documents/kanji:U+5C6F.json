@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+5C6F",
+  "unicode": "U+5C6F",
+  "symbol": "屯",
+  "meanings": [
+    "barracks",
+    "police station",
+    "camp",
+    "ton"
+  ],
+  "onyomi": [
+    "トン"
+  ],
+  "kunyomi": [
+    "たむろ"
+  ],
+  "strokeCount": 4,
+  "jlptLevel": "unspecified"
+}

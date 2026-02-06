@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+722A",
+  "unicode": "U+722A",
+  "symbol": "爪",
+  "meanings": [
+    "claw",
+    "nail",
+    "talon"
+  ],
+  "onyomi": [
+    "ソウ"
+  ],
+  "kunyomi": [
+    "つめ",
+    "つま-"
+  ],
+  "strokeCount": 4,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,26 @@
+{
+  "$id": "kanji:U+7AEF",
+  "unicode": "U+7AEF",
+  "symbol": "端",
+  "meanings": [
+    "edge",
+    "origin",
+    "end",
+    "point",
+    "border",
+    "verge",
+    "cape"
+  ],
+  "onyomi": [
+    "タン"
+  ],
+  "kunyomi": [
+    "はし",
+    "は",
+    "はた",
+    "-ばた",
+    "はな"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+91C8",
+  "unicode": "U+91C8",
+  "symbol": "釈",
+  "meanings": [
+    "explanation"
+  ],
+  "onyomi": [
+    "シャク",
+    "セキ"
+  ],
+  "kunyomi": [
+    "とく",
+    "す.てる",
+    "ゆる.す"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

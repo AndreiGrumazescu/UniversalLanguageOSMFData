@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+6368",
+  "unicode": "U+6368",
+  "symbol": "捨",
+  "meanings": [
+    "discard",
+    "throw away",
+    "abandon",
+    "resign",
+    "reject",
+    "sacrifice"
+  ],
+  "onyomi": [
+    "シャ"
+  ],
+  "kunyomi": [
+    "す.てる"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

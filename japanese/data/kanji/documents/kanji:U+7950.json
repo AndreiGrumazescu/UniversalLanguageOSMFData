@@ -1,0 +1,17 @@
+{
+  "$id": "kanji:U+7950",
+  "unicode": "U+7950",
+  "symbol": "祐",
+  "meanings": [
+    "help"
+  ],
+  "onyomi": [
+    "ユウ",
+    "ウ"
+  ],
+  "kunyomi": [
+    "たす.ける"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+8597",
+  "unicode": "U+8597",
+  "symbol": "薗",
+  "meanings": [
+    "garden",
+    "yard",
+    "farm"
+  ],
+  "onyomi": [
+    "エン",
+    "オン"
+  ],
+  "kunyomi": [
+    "その"
+  ],
+  "strokeCount": 16,
+  "jlptLevel": "unspecified"
+}

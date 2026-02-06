@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+6469",
+  "unicode": "U+6469",
+  "symbol": "摩",
+  "meanings": [
+    "chafe",
+    "rub",
+    "polish",
+    "grind",
+    "scrape"
+  ],
+  "onyomi": [
+    "マ"
+  ],
+  "kunyomi": [
+    "ま.する",
+    "さす.る",
+    "す.る"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

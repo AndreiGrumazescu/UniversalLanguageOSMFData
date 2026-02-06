@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+6DBC",
+  "unicode": "U+6DBC",
+  "symbol": "涼",
+  "meanings": [
+    "refreshing",
+    "nice and cool"
+  ],
+  "onyomi": [
+    "リョウ"
+  ],
+  "kunyomi": [
+    "すず.しい",
+    "すず.む",
+    "すず.やか",
+    "うす.い",
+    "ひや.す",
+    "まことに"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

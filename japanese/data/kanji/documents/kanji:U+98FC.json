@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+98FC",
+  "unicode": "U+98FC",
+  "symbol": "飼",
+  "meanings": [
+    "domesticate",
+    "raise",
+    "keep",
+    "feed"
+  ],
+  "onyomi": [
+    "シ"
+  ],
+  "kunyomi": [
+    "か.う"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

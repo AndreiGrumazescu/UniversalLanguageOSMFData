@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+7C8B",
+  "unicode": "U+7C8B",
+  "symbol": "粋",
+  "meanings": [
+    "chic",
+    "style",
+    "purity",
+    "essence",
+    "pith",
+    "cream",
+    "elite",
+    "choice"
+  ],
+  "onyomi": [
+    "スイ"
+  ],
+  "kunyomi": [
+    "いき"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

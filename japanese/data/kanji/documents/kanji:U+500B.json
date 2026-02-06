@@ -1,0 +1,15 @@
+{
+  "$id": "kanji:U+500B",
+  "unicode": "U+500B",
+  "symbol": "個",
+  "meanings": [
+    "individual",
+    "counter for articles"
+  ],
+  "onyomi": [
+    "コ",
+    "カ"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

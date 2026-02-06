@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+672B",
+  "unicode": "U+672B",
+  "symbol": "末",
+  "meanings": [
+    "end",
+    "close",
+    "tip",
+    "powder",
+    "posterity"
+  ],
+  "onyomi": [
+    "マツ",
+    "バツ"
+  ],
+  "kunyomi": [
+    "すえ",
+    "うら",
+    "うれ"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

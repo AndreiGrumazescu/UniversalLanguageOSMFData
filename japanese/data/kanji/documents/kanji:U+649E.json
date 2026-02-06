@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+649E",
+  "unicode": "U+649E",
+  "symbol": "撞",
+  "meanings": [
+    "thrust",
+    "pierce",
+    "stab",
+    "prick"
+  ],
+  "onyomi": [
+    "ドウ",
+    "トウ",
+    "シュ"
+  ],
+  "kunyomi": [
+    "つ.く"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

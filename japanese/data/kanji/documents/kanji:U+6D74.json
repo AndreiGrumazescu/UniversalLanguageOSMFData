@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+6D74",
+  "unicode": "U+6D74",
+  "symbol": "浴",
+  "meanings": [
+    "bathe",
+    "be favored with",
+    "bask in"
+  ],
+  "onyomi": [
+    "ヨク"
+  ],
+  "kunyomi": [
+    "あ.びる",
+    "あ.びせる"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

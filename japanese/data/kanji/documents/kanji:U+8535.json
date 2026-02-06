@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+8535",
+  "unicode": "U+8535",
+  "symbol": "蔵",
+  "meanings": [
+    "storehouse",
+    "hide",
+    "own",
+    "have",
+    "possess"
+  ],
+  "onyomi": [
+    "ゾウ",
+    "ソウ"
+  ],
+  "kunyomi": [
+    "くら",
+    "おさ.める",
+    "かく.れる"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

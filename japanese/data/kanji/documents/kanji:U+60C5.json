@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+60C5",
+  "unicode": "U+60C5",
+  "symbol": "情",
+  "meanings": [
+    "feelings",
+    "emotion",
+    "passion",
+    "sympathy",
+    "circumstances",
+    "facts"
+  ],
+  "onyomi": [
+    "ジョウ",
+    "セイ"
+  ],
+  "kunyomi": [
+    "なさ.け"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

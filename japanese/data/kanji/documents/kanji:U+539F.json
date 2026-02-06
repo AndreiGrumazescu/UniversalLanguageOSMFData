@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+539F",
+  "unicode": "U+539F",
+  "symbol": "原",
+  "meanings": [
+    "meadow",
+    "original",
+    "primitive",
+    "field",
+    "plain",
+    "prairie",
+    "tundra",
+    "wilderness"
+  ],
+  "onyomi": [
+    "ゲン"
+  ],
+  "kunyomi": [
+    "はら"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

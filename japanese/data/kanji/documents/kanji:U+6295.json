@@ -1,0 +1,25 @@
+{
+  "$id": "kanji:U+6295",
+  "unicode": "U+6295",
+  "symbol": "投",
+  "meanings": [
+    "throw",
+    "discard",
+    "abandon",
+    "launch into",
+    "join",
+    "invest in",
+    "hurl",
+    "give up",
+    "sell at a loss"
+  ],
+  "onyomi": [
+    "トウ"
+  ],
+  "kunyomi": [
+    "な.げる",
+    "-な.げ"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

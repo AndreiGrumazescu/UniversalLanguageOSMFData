@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+5208",
+  "unicode": "U+5208",
+  "symbol": "刈",
+  "meanings": [
+    "reap",
+    "cut",
+    "clip",
+    "trim",
+    "prune"
+  ],
+  "onyomi": [
+    "ガイ",
+    "カイ"
+  ],
+  "kunyomi": [
+    "か.る"
+  ],
+  "strokeCount": 4,
+  "jlptLevel": "unspecified"
+}

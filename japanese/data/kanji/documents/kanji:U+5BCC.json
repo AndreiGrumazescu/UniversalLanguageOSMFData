@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+5BCC",
+  "unicode": "U+5BCC",
+  "symbol": "富",
+  "meanings": [
+    "wealth",
+    "enrich",
+    "abundant"
+  ],
+  "onyomi": [
+    "フ",
+    "フウ"
+  ],
+  "kunyomi": [
+    "と.む",
+    "とみ"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

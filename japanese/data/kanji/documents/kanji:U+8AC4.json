@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+8AC4",
+  "unicode": "U+8AC4",
+  "symbol": "諄",
+  "meanings": [
+    "tedious"
+  ],
+  "onyomi": [
+    "シュン"
+  ],
+  "kunyomi": [
+    "ひちくど.い",
+    "くど.い",
+    "くどくど",
+    "ねんご.ろ"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

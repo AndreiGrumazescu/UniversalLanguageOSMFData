@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+6B69",
+  "unicode": "U+6B69",
+  "symbol": "歩",
+  "meanings": [
+    "walk",
+    "counter for steps"
+  ],
+  "onyomi": [
+    "ホ",
+    "ブ",
+    "フ"
+  ],
+  "kunyomi": [
+    "ある.く",
+    "あゆ.む"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

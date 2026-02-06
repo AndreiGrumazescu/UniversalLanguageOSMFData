@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+51CD",
+  "unicode": "U+51CD",
+  "symbol": "凍",
+  "meanings": [
+    "frozen",
+    "congeal",
+    "refrigerate"
+  ],
+  "onyomi": [
+    "トウ"
+  ],
+  "kunyomi": [
+    "こお.る",
+    "こご.える",
+    "こご.る",
+    "い.てる",
+    "し.みる"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

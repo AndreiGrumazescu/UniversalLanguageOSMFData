@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+6163",
+  "unicode": "U+6163",
+  "symbol": "慣",
+  "meanings": [
+    "accustomed",
+    "get used to",
+    "become experienced"
+  ],
+  "onyomi": [
+    "カン"
+  ],
+  "kunyomi": [
+    "な.れる",
+    "な.らす"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,26 @@
+{
+  "$id": "kanji:U+7A4D",
+  "unicode": "U+7A4D",
+  "symbol": "積",
+  "meanings": [
+    "volume",
+    "product (x*y)",
+    "acreage",
+    "contents",
+    "pile up",
+    "stack",
+    "load",
+    "amass"
+  ],
+  "onyomi": [
+    "セキ"
+  ],
+  "kunyomi": [
+    "つ.む",
+    "-づ.み",
+    "つ.もる",
+    "つ.もり"
+  ],
+  "strokeCount": 16,
+  "jlptLevel": "unspecified"
+}

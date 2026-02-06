@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+6F0F",
+  "unicode": "U+6F0F",
+  "symbol": "漏",
+  "meanings": [
+    "leak",
+    "escape",
+    "time"
+  ],
+  "onyomi": [
+    "ロウ"
+  ],
+  "kunyomi": [
+    "も.る",
+    "も.れる",
+    "も.らす"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

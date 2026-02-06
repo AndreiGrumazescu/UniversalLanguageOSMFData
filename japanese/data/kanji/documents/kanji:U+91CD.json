@@ -1,0 +1,30 @@
+{
+  "$id": "kanji:U+91CD",
+  "unicode": "U+91CD",
+  "symbol": "重",
+  "meanings": [
+    "heavy",
+    "important",
+    "esteem",
+    "respect",
+    "heap up",
+    "pile up",
+    "nest of boxes",
+    "-fold"
+  ],
+  "onyomi": [
+    "ジュウ",
+    "チョウ"
+  ],
+  "kunyomi": [
+    "え",
+    "おも.い",
+    "おも.り",
+    "おも.なう",
+    "かさ.ねる",
+    "かさ.なる",
+    "おも"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

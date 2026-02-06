@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+51A0",
+  "unicode": "U+51A0",
+  "symbol": "冠",
+  "meanings": [
+    "crown",
+    "best",
+    "peerless"
+  ],
+  "onyomi": [
+    "カン"
+  ],
+  "kunyomi": [
+    "かんむり"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

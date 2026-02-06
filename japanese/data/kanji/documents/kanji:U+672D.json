@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+672D",
+  "unicode": "U+672D",
+  "symbol": "札",
+  "meanings": [
+    "tag",
+    "paper money",
+    "counter for bonds",
+    "placard",
+    "bid"
+  ],
+  "onyomi": [
+    "サツ"
+  ],
+  "kunyomi": [
+    "ふだ"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

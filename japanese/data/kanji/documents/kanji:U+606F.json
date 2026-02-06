@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+606F",
+  "unicode": "U+606F",
+  "symbol": "息",
+  "meanings": [
+    "breath",
+    "respiration",
+    "son",
+    "interest (on money)",
+    "rest",
+    "coming to an end"
+  ],
+  "onyomi": [
+    "ソク"
+  ],
+  "kunyomi": [
+    "いき"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

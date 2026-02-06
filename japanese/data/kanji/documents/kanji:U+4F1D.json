@@ -1,0 +1,29 @@
+{
+  "$id": "kanji:U+4F1D",
+  "unicode": "U+4F1D",
+  "symbol": "伝",
+  "meanings": [
+    "transmit",
+    "go along",
+    "walk along",
+    "follow",
+    "report",
+    "communicate",
+    "legend",
+    "tradition"
+  ],
+  "onyomi": [
+    "デン",
+    "テン"
+  ],
+  "kunyomi": [
+    "つた.わる",
+    "つた.える",
+    "つた.う",
+    "つだ.う",
+    "-づた.い",
+    "つて"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

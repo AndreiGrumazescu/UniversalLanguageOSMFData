@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+80E1",
+  "unicode": "U+80E1",
+  "symbol": "胡",
+  "meanings": [
+    "barbarian",
+    "foreign"
+  ],
+  "onyomi": [
+    "ウ",
+    "コ",
+    "ゴ"
+  ],
+  "kunyomi": [
+    "なんぞ"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+4FBF",
+  "unicode": "U+4FBF",
+  "symbol": "便",
+  "meanings": [
+    "convenience",
+    "facility",
+    "excrement",
+    "feces",
+    "letter",
+    "chance"
+  ],
+  "onyomi": [
+    "ベン",
+    "ビン"
+  ],
+  "kunyomi": [
+    "たよ.り"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

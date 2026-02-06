@@ -1,0 +1,25 @@
+{
+  "$id": "kanji:U+52B4",
+  "unicode": "U+52B4",
+  "symbol": "労",
+  "meanings": [
+    "labor",
+    "thank for",
+    "reward for",
+    "toil",
+    "trouble"
+  ],
+  "onyomi": [
+    "ロウ"
+  ],
+  "kunyomi": [
+    "ろう.する",
+    "いたわ.る",
+    "いた.ずき",
+    "ねぎら",
+    "つか.れる",
+    "ねぎら.う"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

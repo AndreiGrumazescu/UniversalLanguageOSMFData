@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+89D2",
+  "unicode": "U+89D2",
+  "symbol": "角",
+  "meanings": [
+    "angle",
+    "corner",
+    "square",
+    "horn",
+    "antlers"
+  ],
+  "onyomi": [
+    "カク"
+  ],
+  "kunyomi": [
+    "かど",
+    "つの"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+5B54",
+  "unicode": "U+5B54",
+  "symbol": "孔",
+  "meanings": [
+    "cavity",
+    "hole",
+    "slit",
+    "very",
+    "great",
+    "exceedingly"
+  ],
+  "onyomi": [
+    "コウ",
+    "ク"
+  ],
+  "kunyomi": [
+    "あな"
+  ],
+  "strokeCount": 4,
+  "jlptLevel": "unspecified"
+}

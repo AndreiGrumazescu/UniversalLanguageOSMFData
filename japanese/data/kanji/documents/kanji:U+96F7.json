@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+96F7",
+  "unicode": "U+96F7",
+  "symbol": "雷",
+  "meanings": [
+    "thunder",
+    "lightning bolt"
+  ],
+  "onyomi": [
+    "ライ"
+  ],
+  "kunyomi": [
+    "かみなり",
+    "いかずち",
+    "いかづち"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

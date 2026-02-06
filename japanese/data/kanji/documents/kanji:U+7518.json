@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+7518",
+  "unicode": "U+7518",
+  "symbol": "甘",
+  "meanings": [
+    "sweet",
+    "coax",
+    "pamper",
+    "be content",
+    "sugary"
+  ],
+  "onyomi": [
+    "カン"
+  ],
+  "kunyomi": [
+    "あま.い",
+    "あま.える",
+    "あま.やかす",
+    "うま.い"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+7E2E",
+  "unicode": "U+7E2E",
+  "symbol": "縮",
+  "meanings": [
+    "shrink",
+    "contract",
+    "shrivel",
+    "wrinkle",
+    "reduce"
+  ],
+  "onyomi": [
+    "シュク"
+  ],
+  "kunyomi": [
+    "ちぢ.む",
+    "ちぢ.まる",
+    "ちぢ.める",
+    "ちぢ.れる",
+    "ちぢ.らす"
+  ],
+  "strokeCount": 17,
+  "jlptLevel": "unspecified"
+}

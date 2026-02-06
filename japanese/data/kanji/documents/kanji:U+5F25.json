@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+5F25",
+  "unicode": "U+5F25",
+  "symbol": "弥",
+  "meanings": [
+    "all the more",
+    "increasingly"
+  ],
+  "onyomi": [
+    "ミ",
+    "ビ"
+  ],
+  "kunyomi": [
+    "や",
+    "いや",
+    "いよ.いよ",
+    "わた.る"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

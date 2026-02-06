@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+9999",
+  "unicode": "U+9999",
+  "symbol": "香",
+  "meanings": [
+    "incense",
+    "smell",
+    "perfume"
+  ],
+  "onyomi": [
+    "コウ",
+    "キョウ"
+  ],
+  "kunyomi": [
+    "か",
+    "かお.り",
+    "かお.る"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

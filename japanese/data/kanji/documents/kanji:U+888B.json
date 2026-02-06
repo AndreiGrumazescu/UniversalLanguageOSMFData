@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+888B",
+  "unicode": "U+888B",
+  "symbol": "袋",
+  "meanings": [
+    "sack",
+    "bag",
+    "pouch"
+  ],
+  "onyomi": [
+    "タイ",
+    "ダイ"
+  ],
+  "kunyomi": [
+    "ふくろ"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

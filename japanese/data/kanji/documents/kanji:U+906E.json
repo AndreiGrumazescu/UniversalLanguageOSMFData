@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+906E",
+  "unicode": "U+906E",
+  "symbol": "遮",
+  "meanings": [
+    "intercept",
+    "interrupt",
+    "obstruct"
+  ],
+  "onyomi": [
+    "シャ"
+  ],
+  "kunyomi": [
+    "さえぎ.る"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

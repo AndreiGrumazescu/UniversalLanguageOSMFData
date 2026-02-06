@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+4E4F",
+  "unicode": "U+4E4F",
+  "symbol": "乏",
+  "meanings": [
+    "destitution",
+    "scarce",
+    "limited"
+  ],
+  "onyomi": [
+    "ボウ"
+  ],
+  "kunyomi": [
+    "とぼ.しい",
+    "とも.しい"
+  ],
+  "strokeCount": 4,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+72C2",
+  "unicode": "U+72C2",
+  "symbol": "狂",
+  "meanings": [
+    "lunatic",
+    "insane",
+    "crazy",
+    "confuse"
+  ],
+  "onyomi": [
+    "キョウ"
+  ],
+  "kunyomi": [
+    "くる.う",
+    "くる.おしい",
+    "くるお.しい"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+5F15",
+  "unicode": "U+5F15",
+  "symbol": "引",
+  "meanings": [
+    "pull",
+    "tug",
+    "jerk",
+    "admit",
+    "install",
+    "quote",
+    "refer to"
+  ],
+  "onyomi": [
+    "イン"
+  ],
+  "kunyomi": [
+    "ひ.く",
+    "ひ.ける"
+  ],
+  "strokeCount": 4,
+  "jlptLevel": "unspecified"
+}

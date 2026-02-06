@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+7261",
+  "unicode": "U+7261",
+  "symbol": "牡",
+  "meanings": [
+    "male"
+  ],
+  "onyomi": [
+    "ボ",
+    "ボウ"
+  ],
+  "kunyomi": [
+    "おす",
+    "お-",
+    "おん-"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

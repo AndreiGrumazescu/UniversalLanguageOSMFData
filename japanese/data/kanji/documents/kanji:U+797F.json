@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+797F",
+  "unicode": "U+797F",
+  "symbol": "祿",
+  "meanings": [
+    "fief",
+    "allowance",
+    "pension",
+    "grant",
+    "happiness"
+  ],
+  "onyomi": [
+    "ロク"
+  ],
+  "kunyomi": [
+    "さいわ.い",
+    "ふち"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

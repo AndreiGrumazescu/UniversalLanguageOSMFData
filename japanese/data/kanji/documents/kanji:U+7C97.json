@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+7C97",
+  "unicode": "U+7C97",
+  "symbol": "粗",
+  "meanings": [
+    "coarse",
+    "rough",
+    "rugged"
+  ],
+  "onyomi": [
+    "ソ"
+  ],
+  "kunyomi": [
+    "あら.い",
+    "あら-"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

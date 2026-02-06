@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+7372",
+  "unicode": "U+7372",
+  "symbol": "獲",
+  "meanings": [
+    "seize",
+    "get",
+    "find",
+    "earn",
+    "acquire",
+    "can",
+    "may",
+    "able to"
+  ],
+  "onyomi": [
+    "カク"
+  ],
+  "kunyomi": [
+    "え.る"
+  ],
+  "strokeCount": 16,
+  "jlptLevel": "unspecified"
+}

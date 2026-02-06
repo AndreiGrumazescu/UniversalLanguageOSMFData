@@ -1,0 +1,25 @@
+{
+  "$id": "kanji:U+6E21",
+  "unicode": "U+6E21",
+  "symbol": "渡",
+  "meanings": [
+    "transit",
+    "ford",
+    "ferry",
+    "cross",
+    "import",
+    "deliver",
+    "diameter",
+    "migrate"
+  ],
+  "onyomi": [
+    "ト"
+  ],
+  "kunyomi": [
+    "わた.る",
+    "-わた.る",
+    "わた.す"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+6050",
+  "unicode": "U+6050",
+  "symbol": "恐",
+  "meanings": [
+    "fear",
+    "dread",
+    "awe"
+  ],
+  "onyomi": [
+    "キョウ"
+  ],
+  "kunyomi": [
+    "おそ.れる",
+    "おそ.る",
+    "おそ.ろしい",
+    "こわ.い",
+    "こわ.がる"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+9306",
+  "unicode": "U+9306",
+  "symbol": "錆",
+  "meanings": [
+    "rust",
+    "tarnish"
+  ],
+  "onyomi": [
+    "ショウ",
+    "セイ"
+  ],
+  "kunyomi": [
+    "さび",
+    "くわ.しい"
+  ],
+  "strokeCount": 16,
+  "jlptLevel": "unspecified"
+}

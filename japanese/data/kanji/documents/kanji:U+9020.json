@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+9020",
+  "unicode": "U+9020",
+  "symbol": "造",
+  "meanings": [
+    "create",
+    "make",
+    "structure",
+    "physique"
+  ],
+  "onyomi": [
+    "ゾウ"
+  ],
+  "kunyomi": [
+    "つく.る",
+    "つく.り",
+    "-づく.り"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

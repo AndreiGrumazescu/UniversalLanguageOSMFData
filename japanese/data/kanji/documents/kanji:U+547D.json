@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+547D",
+  "unicode": "U+547D",
+  "symbol": "命",
+  "meanings": [
+    "fate",
+    "command",
+    "decree",
+    "destiny",
+    "life",
+    "appoint"
+  ],
+  "onyomi": [
+    "メイ",
+    "ミョウ"
+  ],
+  "kunyomi": [
+    "いのち"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+6BDB",
+  "unicode": "U+6BDB",
+  "symbol": "毛",
+  "meanings": [
+    "fur",
+    "hair",
+    "feather",
+    "down"
+  ],
+  "onyomi": [
+    "モウ"
+  ],
+  "kunyomi": [
+    "け"
+  ],
+  "strokeCount": 4,
+  "jlptLevel": "unspecified"
+}

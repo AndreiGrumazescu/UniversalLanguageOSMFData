@@ -1,0 +1,28 @@
+{
+  "$id": "kanji:U+63FA",
+  "unicode": "U+63FA",
+  "symbol": "揺",
+  "meanings": [
+    "swing",
+    "shake",
+    "sway",
+    "rock",
+    "tremble",
+    "vibrate"
+  ],
+  "onyomi": [
+    "ヨウ"
+  ],
+  "kunyomi": [
+    "ゆ.れる",
+    "ゆ.る",
+    "ゆ.らぐ",
+    "ゆ.るぐ",
+    "ゆ.する",
+    "ゆ.さぶる",
+    "ゆ.すぶる",
+    "うご.く"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

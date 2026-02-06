@@ -1,0 +1,17 @@
+{
+  "$id": "kanji:U+98E2",
+  "unicode": "U+98E2",
+  "symbol": "飢",
+  "meanings": [
+    "hungry",
+    "starve"
+  ],
+  "onyomi": [
+    "キ"
+  ],
+  "kunyomi": [
+    "う.える"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

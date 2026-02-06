@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+820C",
+  "unicode": "U+820C",
+  "symbol": "舌",
+  "meanings": [
+    "tongue",
+    "reed",
+    "clapper"
+  ],
+  "onyomi": [
+    "ゼツ"
+  ],
+  "kunyomi": [
+    "した"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

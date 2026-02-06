@@ -1,0 +1,31 @@
+{
+  "$id": "kanji:U+61D0",
+  "unicode": "U+61D0",
+  "symbol": "懐",
+  "meanings": [
+    "feelings",
+    "heart",
+    "yearn",
+    "miss someone",
+    "become attached to",
+    "bosom",
+    "breast",
+    "pocket"
+  ],
+  "onyomi": [
+    "カイ",
+    "エ"
+  ],
+  "kunyomi": [
+    "ふところ",
+    "なつ.かしい",
+    "なつ.かしむ",
+    "なつ.く",
+    "なつ.ける",
+    "なず.ける",
+    "いだ.く",
+    "おも.う"
+  ],
+  "strokeCount": 16,
+  "jlptLevel": "unspecified"
+}

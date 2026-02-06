@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+6652",
+  "unicode": "U+6652",
+  "symbol": "晒",
+  "meanings": [
+    "bleach",
+    "refine",
+    "expose",
+    "air"
+  ],
+  "onyomi": [
+    "サイ",
+    "シ"
+  ],
+  "kunyomi": [
+    "さら.す",
+    "さらし"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

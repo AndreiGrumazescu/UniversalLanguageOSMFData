@@ -1,0 +1,48 @@
+{
+  "$schema": "https://raw.githubusercontent.com/AndreiGrumazescu/OpenStudyModelFramework/main/relational-model.schema.json",
+  "$id": "kanji-dependency.schema.json",
+  "name": "Kanji Dependency Model",
+  "description": "Expresses learning dependencies between kanji. A parent kanji has prerequisite kanji that should be studied first. Used for gating study progress.",
+  "version": "1.0.0",
+  "$defs": {
+    "kanjiCriteria": {
+      "required": ["$id"],
+      "properties": {
+        "$id": { "type": "string", "pattern": "^U\\+[0-9A-F]+$" }
+      }
+    }
+  },
+  "connectors": {
+    "parent": {
+      "criteria": { "$ref": "#/$defs/kanjiCriteria" },
+      "description": "The kanji that depends on prerequisite kanji"
+    },
+    "prerequisite": {
+      "criteria": { "$ref": "#/$defs/kanjiCriteria" },
+      "description": "A kanji that should be studied before the parent"
+    }
+  },
+  "from": {
+    "type": "array",
+    "items": { "enum": ["parent"] },
+    "minItems": 1,
+    "maxItems": 1
+  },
+  "to": {
+    "type": "array",
+    "items": { "enum": ["prerequisite"] },
+    "minItems": 1,
+    "maxItems": 1
+  },
+  "many": {
+    "type": "array",
+    "items": { "$ref": "https://raw.githubusercontent.com/AndreiGrumazescu/OpenStudyModelFramework/main/relational-model.schema.json#/$defs/manyItem" },
+    "itemConnectors": {
+      "$dynamicAnchor": "itemConnectors",
+      "properties": {
+        "prerequisite": { "$ref": "#/$defs/kanjiCriteria" }
+      },
+      "required": ["prerequisite"]
+    }
+  }
+}

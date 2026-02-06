@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+8E5F",
+  "unicode": "U+8E5F",
+  "symbol": "蹟",
+  "meanings": [
+    "remains",
+    "traces",
+    "footprint"
+  ],
+  "onyomi": [
+    "セキ",
+    "シャク"
+  ],
+  "kunyomi": [
+    "あと"
+  ],
+  "strokeCount": 18,
+  "jlptLevel": "unspecified"
+}

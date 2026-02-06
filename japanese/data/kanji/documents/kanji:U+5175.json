@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+5175",
+  "unicode": "U+5175",
+  "symbol": "兵",
+  "meanings": [
+    "soldier",
+    "private",
+    "troops",
+    "army",
+    "warfare",
+    "strategy",
+    "tactics"
+  ],
+  "onyomi": [
+    "ヘイ",
+    "ヒョウ"
+  ],
+  "kunyomi": [
+    "つわもの"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

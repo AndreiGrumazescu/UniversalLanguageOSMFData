@@ -1,0 +1,26 @@
+{
+  "$id": "kanji:U+80CC",
+  "unicode": "U+80CC",
+  "symbol": "背",
+  "meanings": [
+    "stature",
+    "height",
+    "back",
+    "behind",
+    "disobey",
+    "defy",
+    "go back on",
+    "rebel"
+  ],
+  "onyomi": [
+    "ハイ"
+  ],
+  "kunyomi": [
+    "せ",
+    "せい",
+    "そむ.く",
+    "そむ.ける"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

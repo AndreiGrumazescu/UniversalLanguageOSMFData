@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+71C8",
+  "unicode": "U+71C8",
+  "symbol": "燈",
+  "meanings": [
+    "lamp",
+    "light",
+    "counter for lights"
+  ],
+  "onyomi": [
+    "トウ"
+  ],
+  "kunyomi": [
+    "ひ",
+    "ほ-",
+    "ともしび",
+    "とも.す",
+    "あかり"
+  ],
+  "strokeCount": 16,
+  "jlptLevel": "unspecified"
+}

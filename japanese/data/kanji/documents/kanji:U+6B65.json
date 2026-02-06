@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+6B65",
+  "unicode": "U+6B65",
+  "symbol": "步",
+  "meanings": [
+    "step",
+    "pace",
+    "walk",
+    "stroll"
+  ],
+  "onyomi": [
+    "ホ",
+    "ブ",
+    "フ"
+  ],
+  "kunyomi": [
+    "あるく",
+    "あゆむ",
+    "あゆみ"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

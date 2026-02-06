@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+8133",
+  "unicode": "U+8133",
+  "symbol": "脳",
+  "meanings": [
+    "brain",
+    "memory"
+  ],
+  "onyomi": [
+    "ノウ",
+    "ドウ"
+  ],
+  "kunyomi": [
+    "のうずる"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

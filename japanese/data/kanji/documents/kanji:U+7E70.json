@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+7E70",
+  "unicode": "U+7E70",
+  "symbol": "繰",
+  "meanings": [
+    "winding",
+    "reel",
+    "spin",
+    "turn (pages)",
+    "look up",
+    "refer to"
+  ],
+  "onyomi": [
+    "ソウ"
+  ],
+  "kunyomi": [
+    "く.る"
+  ],
+  "strokeCount": 19,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+79C1",
+  "unicode": "U+79C1",
+  "symbol": "私",
+  "meanings": [
+    "private",
+    "I",
+    "me"
+  ],
+  "onyomi": [
+    "シ"
+  ],
+  "kunyomi": [
+    "わたくし",
+    "わたし"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,27 @@
+{
+  "$id": "kanji:U+4EF0",
+  "unicode": "U+4EF0",
+  "symbol": "仰",
+  "meanings": [
+    "face-up",
+    "look up",
+    "depend",
+    "seek",
+    "respect",
+    "revere",
+    "drink",
+    "take"
+  ],
+  "onyomi": [
+    "ギョウ",
+    "コウ"
+  ],
+  "kunyomi": [
+    "あお.ぐ",
+    "おお.せ",
+    "お.っしゃる",
+    "おっしゃ.る"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

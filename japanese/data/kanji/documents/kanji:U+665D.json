@@ -1,0 +1,17 @@
+{
+  "$id": "kanji:U+665D",
+  "unicode": "U+665D",
+  "symbol": "晝",
+  "meanings": [
+    "daytime",
+    "daylight"
+  ],
+  "onyomi": [
+    "チュウ"
+  ],
+  "kunyomi": [
+    "ひる"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

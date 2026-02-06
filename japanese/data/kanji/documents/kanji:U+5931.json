@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+5931",
+  "unicode": "U+5931",
+  "symbol": "失",
+  "meanings": [
+    "lose",
+    "error",
+    "fault",
+    "disadvantage",
+    "loss"
+  ],
+  "onyomi": [
+    "シツ"
+  ],
+  "kunyomi": [
+    "うしな.う",
+    "う.せる"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

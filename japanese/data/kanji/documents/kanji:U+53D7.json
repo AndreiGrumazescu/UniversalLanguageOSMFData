@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+53D7",
+  "unicode": "U+53D7",
+  "symbol": "受",
+  "meanings": [
+    "accept",
+    "undergo",
+    "answer (phone)",
+    "take",
+    "get",
+    "catch",
+    "receive"
+  ],
+  "onyomi": [
+    "ジュ"
+  ],
+  "kunyomi": [
+    "う.ける",
+    "-う.け",
+    "う.かる"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

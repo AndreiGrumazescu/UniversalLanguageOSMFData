@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+84CB",
+  "unicode": "U+84CB",
+  "symbol": "蓋",
+  "meanings": [
+    "cover",
+    "lid",
+    "flap"
+  ],
+  "onyomi": [
+    "ガイ",
+    "カイ",
+    "コウ"
+  ],
+  "kunyomi": [
+    "ふた",
+    "けだ.し",
+    "おお.う",
+    "かさ",
+    "かこう"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

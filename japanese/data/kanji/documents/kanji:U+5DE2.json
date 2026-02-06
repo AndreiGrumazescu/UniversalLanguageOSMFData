@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+5DE2",
+  "unicode": "U+5DE2",
+  "symbol": "巢",
+  "meanings": [
+    "nest",
+    "living quarter in tree"
+  ],
+  "onyomi": [
+    "ソウ"
+  ],
+  "kunyomi": [
+    "す",
+    "す.くう"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+70C8",
+  "unicode": "U+70C8",
+  "symbol": "烈",
+  "meanings": [
+    "ardent",
+    "violent",
+    "vehement",
+    "furious",
+    "severe",
+    "extreme"
+  ],
+  "onyomi": [
+    "レツ"
+  ],
+  "kunyomi": [
+    "はげ.しい"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

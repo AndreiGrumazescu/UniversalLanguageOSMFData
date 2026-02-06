@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+659C",
+  "unicode": "U+659C",
+  "symbol": "斜",
+  "meanings": [
+    "diagonal",
+    "slanting",
+    "oblique"
+  ],
+  "onyomi": [
+    "シャ"
+  ],
+  "kunyomi": [
+    "なな.め",
+    "はす"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

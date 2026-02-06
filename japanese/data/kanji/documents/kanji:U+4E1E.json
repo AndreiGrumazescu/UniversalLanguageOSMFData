@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+4E1E",
+  "unicode": "U+4E1E",
+  "symbol": "丞",
+  "meanings": [
+    "help"
+  ],
+  "onyomi": [
+    "ジョウ",
+    "ショウ"
+  ],
+  "kunyomi": [
+    "すく.う",
+    "たす.ける"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

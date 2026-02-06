@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+662F",
+  "unicode": "U+662F",
+  "symbol": "是",
+  "meanings": [
+    "just so",
+    "this",
+    "right",
+    "justice"
+  ],
+  "onyomi": [
+    "ゼ",
+    "シ"
+  ],
+  "kunyomi": [
+    "これ",
+    "この",
+    "ここ"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,25 @@
+{
+  "$id": "kanji:U+51E6",
+  "unicode": "U+51E6",
+  "symbol": "処",
+  "meanings": [
+    "dispose",
+    "manage",
+    "deal with",
+    "sentence",
+    "condemn",
+    "act",
+    "behave",
+    "place"
+  ],
+  "onyomi": [
+    "ショ"
+  ],
+  "kunyomi": [
+    "ところ",
+    "-こ",
+    "お.る"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

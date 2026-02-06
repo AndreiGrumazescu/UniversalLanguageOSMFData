@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+820E",
+  "unicode": "U+820E",
+  "symbol": "舎",
+  "meanings": [
+    "cottage",
+    "inn",
+    "hut",
+    "house",
+    "mansion"
+  ],
+  "onyomi": [
+    "シャ",
+    "セキ"
+  ],
+  "kunyomi": [
+    "やど.る"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

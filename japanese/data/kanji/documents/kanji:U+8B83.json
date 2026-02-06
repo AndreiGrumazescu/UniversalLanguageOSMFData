@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+8B83",
+  "unicode": "U+8B83",
+  "symbol": "讃",
+  "meanings": [
+    "praise",
+    "title on a picture"
+  ],
+  "onyomi": [
+    "サン"
+  ],
+  "kunyomi": [
+    "ほ.める",
+    "たた.える"
+  ],
+  "strokeCount": 22,
+  "jlptLevel": "unspecified"
+}

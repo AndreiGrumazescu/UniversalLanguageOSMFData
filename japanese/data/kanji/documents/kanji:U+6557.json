@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+6557",
+  "unicode": "U+6557",
+  "symbol": "敗",
+  "meanings": [
+    "failure",
+    "defeat",
+    "reversal"
+  ],
+  "onyomi": [
+    "ハイ"
+  ],
+  "kunyomi": [
+    "やぶ.れる"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

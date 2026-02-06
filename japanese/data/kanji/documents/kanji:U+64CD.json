@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+64CD",
+  "unicode": "U+64CD",
+  "symbol": "操",
+  "meanings": [
+    "maneuver",
+    "manipulate",
+    "operate",
+    "steer",
+    "chastity",
+    "virginity",
+    "fidelity"
+  ],
+  "onyomi": [
+    "ソウ",
+    "サン"
+  ],
+  "kunyomi": [
+    "みさお",
+    "あやつ.る"
+  ],
+  "strokeCount": 16,
+  "jlptLevel": "unspecified"
+}

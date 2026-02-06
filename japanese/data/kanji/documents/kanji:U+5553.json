@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+5553",
+  "unicode": "U+5553",
+  "symbol": "啓",
+  "meanings": [
+    "disclose",
+    "open",
+    "say"
+  ],
+  "onyomi": [
+    "ケイ"
+  ],
+  "kunyomi": [
+    "ひら.く",
+    "さと.す"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

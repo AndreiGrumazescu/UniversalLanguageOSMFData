@@ -1,0 +1,29 @@
+{
+  "$id": "kanji:U+6089",
+  "unicode": "U+6089",
+  "symbol": "悉",
+  "meanings": [
+    "all",
+    "entirely",
+    "altogether",
+    "completely",
+    "use up",
+    "run out of",
+    "exhaust",
+    "befriend",
+    "serve"
+  ],
+  "onyomi": [
+    "シツ",
+    "シチ"
+  ],
+  "kunyomi": [
+    "つ.きる",
+    "ことごと",
+    "ことごと.く",
+    "つ.くす",
+    "つぶさ.に"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

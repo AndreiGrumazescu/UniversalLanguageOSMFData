@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+5703",
+  "unicode": "U+5703",
+  "symbol": "圃",
+  "meanings": [
+    "garden",
+    "field"
+  ],
+  "onyomi": [
+    "ホ",
+    "フ"
+  ],
+  "kunyomi": [
+    "はたけ",
+    "にわ"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

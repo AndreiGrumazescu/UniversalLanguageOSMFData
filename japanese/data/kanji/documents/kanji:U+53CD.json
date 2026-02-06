@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+53CD",
+  "unicode": "U+53CD",
+  "symbol": "反",
+  "meanings": [
+    "anti-"
+  ],
+  "onyomi": [
+    "ハン",
+    "ホン",
+    "タン",
+    "ホ"
+  ],
+  "kunyomi": [
+    "そ.る",
+    "そ.らす",
+    "かえ.す",
+    "かえ.る",
+    "-かえ.る"
+  ],
+  "strokeCount": 4,
+  "jlptLevel": "unspecified"
+}

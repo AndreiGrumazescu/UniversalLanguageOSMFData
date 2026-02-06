@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+9B3C",
+  "unicode": "U+9B3C",
+  "symbol": "鬼",
+  "meanings": [
+    "ghost",
+    "devil"
+  ],
+  "onyomi": [
+    "キ"
+  ],
+  "kunyomi": [
+    "おに",
+    "おに-"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

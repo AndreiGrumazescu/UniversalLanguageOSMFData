@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+52DD",
+  "unicode": "U+52DD",
+  "symbol": "勝",
+  "meanings": [
+    "victory",
+    "win",
+    "prevail",
+    "excel"
+  ],
+  "onyomi": [
+    "ショウ"
+  ],
+  "kunyomi": [
+    "か.つ",
+    "-が.ち",
+    "まさ.る",
+    "すぐ.れる",
+    "かつ"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

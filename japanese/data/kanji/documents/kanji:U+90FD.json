@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+90FD",
+  "unicode": "U+90FD",
+  "symbol": "都",
+  "meanings": [
+    "metropolis",
+    "capital",
+    "all",
+    "everything"
+  ],
+  "onyomi": [
+    "ト",
+    "ツ"
+  ],
+  "kunyomi": [
+    "みやこ"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

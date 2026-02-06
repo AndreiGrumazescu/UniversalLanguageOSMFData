@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+633A",
+  "unicode": "U+633A",
+  "symbol": "挺",
+  "meanings": [
+    "bravely volunteer",
+    "counter for guns, inksticks, palanquins, rickshaws"
+  ],
+  "onyomi": [
+    "チョウ",
+    "テイ"
+  ],
+  "kunyomi": [
+    "ぬ.く"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

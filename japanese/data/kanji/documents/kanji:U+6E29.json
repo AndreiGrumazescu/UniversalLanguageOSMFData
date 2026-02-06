@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+6E29",
+  "unicode": "U+6E29",
+  "symbol": "温",
+  "meanings": [
+    "warm"
+  ],
+  "onyomi": [
+    "オン"
+  ],
+  "kunyomi": [
+    "あたた.か",
+    "あたた.かい",
+    "あたた.まる",
+    "あたた.める",
+    "ぬく"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

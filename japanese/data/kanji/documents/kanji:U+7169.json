@@ -1,0 +1,27 @@
+{
+  "$id": "kanji:U+7169",
+  "unicode": "U+7169",
+  "symbol": "煩",
+  "meanings": [
+    "anxiety",
+    "trouble",
+    "worry",
+    "pain",
+    "ill",
+    "annoy",
+    "nuisance",
+    "irksome"
+  ],
+  "onyomi": [
+    "ハン",
+    "ボン"
+  ],
+  "kunyomi": [
+    "わずら.う",
+    "わずら.わす",
+    "うるさ.がる",
+    "うるさ.い"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,25 @@
+{
+  "$id": "kanji:U+7523",
+  "unicode": "U+7523",
+  "symbol": "産",
+  "meanings": [
+    "products",
+    "bear",
+    "give birth",
+    "yield",
+    "childbirth",
+    "native",
+    "property"
+  ],
+  "onyomi": [
+    "サン"
+  ],
+  "kunyomi": [
+    "う.む",
+    "う.まれる",
+    "うぶ-",
+    "む.す"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

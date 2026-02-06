@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+795D",
+  "unicode": "U+795D",
+  "symbol": "祝",
+  "meanings": [
+    "celebrate",
+    "congratulate"
+  ],
+  "onyomi": [
+    "シュク",
+    "シュウ"
+  ],
+  "kunyomi": [
+    "いわ.う"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

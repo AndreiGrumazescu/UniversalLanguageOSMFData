@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+6CA1",
+  "unicode": "U+6CA1",
+  "symbol": "没",
+  "meanings": [
+    "drown",
+    "sink",
+    "hide",
+    "fall into",
+    "disappear",
+    "die"
+  ],
+  "onyomi": [
+    "ボツ",
+    "モツ"
+  ],
+  "kunyomi": [
+    "おぼ.れる",
+    "しず.む",
+    "ない"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+7C89",
+  "unicode": "U+7C89",
+  "symbol": "粉",
+  "meanings": [
+    "flour",
+    "powder",
+    "dust"
+  ],
+  "onyomi": [
+    "フン"
+  ],
+  "kunyomi": [
+    "デシメートル",
+    "こ",
+    "こな"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

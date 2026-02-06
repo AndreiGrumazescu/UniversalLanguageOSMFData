@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+81FC",
+  "unicode": "U+81FC",
+  "symbol": "臼",
+  "meanings": [
+    "mortar"
+  ],
+  "onyomi": [
+    "キュウ",
+    "グ"
+  ],
+  "kunyomi": [
+    "うす",
+    "うすづ.く"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

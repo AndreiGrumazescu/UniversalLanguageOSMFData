@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+52B1",
+  "unicode": "U+52B1",
+  "symbol": "励",
+  "meanings": [
+    "encourage",
+    "be diligent",
+    "inspire"
+  ],
+  "onyomi": [
+    "レイ"
+  ],
+  "kunyomi": [
+    "はげ.む",
+    "はげ.ます"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "kanji:U+72AC",
+  "unicode": "U+72AC",
+  "symbol": "犬",
+  "meanings": [
+    "dog"
+  ],
+  "onyomi": [
+    "ケン"
+  ],
+  "kunyomi": [
+    "いぬ",
+    "いぬ-"
+  ],
+  "strokeCount": 4,
+  "jlptLevel": "unspecified"
+}

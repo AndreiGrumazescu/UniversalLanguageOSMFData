@@ -1,0 +1,35 @@
+{
+  "$id": "kanji:U+4EE3",
+  "unicode": "U+4EE3",
+  "symbol": "代",
+  "meanings": [
+    "substitute",
+    "change",
+    "convert",
+    "replace",
+    "period",
+    "age",
+    "counter for decades of ages, eras, etc.",
+    "generation",
+    "charge",
+    "rate",
+    "fee"
+  ],
+  "onyomi": [
+    "ダイ",
+    "タイ"
+  ],
+  "kunyomi": [
+    "か.わる",
+    "かわ.る",
+    "かわ.り",
+    "か.わり",
+    "-がわ.り",
+    "-が.わり",
+    "か.える",
+    "よ",
+    "しろ"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+9CF4",
+  "unicode": "U+9CF4",
+  "symbol": "鳴",
+  "meanings": [
+    "chirp",
+    "cry",
+    "bark",
+    "sound",
+    "ring",
+    "echo",
+    "honk"
+  ],
+  "onyomi": [
+    "メイ"
+  ],
+  "kunyomi": [
+    "な.く",
+    "な.る",
+    "な.らす"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

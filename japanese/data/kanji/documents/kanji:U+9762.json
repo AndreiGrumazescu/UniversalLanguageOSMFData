@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+9762",
+  "unicode": "U+9762",
+  "symbol": "面",
+  "meanings": [
+    "mask",
+    "face",
+    "features",
+    "surface"
+  ],
+  "onyomi": [
+    "メン",
+    "ベン"
+  ],
+  "kunyomi": [
+    "おも",
+    "おもて",
+    "つら"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

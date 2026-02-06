@@ -1,0 +1,25 @@
+{
+  "$id": "kanji:U+4F86",
+  "unicode": "U+4F86",
+  "symbol": "來",
+  "meanings": [
+    "come",
+    "due",
+    "next",
+    "cause",
+    "become"
+  ],
+  "onyomi": [
+    "ライ",
+    "タイ"
+  ],
+  "kunyomi": [
+    "く.る",
+    "きた.る",
+    "きた.す",
+    "き.たす",
+    "き.たる"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

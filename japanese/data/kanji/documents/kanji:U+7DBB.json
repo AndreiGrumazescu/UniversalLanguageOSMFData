@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+7DBB",
+  "unicode": "U+7DBB",
+  "symbol": "綻",
+  "meanings": [
+    "be rent",
+    "ripped",
+    "unravel",
+    "run",
+    "begin to open",
+    "smile"
+  ],
+  "onyomi": [
+    "タン"
+  ],
+  "kunyomi": [
+    "ほころ.びる"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

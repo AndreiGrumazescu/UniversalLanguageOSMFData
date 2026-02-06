@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+52FF",
+  "unicode": "U+52FF",
+  "symbol": "勿",
+  "meanings": [
+    "not",
+    "must not",
+    "do not",
+    "be not"
+  ],
+  "onyomi": [
+    "モチ",
+    "ブツ",
+    "ボツ"
+  ],
+  "kunyomi": [
+    "なか.れ",
+    "なし"
+  ],
+  "strokeCount": 4,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+9045",
+  "unicode": "U+9045",
+  "symbol": "遅",
+  "meanings": [
+    "slow",
+    "late",
+    "back",
+    "later"
+  ],
+  "onyomi": [
+    "チ"
+  ],
+  "kunyomi": [
+    "おく.れる",
+    "おく.らす",
+    "おそ.い"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

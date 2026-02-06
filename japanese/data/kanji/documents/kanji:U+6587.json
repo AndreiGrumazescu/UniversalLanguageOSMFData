@@ -1,0 +1,25 @@
+{
+  "$id": "kanji:U+6587",
+  "unicode": "U+6587",
+  "symbol": "文",
+  "meanings": [
+    "sentence",
+    "literature",
+    "style",
+    "art",
+    "decoration",
+    "figures",
+    "plan",
+    "literary radical (no. 67)"
+  ],
+  "onyomi": [
+    "ブン",
+    "モン"
+  ],
+  "kunyomi": [
+    "ふみ",
+    "あや"
+  ],
+  "strokeCount": 4,
+  "jlptLevel": "unspecified"
+}

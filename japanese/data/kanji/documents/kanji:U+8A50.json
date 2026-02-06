@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+8A50",
+  "unicode": "U+8A50",
+  "symbol": "詐",
+  "meanings": [
+    "lie",
+    "falsehood",
+    "deceive",
+    "pretend"
+  ],
+  "onyomi": [
+    "サ"
+  ],
+  "kunyomi": [
+    "いつわ.る"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

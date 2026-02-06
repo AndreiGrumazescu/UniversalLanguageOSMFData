@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+5916",
+  "unicode": "U+5916",
+  "symbol": "外",
+  "meanings": [
+    "outside"
+  ],
+  "onyomi": [
+    "ガイ",
+    "ゲ"
+  ],
+  "kunyomi": [
+    "そと",
+    "ほか",
+    "はず.す",
+    "はず.れる",
+    "と-"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+971E",
+  "unicode": "U+971E",
+  "symbol": "霞",
+  "meanings": [
+    "be hazy",
+    "grow dim",
+    "blurred"
+  ],
+  "onyomi": [
+    "カ",
+    "ゲ"
+  ],
+  "kunyomi": [
+    "かすみ",
+    "かす.む"
+  ],
+  "strokeCount": 17,
+  "jlptLevel": "unspecified"
+}

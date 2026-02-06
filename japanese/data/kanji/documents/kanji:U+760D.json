@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+760D",
+  "unicode": "U+760D",
+  "symbol": "瘍",
+  "meanings": [
+    "swelling",
+    "boil",
+    "tumor"
+  ],
+  "onyomi": [
+    "ヨウ"
+  ],
+  "kunyomi": [
+    "かさ"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

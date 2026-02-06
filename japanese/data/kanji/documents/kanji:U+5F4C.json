@@ -1,0 +1,27 @@
+{
+  "$id": "kanji:U+5F4C",
+  "unicode": "U+5F4C",
+  "symbol": "彌",
+  "meanings": [
+    "extensive",
+    "full",
+    "fill",
+    "complete"
+  ],
+  "onyomi": [
+    "ミ",
+    "ビ"
+  ],
+  "kunyomi": [
+    "いや",
+    "や",
+    "あまねし",
+    "いよいよ",
+    "とおい",
+    "ひさし",
+    "ひさ.しい",
+    "わた.る"
+  ],
+  "strokeCount": 17,
+  "jlptLevel": "unspecified"
+}

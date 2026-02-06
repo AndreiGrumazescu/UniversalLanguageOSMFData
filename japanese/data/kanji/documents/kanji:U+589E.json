@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+589E",
+  "unicode": "U+589E",
+  "symbol": "增",
+  "meanings": [
+    "increase",
+    "add to",
+    "augment"
+  ],
+  "onyomi": [
+    "ゾウ",
+    "ソウ"
+  ],
+  "kunyomi": [
+    "ます",
+    "ふえる",
+    "ふやす"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

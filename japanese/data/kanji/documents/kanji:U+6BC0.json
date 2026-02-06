@@ -1,0 +1,27 @@
+{
+  "$id": "kanji:U+6BC0",
+  "unicode": "U+6BC0",
+  "symbol": "毀",
+  "meanings": [
+    "break",
+    "destroy",
+    "censure",
+    "be chipped",
+    "be scratched",
+    "be broken",
+    "be ruined"
+  ],
+  "onyomi": [
+    "キ"
+  ],
+  "kunyomi": [
+    "こぼ.つ",
+    "こわ.す",
+    "こぼ.れる",
+    "こわ.れる",
+    "そし.る",
+    "やぶ.る"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

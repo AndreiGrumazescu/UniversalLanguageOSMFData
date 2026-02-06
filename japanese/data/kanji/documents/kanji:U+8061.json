@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+8061",
+  "unicode": "U+8061",
+  "symbol": "聡",
+  "meanings": [
+    "wise",
+    "fast learner"
+  ],
+  "onyomi": [
+    "ソウ"
+  ],
+  "kunyomi": [
+    "さと.い",
+    "みみざと.い"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

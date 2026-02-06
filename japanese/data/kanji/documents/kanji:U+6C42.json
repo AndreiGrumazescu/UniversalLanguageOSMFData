@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+6C42",
+  "unicode": "U+6C42",
+  "symbol": "求",
+  "meanings": [
+    "request",
+    "want",
+    "wish for",
+    "require",
+    "demand"
+  ],
+  "onyomi": [
+    "キュウ",
+    "グ"
+  ],
+  "kunyomi": [
+    "もと.める"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

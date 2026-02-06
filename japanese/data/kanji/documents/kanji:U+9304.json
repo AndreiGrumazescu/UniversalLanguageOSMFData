@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+9304",
+  "unicode": "U+9304",
+  "symbol": "錄",
+  "meanings": [
+    "copy",
+    "write down",
+    "record"
+  ],
+  "onyomi": [
+    "ロク",
+    "リョ"
+  ],
+  "kunyomi": [
+    "しるす"
+  ],
+  "strokeCount": 16,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+5999",
+  "unicode": "U+5999",
+  "symbol": "妙",
+  "meanings": [
+    "exquisite",
+    "strange",
+    "queer",
+    "mystery",
+    "miracle",
+    "excellent",
+    "delicate",
+    "charming"
+  ],
+  "onyomi": [
+    "ミョウ",
+    "ビョウ"
+  ],
+  "kunyomi": [
+    "たえ"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

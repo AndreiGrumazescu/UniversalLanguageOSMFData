@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+55AE",
+  "unicode": "U+55AE",
+  "symbol": "單",
+  "meanings": [
+    "one",
+    "single",
+    "simple"
+  ],
+  "onyomi": [
+    "タン"
+  ],
+  "kunyomi": [
+    "ひとえ"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

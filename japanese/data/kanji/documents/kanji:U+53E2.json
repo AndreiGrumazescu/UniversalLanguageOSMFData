@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+53E2",
+  "unicode": "U+53E2",
+  "symbol": "叢",
+  "meanings": [
+    "plexus",
+    "clump of bushes",
+    "thicket"
+  ],
+  "onyomi": [
+    "ソウ",
+    "ス"
+  ],
+  "kunyomi": [
+    "くさむら",
+    "むら.がる",
+    "むら"
+  ],
+  "strokeCount": 18,
+  "jlptLevel": "unspecified"
+}

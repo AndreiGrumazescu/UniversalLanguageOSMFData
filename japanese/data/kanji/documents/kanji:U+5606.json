@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+5606",
+  "unicode": "U+5606",
+  "symbol": "嘆",
+  "meanings": [
+    "sigh",
+    "lament",
+    "moan",
+    "grieve",
+    "sigh of admiration"
+  ],
+  "onyomi": [
+    "タン"
+  ],
+  "kunyomi": [
+    "なげ.く",
+    "なげ.かわしい"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

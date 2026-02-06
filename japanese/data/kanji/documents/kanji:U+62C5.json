@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+62C5",
+  "unicode": "U+62C5",
+  "symbol": "担",
+  "meanings": [
+    "shouldering",
+    "carry",
+    "raise",
+    "bear"
+  ],
+  "onyomi": [
+    "タン"
+  ],
+  "kunyomi": [
+    "かつ.ぐ",
+    "にな.う"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

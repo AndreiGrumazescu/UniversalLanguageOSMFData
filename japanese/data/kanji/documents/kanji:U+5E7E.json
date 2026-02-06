@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+5E7E",
+  "unicode": "U+5E7E",
+  "symbol": "幾",
+  "meanings": [
+    "how many",
+    "how much",
+    "how far",
+    "how long",
+    "some",
+    "several"
+  ],
+  "onyomi": [
+    "キ"
+  ],
+  "kunyomi": [
+    "いく-",
+    "いく.つ",
+    "いく.ら"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

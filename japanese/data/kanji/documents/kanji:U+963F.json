@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+963F",
+  "unicode": "U+963F",
+  "symbol": "阿",
+  "meanings": [
+    "Africa",
+    "flatter",
+    "fawn upon",
+    "corner",
+    "nook",
+    "recess"
+  ],
+  "onyomi": [
+    "ア",
+    "オ"
+  ],
+  "kunyomi": [
+    "おもね.る",
+    "くま"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

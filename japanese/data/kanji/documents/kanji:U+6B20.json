@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+6B20",
+  "unicode": "U+6B20",
+  "symbol": "欠",
+  "meanings": [
+    "lack",
+    "gap",
+    "fail",
+    "yawning radical (no. 76)"
+  ],
+  "onyomi": [
+    "ケツ",
+    "ケン"
+  ],
+  "kunyomi": [
+    "か.ける",
+    "か.く"
+  ],
+  "strokeCount": 4,
+  "jlptLevel": "unspecified"
+}

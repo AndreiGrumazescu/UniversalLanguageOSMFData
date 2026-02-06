@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+7B1B",
+  "unicode": "U+7B1B",
+  "symbol": "笛",
+  "meanings": [
+    "flute",
+    "clarinet",
+    "pipe",
+    "whistle",
+    "bagpipe",
+    "piccolo"
+  ],
+  "onyomi": [
+    "テキ"
+  ],
+  "kunyomi": [
+    "ふえ"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

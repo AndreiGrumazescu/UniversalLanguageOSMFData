@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+8FBC",
+  "unicode": "U+8FBC",
+  "symbol": "込",
+  "meanings": [
+    "crowded",
+    "mixture",
+    "in bulk",
+    "included",
+    "(kokuji)"
+  ],
+  "kunyomi": [
+    "-こ.む",
+    "こ.む",
+    "こ.み",
+    "-こ.み",
+    "こ.める"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

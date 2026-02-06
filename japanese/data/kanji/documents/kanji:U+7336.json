@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+7336",
+  "unicode": "U+7336",
+  "symbol": "猶",
+  "meanings": [
+    "furthermore",
+    "still",
+    "yet"
+  ],
+  "onyomi": [
+    "ユウ",
+    "ユ"
+  ],
+  "kunyomi": [
+    "なお"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

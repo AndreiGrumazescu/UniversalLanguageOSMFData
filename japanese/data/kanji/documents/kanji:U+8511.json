@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+8511",
+  "unicode": "U+8511",
+  "symbol": "蔑",
+  "meanings": [
+    "ignore",
+    "despise",
+    "neglect",
+    "ridicule"
+  ],
+  "onyomi": [
+    "ベツ"
+  ],
+  "kunyomi": [
+    "ないがしろ",
+    "なみ.する",
+    "くらい",
+    "さげす.む"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

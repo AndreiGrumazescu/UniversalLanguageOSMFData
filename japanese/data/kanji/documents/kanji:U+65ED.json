@@ -1,0 +1,17 @@
+{
+  "$id": "kanji:U+65ED",
+  "unicode": "U+65ED",
+  "symbol": "旭",
+  "meanings": [
+    "rising sun",
+    "morning sun"
+  ],
+  "onyomi": [
+    "キョク"
+  ],
+  "kunyomi": [
+    "あさひ"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

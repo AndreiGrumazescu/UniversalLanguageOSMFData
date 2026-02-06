@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+6492",
+  "unicode": "U+6492",
+  "symbol": "撒",
+  "meanings": [
+    "scatter",
+    "sprinkle",
+    "give them the slip"
+  ],
+  "onyomi": [
+    "サン",
+    "サツ"
+  ],
+  "kunyomi": [
+    "ま.く"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+6EAB",
+  "unicode": "U+6EAB",
+  "symbol": "溫",
+  "meanings": [
+    "lukewarm",
+    "warm",
+    "tepid",
+    "mild"
+  ],
+  "onyomi": [
+    "オン",
+    "ウン"
+  ],
+  "kunyomi": [
+    "あたたか",
+    "あたためる"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

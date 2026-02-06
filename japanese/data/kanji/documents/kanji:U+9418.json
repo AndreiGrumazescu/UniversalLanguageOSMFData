@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+9418",
+  "unicode": "U+9418",
+  "symbol": "鐘",
+  "meanings": [
+    "bell",
+    "gong",
+    "chimes"
+  ],
+  "onyomi": [
+    "ショウ"
+  ],
+  "kunyomi": [
+    "かね"
+  ],
+  "strokeCount": 20,
+  "jlptLevel": "unspecified"
+}

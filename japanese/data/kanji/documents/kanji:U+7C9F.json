@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+7C9F",
+  "unicode": "U+7C9F",
+  "symbol": "粟",
+  "meanings": [
+    "millet"
+  ],
+  "onyomi": [
+    "ゾク",
+    "ショク",
+    "ソク"
+  ],
+  "kunyomi": [
+    "あわ",
+    "もみ"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

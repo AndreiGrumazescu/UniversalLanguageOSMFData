@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+89B3",
+  "unicode": "U+89B3",
+  "symbol": "観",
+  "meanings": [
+    "outlook",
+    "look",
+    "appearance",
+    "condition",
+    "view"
+  ],
+  "onyomi": [
+    "カン"
+  ],
+  "kunyomi": [
+    "み.る",
+    "しめ.す"
+  ],
+  "strokeCount": 18,
+  "jlptLevel": "unspecified"
+}

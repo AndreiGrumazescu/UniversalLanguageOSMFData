@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+80A1",
+  "unicode": "U+80A1",
+  "symbol": "股",
+  "meanings": [
+    "thigh",
+    "crotch"
+  ],
+  "onyomi": [
+    "コ"
+  ],
+  "kunyomi": [
+    "また",
+    "もも"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

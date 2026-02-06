@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+6ED1",
+  "unicode": "U+6ED1",
+  "symbol": "滑",
+  "meanings": [
+    "slippery",
+    "slide",
+    "slip",
+    "fail exam"
+  ],
+  "onyomi": [
+    "カツ",
+    "コツ"
+  ],
+  "kunyomi": [
+    "すべ.る",
+    "なめ.らか"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+4E43",
+  "unicode": "U+4E43",
+  "symbol": "乃",
+  "meanings": [
+    "from",
+    "possessive particle",
+    "whereupon",
+    "accordingly"
+  ],
+  "onyomi": [
+    "ナイ",
+    "ダイ",
+    "ノ",
+    "アイ"
+  ],
+  "kunyomi": [
+    "の",
+    "すなわ.ち",
+    "なんじ"
+  ],
+  "strokeCount": 2,
+  "jlptLevel": "unspecified"
+}

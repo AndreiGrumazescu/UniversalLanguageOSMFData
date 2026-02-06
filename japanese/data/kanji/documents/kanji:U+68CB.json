@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+68CB",
+  "unicode": "U+68CB",
+  "symbol": "棋",
+  "meanings": [
+    "chess piece",
+    "Japanese chess",
+    "shogi"
+  ],
+  "onyomi": [
+    "キ"
+  ],
+  "kunyomi": [
+    "ご"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

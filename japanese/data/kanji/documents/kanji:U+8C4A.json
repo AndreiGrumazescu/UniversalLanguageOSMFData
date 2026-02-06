@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+8C4A",
+  "unicode": "U+8C4A",
+  "symbol": "豊",
+  "meanings": [
+    "bountiful",
+    "excellent",
+    "rich"
+  ],
+  "onyomi": [
+    "ホウ",
+    "ブ"
+  ],
+  "kunyomi": [
+    "ゆた.か",
+    "とよ"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

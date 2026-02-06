@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+8A02",
+  "unicode": "U+8A02",
+  "symbol": "訂",
+  "meanings": [
+    "revise",
+    "correct",
+    "decide"
+  ],
+  "onyomi": [
+    "テイ"
+  ],
+  "kunyomi": [
+    "ただ.す"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

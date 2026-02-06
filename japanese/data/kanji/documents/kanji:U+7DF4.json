@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+7DF4",
+  "unicode": "U+7DF4",
+  "symbol": "練",
+  "meanings": [
+    "practice",
+    "gloss",
+    "train",
+    "drill",
+    "polish",
+    "refine"
+  ],
+  "onyomi": [
+    "レン"
+  ],
+  "kunyomi": [
+    "ね.る",
+    "ね.り"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

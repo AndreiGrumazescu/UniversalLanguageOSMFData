@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+6B73",
+  "unicode": "U+6B73",
+  "symbol": "歳",
+  "meanings": [
+    "year-end",
+    "age",
+    "occasion",
+    "opportunity"
+  ],
+  "onyomi": [
+    "サイ",
+    "セイ"
+  ],
+  "kunyomi": [
+    "とし",
+    "とせ",
+    "よわい"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

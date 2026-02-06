@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+79E4",
+  "unicode": "U+79E4",
+  "symbol": "秤",
+  "meanings": [
+    "balances",
+    "scales",
+    "steelyard"
+  ],
+  "onyomi": [
+    "ショウ",
+    "ヒン",
+    "ビン"
+  ],
+  "kunyomi": [
+    "はかり"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

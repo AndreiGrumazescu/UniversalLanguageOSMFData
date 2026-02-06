@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+856A",
+  "unicode": "U+856A",
+  "symbol": "蕪",
+  "meanings": [
+    "turnip"
+  ],
+  "onyomi": [
+    "ブ",
+    "ム"
+  ],
+  "kunyomi": [
+    "かぶ",
+    "かぶら",
+    "あれる"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

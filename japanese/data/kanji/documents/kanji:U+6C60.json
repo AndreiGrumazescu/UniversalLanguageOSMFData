@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+6C60",
+  "unicode": "U+6C60",
+  "symbol": "池",
+  "meanings": [
+    "pond",
+    "cistern",
+    "pool",
+    "reservoir"
+  ],
+  "onyomi": [
+    "チ"
+  ],
+  "kunyomi": [
+    "いけ"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

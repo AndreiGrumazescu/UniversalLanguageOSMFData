@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+5C0A",
+  "unicode": "U+5C0A",
+  "symbol": "尊",
+  "meanings": [
+    "revered",
+    "valuable",
+    "precious",
+    "noble",
+    "exalted"
+  ],
+  "onyomi": [
+    "ソン"
+  ],
+  "kunyomi": [
+    "たっと.い",
+    "とうと.い",
+    "たっと.ぶ",
+    "とうと.ぶ"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

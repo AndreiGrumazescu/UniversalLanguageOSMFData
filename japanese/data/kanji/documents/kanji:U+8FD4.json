@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+8FD4",
+  "unicode": "U+8FD4",
+  "symbol": "返",
+  "meanings": [
+    "return",
+    "answer",
+    "fade",
+    "repay"
+  ],
+  "onyomi": [
+    "ヘン"
+  ],
+  "kunyomi": [
+    "かえ.す",
+    "-かえ.す",
+    "かえ.る",
+    "-かえ.る"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

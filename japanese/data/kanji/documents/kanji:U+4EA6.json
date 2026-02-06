@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+4EA6",
+  "unicode": "U+4EA6",
+  "symbol": "亦",
+  "meanings": [
+    "also",
+    "again"
+  ],
+  "onyomi": [
+    "エキ",
+    "ヤク"
+  ],
+  "kunyomi": [
+    "また"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+56DA",
+  "unicode": "U+56DA",
+  "symbol": "囚",
+  "meanings": [
+    "captured",
+    "criminal",
+    "arrest",
+    "catch"
+  ],
+  "onyomi": [
+    "シュウ"
+  ],
+  "kunyomi": [
+    "とら.われる"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

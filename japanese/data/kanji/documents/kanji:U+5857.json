@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+5857",
+  "unicode": "U+5857",
+  "symbol": "塗",
+  "meanings": [
+    "paint",
+    "plaster",
+    "daub",
+    "smear",
+    "coating"
+  ],
+  "onyomi": [
+    "ト"
+  ],
+  "kunyomi": [
+    "ぬ.る",
+    "ぬ.り",
+    "まみ.れる"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

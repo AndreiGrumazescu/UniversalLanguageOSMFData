@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+6E0B",
+  "unicode": "U+6E0B",
+  "symbol": "渋",
+  "meanings": [
+    "astringent",
+    "hesitate",
+    "reluctant",
+    "have diarrhea"
+  ],
+  "onyomi": [
+    "ジュウ",
+    "シュウ"
+  ],
+  "kunyomi": [
+    "しぶ",
+    "しぶ.い",
+    "しぶ.る"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

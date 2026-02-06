@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+5C31",
+  "unicode": "U+5C31",
+  "symbol": "就",
+  "meanings": [
+    "concerning",
+    "settle",
+    "take position",
+    "depart",
+    "study",
+    "per"
+  ],
+  "onyomi": [
+    "シュウ",
+    "ジュ"
+  ],
+  "kunyomi": [
+    "つ.く",
+    "つ.ける"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "kanji:U+9001",
+  "unicode": "U+9001",
+  "symbol": "送",
+  "meanings": [
+    "escort",
+    "send"
+  ],
+  "onyomi": [
+    "ソウ"
+  ],
+  "kunyomi": [
+    "おく.る"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+5E1D",
+  "unicode": "U+5E1D",
+  "symbol": "帝",
+  "meanings": [
+    "sovereign",
+    "the emperor",
+    "god",
+    "creator"
+  ],
+  "onyomi": [
+    "テイ"
+  ],
+  "kunyomi": [
+    "みかど"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

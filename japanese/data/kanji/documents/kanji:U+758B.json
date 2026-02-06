@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+758B",
+  "unicode": "U+758B",
+  "symbol": "疋",
+  "meanings": [
+    "head",
+    "counter for animals"
+  ],
+  "onyomi": [
+    "ヒキ",
+    "ショ",
+    "ソ",
+    "ヒツ"
+  ],
+  "kunyomi": [
+    "あし"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+78E8",
+  "unicode": "U+78E8",
+  "symbol": "磨",
+  "meanings": [
+    "grind",
+    "polish",
+    "scour",
+    "improve",
+    "brush (teeth)"
+  ],
+  "onyomi": [
+    "マ"
+  ],
+  "kunyomi": [
+    "みが.く",
+    "す.る"
+  ],
+  "strokeCount": 16,
+  "jlptLevel": "unspecified"
+}

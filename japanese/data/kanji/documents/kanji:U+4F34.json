@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+4F34",
+  "unicode": "U+4F34",
+  "symbol": "伴",
+  "meanings": [
+    "consort",
+    "accompany",
+    "bring with",
+    "companion"
+  ],
+  "onyomi": [
+    "ハン",
+    "バン"
+  ],
+  "kunyomi": [
+    "ともな.う"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

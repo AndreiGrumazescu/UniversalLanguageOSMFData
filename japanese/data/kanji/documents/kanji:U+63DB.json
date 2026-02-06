@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+63DB",
+  "unicode": "U+63DB",
+  "symbol": "換",
+  "meanings": [
+    "interchange",
+    "period",
+    "change",
+    "convert",
+    "replace",
+    "renew"
+  ],
+  "onyomi": [
+    "カン"
+  ],
+  "kunyomi": [
+    "か.える",
+    "-か.える",
+    "か.わる"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

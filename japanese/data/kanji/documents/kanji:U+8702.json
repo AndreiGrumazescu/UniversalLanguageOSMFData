@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+8702",
+  "unicode": "U+8702",
+  "symbol": "蜂",
+  "meanings": [
+    "bee",
+    "wasp",
+    "hornet"
+  ],
+  "onyomi": [
+    "ホウ"
+  ],
+  "kunyomi": [
+    "はち"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

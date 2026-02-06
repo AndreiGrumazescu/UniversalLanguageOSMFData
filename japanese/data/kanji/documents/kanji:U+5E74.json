@@ -1,0 +1,17 @@
+{
+  "$id": "kanji:U+5E74",
+  "unicode": "U+5E74",
+  "symbol": "年",
+  "meanings": [
+    "year",
+    "counter for years"
+  ],
+  "onyomi": [
+    "ネン"
+  ],
+  "kunyomi": [
+    "とし"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+95A2",
+  "unicode": "U+95A2",
+  "symbol": "関",
+  "meanings": [
+    "connection",
+    "barrier",
+    "gateway",
+    "involve",
+    "concerning"
+  ],
+  "onyomi": [
+    "カン"
+  ],
+  "kunyomi": [
+    "せき",
+    "-ぜき",
+    "かか.わる",
+    "からくり",
+    "かんぬき"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

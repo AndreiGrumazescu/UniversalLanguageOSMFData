@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+96C6",
+  "unicode": "U+96C6",
+  "symbol": "集",
+  "meanings": [
+    "gather",
+    "meet",
+    "congregate",
+    "swarm",
+    "flock"
+  ],
+  "onyomi": [
+    "シュウ"
+  ],
+  "kunyomi": [
+    "あつ.まる",
+    "あつ.める",
+    "つど.う"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

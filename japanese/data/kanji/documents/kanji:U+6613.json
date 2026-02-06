@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+6613",
+  "unicode": "U+6613",
+  "symbol": "易",
+  "meanings": [
+    "easy",
+    "ready to",
+    "simple",
+    "fortune-telling",
+    "divination"
+  ],
+  "onyomi": [
+    "エキ",
+    "イ"
+  ],
+  "kunyomi": [
+    "やさ.しい",
+    "やす.い"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

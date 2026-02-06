@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+8087",
+  "unicode": "U+8087",
+  "symbol": "肇",
+  "meanings": [
+    "beginning"
+  ],
+  "onyomi": [
+    "チョウ",
+    "ジョウ",
+    "トウ"
+  ],
+  "kunyomi": [
+    "はじ.める",
+    "はじめ"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

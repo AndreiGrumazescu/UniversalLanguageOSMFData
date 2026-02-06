@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+7BE0",
+  "unicode": "U+7BE0",
+  "symbol": "篠",
+  "meanings": [
+    "bamboo grass"
+  ],
+  "onyomi": [
+    "ゾウ",
+    "ショウ"
+  ],
+  "kunyomi": [
+    "しの",
+    "ささ",
+    "すず"
+  ],
+  "strokeCount": 17,
+  "jlptLevel": "unspecified"
+}

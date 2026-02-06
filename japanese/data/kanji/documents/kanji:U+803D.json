@@ -1,0 +1,17 @@
+{
+  "$id": "kanji:U+803D",
+  "unicode": "U+803D",
+  "symbol": "耽",
+  "meanings": [
+    "addicted",
+    "absorbed in"
+  ],
+  "onyomi": [
+    "タン"
+  ],
+  "kunyomi": [
+    "ふけ.る"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

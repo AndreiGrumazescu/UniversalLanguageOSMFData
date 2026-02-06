@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+7766",
+  "unicode": "U+7766",
+  "symbol": "睦",
+  "meanings": [
+    "intimate",
+    "friendly",
+    "harmonious"
+  ],
+  "onyomi": [
+    "ボク",
+    "モク"
+  ],
+  "kunyomi": [
+    "むつ.まじい",
+    "むつ.む",
+    "むつ.ぶ"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

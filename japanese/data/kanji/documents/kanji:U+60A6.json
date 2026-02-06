@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+60A6",
+  "unicode": "U+60A6",
+  "symbol": "悦",
+  "meanings": [
+    "ecstasy",
+    "joy",
+    "rapture"
+  ],
+  "onyomi": [
+    "エツ"
+  ],
+  "kunyomi": [
+    "よろこ.ぶ",
+    "よろこ.ばす"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+4F10",
+  "unicode": "U+4F10",
+  "symbol": "伐",
+  "meanings": [
+    "fell",
+    "strike",
+    "attack",
+    "punish"
+  ],
+  "onyomi": [
+    "バツ",
+    "ハツ",
+    "カ",
+    "ボチ"
+  ],
+  "kunyomi": [
+    "き.る",
+    "そむ.く",
+    "う.つ"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

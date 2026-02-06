@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+91CE",
+  "unicode": "U+91CE",
+  "symbol": "野",
+  "meanings": [
+    "plains",
+    "field",
+    "rustic",
+    "civilian life"
+  ],
+  "onyomi": [
+    "ヤ",
+    "ショ"
+  ],
+  "kunyomi": [
+    "の",
+    "の-"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

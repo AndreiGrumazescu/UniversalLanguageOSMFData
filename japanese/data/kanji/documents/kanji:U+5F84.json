@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+5F84",
+  "unicode": "U+5F84",
+  "symbol": "径",
+  "meanings": [
+    "diameter",
+    "path",
+    "method"
+  ],
+  "onyomi": [
+    "ケイ"
+  ],
+  "kunyomi": [
+    "みち",
+    "こみち",
+    "さしわたし",
+    "ただちに"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

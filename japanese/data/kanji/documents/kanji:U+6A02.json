@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+6A02",
+  "unicode": "U+6A02",
+  "symbol": "樂",
+  "meanings": [
+    "music",
+    "comfort"
+  ],
+  "onyomi": [
+    "ガク",
+    "ラク",
+    "ゴウ"
+  ],
+  "kunyomi": [
+    "たの.しい",
+    "たの.しむ",
+    "この.む"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

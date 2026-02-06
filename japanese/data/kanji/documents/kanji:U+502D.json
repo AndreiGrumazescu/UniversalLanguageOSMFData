@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+502D",
+  "unicode": "U+502D",
+  "symbol": "倭",
+  "meanings": [
+    "Yamato",
+    "ancient Japan"
+  ],
+  "onyomi": [
+    "ワ",
+    "イ"
+  ],
+  "kunyomi": [
+    "やまと",
+    "したが.う"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+904B",
+  "unicode": "U+904B",
+  "symbol": "運",
+  "meanings": [
+    "carry",
+    "luck",
+    "destiny",
+    "fate",
+    "lot",
+    "transport",
+    "progress",
+    "advance"
+  ],
+  "onyomi": [
+    "ウン"
+  ],
+  "kunyomi": [
+    "はこ.ぶ"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

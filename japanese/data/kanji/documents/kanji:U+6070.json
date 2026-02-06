@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+6070",
+  "unicode": "U+6070",
+  "symbol": "恰",
+  "meanings": [
+    "just as",
+    "as though",
+    "fortunately"
+  ],
+  "onyomi": [
+    "コウ",
+    "カッ",
+    "チョウ",
+    "キョウ"
+  ],
+  "kunyomi": [
+    "あたか.も"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "kanji:U+7BB8",
+  "unicode": "U+7BB8",
+  "symbol": "箸",
+  "meanings": [
+    "chopsticks"
+  ],
+  "onyomi": [
+    "チョ",
+    "チャク"
+  ],
+  "kunyomi": [
+    "はし"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

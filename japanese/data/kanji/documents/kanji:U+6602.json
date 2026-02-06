@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+6602",
+  "unicode": "U+6602",
+  "symbol": "昂",
+  "meanings": [
+    "rise"
+  ],
+  "onyomi": [
+    "コウ",
+    "ゴウ"
+  ],
+  "kunyomi": [
+    "あ.がる",
+    "たか.い",
+    "たか.ぶる"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

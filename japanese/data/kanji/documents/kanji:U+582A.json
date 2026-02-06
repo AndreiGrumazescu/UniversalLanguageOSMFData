@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+582A",
+  "unicode": "U+582A",
+  "symbol": "堪",
+  "meanings": [
+    "withstand",
+    "endure",
+    "support",
+    "resist"
+  ],
+  "onyomi": [
+    "カン",
+    "タン"
+  ],
+  "kunyomi": [
+    "た.える",
+    "たま.る",
+    "こら.える",
+    "こた.える"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

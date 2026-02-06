@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+8AB2",
+  "unicode": "U+8AB2",
+  "symbol": "課",
+  "meanings": [
+    "chapter",
+    "lesson",
+    "section",
+    "department",
+    "division",
+    "counter for chapters (of a book)"
+  ],
+  "onyomi": [
+    "カ"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

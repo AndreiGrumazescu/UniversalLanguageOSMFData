@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+604B",
+  "unicode": "U+604B",
+  "symbol": "恋",
+  "meanings": [
+    "romance",
+    "in love",
+    "yearn for",
+    "miss",
+    "darling"
+  ],
+  "onyomi": [
+    "レン"
+  ],
+  "kunyomi": [
+    "こ.う",
+    "こい",
+    "こい.しい"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

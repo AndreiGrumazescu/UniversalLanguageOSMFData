@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+5E03",
+  "unicode": "U+5E03",
+  "symbol": "布",
+  "meanings": [
+    "linen",
+    "cloth",
+    "spread",
+    "distribute"
+  ],
+  "onyomi": [
+    "フ",
+    "ホ"
+  ],
+  "kunyomi": [
+    "ぬの",
+    "し.く",
+    "きれ"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,27 @@
+{
+  "$id": "kanji:U+6A19",
+  "unicode": "U+6A19",
+  "symbol": "標",
+  "meanings": [
+    "signpost",
+    "seal",
+    "mark",
+    "stamp",
+    "imprint",
+    "symbol",
+    "emblem",
+    "trademark",
+    "evidence",
+    "souvenir",
+    "target"
+  ],
+  "onyomi": [
+    "ヒョウ"
+  ],
+  "kunyomi": [
+    "しるべ",
+    "しるし"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

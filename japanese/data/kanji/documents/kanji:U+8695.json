@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+8695",
+  "unicode": "U+8695",
+  "symbol": "蚕",
+  "meanings": [
+    "silkworm"
+  ],
+  "onyomi": [
+    "サン",
+    "テン"
+  ],
+  "kunyomi": [
+    "かいこ",
+    "こ"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+8ABC",
+  "unicode": "U+8ABC",
+  "symbol": "誼",
+  "meanings": [
+    "friendship",
+    "intimacy"
+  ],
+  "onyomi": [
+    "ギ"
+  ],
+  "kunyomi": [
+    "よしみ",
+    "よい"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

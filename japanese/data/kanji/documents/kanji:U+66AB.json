@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+66AB",
+  "unicode": "U+66AB",
+  "symbol": "暫",
+  "meanings": [
+    "temporarily",
+    "a while",
+    "moment",
+    "long time"
+  ],
+  "onyomi": [
+    "ザン"
+  ],
+  "kunyomi": [
+    "しばら.く"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

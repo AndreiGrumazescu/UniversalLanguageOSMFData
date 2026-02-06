@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+6B3D",
+  "unicode": "U+6B3D",
+  "symbol": "欽",
+  "meanings": [
+    "respect",
+    "revere",
+    "long for"
+  ],
+  "onyomi": [
+    "キン",
+    "コン"
+  ],
+  "kunyomi": [
+    "つつし.む"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

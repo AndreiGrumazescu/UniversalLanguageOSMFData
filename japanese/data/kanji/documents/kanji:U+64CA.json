@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+64CA",
+  "unicode": "U+64CA",
+  "symbol": "擊",
+  "meanings": [
+    "strike",
+    "hit",
+    "beat",
+    "attack",
+    "fight"
+  ],
+  "onyomi": [
+    "ゲキ"
+  ],
+  "kunyomi": [
+    "う.つ"
+  ],
+  "strokeCount": 17,
+  "jlptLevel": "unspecified"
+}

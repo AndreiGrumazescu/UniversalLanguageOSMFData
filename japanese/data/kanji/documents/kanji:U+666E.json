@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+666E",
+  "unicode": "U+666E",
+  "symbol": "普",
+  "meanings": [
+    "universal",
+    "wide(ly)",
+    "generally",
+    "Prussia"
+  ],
+  "onyomi": [
+    "フ"
+  ],
+  "kunyomi": [
+    "あまね.く",
+    "あまねし"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+6EC5",
+  "unicode": "U+6EC5",
+  "symbol": "滅",
+  "meanings": [
+    "destroy",
+    "ruin",
+    "overthrow",
+    "perish"
+  ],
+  "onyomi": [
+    "メツ"
+  ],
+  "kunyomi": [
+    "ほろ.びる",
+    "ほろ.ぶ",
+    "ほろ.ぼす"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

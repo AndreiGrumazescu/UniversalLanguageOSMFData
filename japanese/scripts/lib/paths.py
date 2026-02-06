@@ -35,6 +35,18 @@ DEPENDENCY_DOCS = DEPENDENCY_DIR / "documents"
 VARIANT_GROUP_DIR = DATA_DIR / "grapheme-variant-group"
 VARIANT_GROUP_DOCS = VARIANT_GROUP_DIR / "documents"
 
+# Kanji data
+KANJI_DIR = DATA_DIR / "kanji"
+KANJI_DOCS = KANJI_DIR / "documents"
+
+# Kanji dependency data (kanji -> kanji)
+KANJI_DEP_DIR = DATA_DIR / "kanji-dependency"
+KANJI_DEP_DOCS = KANJI_DEP_DIR / "documents"
+
+# Kanji grapheme dependency data (kanji -> grapheme)
+KANJI_GRAPHEME_DEP_DIR = DATA_DIR / "kanji-grapheme-dependency"
+KANJI_GRAPHEME_DEP_DOCS = KANJI_GRAPHEME_DEP_DIR / "documents"
+
 # ---------------------------------------------------------------------------
 # Source Data (External Datasets)
 # ---------------------------------------------------------------------------

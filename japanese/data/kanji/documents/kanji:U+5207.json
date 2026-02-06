@@ -1,0 +1,28 @@
+{
+  "$id": "kanji:U+5207",
+  "unicode": "U+5207",
+  "symbol": "切",
+  "meanings": [
+    "cut",
+    "cutoff",
+    "be sharp"
+  ],
+  "onyomi": [
+    "セツ",
+    "サイ"
+  ],
+  "kunyomi": [
+    "き.る",
+    "-き.る",
+    "き.り",
+    "-き.り",
+    "-ぎ.り",
+    "き.れる",
+    "-き.れる",
+    "き.れ",
+    "-き.れ",
+    "-ぎ.れ"
+  ],
+  "strokeCount": 4,
+  "jlptLevel": "unspecified"
+}

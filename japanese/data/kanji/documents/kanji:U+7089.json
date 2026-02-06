@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+7089",
+  "unicode": "U+7089",
+  "symbol": "炉",
+  "meanings": [
+    "hearth",
+    "furnace",
+    "kiln",
+    "reactor"
+  ],
+  "onyomi": [
+    "ロ"
+  ],
+  "kunyomi": [
+    "いろり"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

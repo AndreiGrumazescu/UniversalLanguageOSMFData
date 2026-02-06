@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+6232",
+  "unicode": "U+6232",
+  "symbol": "戲",
+  "meanings": [
+    "play",
+    "frolic",
+    "sport"
+  ],
+  "onyomi": [
+    "ギ",
+    "ゲ"
+  ],
+  "kunyomi": [
+    "たわむ.れる",
+    "たわむ.れ"
+  ],
+  "strokeCount": 17,
+  "jlptLevel": "unspecified"
+}

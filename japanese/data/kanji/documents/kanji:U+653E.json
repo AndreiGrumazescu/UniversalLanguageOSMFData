@@ -1,0 +1,27 @@
+{
+  "$id": "kanji:U+653E",
+  "unicode": "U+653E",
+  "symbol": "放",
+  "meanings": [
+    "set free",
+    "release",
+    "fire",
+    "shoot",
+    "emit",
+    "banish",
+    "liberate"
+  ],
+  "onyomi": [
+    "ホウ"
+  ],
+  "kunyomi": [
+    "はな.す",
+    "-っぱな.し",
+    "はな.つ",
+    "はな.れる",
+    "こ.く",
+    "ほう.る"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

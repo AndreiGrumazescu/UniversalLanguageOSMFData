@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+7D9A",
+  "unicode": "U+7D9A",
+  "symbol": "続",
+  "meanings": [
+    "continue",
+    "series",
+    "sequel"
+  ],
+  "onyomi": [
+    "ゾク",
+    "ショク",
+    "コウ",
+    "キョウ"
+  ],
+  "kunyomi": [
+    "つづ.く",
+    "つづ.ける",
+    "つぐ.ない"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+5861",
+  "unicode": "U+5861",
+  "symbol": "塡",
+  "meanings": [
+    "fill in",
+    "fill up",
+    "make good"
+  ],
+  "onyomi": [
+    "テン",
+    "チン"
+  ],
+  "kunyomi": [
+    "はま.る",
+    "うず.める",
+    "は.める",
+    "ふさ.ぐ"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+9061",
+  "unicode": "U+9061",
+  "symbol": "遡",
+  "meanings": [
+    "go upstream",
+    "retrace the past"
+  ],
+  "onyomi": [
+    "ソ",
+    "サク"
+  ],
+  "kunyomi": [
+    "さかのぼ.る"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

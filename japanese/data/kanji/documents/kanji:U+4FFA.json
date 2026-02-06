@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+4FFA",
+  "unicode": "U+4FFA",
+  "symbol": "俺",
+  "meanings": [
+    "I",
+    "myself"
+  ],
+  "onyomi": [
+    "エン"
+  ],
+  "kunyomi": [
+    "おれ",
+    "われ"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

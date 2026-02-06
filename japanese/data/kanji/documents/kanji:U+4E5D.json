@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+4E5D",
+  "unicode": "U+4E5D",
+  "symbol": "九",
+  "meanings": [
+    "nine"
+  ],
+  "onyomi": [
+    "キュウ",
+    "ク"
+  ],
+  "kunyomi": [
+    "ここの",
+    "ここの.つ"
+  ],
+  "strokeCount": 2,
+  "jlptLevel": "unspecified"
+}

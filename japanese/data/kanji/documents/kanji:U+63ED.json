@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+63ED",
+  "unicode": "U+63ED",
+  "symbol": "揭",
+  "meanings": [
+    "raise",
+    "lift up",
+    "surname"
+  ],
+  "onyomi": [
+    "ケイ",
+    "ケツ"
+  ],
+  "kunyomi": [
+    "かかげる"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

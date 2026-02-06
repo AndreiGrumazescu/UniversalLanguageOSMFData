@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+7363",
+  "unicode": "U+7363",
+  "symbol": "獣",
+  "meanings": [
+    "animal",
+    "beast"
+  ],
+  "onyomi": [
+    "ジュウ"
+  ],
+  "kunyomi": [
+    "けもの",
+    "けだもの"
+  ],
+  "strokeCount": 16,
+  "jlptLevel": "unspecified"
+}

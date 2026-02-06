@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+683C",
+  "unicode": "U+683C",
+  "symbol": "格",
+  "meanings": [
+    "status",
+    "rank",
+    "capacity",
+    "character",
+    "case (law, grammar)"
+  ],
+  "onyomi": [
+    "カク",
+    "コウ",
+    "キャク",
+    "ゴウ"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

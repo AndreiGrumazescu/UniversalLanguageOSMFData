@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+805E",
+  "unicode": "U+805E",
+  "symbol": "聞",
+  "meanings": [
+    "hear",
+    "ask",
+    "listen"
+  ],
+  "onyomi": [
+    "ブン",
+    "モン"
+  ],
+  "kunyomi": [
+    "き.く",
+    "き.こえる"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

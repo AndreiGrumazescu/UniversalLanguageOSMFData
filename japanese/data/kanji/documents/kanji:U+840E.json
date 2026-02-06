@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+840E",
+  "unicode": "U+840E",
+  "symbol": "萎",
+  "meanings": [
+    "wither",
+    "droop",
+    "lame"
+  ],
+  "onyomi": [
+    "イ"
+  ],
+  "kunyomi": [
+    "な",
+    "しお.れる",
+    "しな.びる",
+    "しぼ.む",
+    "な.える"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

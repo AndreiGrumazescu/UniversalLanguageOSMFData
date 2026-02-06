@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+8868",
+  "unicode": "U+8868",
+  "symbol": "表",
+  "meanings": [
+    "surface",
+    "table",
+    "chart",
+    "diagram"
+  ],
+  "onyomi": [
+    "ヒョウ"
+  ],
+  "kunyomi": [
+    "おもて",
+    "-おもて",
+    "あらわ.す",
+    "あらわ.れる",
+    "あら.わす"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

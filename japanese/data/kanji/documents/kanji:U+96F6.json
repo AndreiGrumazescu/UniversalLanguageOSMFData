@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+96F6",
+  "unicode": "U+96F6",
+  "symbol": "零",
+  "meanings": [
+    "zero",
+    "spill",
+    "overflow",
+    "nothing",
+    "cipher"
+  ],
+  "onyomi": [
+    "レイ"
+  ],
+  "kunyomi": [
+    "ぜろ",
+    "こぼ.す",
+    "こぼ.れる"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

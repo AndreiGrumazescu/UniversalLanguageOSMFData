@@ -1,0 +1,30 @@
+{
+  "$id": "kanji:U+61F7",
+  "unicode": "U+61F7",
+  "symbol": "懷",
+  "meanings": [
+    "pocket",
+    "feelings",
+    "heart",
+    "yearn",
+    "miss someone",
+    "become attached to",
+    "bosom",
+    "breast"
+  ],
+  "onyomi": [
+    "カイ",
+    "エ"
+  ],
+  "kunyomi": [
+    "ふところ",
+    "なつ.かしい",
+    "なつ.かしむ",
+    "なつ.く",
+    "なつ.ける",
+    "いだ.く",
+    "おも.う"
+  ],
+  "strokeCount": 19,
+  "jlptLevel": "unspecified"
+}

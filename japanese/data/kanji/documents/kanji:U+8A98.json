@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+8A98",
+  "unicode": "U+8A98",
+  "symbol": "誘",
+  "meanings": [
+    "entice",
+    "lead",
+    "tempt",
+    "invite",
+    "ask",
+    "call for",
+    "seduce",
+    "allure"
+  ],
+  "onyomi": [
+    "ユウ"
+  ],
+  "kunyomi": [
+    "さそ.う",
+    "いざな.う"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

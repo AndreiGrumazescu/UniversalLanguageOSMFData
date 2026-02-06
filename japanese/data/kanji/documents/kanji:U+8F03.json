@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+8F03",
+  "unicode": "U+8F03",
+  "symbol": "較",
+  "meanings": [
+    "contrast",
+    "compare"
+  ],
+  "onyomi": [
+    "カク",
+    "コウ"
+  ],
+  "kunyomi": [
+    "くら.べる"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

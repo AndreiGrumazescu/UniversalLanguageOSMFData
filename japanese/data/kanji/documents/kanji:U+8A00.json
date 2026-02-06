@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+8A00",
+  "unicode": "U+8A00",
+  "symbol": "言",
+  "meanings": [
+    "say",
+    "word"
+  ],
+  "onyomi": [
+    "ゲン",
+    "ゴン"
+  ],
+  "kunyomi": [
+    "い.う",
+    "こと"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

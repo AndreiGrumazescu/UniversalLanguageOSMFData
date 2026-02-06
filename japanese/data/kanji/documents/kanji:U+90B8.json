@@ -1,0 +1,17 @@
+{
+  "$id": "kanji:U+90B8",
+  "unicode": "U+90B8",
+  "symbol": "邸",
+  "meanings": [
+    "residence",
+    "mansion"
+  ],
+  "onyomi": [
+    "テイ"
+  ],
+  "kunyomi": [
+    "やしき"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

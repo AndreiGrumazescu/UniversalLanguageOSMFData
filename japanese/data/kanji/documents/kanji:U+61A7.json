@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+61A7",
+  "unicode": "U+61A7",
+  "symbol": "憧",
+  "meanings": [
+    "yearn after",
+    "long for",
+    "aspire to",
+    "admire",
+    "adore"
+  ],
+  "onyomi": [
+    "ショウ",
+    "トウ",
+    "ドウ"
+  ],
+  "kunyomi": [
+    "あこが.れる"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

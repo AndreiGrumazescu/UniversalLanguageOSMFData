@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+6068",
+  "unicode": "U+6068",
+  "symbol": "恨",
+  "meanings": [
+    "regret",
+    "bear a grudge",
+    "resentment",
+    "malice",
+    "hatred"
+  ],
+  "onyomi": [
+    "コン"
+  ],
+  "kunyomi": [
+    "うら.む",
+    "うら.めしい"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

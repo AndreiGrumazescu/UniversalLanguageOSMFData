@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+72EC",
+  "unicode": "U+72EC",
+  "symbol": "独",
+  "meanings": [
+    "single",
+    "alone",
+    "spontaneously",
+    "Germany"
+  ],
+  "onyomi": [
+    "ドク",
+    "トク"
+  ],
+  "kunyomi": [
+    "ひと.り"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+9707",
+  "unicode": "U+9707",
+  "symbol": "震",
+  "meanings": [
+    "quake",
+    "shake",
+    "tremble",
+    "quiver",
+    "shiver"
+  ],
+  "onyomi": [
+    "シン"
+  ],
+  "kunyomi": [
+    "ふる.う",
+    "ふる.える",
+    "ふる.わせる",
+    "ふる.わす"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

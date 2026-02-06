@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+73CA",
+  "unicode": "U+73CA",
+  "symbol": "珊",
+  "meanings": [
+    "coral",
+    "centimeter"
+  ],
+  "onyomi": [
+    "サン"
+  ],
+  "kunyomi": [
+    "センチ",
+    "さんち"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

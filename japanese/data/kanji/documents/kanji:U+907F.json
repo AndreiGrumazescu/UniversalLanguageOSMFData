@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+907F",
+  "unicode": "U+907F",
+  "symbol": "避",
+  "meanings": [
+    "evade",
+    "avoid",
+    "avert",
+    "ward off",
+    "shirk",
+    "shun"
+  ],
+  "onyomi": [
+    "ヒ"
+  ],
+  "kunyomi": [
+    "さ.ける",
+    "よ.ける"
+  ],
+  "strokeCount": 16,
+  "jlptLevel": "unspecified"
+}

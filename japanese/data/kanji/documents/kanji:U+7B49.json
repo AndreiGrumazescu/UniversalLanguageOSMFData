@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+7B49",
+  "unicode": "U+7B49",
+  "symbol": "等",
+  "meanings": [
+    "etc.",
+    "and so forth",
+    "class (first)",
+    "quality",
+    "equal",
+    "similar"
+  ],
+  "onyomi": [
+    "トウ"
+  ],
+  "kunyomi": [
+    "ひと.しい",
+    "など",
+    "-ら"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

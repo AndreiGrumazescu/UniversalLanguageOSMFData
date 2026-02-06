@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+9053",
+  "unicode": "U+9053",
+  "symbol": "道",
+  "meanings": [
+    "road-way",
+    "street",
+    "district",
+    "journey",
+    "course",
+    "moral",
+    "teachings"
+  ],
+  "onyomi": [
+    "ドウ",
+    "トウ"
+  ],
+  "kunyomi": [
+    "みち",
+    "いう"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

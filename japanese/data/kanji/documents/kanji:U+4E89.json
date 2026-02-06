@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+4E89",
+  "unicode": "U+4E89",
+  "symbol": "争",
+  "meanings": [
+    "contend",
+    "dispute",
+    "argue"
+  ],
+  "onyomi": [
+    "ソウ"
+  ],
+  "kunyomi": [
+    "あらそ.う",
+    "いか.でか"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

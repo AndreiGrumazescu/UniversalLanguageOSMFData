@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+5F26",
+  "unicode": "U+5F26",
+  "symbol": "弦",
+  "meanings": [
+    "bowstring",
+    "chord",
+    "hypotenuse"
+  ],
+  "onyomi": [
+    "ゲン"
+  ],
+  "kunyomi": [
+    "つる"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

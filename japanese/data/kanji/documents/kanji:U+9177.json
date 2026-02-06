@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+9177",
+  "unicode": "U+9177",
+  "symbol": "酷",
+  "meanings": [
+    "cruel",
+    "severe",
+    "atrocious",
+    "unjust"
+  ],
+  "onyomi": [
+    "コク"
+  ],
+  "kunyomi": [
+    "ひど.い"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

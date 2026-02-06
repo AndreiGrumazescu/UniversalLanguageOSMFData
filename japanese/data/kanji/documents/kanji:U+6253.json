@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+6253",
+  "unicode": "U+6253",
+  "symbol": "打",
+  "meanings": [
+    "strike",
+    "hit",
+    "knock",
+    "pound",
+    "dozen"
+  ],
+  "onyomi": [
+    "ダ",
+    "ダース"
+  ],
+  "kunyomi": [
+    "う.つ",
+    "う.ち-",
+    "ぶ.つ"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

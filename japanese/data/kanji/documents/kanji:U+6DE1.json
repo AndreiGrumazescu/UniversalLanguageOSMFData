@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+6DE1",
+  "unicode": "U+6DE1",
+  "symbol": "淡",
+  "meanings": [
+    "thin",
+    "faint",
+    "pale",
+    "fleeting"
+  ],
+  "onyomi": [
+    "タン"
+  ],
+  "kunyomi": [
+    "あわ.い"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

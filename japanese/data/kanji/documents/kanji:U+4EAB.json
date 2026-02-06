@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+4EAB",
+  "unicode": "U+4EAB",
+  "symbol": "享",
+  "meanings": [
+    "enjoy",
+    "receive",
+    "undergo",
+    "answer (phone)",
+    "take",
+    "get",
+    "catch"
+  ],
+  "onyomi": [
+    "キョウ",
+    "コウ"
+  ],
+  "kunyomi": [
+    "う.ける"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

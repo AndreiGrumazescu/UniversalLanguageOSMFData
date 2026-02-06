@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+4E11",
+  "unicode": "U+4E11",
+  "symbol": "丑",
+  "meanings": [
+    "sign of the ox or cow",
+    "1-3AM",
+    "second sign of Chinese zodiac"
+  ],
+  "onyomi": [
+    "チュウ"
+  ],
+  "kunyomi": [
+    "うし"
+  ],
+  "strokeCount": 4,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+7DE3",
+  "unicode": "U+7DE3",
+  "symbol": "緣",
+  "meanings": [
+    "hem",
+    "margin",
+    "reason",
+    "cause",
+    "karma",
+    "fate"
+  ],
+  "onyomi": [
+    "エン"
+  ],
+  "kunyomi": [
+    "ふち",
+    "へり",
+    "よる"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

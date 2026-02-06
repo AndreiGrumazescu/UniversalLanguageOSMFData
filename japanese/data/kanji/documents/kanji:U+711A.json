@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+711A",
+  "unicode": "U+711A",
+  "symbol": "焚",
+  "meanings": [
+    "burn",
+    "kindle",
+    "build a fire",
+    "boil",
+    "cook"
+  ],
+  "onyomi": [
+    "フン",
+    "ホン",
+    "ハン"
+  ],
+  "kunyomi": [
+    "た.く",
+    "や.く",
+    "やきがり"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

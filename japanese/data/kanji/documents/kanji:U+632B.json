@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+632B",
+  "unicode": "U+632B",
+  "symbol": "挫",
+  "meanings": [
+    "crush",
+    "break",
+    "sprain",
+    "discourage"
+  ],
+  "onyomi": [
+    "ザ",
+    "サ"
+  ],
+  "kunyomi": [
+    "くじ.く",
+    "くじ.ける"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

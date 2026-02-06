@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+5F35",
+  "unicode": "U+5F35",
+  "symbol": "張",
+  "meanings": [
+    "counter for bows & stringed instruments",
+    "stretch",
+    "spread",
+    "put up (tent)"
+  ],
+  "onyomi": [
+    "チョウ"
+  ],
+  "kunyomi": [
+    "は.る",
+    "-は.り",
+    "-ば.り"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

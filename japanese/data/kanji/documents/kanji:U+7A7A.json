@@ -1,0 +1,27 @@
+{
+  "$id": "kanji:U+7A7A",
+  "unicode": "U+7A7A",
+  "symbol": "空",
+  "meanings": [
+    "empty",
+    "sky",
+    "void",
+    "vacant",
+    "vacuum"
+  ],
+  "onyomi": [
+    "クウ"
+  ],
+  "kunyomi": [
+    "そら",
+    "あ.く",
+    "あ.き",
+    "あ.ける",
+    "から",
+    "す.く",
+    "す.かす",
+    "むな.しい"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

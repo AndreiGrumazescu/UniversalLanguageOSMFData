@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+6F6E",
+  "unicode": "U+6F6E",
+  "symbol": "潮",
+  "meanings": [
+    "tide",
+    "salt water",
+    "opportunity"
+  ],
+  "onyomi": [
+    "チョウ"
+  ],
+  "kunyomi": [
+    "しお",
+    "うしお"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

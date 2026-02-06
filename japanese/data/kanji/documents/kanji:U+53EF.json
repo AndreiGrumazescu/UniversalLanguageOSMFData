@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+53EF",
+  "unicode": "U+53EF",
+  "symbol": "可",
+  "meanings": [
+    "can",
+    "passable",
+    "approval"
+  ],
+  "onyomi": [
+    "カ",
+    "コク"
+  ],
+  "kunyomi": [
+    "-べ.き",
+    "-べ.し"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

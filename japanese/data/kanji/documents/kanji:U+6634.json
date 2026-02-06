@@ -1,0 +1,17 @@
+{
+  "$id": "kanji:U+6634",
+  "unicode": "U+6634",
+  "symbol": "昴",
+  "meanings": [
+    "the Pleiades"
+  ],
+  "onyomi": [
+    "コウ",
+    "ボウ"
+  ],
+  "kunyomi": [
+    "すばる"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

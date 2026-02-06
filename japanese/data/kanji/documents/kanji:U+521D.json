@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+521D",
+  "unicode": "U+521D",
+  "symbol": "初",
+  "meanings": [
+    "first time",
+    "beginning"
+  ],
+  "onyomi": [
+    "ショ"
+  ],
+  "kunyomi": [
+    "はじ.め",
+    "はじ.めて",
+    "はつ",
+    "はつ-",
+    "うい-",
+    "-そ.める",
+    "-ぞ.め"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

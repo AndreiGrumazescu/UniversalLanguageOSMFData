@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+6C88",
+  "unicode": "U+6C88",
+  "symbol": "沈",
+  "meanings": [
+    "sink",
+    "be submerged",
+    "subside",
+    "be depressed",
+    "aloes"
+  ],
+  "onyomi": [
+    "チン",
+    "ジン"
+  ],
+  "kunyomi": [
+    "しず.む",
+    "しず.める"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

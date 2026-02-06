@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+72F9",
+  "unicode": "U+72F9",
+  "symbol": "狹",
+  "meanings": [
+    "narrow",
+    "contract",
+    "reduce",
+    "tight",
+    "limited"
+  ],
+  "onyomi": [
+    "キョウ",
+    "コウ"
+  ],
+  "kunyomi": [
+    "せま.い",
+    "せば.める",
+    "せば.まる",
+    "さ"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

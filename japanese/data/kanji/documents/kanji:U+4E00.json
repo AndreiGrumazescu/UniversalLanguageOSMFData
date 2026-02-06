@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+4E00",
+  "unicode": "U+4E00",
+  "symbol": "一",
+  "meanings": [
+    "one",
+    "one radical (no.1)"
+  ],
+  "onyomi": [
+    "イチ",
+    "イツ"
+  ],
+  "kunyomi": [
+    "ひと-",
+    "ひと.つ"
+  ],
+  "strokeCount": 1,
+  "jlptLevel": "unspecified"
+}

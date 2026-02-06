@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+6562",
+  "unicode": "U+6562",
+  "symbol": "敢",
+  "meanings": [
+    "daring",
+    "brave",
+    "bold",
+    "sad",
+    "tragic",
+    "pitiful"
+  ],
+  "onyomi": [
+    "カン"
+  ],
+  "kunyomi": [
+    "あ.えて",
+    "あ.えない",
+    "あ.えず"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+81F4",
+  "unicode": "U+81F4",
+  "symbol": "致",
+  "meanings": [
+    "doth",
+    "do",
+    "send",
+    "forward",
+    "cause",
+    "exert",
+    "incur",
+    "engage"
+  ],
+  "onyomi": [
+    "チ"
+  ],
+  "kunyomi": [
+    "いた.す"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

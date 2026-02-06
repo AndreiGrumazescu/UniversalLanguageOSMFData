@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+6255",
+  "unicode": "U+6255",
+  "symbol": "払",
+  "meanings": [
+    "pay",
+    "clear out",
+    "prune",
+    "banish",
+    "dispose of"
+  ],
+  "onyomi": [
+    "フツ",
+    "ヒツ",
+    "ホツ"
+  ],
+  "kunyomi": [
+    "はら.う",
+    "-はら.い",
+    "-ばら.い"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+8D77",
+  "unicode": "U+8D77",
+  "symbol": "起",
+  "meanings": [
+    "rouse",
+    "wake up",
+    "get up"
+  ],
+  "onyomi": [
+    "キ"
+  ],
+  "kunyomi": [
+    "お.きる",
+    "お.こる",
+    "お.こす",
+    "おこ.す",
+    "た.つ"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

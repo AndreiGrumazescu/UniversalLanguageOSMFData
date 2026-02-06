@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+8B1D",
+  "unicode": "U+8B1D",
+  "symbol": "謝",
+  "meanings": [
+    "apologize",
+    "thank",
+    "refuse"
+  ],
+  "onyomi": [
+    "シャ"
+  ],
+  "kunyomi": [
+    "あやま.る"
+  ],
+  "strokeCount": 17,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+5BB4",
+  "unicode": "U+5BB4",
+  "symbol": "宴",
+  "meanings": [
+    "banquet",
+    "feast",
+    "party"
+  ],
+  "onyomi": [
+    "エン"
+  ],
+  "kunyomi": [
+    "うたげ"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

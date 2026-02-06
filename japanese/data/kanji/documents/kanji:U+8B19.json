@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+8B19",
+  "unicode": "U+8B19",
+  "symbol": "謙",
+  "meanings": [
+    "self-effacing",
+    "humble oneself",
+    "condescend",
+    "be modest"
+  ],
+  "onyomi": [
+    "ケン"
+  ],
+  "kunyomi": [
+    "へりくだ.る"
+  ],
+  "strokeCount": 17,
+  "jlptLevel": "unspecified"
+}

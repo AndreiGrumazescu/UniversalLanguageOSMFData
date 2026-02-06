@@ -1,0 +1,17 @@
+{
+  "$id": "kanji:U+9EA6",
+  "unicode": "U+9EA6",
+  "symbol": "麦",
+  "meanings": [
+    "barley",
+    "wheat"
+  ],
+  "onyomi": [
+    "バク"
+  ],
+  "kunyomi": [
+    "むぎ"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

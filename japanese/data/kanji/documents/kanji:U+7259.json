@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+7259",
+  "unicode": "U+7259",
+  "symbol": "牙",
+  "meanings": [
+    "tusk",
+    "fang",
+    "tusk radical (no. 92)"
+  ],
+  "onyomi": [
+    "ガ",
+    "ゲ"
+  ],
+  "kunyomi": [
+    "きば",
+    "は"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

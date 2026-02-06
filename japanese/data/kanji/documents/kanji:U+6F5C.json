@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+6F5C",
+  "unicode": "U+6F5C",
+  "symbol": "潜",
+  "meanings": [
+    "submerge",
+    "conceal",
+    "hide",
+    "lower (voice)",
+    "hush"
+  ],
+  "onyomi": [
+    "セン"
+  ],
+  "kunyomi": [
+    "ひそ.む",
+    "もぐ.る",
+    "かく.れる",
+    "くぐ.る",
+    "ひそ.める"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

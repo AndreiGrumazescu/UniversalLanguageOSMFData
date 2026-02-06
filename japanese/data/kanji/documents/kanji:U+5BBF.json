@@ -1,0 +1,25 @@
+{
+  "$id": "kanji:U+5BBF",
+  "unicode": "U+5BBF",
+  "symbol": "宿",
+  "meanings": [
+    "inn",
+    "lodging",
+    "relay station",
+    "dwell",
+    "lodge",
+    "be pregnant",
+    "home",
+    "dwelling"
+  ],
+  "onyomi": [
+    "シュク"
+  ],
+  "kunyomi": [
+    "やど",
+    "やど.る",
+    "やど.す"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+8AF8",
+  "unicode": "U+8AF8",
+  "symbol": "諸",
+  "meanings": [
+    "various",
+    "many",
+    "several",
+    "together"
+  ],
+  "onyomi": [
+    "ショ"
+  ],
+  "kunyomi": [
+    "もろ"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+8C61",
+  "unicode": "U+8C61",
+  "symbol": "象",
+  "meanings": [
+    "elephant",
+    "pattern after",
+    "imitate",
+    "image",
+    "shape",
+    "sign (of the times)"
+  ],
+  "onyomi": [
+    "ショウ",
+    "ゾウ"
+  ],
+  "kunyomi": [
+    "かたど.る"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

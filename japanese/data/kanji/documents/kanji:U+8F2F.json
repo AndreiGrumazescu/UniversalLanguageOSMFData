@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+8F2F",
+  "unicode": "U+8F2F",
+  "symbol": "輯",
+  "meanings": [
+    "gather",
+    "collect",
+    "compile"
+  ],
+  "onyomi": [
+    "シュウ"
+  ],
+  "kunyomi": [
+    "あつ.める",
+    "やわ.らぐ"
+  ],
+  "strokeCount": 16,
+  "jlptLevel": "unspecified"
+}

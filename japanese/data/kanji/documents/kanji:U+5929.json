@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+5929",
+  "unicode": "U+5929",
+  "symbol": "天",
+  "meanings": [
+    "heavens",
+    "sky",
+    "imperial"
+  ],
+  "onyomi": [
+    "テン"
+  ],
+  "kunyomi": [
+    "あまつ",
+    "あめ",
+    "あま-"
+  ],
+  "strokeCount": 4,
+  "jlptLevel": "unspecified"
+}

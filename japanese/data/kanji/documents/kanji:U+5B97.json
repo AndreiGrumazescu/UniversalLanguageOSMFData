@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+5B97",
+  "unicode": "U+5B97",
+  "symbol": "宗",
+  "meanings": [
+    "religion",
+    "sect",
+    "denomination",
+    "main point",
+    "origin",
+    "essence"
+  ],
+  "onyomi": [
+    "シュウ",
+    "ソウ"
+  ],
+  "kunyomi": [
+    "むね"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

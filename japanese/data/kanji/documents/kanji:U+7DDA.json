@@ -1,0 +1,17 @@
+{
+  "$id": "kanji:U+7DDA",
+  "unicode": "U+7DDA",
+  "symbol": "線",
+  "meanings": [
+    "line",
+    "track"
+  ],
+  "onyomi": [
+    "セン"
+  ],
+  "kunyomi": [
+    "すじ"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

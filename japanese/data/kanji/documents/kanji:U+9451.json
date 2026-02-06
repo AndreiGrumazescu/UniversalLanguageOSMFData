@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+9451",
+  "unicode": "U+9451",
+  "symbol": "鑑",
+  "meanings": [
+    "specimen",
+    "take warning from",
+    "learn from"
+  ],
+  "onyomi": [
+    "カン"
+  ],
+  "kunyomi": [
+    "かんが.みる",
+    "かがみ"
+  ],
+  "strokeCount": 23,
+  "jlptLevel": "unspecified"
+}

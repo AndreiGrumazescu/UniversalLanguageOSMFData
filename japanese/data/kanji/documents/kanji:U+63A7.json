@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+63A7",
+  "unicode": "U+63A7",
+  "symbol": "控",
+  "meanings": [
+    "withdraw",
+    "draw in",
+    "hold back",
+    "refrain from",
+    "be moderate"
+  ],
+  "onyomi": [
+    "コウ"
+  ],
+  "kunyomi": [
+    "ひか.える",
+    "ひか.え"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

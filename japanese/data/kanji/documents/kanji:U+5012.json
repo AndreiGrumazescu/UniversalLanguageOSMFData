@@ -1,0 +1,25 @@
+{
+  "$id": "kanji:U+5012",
+  "unicode": "U+5012",
+  "symbol": "倒",
+  "meanings": [
+    "overthrow",
+    "fall",
+    "collapse",
+    "drop",
+    "break down"
+  ],
+  "onyomi": [
+    "トウ"
+  ],
+  "kunyomi": [
+    "たお.れる",
+    "-だお.れ",
+    "たお.す",
+    "さかさま",
+    "さかさ",
+    "さかしま"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

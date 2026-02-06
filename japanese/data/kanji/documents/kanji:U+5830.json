@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+5830",
+  "unicode": "U+5830",
+  "symbol": "堰",
+  "meanings": [
+    "dam",
+    "prevent",
+    "stop up"
+  ],
+  "onyomi": [
+    "エン"
+  ],
+  "kunyomi": [
+    "せき",
+    "せ.く"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

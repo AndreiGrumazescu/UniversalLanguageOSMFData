@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+4F8B",
+  "unicode": "U+4F8B",
+  "symbol": "例",
+  "meanings": [
+    "example",
+    "custom",
+    "usage",
+    "precedent"
+  ],
+  "onyomi": [
+    "レイ"
+  ],
+  "kunyomi": [
+    "たと.える"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

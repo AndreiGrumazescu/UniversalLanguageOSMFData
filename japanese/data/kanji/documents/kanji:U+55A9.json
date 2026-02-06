@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+55A9",
+  "unicode": "U+55A9",
+  "symbol": "喩",
+  "meanings": [
+    "metaphor",
+    "compare"
+  ],
+  "onyomi": [
+    "ユ"
+  ],
+  "kunyomi": [
+    "たと.える",
+    "さと.す"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

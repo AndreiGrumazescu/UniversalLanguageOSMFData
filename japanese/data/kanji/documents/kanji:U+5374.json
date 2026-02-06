@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+5374",
+  "unicode": "U+5374",
+  "symbol": "却",
+  "meanings": [
+    "instead",
+    "on the contrary",
+    "rather",
+    "step back",
+    "withdraw",
+    "retreat"
+  ],
+  "onyomi": [
+    "キャク"
+  ],
+  "kunyomi": [
+    "かえ.って",
+    "しりぞ.く",
+    "しりぞ.ける"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

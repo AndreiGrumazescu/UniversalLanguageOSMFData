@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+6226",
+  "unicode": "U+6226",
+  "symbol": "戦",
+  "meanings": [
+    "war",
+    "battle",
+    "match"
+  ],
+  "onyomi": [
+    "セン"
+  ],
+  "kunyomi": [
+    "いくさ",
+    "たたか.う",
+    "おのの.く",
+    "そよ.ぐ",
+    "わなな.く"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

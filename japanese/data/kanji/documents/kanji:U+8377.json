@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+8377",
+  "unicode": "U+8377",
+  "symbol": "荷",
+  "meanings": [
+    "baggage",
+    "shoulder-pole load",
+    "bear (a burden)",
+    "shoulder (a gun)",
+    "load",
+    "cargo",
+    "freight"
+  ],
+  "onyomi": [
+    "カ"
+  ],
+  "kunyomi": [
+    "に"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

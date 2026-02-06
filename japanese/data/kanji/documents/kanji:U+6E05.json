@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+6E05",
+  "unicode": "U+6E05",
+  "symbol": "清",
+  "meanings": [
+    "pure",
+    "purify",
+    "cleanse",
+    "exorcise",
+    "Manchu dynasty"
+  ],
+  "onyomi": [
+    "セイ",
+    "ショウ",
+    "シン"
+  ],
+  "kunyomi": [
+    "きよ.い",
+    "きよ.まる",
+    "きよ.める"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

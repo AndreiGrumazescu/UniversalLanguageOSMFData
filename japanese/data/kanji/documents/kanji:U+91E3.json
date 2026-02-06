@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+91E3",
+  "unicode": "U+91E3",
+  "symbol": "釣",
+  "meanings": [
+    "angling",
+    "fish",
+    "catch",
+    "allure",
+    "ensnare"
+  ],
+  "onyomi": [
+    "チョウ"
+  ],
+  "kunyomi": [
+    "つ.る",
+    "つ.り",
+    "つ.り-"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

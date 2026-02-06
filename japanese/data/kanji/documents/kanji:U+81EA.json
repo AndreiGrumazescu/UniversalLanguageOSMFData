@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+81EA",
+  "unicode": "U+81EA",
+  "symbol": "自",
+  "meanings": [
+    "oneself"
+  ],
+  "onyomi": [
+    "ジ",
+    "シ"
+  ],
+  "kunyomi": [
+    "みずか.ら",
+    "おの.ずから",
+    "おの.ずと"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

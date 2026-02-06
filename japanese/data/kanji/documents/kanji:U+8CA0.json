@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+8CA0",
+  "unicode": "U+8CA0",
+  "symbol": "負",
+  "meanings": [
+    "defeat",
+    "negative",
+    "-",
+    "minus",
+    "bear",
+    "owe",
+    "assume a responsibility"
+  ],
+  "onyomi": [
+    "フ"
+  ],
+  "kunyomi": [
+    "ま.ける",
+    "ま.かす",
+    "お.う"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

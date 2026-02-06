@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+697D",
+  "unicode": "U+697D",
+  "symbol": "楽",
+  "meanings": [
+    "music",
+    "comfort",
+    "ease"
+  ],
+  "onyomi": [
+    "ガク",
+    "ラク",
+    "ゴウ"
+  ],
+  "kunyomi": [
+    "たの.しい",
+    "たの.しむ",
+    "この.む"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+9675",
+  "unicode": "U+9675",
+  "symbol": "陵",
+  "meanings": [
+    "mausoleum",
+    "imperial tomb",
+    "mound",
+    "hill"
+  ],
+  "onyomi": [
+    "リョウ"
+  ],
+  "kunyomi": [
+    "みささぎ"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

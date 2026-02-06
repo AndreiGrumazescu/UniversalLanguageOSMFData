@@ -1,0 +1,25 @@
+{
+  "$id": "kanji:U+63A0",
+  "unicode": "U+63A0",
+  "symbol": "掠",
+  "meanings": [
+    "pillage",
+    "rob",
+    "graze",
+    "skim",
+    "sweep over",
+    "cheat",
+    "hint"
+  ],
+  "onyomi": [
+    "リャク",
+    "リョウ"
+  ],
+  "kunyomi": [
+    "かす.める",
+    "かす.る",
+    "かす.れる"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

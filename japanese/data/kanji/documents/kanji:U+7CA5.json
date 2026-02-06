@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+7CA5",
+  "unicode": "U+7CA5",
+  "symbol": "粥",
+  "meanings": [
+    "rice gruel"
+  ],
+  "onyomi": [
+    "イク",
+    "シュク",
+    "ジュク"
+  ],
+  "kunyomi": [
+    "かゆ",
+    "かい",
+    "ひさ.ぐ"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

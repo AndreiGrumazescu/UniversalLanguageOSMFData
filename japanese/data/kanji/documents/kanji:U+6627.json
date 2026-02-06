@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+6627",
+  "unicode": "U+6627",
+  "symbol": "昧",
+  "meanings": [
+    "dark",
+    "foolish"
+  ],
+  "onyomi": [
+    "マイ",
+    "バイ"
+  ],
+  "kunyomi": [
+    "くら.い",
+    "むさぼ.る"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

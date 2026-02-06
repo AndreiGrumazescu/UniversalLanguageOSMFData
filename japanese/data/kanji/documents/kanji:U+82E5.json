@@ -1,0 +1,28 @@
+{
+  "$id": "kanji:U+82E5",
+  "unicode": "U+82E5",
+  "symbol": "若",
+  "meanings": [
+    "young",
+    "if",
+    "perhaps",
+    "possibly",
+    "low number",
+    "immature"
+  ],
+  "onyomi": [
+    "ジャク",
+    "ニャク",
+    "ニャ"
+  ],
+  "kunyomi": [
+    "わか.い",
+    "わか-",
+    "も.しくわ",
+    "も.し",
+    "も.しくは",
+    "ごと.し"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

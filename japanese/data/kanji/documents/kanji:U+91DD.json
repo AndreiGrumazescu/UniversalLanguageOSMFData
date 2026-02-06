@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+91DD",
+  "unicode": "U+91DD",
+  "symbol": "針",
+  "meanings": [
+    "needle",
+    "pin",
+    "staple",
+    "stinger"
+  ],
+  "onyomi": [
+    "シン"
+  ],
+  "kunyomi": [
+    "はり"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+6C72",
+  "unicode": "U+6C72",
+  "symbol": "汲",
+  "meanings": [
+    "draw (water)",
+    "ladle",
+    "scoop",
+    "pump"
+  ],
+  "onyomi": [
+    "キュウ"
+  ],
+  "kunyomi": [
+    "く.む"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

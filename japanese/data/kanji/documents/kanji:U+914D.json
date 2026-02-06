@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+914D",
+  "unicode": "U+914D",
+  "symbol": "配",
+  "meanings": [
+    "distribute",
+    "spouse",
+    "exile",
+    "rationing"
+  ],
+  "onyomi": [
+    "ハイ"
+  ],
+  "kunyomi": [
+    "くば.る"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

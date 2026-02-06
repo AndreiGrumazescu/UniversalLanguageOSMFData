@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+88DC",
+  "unicode": "U+88DC",
+  "symbol": "補",
+  "meanings": [
+    "supplement",
+    "supply",
+    "make good",
+    "offset",
+    "compensate",
+    "assistant",
+    "learner"
+  ],
+  "onyomi": [
+    "ホ"
+  ],
+  "kunyomi": [
+    "おぎな.う"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

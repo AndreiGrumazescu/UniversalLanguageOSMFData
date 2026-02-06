@@ -1,0 +1,27 @@
+{
+  "$id": "kanji:U+5E0C",
+  "unicode": "U+5E0C",
+  "symbol": "希",
+  "meanings": [
+    "hope",
+    "beg",
+    "request",
+    "pray",
+    "beseech",
+    "Greece",
+    "dilute (acid)",
+    "rare",
+    "few",
+    "phenomenal"
+  ],
+  "onyomi": [
+    "キ",
+    "ケ"
+  ],
+  "kunyomi": [
+    "まれ",
+    "こいねが.う"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,29 @@
+{
+  "$id": "kanji:U+5C06",
+  "unicode": "U+5C06",
+  "symbol": "将",
+  "meanings": [
+    "leader",
+    "commander",
+    "general",
+    "admiral",
+    "or",
+    "and again",
+    "soon",
+    "from now on",
+    "just about"
+  ],
+  "onyomi": [
+    "ショウ",
+    "ソウ"
+  ],
+  "kunyomi": [
+    "まさ.に",
+    "はた",
+    "まさ",
+    "ひきい.る",
+    "もって"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

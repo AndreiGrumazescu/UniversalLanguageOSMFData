@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+8AAD",
+  "unicode": "U+8AAD",
+  "symbol": "読",
+  "meanings": [
+    "read"
+  ],
+  "onyomi": [
+    "ドク",
+    "トク",
+    "トウ"
+  ],
+  "kunyomi": [
+    "よ.む",
+    "-よ.み"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

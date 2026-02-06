@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+4ED5",
+  "unicode": "U+4ED5",
+  "symbol": "仕",
+  "meanings": [
+    "attend",
+    "doing",
+    "official",
+    "serve"
+  ],
+  "onyomi": [
+    "シ",
+    "ジ"
+  ],
+  "kunyomi": [
+    "つか.える"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

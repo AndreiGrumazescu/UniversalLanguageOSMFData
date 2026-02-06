@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+7FA4",
+  "unicode": "U+7FA4",
+  "symbol": "群",
+  "meanings": [
+    "flock",
+    "group",
+    "crowd",
+    "herd",
+    "swarm",
+    "cluster"
+  ],
+  "onyomi": [
+    "グン"
+  ],
+  "kunyomi": [
+    "む.れる",
+    "む.れ",
+    "むら",
+    "むら.がる"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

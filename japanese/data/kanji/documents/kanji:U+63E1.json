@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+63E1",
+  "unicode": "U+63E1",
+  "symbol": "握",
+  "meanings": [
+    "grip",
+    "hold",
+    "mould sushi",
+    "bribe"
+  ],
+  "onyomi": [
+    "アク"
+  ],
+  "kunyomi": [
+    "にぎ.る"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

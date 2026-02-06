@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+7E6B",
+  "unicode": "U+7E6B",
+  "symbol": "繫",
+  "meanings": [
+    "attach",
+    "connect",
+    "unite",
+    "fasten"
+  ],
+  "onyomi": [
+    "ケイ"
+  ],
+  "kunyomi": [
+    "つな.ぐ",
+    "かか.る",
+    "か.ける"
+  ],
+  "strokeCount": 19,
+  "jlptLevel": "unspecified"
+}

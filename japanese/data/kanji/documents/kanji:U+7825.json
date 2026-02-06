@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+7825",
+  "unicode": "U+7825",
+  "symbol": "砥",
+  "meanings": [
+    "whetstone",
+    "grindstone"
+  ],
+  "onyomi": [
+    "シ",
+    "テイ",
+    "キイ",
+    "チ"
+  ],
+  "kunyomi": [
+    "と",
+    "といし",
+    "と.ぐ",
+    "みが.く"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+53EB",
+  "unicode": "U+53EB",
+  "symbol": "叫",
+  "meanings": [
+    "shout",
+    "exclaim",
+    "yell"
+  ],
+  "onyomi": [
+    "キョウ"
+  ],
+  "kunyomi": [
+    "さけ.ぶ"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

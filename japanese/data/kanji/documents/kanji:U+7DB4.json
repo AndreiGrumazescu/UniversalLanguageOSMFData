@@ -1,0 +1,25 @@
+{
+  "$id": "kanji:U+7DB4",
+  "unicode": "U+7DB4",
+  "symbol": "綴",
+  "meanings": [
+    "compose",
+    "spell",
+    "write",
+    "bind (books)"
+  ],
+  "onyomi": [
+    "テイ",
+    "テツ",
+    "テチ",
+    "ゲツ"
+  ],
+  "kunyomi": [
+    "と.じる",
+    "つづ.る",
+    "つづり",
+    "すみ.やか"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

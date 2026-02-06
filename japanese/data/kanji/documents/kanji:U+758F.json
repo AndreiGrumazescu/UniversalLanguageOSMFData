@@ -1,0 +1,28 @@
+{
+  "$id": "kanji:U+758F",
+  "unicode": "U+758F",
+  "symbol": "疏",
+  "meanings": [
+    "pass through",
+    "note",
+    "commentary",
+    "estrangement",
+    "sparseness",
+    "neglect",
+    "penetrate"
+  ],
+  "onyomi": [
+    "ソ",
+    "ショ"
+  ],
+  "kunyomi": [
+    "あら.い",
+    "うと.い",
+    "うと.む",
+    "とお.る",
+    "とお.す",
+    "まばら"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

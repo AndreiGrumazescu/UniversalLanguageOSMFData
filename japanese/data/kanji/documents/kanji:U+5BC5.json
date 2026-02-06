@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+5BC5",
+  "unicode": "U+5BC5",
+  "symbol": "寅",
+  "meanings": [
+    "sign of the tiger",
+    "3-5AM",
+    "third sign of Chinese zodiac"
+  ],
+  "onyomi": [
+    "イン"
+  ],
+  "kunyomi": [
+    "とら"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

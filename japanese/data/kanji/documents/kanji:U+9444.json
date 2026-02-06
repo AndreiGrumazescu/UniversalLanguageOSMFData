@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+9444",
+  "unicode": "U+9444",
+  "symbol": "鑄",
+  "meanings": [
+    "cast",
+    "mint"
+  ],
+  "onyomi": [
+    "チュウ",
+    "シュ",
+    "シュウ"
+  ],
+  "kunyomi": [
+    "い.る"
+  ],
+  "strokeCount": 22,
+  "jlptLevel": "unspecified"
+}

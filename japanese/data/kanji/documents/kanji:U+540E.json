@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+540E",
+  "unicode": "U+540E",
+  "symbol": "后",
+  "meanings": [
+    "empress",
+    "queen",
+    "after",
+    "behind",
+    "back",
+    "later"
+  ],
+  "onyomi": [
+    "コウ",
+    "ゴ"
+  ],
+  "kunyomi": [
+    "きさき"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

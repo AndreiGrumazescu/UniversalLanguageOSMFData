@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+52DF",
+  "unicode": "U+52DF",
+  "symbol": "募",
+  "meanings": [
+    "recruit",
+    "campaign",
+    "gather (contributions)",
+    "enlist",
+    "grow violent"
+  ],
+  "onyomi": [
+    "ボ"
+  ],
+  "kunyomi": [
+    "つの.る"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

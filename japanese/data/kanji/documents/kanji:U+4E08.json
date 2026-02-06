@@ -1,0 +1,27 @@
+{
+  "$id": "kanji:U+4E08",
+  "unicode": "U+4E08",
+  "symbol": "丈",
+  "meanings": [
+    "length",
+    "ten shaku",
+    "measure",
+    "Mr.",
+    "Ms.",
+    "height",
+    "stature",
+    "all (one has)",
+    "only",
+    "that's all",
+    "merely"
+  ],
+  "onyomi": [
+    "ジョウ"
+  ],
+  "kunyomi": [
+    "たけ",
+    "だけ"
+  ],
+  "strokeCount": 3,
+  "jlptLevel": "unspecified"
+}

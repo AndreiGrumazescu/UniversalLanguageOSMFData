@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+7130",
+  "unicode": "U+7130",
+  "symbol": "焰",
+  "meanings": [
+    "flame",
+    "blaze",
+    "glowing",
+    "blazing"
+  ],
+  "onyomi": [
+    "エン"
+  ],
+  "kunyomi": [
+    "ほのお"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+6F70",
+  "unicode": "U+6F70",
+  "symbol": "潰",
+  "meanings": [
+    "crush",
+    "smash",
+    "break",
+    "dissipate"
+  ],
+  "onyomi": [
+    "カイ",
+    "エ"
+  ],
+  "kunyomi": [
+    "つぶ.す",
+    "つぶ.れる",
+    "つい.える"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

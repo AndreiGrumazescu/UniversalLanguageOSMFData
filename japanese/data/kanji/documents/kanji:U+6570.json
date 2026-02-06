@@ -1,0 +1,28 @@
+{
+  "$id": "kanji:U+6570",
+  "unicode": "U+6570",
+  "symbol": "数",
+  "meanings": [
+    "number",
+    "strength",
+    "fate",
+    "law",
+    "figures"
+  ],
+  "onyomi": [
+    "スウ",
+    "ス",
+    "サク",
+    "ソク",
+    "シュ"
+  ],
+  "kunyomi": [
+    "かず",
+    "かぞ.える",
+    "しばしば",
+    "せ.める",
+    "わずらわ.しい"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

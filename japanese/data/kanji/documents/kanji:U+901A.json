@@ -1,0 +1,28 @@
+{
+  "$id": "kanji:U+901A",
+  "unicode": "U+901A",
+  "symbol": "通",
+  "meanings": [
+    "traffic",
+    "pass through",
+    "avenue",
+    "commute",
+    "counter for letters, notes, documents, etc."
+  ],
+  "onyomi": [
+    "ツウ",
+    "ツ"
+  ],
+  "kunyomi": [
+    "とお.る",
+    "とお.り",
+    "-とお.り",
+    "-どお.り",
+    "とお.す",
+    "とお.し",
+    "-どお.し",
+    "かよ.う"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

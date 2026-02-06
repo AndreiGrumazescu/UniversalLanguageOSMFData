@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+90CE",
+  "unicode": "U+90CE",
+  "symbol": "郎",
+  "meanings": [
+    "son",
+    "counter for sons"
+  ],
+  "onyomi": [
+    "ロウ",
+    "リョウ"
+  ],
+  "kunyomi": [
+    "おとこ"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

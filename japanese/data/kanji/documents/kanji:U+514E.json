@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+514E",
+  "unicode": "U+514E",
+  "symbol": "兎",
+  "meanings": [
+    "rabbit",
+    "hare"
+  ],
+  "onyomi": [
+    "ト",
+    "ツ"
+  ],
+  "kunyomi": [
+    "うさぎ"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

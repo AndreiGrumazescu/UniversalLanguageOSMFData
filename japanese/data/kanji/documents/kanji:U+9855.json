@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+9855",
+  "unicode": "U+9855",
+  "symbol": "顕",
+  "meanings": [
+    "appear",
+    "existing"
+  ],
+  "onyomi": [
+    "ケン"
+  ],
+  "kunyomi": [
+    "あきらか",
+    "あらわ.れる"
+  ],
+  "strokeCount": 18,
+  "jlptLevel": "unspecified"
+}

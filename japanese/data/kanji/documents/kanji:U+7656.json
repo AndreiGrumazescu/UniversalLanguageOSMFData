@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+7656",
+  "unicode": "U+7656",
+  "symbol": "癖",
+  "meanings": [
+    "mannerism",
+    "habit",
+    "vice",
+    "trait",
+    "fault",
+    "kink"
+  ],
+  "onyomi": [
+    "ヘキ"
+  ],
+  "kunyomi": [
+    "くせ",
+    "くせ.に"
+  ],
+  "strokeCount": 18,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,27 @@
+{
+  "$id": "kanji:U+5DFB",
+  "unicode": "U+5DFB",
+  "symbol": "巻",
+  "meanings": [
+    "scroll",
+    "volume",
+    "book",
+    "part",
+    "roll up",
+    "wind up",
+    "tie",
+    "coil",
+    "counter for texts (or book scrolls)"
+  ],
+  "onyomi": [
+    "カン",
+    "ケン"
+  ],
+  "kunyomi": [
+    "ま.く",
+    "まき",
+    "ま.き"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+8A33",
+  "unicode": "U+8A33",
+  "symbol": "訳",
+  "meanings": [
+    "translate",
+    "reason",
+    "circumstance",
+    "case"
+  ],
+  "onyomi": [
+    "ヤク"
+  ],
+  "kunyomi": [
+    "わけ"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

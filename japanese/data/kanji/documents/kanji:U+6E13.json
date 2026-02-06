@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+6E13",
+  "unicode": "U+6E13",
+  "symbol": "渓",
+  "meanings": [
+    "mountain stream",
+    "valley"
+  ],
+  "onyomi": [
+    "ケイ"
+  ],
+  "kunyomi": [
+    "たに",
+    "たにがわ"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

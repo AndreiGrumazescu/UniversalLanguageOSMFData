@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+50D5",
+  "unicode": "U+50D5",
+  "symbol": "僕",
+  "meanings": [
+    "me",
+    "I (male)",
+    "servant",
+    "manservant"
+  ],
+  "onyomi": [
+    "ボク"
+  ],
+  "kunyomi": [
+    "しもべ"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

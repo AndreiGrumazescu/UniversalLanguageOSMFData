@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+5192",
+  "unicode": "U+5192",
+  "symbol": "冒",
+  "meanings": [
+    "risk",
+    "face",
+    "defy",
+    "dare",
+    "damage",
+    "assume (a name)"
+  ],
+  "onyomi": [
+    "ボウ"
+  ],
+  "kunyomi": [
+    "おか.す"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

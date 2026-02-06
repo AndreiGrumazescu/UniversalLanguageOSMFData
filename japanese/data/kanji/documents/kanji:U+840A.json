@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+840A",
+  "unicode": "U+840A",
+  "symbol": "萊",
+  "meanings": [
+    "goosefoot",
+    "weed",
+    "fallow field"
+  ],
+  "onyomi": [
+    "ライ",
+    "リ"
+  ],
+  "kunyomi": [
+    "あかざ",
+    "あれわ",
+    "こうがい"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

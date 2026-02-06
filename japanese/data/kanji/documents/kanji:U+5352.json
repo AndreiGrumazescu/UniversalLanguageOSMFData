@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+5352",
+  "unicode": "U+5352",
+  "symbol": "卒",
+  "meanings": [
+    "graduate",
+    "soldier",
+    "private",
+    "die"
+  ],
+  "onyomi": [
+    "ソツ",
+    "シュツ"
+  ],
+  "kunyomi": [
+    "そっ.する",
+    "お.える",
+    "お.わる",
+    "ついに",
+    "にわか"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

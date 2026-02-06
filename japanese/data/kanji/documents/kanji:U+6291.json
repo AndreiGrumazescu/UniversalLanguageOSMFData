@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+6291",
+  "unicode": "U+6291",
+  "symbol": "抑",
+  "meanings": [
+    "repress",
+    "well",
+    "now",
+    "in the first place",
+    "push",
+    "shove",
+    "press",
+    "seal",
+    "do in spite of"
+  ],
+  "onyomi": [
+    "ヨク"
+  ],
+  "kunyomi": [
+    "おさ.える"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

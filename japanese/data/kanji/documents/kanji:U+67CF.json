@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+67CF",
+  "unicode": "U+67CF",
+  "symbol": "柏",
+  "meanings": [
+    "oak",
+    "cypress"
+  ],
+  "onyomi": [
+    "ハク",
+    "ヒャク",
+    "ビャク"
+  ],
+  "kunyomi": [
+    "かしわ"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

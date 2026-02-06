@@ -1,0 +1,25 @@
+{
+  "$id": "kanji:U+56F2",
+  "unicode": "U+56F2",
+  "symbol": "囲",
+  "meanings": [
+    "surround",
+    "besiege",
+    "store",
+    "paling",
+    "enclosure",
+    "encircle",
+    "preserve",
+    "keep"
+  ],
+  "onyomi": [
+    "イ"
+  ],
+  "kunyomi": [
+    "かこ.む",
+    "かこ.う",
+    "かこ.い"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

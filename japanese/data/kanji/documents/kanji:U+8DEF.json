@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+8DEF",
+  "unicode": "U+8DEF",
+  "symbol": "路",
+  "meanings": [
+    "path",
+    "route",
+    "road",
+    "distance"
+  ],
+  "onyomi": [
+    "ロ",
+    "ル"
+  ],
+  "kunyomi": [
+    "-じ",
+    "みち"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

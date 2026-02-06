@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+8131",
+  "unicode": "U+8131",
+  "symbol": "脱",
+  "meanings": [
+    "undress",
+    "removing",
+    "escape from",
+    "get rid of",
+    "be left out",
+    "take off"
+  ],
+  "onyomi": [
+    "ダツ"
+  ],
+  "kunyomi": [
+    "ぬ.ぐ",
+    "ぬ.げる"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

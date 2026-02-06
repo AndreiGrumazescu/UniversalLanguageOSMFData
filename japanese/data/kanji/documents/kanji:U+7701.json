@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+7701",
+  "unicode": "U+7701",
+  "symbol": "省",
+  "meanings": [
+    "government ministry",
+    "conserve",
+    "omit"
+  ],
+  "onyomi": [
+    "セイ",
+    "ショウ"
+  ],
+  "kunyomi": [
+    "かえり.みる",
+    "はぶ.く"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

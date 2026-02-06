@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+9D3B",
+  "unicode": "U+9D3B",
+  "symbol": "鴻",
+  "meanings": [
+    "large bird",
+    "wild goose",
+    "large",
+    "great",
+    "powerful",
+    "prosperous"
+  ],
+  "onyomi": [
+    "コウ",
+    "ゴウ"
+  ],
+  "kunyomi": [
+    "おおとり",
+    "ひしくい",
+    "おおがり"
+  ],
+  "strokeCount": 17,
+  "jlptLevel": "unspecified"
+}

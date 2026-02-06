@@ -1,0 +1,33 @@
+{
+  "$id": "kanji:U+4E0B",
+  "unicode": "U+4E0B",
+  "symbol": "下",
+  "meanings": [
+    "below",
+    "down",
+    "descend",
+    "give",
+    "low",
+    "inferior"
+  ],
+  "onyomi": [
+    "カ",
+    "ゲ"
+  ],
+  "kunyomi": [
+    "した",
+    "しも",
+    "もと",
+    "さ.げる",
+    "さ.がる",
+    "くだ.る",
+    "くだ.り",
+    "くだ.す",
+    "-くだ.す",
+    "くだ.さる",
+    "お.ろす",
+    "お.りる"
+  ],
+  "strokeCount": 3,
+  "jlptLevel": "unspecified"
+}

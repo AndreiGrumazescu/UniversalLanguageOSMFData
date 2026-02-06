@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+8A08",
+  "unicode": "U+8A08",
+  "symbol": "計",
+  "meanings": [
+    "plot",
+    "plan",
+    "scheme",
+    "measure"
+  ],
+  "onyomi": [
+    "ケイ"
+  ],
+  "kunyomi": [
+    "はか.る",
+    "はか.らう"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

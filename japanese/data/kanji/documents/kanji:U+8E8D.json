@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+8E8D",
+  "unicode": "U+8E8D",
+  "symbol": "躍",
+  "meanings": [
+    "leap",
+    "dance",
+    "skip"
+  ],
+  "onyomi": [
+    "ヤク"
+  ],
+  "kunyomi": [
+    "おど.る"
+  ],
+  "strokeCount": 21,
+  "jlptLevel": "unspecified"
+}

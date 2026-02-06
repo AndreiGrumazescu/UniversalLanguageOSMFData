@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+89E6",
+  "unicode": "U+89E6",
+  "symbol": "触",
+  "meanings": [
+    "contact",
+    "touch",
+    "feel",
+    "hit",
+    "proclaim",
+    "announce",
+    "conflict"
+  ],
+  "onyomi": [
+    "ショク"
+  ],
+  "kunyomi": [
+    "ふ.れる",
+    "さわ.る",
+    "さわ"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

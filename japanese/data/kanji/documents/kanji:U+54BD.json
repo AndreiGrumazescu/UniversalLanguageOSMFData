@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+54BD",
+  "unicode": "U+54BD",
+  "symbol": "咽",
+  "meanings": [
+    "throat",
+    "choked",
+    "smothered",
+    "stuffy"
+  ],
+  "onyomi": [
+    "イン",
+    "エン",
+    "エツ"
+  ],
+  "kunyomi": [
+    "むせ.ぶ",
+    "むせ.る",
+    "のど",
+    "の.む"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

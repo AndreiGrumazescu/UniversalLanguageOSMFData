@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+52D5",
+  "unicode": "U+52D5",
+  "symbol": "動",
+  "meanings": [
+    "move",
+    "motion",
+    "change",
+    "confusion",
+    "shift",
+    "shake"
+  ],
+  "onyomi": [
+    "ドウ"
+  ],
+  "kunyomi": [
+    "うご.く",
+    "うご.かす"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

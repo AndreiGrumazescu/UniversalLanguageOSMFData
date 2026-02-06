@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+6DF7",
+  "unicode": "U+6DF7",
+  "symbol": "混",
+  "meanings": [
+    "mix",
+    "blend",
+    "confuse"
+  ],
+  "onyomi": [
+    "コン"
+  ],
+  "kunyomi": [
+    "ま.じる",
+    "-ま.じり",
+    "ま.ざる",
+    "ま.ぜる",
+    "こ.む"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

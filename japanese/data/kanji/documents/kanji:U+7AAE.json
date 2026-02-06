@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+7AAE",
+  "unicode": "U+7AAE",
+  "symbol": "窮",
+  "meanings": [
+    "hard up",
+    "destitute",
+    "suffer",
+    "perplexed",
+    "cornered"
+  ],
+  "onyomi": [
+    "キュウ",
+    "キョウ"
+  ],
+  "kunyomi": [
+    "きわ.める",
+    "きわ.まる",
+    "きわ.まり",
+    "きわ.み"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

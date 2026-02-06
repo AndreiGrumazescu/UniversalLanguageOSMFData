@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+9808",
+  "unicode": "U+9808",
+  "symbol": "須",
+  "meanings": [
+    "ought",
+    "by all means",
+    "necessarily"
+  ],
+  "onyomi": [
+    "ス",
+    "シュ"
+  ],
+  "kunyomi": [
+    "すべから.く",
+    "すべし",
+    "ひげ",
+    "まつ",
+    "もち.いる",
+    "もと.める"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

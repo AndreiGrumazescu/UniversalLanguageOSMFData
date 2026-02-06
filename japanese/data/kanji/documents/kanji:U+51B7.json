@@ -1,0 +1,25 @@
+{
+  "$id": "kanji:U+51B7",
+  "unicode": "U+51B7",
+  "symbol": "冷",
+  "meanings": [
+    "cool",
+    "cold (beer, person)",
+    "chill"
+  ],
+  "onyomi": [
+    "レイ"
+  ],
+  "kunyomi": [
+    "つめ.たい",
+    "ひ.える",
+    "ひ.や",
+    "ひ.ややか",
+    "ひ.やす",
+    "ひ.やかす",
+    "さ.める",
+    "さ.ます"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

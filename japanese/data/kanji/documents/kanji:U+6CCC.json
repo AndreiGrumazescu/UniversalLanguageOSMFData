@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+6CCC",
+  "unicode": "U+6CCC",
+  "symbol": "泌",
+  "meanings": [
+    "ooze",
+    "flow",
+    "soak in",
+    "penetrate",
+    "secrete"
+  ],
+  "onyomi": [
+    "ヒツ",
+    "ヒ"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

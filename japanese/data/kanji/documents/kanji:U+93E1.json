@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+93E1",
+  "unicode": "U+93E1",
+  "symbol": "鏡",
+  "meanings": [
+    "mirror",
+    "speculum",
+    "barrel-head",
+    "round rice-cake offering"
+  ],
+  "onyomi": [
+    "キョウ",
+    "ケイ"
+  ],
+  "kunyomi": [
+    "かがみ"
+  ],
+  "strokeCount": 19,
+  "jlptLevel": "unspecified"
+}

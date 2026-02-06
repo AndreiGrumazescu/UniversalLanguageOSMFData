@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+539A",
+  "unicode": "U+539A",
+  "symbol": "厚",
+  "meanings": [
+    "thick",
+    "heavy",
+    "rich",
+    "kind",
+    "cordial",
+    "brazen",
+    "shameless"
+  ],
+  "onyomi": [
+    "コウ"
+  ],
+  "kunyomi": [
+    "あつ.い",
+    "あか"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

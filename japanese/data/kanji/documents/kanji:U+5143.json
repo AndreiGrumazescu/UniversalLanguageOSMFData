@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+5143",
+  "unicode": "U+5143",
+  "symbol": "元",
+  "meanings": [
+    "beginning",
+    "former time",
+    "origin"
+  ],
+  "onyomi": [
+    "ゲン",
+    "ガン"
+  ],
+  "kunyomi": [
+    "もと"
+  ],
+  "strokeCount": 4,
+  "jlptLevel": "unspecified"
+}

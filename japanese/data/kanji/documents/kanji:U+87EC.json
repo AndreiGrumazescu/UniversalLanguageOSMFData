@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+87EC",
+  "unicode": "U+87EC",
+  "symbol": "蟬",
+  "meanings": [
+    "cicada",
+    "continuous"
+  ],
+  "onyomi": [
+    "セン",
+    "ゼン"
+  ],
+  "kunyomi": [
+    "せみ"
+  ],
+  "strokeCount": 18,
+  "jlptLevel": "unspecified"
+}

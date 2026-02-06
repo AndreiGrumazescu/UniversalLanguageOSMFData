@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+9905",
+  "unicode": "U+9905",
+  "symbol": "餅",
+  "meanings": [
+    "mochi rice cake"
+  ],
+  "onyomi": [
+    "ヘイ",
+    "ヒョウ"
+  ],
+  "kunyomi": [
+    "もち",
+    "もちい"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

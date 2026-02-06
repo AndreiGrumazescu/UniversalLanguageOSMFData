@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+69AE",
+  "unicode": "U+69AE",
+  "symbol": "榮",
+  "meanings": [
+    "flourish",
+    "prosperity",
+    "honour",
+    "glory",
+    "splendour"
+  ],
+  "onyomi": [
+    "エイ",
+    "ヨウ"
+  ],
+  "kunyomi": [
+    "さか.える",
+    "は.える",
+    "え"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

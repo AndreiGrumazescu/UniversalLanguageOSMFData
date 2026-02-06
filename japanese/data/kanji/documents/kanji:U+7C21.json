@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+7C21",
+  "unicode": "U+7C21",
+  "symbol": "簡",
+  "meanings": [
+    "simplicity",
+    "brevity"
+  ],
+  "onyomi": [
+    "カン",
+    "ケン"
+  ],
+  "kunyomi": [
+    "えら.ぶ",
+    "ふだ"
+  ],
+  "strokeCount": 18,
+  "jlptLevel": "unspecified"
+}

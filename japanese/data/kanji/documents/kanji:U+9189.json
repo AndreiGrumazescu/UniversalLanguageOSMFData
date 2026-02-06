@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+9189",
+  "unicode": "U+9189",
+  "symbol": "醉",
+  "meanings": [
+    "get drunk",
+    "feel sick",
+    "poisoned",
+    "elated",
+    "spellbound"
+  ],
+  "onyomi": [
+    "スイ"
+  ],
+  "kunyomi": [
+    "よ.う",
+    "よ.い"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

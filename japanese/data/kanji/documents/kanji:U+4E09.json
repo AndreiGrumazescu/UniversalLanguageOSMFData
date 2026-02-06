@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+4E09",
+  "unicode": "U+4E09",
+  "symbol": "三",
+  "meanings": [
+    "three"
+  ],
+  "onyomi": [
+    "サン",
+    "ゾウ"
+  ],
+  "kunyomi": [
+    "み",
+    "み.つ",
+    "みっ.つ"
+  ],
+  "strokeCount": 3,
+  "jlptLevel": "unspecified"
+}

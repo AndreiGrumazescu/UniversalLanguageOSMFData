@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+881F",
+  "unicode": "U+881F",
+  "symbol": "蠟",
+  "meanings": [
+    "wax",
+    "candle",
+    "waxy",
+    "glazed"
+  ],
+  "onyomi": [
+    "ロウ"
+  ],
+  "kunyomi": [
+    "みつろう",
+    "ろうそく"
+  ],
+  "strokeCount": 21,
+  "jlptLevel": "unspecified"
+}

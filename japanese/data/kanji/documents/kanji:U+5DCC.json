@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+5DCC",
+  "unicode": "U+5DCC",
+  "symbol": "巌",
+  "meanings": [
+    "rock",
+    "crag",
+    "boulder"
+  ],
+  "onyomi": [
+    "ガン"
+  ],
+  "kunyomi": [
+    "いわ",
+    "いわお",
+    "けわ.しい"
+  ],
+  "strokeCount": 20,
+  "jlptLevel": "unspecified"
+}

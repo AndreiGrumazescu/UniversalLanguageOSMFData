@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+8FF7",
+  "unicode": "U+8FF7",
+  "symbol": "迷",
+  "meanings": [
+    "astray",
+    "be perplexed",
+    "in doubt",
+    "lost",
+    "err",
+    "illusion"
+  ],
+  "onyomi": [
+    "メイ"
+  ],
+  "kunyomi": [
+    "まよ.う"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

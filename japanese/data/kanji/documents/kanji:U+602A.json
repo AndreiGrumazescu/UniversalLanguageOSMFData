@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+602A",
+  "unicode": "U+602A",
+  "symbol": "怪",
+  "meanings": [
+    "suspicious",
+    "mystery",
+    "apparition"
+  ],
+  "onyomi": [
+    "カイ",
+    "ケ"
+  ],
+  "kunyomi": [
+    "あや.しい",
+    "あや.しむ"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

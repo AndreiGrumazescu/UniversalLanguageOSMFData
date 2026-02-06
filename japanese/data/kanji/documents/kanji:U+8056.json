@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+8056",
+  "unicode": "U+8056",
+  "symbol": "聖",
+  "meanings": [
+    "holy",
+    "saint",
+    "sage",
+    "master",
+    "priest"
+  ],
+  "onyomi": [
+    "セイ",
+    "ショウ"
+  ],
+  "kunyomi": [
+    "ひじり"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

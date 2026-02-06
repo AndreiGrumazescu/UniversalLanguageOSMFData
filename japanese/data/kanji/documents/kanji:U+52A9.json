@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+52A9",
+  "unicode": "U+52A9",
+  "symbol": "助",
+  "meanings": [
+    "help",
+    "rescue",
+    "assist"
+  ],
+  "onyomi": [
+    "ジョ"
+  ],
+  "kunyomi": [
+    "たす.ける",
+    "たす.かる",
+    "す.ける",
+    "すけ"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

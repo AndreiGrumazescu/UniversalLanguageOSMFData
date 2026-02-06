@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+5BE9",
+  "unicode": "U+5BE9",
+  "symbol": "審",
+  "meanings": [
+    "hearing",
+    "judge",
+    "trial"
+  ],
+  "onyomi": [
+    "シン"
+  ],
+  "kunyomi": [
+    "つまび.らか",
+    "つぶさ.に"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

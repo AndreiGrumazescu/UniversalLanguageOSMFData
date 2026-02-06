@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+66C9",
+  "unicode": "U+66C9",
+  "symbol": "曉",
+  "meanings": [
+    "dawn",
+    "daybreak",
+    "clear",
+    "explicit"
+  ],
+  "onyomi": [
+    "キョウ",
+    "ギョウ"
+  ],
+  "kunyomi": [
+    "あかつき",
+    "さと.る"
+  ],
+  "strokeCount": 16,
+  "jlptLevel": "unspecified"
+}

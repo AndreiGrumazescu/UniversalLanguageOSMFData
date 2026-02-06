@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+89AA",
+  "unicode": "U+89AA",
+  "symbol": "親",
+  "meanings": [
+    "parent",
+    "intimacy",
+    "relative",
+    "familiarity",
+    "dealer (cards)"
+  ],
+  "onyomi": [
+    "シン"
+  ],
+  "kunyomi": [
+    "おや",
+    "おや-",
+    "した.しい",
+    "した.しむ"
+  ],
+  "strokeCount": 16,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+8CAA",
+  "unicode": "U+8CAA",
+  "symbol": "貪",
+  "meanings": [
+    "covet",
+    "indulge in"
+  ],
+  "onyomi": [
+    "タン",
+    "ドン",
+    "トン"
+  ],
+  "kunyomi": [
+    "むさぼ.る"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

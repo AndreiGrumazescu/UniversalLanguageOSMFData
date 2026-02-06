@@ -1,0 +1,17 @@
+{
+  "$id": "kanji:U+66C7",
+  "unicode": "U+66C7",
+  "symbol": "曇",
+  "meanings": [
+    "cloudy weather",
+    "cloud up"
+  ],
+  "onyomi": [
+    "ドン"
+  ],
+  "kunyomi": [
+    "くも.る"
+  ],
+  "strokeCount": 16,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+9694",
+  "unicode": "U+9694",
+  "symbol": "隔",
+  "meanings": [
+    "isolate",
+    "alternate",
+    "distance",
+    "separate",
+    "gulf"
+  ],
+  "onyomi": [
+    "カク"
+  ],
+  "kunyomi": [
+    "へだ.てる",
+    "へだ.たる"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

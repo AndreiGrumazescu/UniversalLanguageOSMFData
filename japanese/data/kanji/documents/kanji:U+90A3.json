@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+90A3",
+  "unicode": "U+90A3",
+  "symbol": "那",
+  "meanings": [
+    "what?"
+  ],
+  "onyomi": [
+    "ナ",
+    "ダ"
+  ],
+  "kunyomi": [
+    "なに",
+    "なんぞ",
+    "いかん"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

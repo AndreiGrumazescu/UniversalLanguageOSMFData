@@ -1,0 +1,26 @@
+{
+  "$id": "kanji:U+8276",
+  "unicode": "U+8276",
+  "symbol": "艶",
+  "meanings": [
+    "glossy",
+    "luster",
+    "glaze",
+    "polish",
+    "charm",
+    "colorful",
+    "captivating"
+  ],
+  "onyomi": [
+    "エン"
+  ],
+  "kunyomi": [
+    "つや",
+    "なま.めかしい",
+    "あで.やか",
+    "つや.めく",
+    "なま.めく"
+  ],
+  "strokeCount": 19,
+  "jlptLevel": "unspecified"
+}

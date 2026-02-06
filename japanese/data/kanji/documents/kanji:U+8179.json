@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+8179",
+  "unicode": "U+8179",
+  "symbol": "腹",
+  "meanings": [
+    "abdomen",
+    "belly",
+    "stomach"
+  ],
+  "onyomi": [
+    "フク"
+  ],
+  "kunyomi": [
+    "はら"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

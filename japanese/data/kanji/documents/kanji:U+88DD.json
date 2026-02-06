@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+88DD",
+  "unicode": "U+88DD",
+  "symbol": "裝",
+  "meanings": [
+    "dress",
+    "pretend",
+    "disguise",
+    "profess"
+  ],
+  "onyomi": [
+    "ソウ",
+    "ショウ"
+  ],
+  "kunyomi": [
+    "よそお.う",
+    "よそお.い"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

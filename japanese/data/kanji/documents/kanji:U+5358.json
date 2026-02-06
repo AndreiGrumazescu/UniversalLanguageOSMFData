@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+5358",
+  "unicode": "U+5358",
+  "symbol": "単",
+  "meanings": [
+    "simple",
+    "one",
+    "single",
+    "merely"
+  ],
+  "onyomi": [
+    "タン"
+  ],
+  "kunyomi": [
+    "ひとえ"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

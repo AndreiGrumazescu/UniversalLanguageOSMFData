@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+52C3",
+  "unicode": "U+52C3",
+  "symbol": "勃",
+  "meanings": [
+    "suddenness",
+    "rise"
+  ],
+  "onyomi": [
+    "ボツ",
+    "ホツ"
+  ],
+  "kunyomi": [
+    "おこ.る",
+    "にわかに"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

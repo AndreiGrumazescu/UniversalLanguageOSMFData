@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+611B",
+  "unicode": "U+611B",
+  "symbol": "愛",
+  "meanings": [
+    "love",
+    "affection",
+    "favourite"
+  ],
+  "onyomi": [
+    "アイ"
+  ],
+  "kunyomi": [
+    "いと.しい",
+    "かな.しい",
+    "め.でる",
+    "お.しむ",
+    "まな"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

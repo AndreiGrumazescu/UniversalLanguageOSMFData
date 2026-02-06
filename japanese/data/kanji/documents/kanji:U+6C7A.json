@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+6C7A",
+  "unicode": "U+6C7A",
+  "symbol": "決",
+  "meanings": [
+    "decide",
+    "fix",
+    "agree upon",
+    "appoint"
+  ],
+  "onyomi": [
+    "ケツ"
+  ],
+  "kunyomi": [
+    "き.める",
+    "-ぎ.め",
+    "き.まる",
+    "さ.く"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

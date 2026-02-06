@@ -1,0 +1,25 @@
+{
+  "$id": "kanji:U+83EF",
+  "unicode": "U+83EF",
+  "symbol": "華",
+  "meanings": [
+    "splendor",
+    "flower",
+    "petal",
+    "shine",
+    "luster",
+    "ostentatious",
+    "showy",
+    "gay",
+    "gorgeous"
+  ],
+  "onyomi": [
+    "カ",
+    "ケ"
+  ],
+  "kunyomi": [
+    "はな"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+5C3A",
+  "unicode": "U+5C3A",
+  "symbol": "尺",
+  "meanings": [
+    "shaku",
+    "Japanese foot",
+    "measure",
+    "scale",
+    "rule"
+  ],
+  "onyomi": [
+    "シャク",
+    "セキ"
+  ],
+  "kunyomi": [
+    "さし"
+  ],
+  "strokeCount": 4,
+  "jlptLevel": "unspecified"
+}

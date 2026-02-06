@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+6355",
+  "unicode": "U+6355",
+  "symbol": "捕",
+  "meanings": [
+    "catch",
+    "capture"
+  ],
+  "onyomi": [
+    "ホ"
+  ],
+  "kunyomi": [
+    "と.らえる",
+    "と.らわれる",
+    "と.る",
+    "とら.える",
+    "とら.われる",
+    "つか.まえる",
+    "つか.まる"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

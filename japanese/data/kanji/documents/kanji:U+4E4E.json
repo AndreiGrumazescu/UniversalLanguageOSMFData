@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+4E4E",
+  "unicode": "U+4E4E",
+  "symbol": "乎",
+  "meanings": [
+    "question mark",
+    "?"
+  ],
+  "onyomi": [
+    "コ",
+    "オ"
+  ],
+  "kunyomi": [
+    "か",
+    "ああ",
+    "かな",
+    "や",
+    "よ",
+    "を"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

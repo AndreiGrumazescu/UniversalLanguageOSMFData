@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+4EAD",
+  "unicode": "U+4EAD",
+  "symbol": "亭",
+  "meanings": [
+    "pavilion",
+    "restaurant",
+    "mansion",
+    "arbor",
+    "cottage",
+    "vaudeville",
+    "music hall",
+    "stage name"
+  ],
+  "onyomi": [
+    "テイ",
+    "チン"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

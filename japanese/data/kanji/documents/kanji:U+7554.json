@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+7554",
+  "unicode": "U+7554",
+  "symbol": "畔",
+  "meanings": [
+    "paddy ridge",
+    "levee"
+  ],
+  "onyomi": [
+    "ハン"
+  ],
+  "kunyomi": [
+    "あぜ",
+    "くろ",
+    "ほとり"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+8C46",
+  "unicode": "U+8C46",
+  "symbol": "豆",
+  "meanings": [
+    "beans",
+    "pea",
+    "midget"
+  ],
+  "onyomi": [
+    "トウ",
+    "ズ"
+  ],
+  "kunyomi": [
+    "まめ",
+    "まめ-"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

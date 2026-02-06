@@ -1,0 +1,28 @@
+{
+  "$id": "kanji:U+66F2",
+  "unicode": "U+66F2",
+  "symbol": "曲",
+  "meanings": [
+    "bend",
+    "music",
+    "melody",
+    "composition",
+    "pleasure",
+    "injustice",
+    "fault",
+    "curve",
+    "crooked",
+    "perverse",
+    "lean"
+  ],
+  "onyomi": [
+    "キョク"
+  ],
+  "kunyomi": [
+    "ま.がる",
+    "ま.げる",
+    "くま"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

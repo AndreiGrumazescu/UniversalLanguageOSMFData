@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+62C9",
+  "unicode": "U+62C9",
+  "symbol": "拉",
+  "meanings": [
+    "Latin",
+    "kidnap",
+    "crush"
+  ],
+  "onyomi": [
+    "ラツ",
+    "ラ",
+    "ロウ"
+  ],
+  "kunyomi": [
+    "らっ.する",
+    "ひし.ぐ",
+    "くだ.く"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

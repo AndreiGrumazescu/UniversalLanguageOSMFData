@@ -1,0 +1,16 @@
+{
+  "$id": "kanji:U+5BF8",
+  "unicode": "U+5BF8",
+  "symbol": "寸",
+  "meanings": [
+    "measurement",
+    "tenth of a shaku",
+    "a little",
+    "small"
+  ],
+  "onyomi": [
+    "スン"
+  ],
+  "strokeCount": 3,
+  "jlptLevel": "unspecified"
+}

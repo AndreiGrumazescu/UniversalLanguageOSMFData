@@ -1,0 +1,30 @@
+{
+  "$id": "kanji:U+7ACB",
+  "unicode": "U+7ACB",
+  "symbol": "立",
+  "meanings": [
+    "stand up",
+    "rise",
+    "set up",
+    "erect"
+  ],
+  "onyomi": [
+    "リツ",
+    "リュウ",
+    "リットル"
+  ],
+  "kunyomi": [
+    "た.つ",
+    "-た.つ",
+    "た.ち-",
+    "た.てる",
+    "-た.てる",
+    "た.て-",
+    "たて-",
+    "-た.て",
+    "-だ.て",
+    "-だ.てる"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

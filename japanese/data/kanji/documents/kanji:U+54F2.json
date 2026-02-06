@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+54F2",
+  "unicode": "U+54F2",
+  "symbol": "哲",
+  "meanings": [
+    "philosophy",
+    "clear"
+  ],
+  "onyomi": [
+    "テツ"
+  ],
+  "kunyomi": [
+    "さとい",
+    "あきらか"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

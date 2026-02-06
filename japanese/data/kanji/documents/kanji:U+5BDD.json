@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+5BDD",
+  "unicode": "U+5BDD",
+  "symbol": "寝",
+  "meanings": [
+    "lie down",
+    "sleep",
+    "rest",
+    "bed",
+    "remain unsold"
+  ],
+  "onyomi": [
+    "シン"
+  ],
+  "kunyomi": [
+    "ね.る",
+    "ね.かす",
+    "い.ぬ",
+    "みたまや",
+    "や.める"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

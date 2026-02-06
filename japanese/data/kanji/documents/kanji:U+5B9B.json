@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+5B9B",
+  "unicode": "U+5B9B",
+  "symbol": "宛",
+  "meanings": [
+    "address",
+    "just like",
+    "fortunately"
+  ],
+  "onyomi": [
+    "エン"
+  ],
+  "kunyomi": [
+    "あ.てる",
+    "-あて",
+    "-づつ",
+    "あたか.も"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

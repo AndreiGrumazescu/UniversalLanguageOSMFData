@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+9F13",
+  "unicode": "U+9F13",
+  "symbol": "鼓",
+  "meanings": [
+    "drum",
+    "beat",
+    "rouse",
+    "muster"
+  ],
+  "onyomi": [
+    "コ"
+  ],
+  "kunyomi": [
+    "つづみ"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

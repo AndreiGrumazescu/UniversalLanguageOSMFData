@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+6DAF",
+  "unicode": "U+6DAF",
+  "symbol": "涯",
+  "meanings": [
+    "horizon",
+    "shore",
+    "limit",
+    "bound"
+  ],
+  "onyomi": [
+    "ガイ"
+  ],
+  "kunyomi": [
+    "はて"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

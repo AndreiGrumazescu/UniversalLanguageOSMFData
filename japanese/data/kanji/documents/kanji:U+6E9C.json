@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+6E9C",
+  "unicode": "U+6E9C",
+  "symbol": "溜",
+  "meanings": [
+    "collect",
+    "gather",
+    "be in arrears"
+  ],
+  "onyomi": [
+    "リュウ"
+  ],
+  "kunyomi": [
+    "た.まる",
+    "たま.る",
+    "た.める",
+    "したた.る",
+    "たまり",
+    "ため"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

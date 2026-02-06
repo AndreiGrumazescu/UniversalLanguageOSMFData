@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+8074",
+  "unicode": "U+8074",
+  "symbol": "聴",
+  "meanings": [
+    "listen",
+    "headstrong",
+    "naughty",
+    "careful inquiry"
+  ],
+  "onyomi": [
+    "チョウ",
+    "テイ"
+  ],
+  "kunyomi": [
+    "き.く",
+    "ゆる.す"
+  ],
+  "strokeCount": 17,
+  "jlptLevel": "unspecified"
+}

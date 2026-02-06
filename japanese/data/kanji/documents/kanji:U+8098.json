@@ -1,0 +1,17 @@
+{
+  "$id": "kanji:U+8098",
+  "unicode": "U+8098",
+  "symbol": "肘",
+  "meanings": [
+    "elbow",
+    "arm"
+  ],
+  "onyomi": [
+    "チュウ"
+  ],
+  "kunyomi": [
+    "ひじ"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

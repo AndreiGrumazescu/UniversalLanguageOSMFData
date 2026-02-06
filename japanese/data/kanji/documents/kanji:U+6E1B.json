@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+6E1B",
+  "unicode": "U+6E1B",
+  "symbol": "減",
+  "meanings": [
+    "dwindle",
+    "decrease",
+    "reduce",
+    "decline",
+    "curtail",
+    "get hungry"
+  ],
+  "onyomi": [
+    "ゲン"
+  ],
+  "kunyomi": [
+    "へ.る",
+    "へ.らす"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

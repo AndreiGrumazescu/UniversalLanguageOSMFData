@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+7985",
+  "unicode": "U+7985",
+  "symbol": "禅",
+  "meanings": [
+    "Zen",
+    "silent meditation"
+  ],
+  "onyomi": [
+    "ゼン",
+    "セン"
+  ],
+  "kunyomi": [
+    "しずか",
+    "ゆず.る"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "kanji:U+9BDB",
+  "unicode": "U+9BDB",
+  "symbol": "鯛",
+  "meanings": [
+    "sea bream",
+    "red snapper"
+  ],
+  "onyomi": [
+    "チョウ"
+  ],
+  "kunyomi": [
+    "たい"
+  ],
+  "strokeCount": 19,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+6055",
+  "unicode": "U+6055",
+  "symbol": "恕",
+  "meanings": [
+    "excuse",
+    "tolerate",
+    "forgive"
+  ],
+  "onyomi": [
+    "ジョ",
+    "ショ"
+  ],
+  "kunyomi": [
+    "ゆる.す"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

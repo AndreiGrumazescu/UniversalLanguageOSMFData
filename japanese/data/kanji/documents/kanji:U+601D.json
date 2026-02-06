@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+601D",
+  "unicode": "U+601D",
+  "symbol": "思",
+  "meanings": [
+    "think"
+  ],
+  "onyomi": [
+    "シ"
+  ],
+  "kunyomi": [
+    "おも.う",
+    "おもえら.く",
+    "おぼ.す"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

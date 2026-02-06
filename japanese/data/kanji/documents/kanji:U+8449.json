@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+8449",
+  "unicode": "U+8449",
+  "symbol": "葉",
+  "meanings": [
+    "leaf",
+    "plane",
+    "lobe",
+    "needle",
+    "blade",
+    "spear",
+    "counter for flat things",
+    "fragment",
+    "piece"
+  ],
+  "onyomi": [
+    "ヨウ"
+  ],
+  "kunyomi": [
+    "は"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

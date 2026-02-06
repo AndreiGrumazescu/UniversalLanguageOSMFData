@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+847A",
+  "unicode": "U+847A",
+  "symbol": "葺",
+  "meanings": [
+    "thatch",
+    "cover",
+    "shingle",
+    "tile"
+  ],
+  "onyomi": [
+    "シュウ"
+  ],
+  "kunyomi": [
+    "あし",
+    "ふ.く",
+    "ふき"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

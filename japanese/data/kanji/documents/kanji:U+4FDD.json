@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+4FDD",
+  "unicode": "U+4FDD",
+  "symbol": "保",
+  "meanings": [
+    "protect",
+    "guarantee",
+    "keep",
+    "preserve",
+    "sustain",
+    "support"
+  ],
+  "onyomi": [
+    "ホ",
+    "ホウ"
+  ],
+  "kunyomi": [
+    "たも.つ"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

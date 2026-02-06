@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+5BF5",
+  "unicode": "U+5BF5",
+  "symbol": "寵",
+  "meanings": [
+    "affection",
+    "love",
+    "patronage"
+  ],
+  "onyomi": [
+    "チョウ"
+  ],
+  "kunyomi": [
+    "めぐ.み",
+    "めぐ.む"
+  ],
+  "strokeCount": 19,
+  "jlptLevel": "unspecified"
+}

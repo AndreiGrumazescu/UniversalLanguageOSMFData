@@ -1,0 +1,54 @@
+{
+  "$schema": "https://raw.githubusercontent.com/AndreiGrumazescu/OpenStudyModelFramework/main/relational-model.schema.json",
+  "$id": "kanji-grapheme-dependency.schema.json",
+  "name": "Kanji Grapheme Dependency Model",
+  "description": "Expresses relationships between kanji and their grapheme components. A parent kanji has graphemes as children.",
+  "version": "1.0.0",
+  "$defs": {
+    "kanjiCriteria": {
+      "required": ["$id"],
+      "properties": {
+        "$id": { "type": "string", "pattern": "^U\\+[0-9A-F]+$" }
+      }
+    },
+    "graphemeCriteria": {
+      "required": ["$id"],
+      "properties": {
+        "$id": { "type": "string", "pattern": "^U\\+[0-9A-F]+$" }
+      }
+    }
+  },
+  "connectors": {
+    "parent": {
+      "criteria": { "$ref": "#/$defs/kanjiCriteria" },
+      "description": "The kanji that has grapheme components"
+    },
+    "component": {
+      "criteria": { "$ref": "#/$defs/graphemeCriteria" },
+      "description": "A grapheme that is a component of the parent kanji"
+    }
+  },
+  "from": {
+    "type": "array",
+    "items": { "enum": ["parent"] },
+    "minItems": 1,
+    "maxItems": 1
+  },
+  "to": {
+    "type": "array",
+    "items": { "enum": ["component"] },
+    "minItems": 1,
+    "maxItems": 1
+  },
+  "many": {
+    "type": "array",
+    "items": { "$ref": "https://raw.githubusercontent.com/AndreiGrumazescu/OpenStudyModelFramework/main/relational-model.schema.json#/$defs/manyItem" },
+    "itemConnectors": {
+      "$dynamicAnchor": "itemConnectors",
+      "properties": {
+        "component": { "$ref": "#/$defs/graphemeCriteria" }
+      },
+      "required": ["component"]
+    }
+  }
+}

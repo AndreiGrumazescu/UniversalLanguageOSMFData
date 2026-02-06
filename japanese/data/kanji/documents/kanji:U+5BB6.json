@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+5BB6",
+  "unicode": "U+5BB6",
+  "symbol": "家",
+  "meanings": [
+    "house",
+    "home",
+    "family",
+    "professional",
+    "expert",
+    "performer"
+  ],
+  "onyomi": [
+    "カ",
+    "ケ"
+  ],
+  "kunyomi": [
+    "いえ",
+    "や",
+    "うち"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

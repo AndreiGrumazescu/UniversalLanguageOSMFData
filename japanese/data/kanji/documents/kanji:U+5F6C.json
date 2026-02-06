@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+5F6C",
+  "unicode": "U+5F6C",
+  "symbol": "彬",
+  "meanings": [
+    "refined",
+    "gentle"
+  ],
+  "onyomi": [
+    "ヒン",
+    "フン"
+  ],
+  "kunyomi": [
+    "うるわ.しい",
+    "あき.らか"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

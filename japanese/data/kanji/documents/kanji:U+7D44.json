@@ -1,0 +1,25 @@
+{
+  "$id": "kanji:U+7D44",
+  "unicode": "U+7D44",
+  "symbol": "組",
+  "meanings": [
+    "association",
+    "braid",
+    "plait",
+    "construct",
+    "assemble",
+    "unite",
+    "cooperate",
+    "grapple"
+  ],
+  "onyomi": [
+    "ソ"
+  ],
+  "kunyomi": [
+    "く.む",
+    "くみ",
+    "-ぐみ"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

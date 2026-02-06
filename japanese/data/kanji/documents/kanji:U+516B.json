@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+516B",
+  "unicode": "U+516B",
+  "symbol": "八",
+  "meanings": [
+    "eight",
+    "eight radical (no. 12)"
+  ],
+  "onyomi": [
+    "ハチ",
+    "ハツ"
+  ],
+  "kunyomi": [
+    "や",
+    "や.つ",
+    "やっ.つ",
+    "よう"
+  ],
+  "strokeCount": 2,
+  "jlptLevel": "unspecified"
+}

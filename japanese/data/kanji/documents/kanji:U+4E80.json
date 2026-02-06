@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+4E80",
+  "unicode": "U+4E80",
+  "symbol": "亀",
+  "meanings": [
+    "tortoise",
+    "turtle"
+  ],
+  "onyomi": [
+    "キ",
+    "キュウ",
+    "キン"
+  ],
+  "kunyomi": [
+    "かめ"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

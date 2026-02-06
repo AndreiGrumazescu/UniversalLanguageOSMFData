@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+8108",
+  "unicode": "U+8108",
+  "symbol": "脈",
+  "meanings": [
+    "vein",
+    "pulse",
+    "hope"
+  ],
+  "onyomi": [
+    "ミャク"
+  ],
+  "kunyomi": [
+    "すじ"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

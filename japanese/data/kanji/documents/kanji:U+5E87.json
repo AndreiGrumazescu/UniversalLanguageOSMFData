@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+5E87",
+  "unicode": "U+5E87",
+  "symbol": "庇",
+  "meanings": [
+    "protect",
+    "shield",
+    "defend",
+    "eaves",
+    "canopy",
+    "penthouse",
+    "visor"
+  ],
+  "onyomi": [
+    "ヒ"
+  ],
+  "kunyomi": [
+    "ひさし",
+    "おお.う",
+    "かば.う"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

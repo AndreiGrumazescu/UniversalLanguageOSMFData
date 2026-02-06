@@ -1,0 +1,17 @@
+{
+  "$id": "kanji:U+620A",
+  "unicode": "U+620A",
+  "symbol": "戊",
+  "meanings": [
+    "5th calendar sign"
+  ],
+  "onyomi": [
+    "ボ",
+    "ボウ"
+  ],
+  "kunyomi": [
+    "つちのえ"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

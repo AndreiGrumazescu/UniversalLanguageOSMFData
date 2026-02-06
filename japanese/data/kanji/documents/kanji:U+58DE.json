@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+58DE",
+  "unicode": "U+58DE",
+  "symbol": "壞",
+  "meanings": [
+    "demolition",
+    "break",
+    "destroy"
+  ],
+  "onyomi": [
+    "カイ",
+    "エ"
+  ],
+  "kunyomi": [
+    "こわ.す",
+    "こわ.れる",
+    "やぶ.る"
+  ],
+  "strokeCount": 19,
+  "jlptLevel": "unspecified"
+}

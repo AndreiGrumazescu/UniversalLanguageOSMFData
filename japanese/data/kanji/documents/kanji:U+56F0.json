@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+56F0",
+  "unicode": "U+56F0",
+  "symbol": "困",
+  "meanings": [
+    "quandary",
+    "become distressed",
+    "annoyed"
+  ],
+  "onyomi": [
+    "コン"
+  ],
+  "kunyomi": [
+    "こま.る"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+5039",
+  "unicode": "U+5039",
+  "symbol": "倹",
+  "meanings": [
+    "frugal",
+    "economy",
+    "thrifty"
+  ],
+  "onyomi": [
+    "ケン"
+  ],
+  "kunyomi": [
+    "つま.しい",
+    "つづまやか"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+8CBB",
+  "unicode": "U+8CBB",
+  "symbol": "費",
+  "meanings": [
+    "expense",
+    "cost",
+    "spend",
+    "consume",
+    "waste"
+  ],
+  "onyomi": [
+    "ヒ"
+  ],
+  "kunyomi": [
+    "つい.やす",
+    "つい.える"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

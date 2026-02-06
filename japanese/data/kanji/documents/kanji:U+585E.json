@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+585E",
+  "unicode": "U+585E",
+  "symbol": "塞",
+  "meanings": [
+    "close",
+    "shut",
+    "cover",
+    "block",
+    "obstruct"
+  ],
+  "onyomi": [
+    "ソク",
+    "サイ"
+  ],
+  "kunyomi": [
+    "ふさ.ぐ",
+    "とりで",
+    "み.ちる"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

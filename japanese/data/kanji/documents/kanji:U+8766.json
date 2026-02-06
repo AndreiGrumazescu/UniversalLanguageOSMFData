@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+8766",
+  "unicode": "U+8766",
+  "symbol": "蝦",
+  "meanings": [
+    "shrimp",
+    "prawn",
+    "lobster"
+  ],
+  "onyomi": [
+    "カ",
+    "ゲ"
+  ],
+  "kunyomi": [
+    "えび"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

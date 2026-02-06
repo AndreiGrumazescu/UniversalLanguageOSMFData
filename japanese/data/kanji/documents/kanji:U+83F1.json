@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+83F1",
+  "unicode": "U+83F1",
+  "symbol": "菱",
+  "meanings": [
+    "diamond (shape)",
+    "water chestnut",
+    "rhombus"
+  ],
+  "onyomi": [
+    "リョウ"
+  ],
+  "kunyomi": [
+    "ひし"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

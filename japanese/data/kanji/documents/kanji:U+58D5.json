@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+58D5",
+  "unicode": "U+58D5",
+  "symbol": "壕",
+  "meanings": [
+    "trench",
+    "dugout",
+    "air raid shelter"
+  ],
+  "onyomi": [
+    "コウ",
+    "ゴウ"
+  ],
+  "kunyomi": [
+    "ほり"
+  ],
+  "strokeCount": 17,
+  "jlptLevel": "unspecified"
+}

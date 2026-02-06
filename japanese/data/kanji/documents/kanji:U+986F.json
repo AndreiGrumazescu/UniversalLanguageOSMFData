@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+986F",
+  "unicode": "U+986F",
+  "symbol": "顯",
+  "meanings": [
+    "manifest",
+    "display",
+    "evident",
+    "clear"
+  ],
+  "onyomi": [
+    "ケン"
+  ],
+  "kunyomi": [
+    "あきらか",
+    "あらわ.れる"
+  ],
+  "strokeCount": 23,
+  "jlptLevel": "unspecified"
+}

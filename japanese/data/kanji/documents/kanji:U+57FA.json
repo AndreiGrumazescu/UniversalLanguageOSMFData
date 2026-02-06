@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+57FA",
+  "unicode": "U+57FA",
+  "symbol": "基",
+  "meanings": [
+    "fundamentals",
+    "radical (chem)",
+    "counter for machines",
+    "foundation"
+  ],
+  "onyomi": [
+    "キ"
+  ],
+  "kunyomi": [
+    "もと",
+    "もとい"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

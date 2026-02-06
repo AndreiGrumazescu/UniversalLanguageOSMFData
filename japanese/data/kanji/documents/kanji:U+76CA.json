@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+76CA",
+  "unicode": "U+76CA",
+  "symbol": "益",
+  "meanings": [
+    "benefit",
+    "gain",
+    "profit",
+    "advantage"
+  ],
+  "onyomi": [
+    "エキ",
+    "ヤク"
+  ],
+  "kunyomi": [
+    "ま.す"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+9CE9",
+  "unicode": "U+9CE9",
+  "symbol": "鳩",
+  "meanings": [
+    "pigeon",
+    "dove"
+  ],
+  "onyomi": [
+    "キュウ",
+    "ク"
+  ],
+  "kunyomi": [
+    "はと",
+    "あつ.める"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

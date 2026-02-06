@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+4F3C",
+  "unicode": "U+4F3C",
+  "symbol": "似",
+  "meanings": [
+    "becoming",
+    "resemble",
+    "counterfeit",
+    "imitate",
+    "suitable"
+  ],
+  "onyomi": [
+    "ジ"
+  ],
+  "kunyomi": [
+    "に.る",
+    "ひ.る"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

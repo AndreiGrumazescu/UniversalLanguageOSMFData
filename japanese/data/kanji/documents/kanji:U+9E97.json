@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+9E97",
+  "unicode": "U+9E97",
+  "symbol": "麗",
+  "meanings": [
+    "lovely",
+    "beautiful",
+    "graceful",
+    "resplendent"
+  ],
+  "onyomi": [
+    "レイ"
+  ],
+  "kunyomi": [
+    "うるわ.しい",
+    "うら.らか"
+  ],
+  "strokeCount": 19,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+96C0",
+  "unicode": "U+96C0",
+  "symbol": "雀",
+  "meanings": [
+    "sparrow"
+  ],
+  "onyomi": [
+    "ジャク",
+    "ジャン",
+    "サク",
+    "シャク"
+  ],
+  "kunyomi": [
+    "すずめ"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

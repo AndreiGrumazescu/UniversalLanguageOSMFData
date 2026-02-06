@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+5AC1",
+  "unicode": "U+5AC1",
+  "symbol": "嫁",
+  "meanings": [
+    "marry into",
+    "bride"
+  ],
+  "onyomi": [
+    "カ"
+  ],
+  "kunyomi": [
+    "よめ",
+    "とつ.ぐ",
+    "い.く",
+    "ゆ.く"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

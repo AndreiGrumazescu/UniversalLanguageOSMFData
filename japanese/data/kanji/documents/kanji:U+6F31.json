@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+6F31",
+  "unicode": "U+6F31",
+  "symbol": "漱",
+  "meanings": [
+    "gargle",
+    "rinse mouth"
+  ],
+  "onyomi": [
+    "ソウ",
+    "シュウ",
+    "ス"
+  ],
+  "kunyomi": [
+    "くちすす.ぐ",
+    "くちそそ.ぐ",
+    "うがい",
+    "すす.ぐ"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

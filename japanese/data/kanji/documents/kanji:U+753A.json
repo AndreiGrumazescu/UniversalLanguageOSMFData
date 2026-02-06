@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+753A",
+  "unicode": "U+753A",
+  "symbol": "町",
+  "meanings": [
+    "town",
+    "village",
+    "block",
+    "street"
+  ],
+  "onyomi": [
+    "チョウ"
+  ],
+  "kunyomi": [
+    "まち"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

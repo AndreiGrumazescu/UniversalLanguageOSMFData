@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+5742",
+  "unicode": "U+5742",
+  "symbol": "坂",
+  "meanings": [
+    "slope",
+    "incline",
+    "hill"
+  ],
+  "onyomi": [
+    "ハン"
+  ],
+  "kunyomi": [
+    "さか"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

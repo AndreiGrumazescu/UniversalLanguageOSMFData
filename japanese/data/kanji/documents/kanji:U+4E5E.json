@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+4E5E",
+  "unicode": "U+4E5E",
+  "symbol": "乞",
+  "meanings": [
+    "beg",
+    "invite",
+    "ask"
+  ],
+  "onyomi": [
+    "コツ",
+    "キツ",
+    "キ",
+    "キケ",
+    "コチ"
+  ],
+  "kunyomi": [
+    "こ.う"
+  ],
+  "strokeCount": 3,
+  "jlptLevel": "unspecified"
+}

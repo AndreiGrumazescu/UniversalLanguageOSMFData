@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+8420",
+  "unicode": "U+8420",
+  "symbol": "萠",
+  "meanings": [
+    "show symptoms of",
+    "sprout",
+    "bud",
+    "malt"
+  ],
+  "onyomi": [
+    "ホウ"
+  ],
+  "kunyomi": [
+    "も.える",
+    "きざ.す",
+    "めばえ",
+    "きざ.し"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

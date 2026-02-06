@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+92D2",
+  "unicode": "U+92D2",
+  "symbol": "鋒",
+  "meanings": [
+    "dagger",
+    "sword's point",
+    "festival car",
+    "float"
+  ],
+  "onyomi": [
+    "ホウ"
+  ],
+  "kunyomi": [
+    "きっさき",
+    "とかり",
+    "ほこさき"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

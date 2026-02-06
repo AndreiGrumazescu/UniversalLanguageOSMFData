@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+5E97",
+  "unicode": "U+5E97",
+  "symbol": "店",
+  "meanings": [
+    "store",
+    "shop"
+  ],
+  "onyomi": [
+    "テン"
+  ],
+  "kunyomi": [
+    "みせ",
+    "たな"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

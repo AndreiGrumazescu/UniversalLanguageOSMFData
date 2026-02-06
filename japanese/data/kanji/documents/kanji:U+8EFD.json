@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+8EFD",
+  "unicode": "U+8EFD",
+  "symbol": "軽",
+  "meanings": [
+    "lightly",
+    "trifling",
+    "unimportant"
+  ],
+  "onyomi": [
+    "ケイ",
+    "キョウ",
+    "キン"
+  ],
+  "kunyomi": [
+    "かる.い",
+    "かろ.やか",
+    "かろ.んじる"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+5351",
+  "unicode": "U+5351",
+  "symbol": "卑",
+  "meanings": [
+    "lowly",
+    "base",
+    "vile",
+    "vulgar",
+    "despise"
+  ],
+  "onyomi": [
+    "ヒ"
+  ],
+  "kunyomi": [
+    "いや.しい",
+    "いや.しむ",
+    "いや.しめる"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

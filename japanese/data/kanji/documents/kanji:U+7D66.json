@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+7D66",
+  "unicode": "U+7D66",
+  "symbol": "給",
+  "meanings": [
+    "salary",
+    "wage",
+    "gift",
+    "allow",
+    "grant",
+    "bestow on"
+  ],
+  "onyomi": [
+    "キュウ"
+  ],
+  "kunyomi": [
+    "たま.う",
+    "たも.う",
+    "-たま.え"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

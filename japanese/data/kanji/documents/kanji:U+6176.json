@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+6176",
+  "unicode": "U+6176",
+  "symbol": "慶",
+  "meanings": [
+    "jubilation",
+    "congratulate",
+    "rejoice",
+    "be happy"
+  ],
+  "onyomi": [
+    "ケイ"
+  ],
+  "kunyomi": [
+    "よろこ.び"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

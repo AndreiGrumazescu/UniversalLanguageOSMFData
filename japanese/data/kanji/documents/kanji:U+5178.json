@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+5178",
+  "unicode": "U+5178",
+  "symbol": "典",
+  "meanings": [
+    "code",
+    "ceremony",
+    "law",
+    "rule"
+  ],
+  "onyomi": [
+    "テン",
+    "デン"
+  ],
+  "kunyomi": [
+    "ふみ",
+    "のり"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

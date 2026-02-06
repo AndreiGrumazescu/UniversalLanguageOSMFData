@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+808C",
+  "unicode": "U+808C",
+  "symbol": "肌",
+  "meanings": [
+    "texture",
+    "skin",
+    "body",
+    "grain"
+  ],
+  "onyomi": [
+    "キ"
+  ],
+  "kunyomi": [
+    "はだ"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+8B39",
+  "unicode": "U+8B39",
+  "symbol": "謹",
+  "meanings": [
+    "discreet",
+    "reverently",
+    "humbly"
+  ],
+  "onyomi": [
+    "キン"
+  ],
+  "kunyomi": [
+    "つつし.む"
+  ],
+  "strokeCount": 17,
+  "jlptLevel": "unspecified"
+}

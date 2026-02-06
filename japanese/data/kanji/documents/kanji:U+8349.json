@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+8349",
+  "unicode": "U+8349",
+  "symbol": "草",
+  "meanings": [
+    "grass",
+    "weeds",
+    "herbs",
+    "pasture",
+    "write",
+    "draft"
+  ],
+  "onyomi": [
+    "ソウ"
+  ],
+  "kunyomi": [
+    "くさ",
+    "くさ-",
+    "-ぐさ"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

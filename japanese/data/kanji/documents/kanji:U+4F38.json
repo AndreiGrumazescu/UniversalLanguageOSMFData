@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+4F38",
+  "unicode": "U+4F38",
+  "symbol": "伸",
+  "meanings": [
+    "expand",
+    "stretch",
+    "extend",
+    "lengthen",
+    "increase"
+  ],
+  "onyomi": [
+    "シン"
+  ],
+  "kunyomi": [
+    "の.びる",
+    "の.ばす",
+    "の.べる",
+    "の.す"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

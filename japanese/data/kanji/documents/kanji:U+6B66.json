@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+6B66",
+  "unicode": "U+6B66",
+  "symbol": "武",
+  "meanings": [
+    "warrior",
+    "military",
+    "chivalry",
+    "arms"
+  ],
+  "onyomi": [
+    "ブ",
+    "ム"
+  ],
+  "kunyomi": [
+    "たけ",
+    "たけ.し"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

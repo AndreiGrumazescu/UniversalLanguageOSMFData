@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+99D2",
+  "unicode": "U+99D2",
+  "symbol": "駒",
+  "meanings": [
+    "pony",
+    "horse",
+    "colt"
+  ],
+  "onyomi": [
+    "ク"
+  ],
+  "kunyomi": [
+    "こま"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+77E5",
+  "unicode": "U+77E5",
+  "symbol": "知",
+  "meanings": [
+    "know",
+    "wisdom"
+  ],
+  "onyomi": [
+    "チ"
+  ],
+  "kunyomi": [
+    "し.る",
+    "し.らせる"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

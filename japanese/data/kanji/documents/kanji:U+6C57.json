@@ -1,0 +1,17 @@
+{
+  "$id": "kanji:U+6C57",
+  "unicode": "U+6C57",
+  "symbol": "汗",
+  "meanings": [
+    "sweat",
+    "perspire"
+  ],
+  "onyomi": [
+    "カン"
+  ],
+  "kunyomi": [
+    "あせ"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

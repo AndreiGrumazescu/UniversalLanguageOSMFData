@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+6539",
+  "unicode": "U+6539",
+  "symbol": "改",
+  "meanings": [
+    "reformation",
+    "change",
+    "modify",
+    "mend",
+    "renew",
+    "examine",
+    "inspect",
+    "search"
+  ],
+  "onyomi": [
+    "カイ"
+  ],
+  "kunyomi": [
+    "あらた.める",
+    "あらた.まる"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

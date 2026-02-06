@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+5F18",
+  "unicode": "U+5F18",
+  "symbol": "弘",
+  "meanings": [
+    "vast",
+    "broad",
+    "wide"
+  ],
+  "onyomi": [
+    "コウ",
+    "グ"
+  ],
+  "kunyomi": [
+    "ひろ.い"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

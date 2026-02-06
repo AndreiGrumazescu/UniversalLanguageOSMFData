@@ -1,0 +1,17 @@
+{
+  "$id": "kanji:U+6751",
+  "unicode": "U+6751",
+  "symbol": "村",
+  "meanings": [
+    "village",
+    "town"
+  ],
+  "onyomi": [
+    "ソン"
+  ],
+  "kunyomi": [
+    "むら"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+544A",
+  "unicode": "U+544A",
+  "symbol": "告",
+  "meanings": [
+    "revelation",
+    "tell",
+    "inform",
+    "announce"
+  ],
+  "onyomi": [
+    "コク"
+  ],
+  "kunyomi": [
+    "つ.げる"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

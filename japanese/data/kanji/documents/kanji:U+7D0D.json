@@ -1,0 +1,27 @@
+{
+  "$id": "kanji:U+7D0D",
+  "unicode": "U+7D0D",
+  "symbol": "納",
+  "meanings": [
+    "settlement",
+    "obtain",
+    "reap",
+    "pay",
+    "supply",
+    "store"
+  ],
+  "onyomi": [
+    "ノウ",
+    "ナッ",
+    "ナ",
+    "ナン",
+    "トウ"
+  ],
+  "kunyomi": [
+    "おさ.める",
+    "-おさ.める",
+    "おさ.まる"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

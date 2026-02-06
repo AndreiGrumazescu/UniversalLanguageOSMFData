@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+5F6B",
+  "unicode": "U+5F6B",
+  "symbol": "彫",
+  "meanings": [
+    "carve",
+    "engrave",
+    "chisel"
+  ],
+  "onyomi": [
+    "チョウ"
+  ],
+  "kunyomi": [
+    "ほ.る",
+    "-ぼ.り"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

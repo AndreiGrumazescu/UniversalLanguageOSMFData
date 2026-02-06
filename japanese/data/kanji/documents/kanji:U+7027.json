@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+7027",
+  "unicode": "U+7027",
+  "symbol": "瀧",
+  "meanings": [
+    "waterfall",
+    "rapids",
+    "cascade"
+  ],
+  "onyomi": [
+    "ロウ",
+    "ソウ"
+  ],
+  "kunyomi": [
+    "たき"
+  ],
+  "strokeCount": 19,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+853D",
+  "unicode": "U+853D",
+  "symbol": "蔽",
+  "meanings": [
+    "cover",
+    "shade",
+    "mantle",
+    "capsize",
+    "be ruined"
+  ],
+  "onyomi": [
+    "ヘイ",
+    "ヘツ",
+    "フツ"
+  ],
+  "kunyomi": [
+    "おお.う",
+    "おお.い"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

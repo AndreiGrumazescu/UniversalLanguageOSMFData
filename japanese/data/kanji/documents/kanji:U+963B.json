@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+963B",
+  "unicode": "U+963B",
+  "symbol": "阻",
+  "meanings": [
+    "thwart",
+    "separate from",
+    "prevent",
+    "obstruct",
+    "deter",
+    "impede"
+  ],
+  "onyomi": [
+    "ソ"
+  ],
+  "kunyomi": [
+    "はば.む"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

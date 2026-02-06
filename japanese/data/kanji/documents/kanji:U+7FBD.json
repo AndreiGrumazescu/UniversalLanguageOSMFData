@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+7FBD",
+  "unicode": "U+7FBD",
+  "symbol": "羽",
+  "meanings": [
+    "feathers",
+    "counter for birds, rabbits"
+  ],
+  "onyomi": [
+    "ウ"
+  ],
+  "kunyomi": [
+    "は",
+    "わ",
+    "はね"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

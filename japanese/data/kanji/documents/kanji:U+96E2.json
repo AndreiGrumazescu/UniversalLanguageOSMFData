@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+96E2",
+  "unicode": "U+96E2",
+  "symbol": "離",
+  "meanings": [
+    "detach",
+    "separation",
+    "disjoin",
+    "digress"
+  ],
+  "onyomi": [
+    "リ"
+  ],
+  "kunyomi": [
+    "はな.れる",
+    "はな.す"
+  ],
+  "strokeCount": 19,
+  "jlptLevel": "unspecified"
+}

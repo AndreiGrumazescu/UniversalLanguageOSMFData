@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+6D32",
+  "unicode": "U+6D32",
+  "symbol": "洲",
+  "meanings": [
+    "continent",
+    "sandbar",
+    "island",
+    "country"
+  ],
+  "onyomi": [
+    "シュウ",
+    "ス"
+  ],
+  "kunyomi": [
+    "しま"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

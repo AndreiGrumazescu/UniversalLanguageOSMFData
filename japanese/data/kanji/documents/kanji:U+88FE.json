@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+88FE",
+  "unicode": "U+88FE",
+  "symbol": "裾",
+  "meanings": [
+    "cuff",
+    "hem",
+    "foot of mountain"
+  ],
+  "onyomi": [
+    "キョ",
+    "コ"
+  ],
+  "kunyomi": [
+    "すそ"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

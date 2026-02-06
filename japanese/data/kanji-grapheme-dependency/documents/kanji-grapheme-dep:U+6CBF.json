@@ -1,0 +1,45 @@
+{
+  "$id": "kanji-grapheme-dep:U+6CBF",
+  "connectors": {
+    "parent": {
+      "$id": "kanji:U+6CBF"
+    }
+  },
+  "many": [
+    {
+      "connectors": {
+        "component": {
+          "$id": "grapheme:U+53E3"
+        }
+      }
+    },
+    {
+      "connectors": {
+        "component": {
+          "$id": "grapheme:U+3563"
+        }
+      }
+    },
+    {
+      "connectors": {
+        "component": {
+          "$id": "grapheme:U+51E0"
+        }
+      }
+    },
+    {
+      "connectors": {
+        "component": {
+          "$id": "grapheme:U+6C35"
+        }
+      }
+    },
+    {
+      "connectors": {
+        "component": {
+          "$id": "grapheme:U+6C34"
+        }
+      }
+    }
+  ]
+}

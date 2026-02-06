@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+6CAB",
+  "unicode": "U+6CAB",
+  "symbol": "沫",
+  "meanings": [
+    "splash",
+    "suds"
+  ],
+  "onyomi": [
+    "マツ",
+    "バツ"
+  ],
+  "kunyomi": [
+    "あわ",
+    "しぶき",
+    "つばき"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

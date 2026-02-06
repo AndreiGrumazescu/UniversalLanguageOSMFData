@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+898B",
+  "unicode": "U+898B",
+  "symbol": "見",
+  "meanings": [
+    "see",
+    "hopes",
+    "chances",
+    "idea",
+    "opinion",
+    "look at",
+    "visible"
+  ],
+  "onyomi": [
+    "ケン"
+  ],
+  "kunyomi": [
+    "み.る",
+    "み.える",
+    "み.せる"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

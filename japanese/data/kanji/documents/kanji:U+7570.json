@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+7570",
+  "unicode": "U+7570",
+  "symbol": "異",
+  "meanings": [
+    "uncommon",
+    "different",
+    "queerness",
+    "strangeness",
+    "wonderful",
+    "curious",
+    "unusual"
+  ],
+  "onyomi": [
+    "イ"
+  ],
+  "kunyomi": [
+    "こと",
+    "こと.なる",
+    "け"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

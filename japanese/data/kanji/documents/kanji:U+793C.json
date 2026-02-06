@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+793C",
+  "unicode": "U+793C",
+  "symbol": "礼",
+  "meanings": [
+    "salute",
+    "bow",
+    "ceremony",
+    "thanks",
+    "remuneration"
+  ],
+  "onyomi": [
+    "レイ",
+    "ライ"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

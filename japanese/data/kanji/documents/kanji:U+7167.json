@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+7167",
+  "unicode": "U+7167",
+  "symbol": "照",
+  "meanings": [
+    "illuminate",
+    "shine",
+    "compare",
+    "bashful"
+  ],
+  "onyomi": [
+    "ショウ"
+  ],
+  "kunyomi": [
+    "て.る",
+    "て.らす",
+    "て.れる"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

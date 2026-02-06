@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+6249",
+  "unicode": "U+6249",
+  "symbol": "扉",
+  "meanings": [
+    "front door",
+    "title page",
+    "front page"
+  ],
+  "onyomi": [
+    "ヒ"
+  ],
+  "kunyomi": [
+    "とびら"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

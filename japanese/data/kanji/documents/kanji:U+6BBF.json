@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+6BBF",
+  "unicode": "U+6BBF",
+  "symbol": "殿",
+  "meanings": [
+    "Mr.",
+    "hall",
+    "mansion",
+    "palace",
+    "temple",
+    "lord"
+  ],
+  "onyomi": [
+    "デン",
+    "テン"
+  ],
+  "kunyomi": [
+    "との",
+    "-どの"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

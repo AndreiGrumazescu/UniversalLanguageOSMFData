@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+570F",
+  "unicode": "U+570F",
+  "symbol": "圏",
+  "meanings": [
+    "sphere",
+    "circle",
+    "radius",
+    "range"
+  ],
+  "onyomi": [
+    "ケン"
+  ],
+  "kunyomi": [
+    "かこ.い"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

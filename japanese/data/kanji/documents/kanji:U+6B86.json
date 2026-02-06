@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+6B86",
+  "unicode": "U+6B86",
+  "symbol": "殆",
+  "meanings": [
+    "almost",
+    "quite",
+    "really"
+  ],
+  "onyomi": [
+    "タイ",
+    "サイ"
+  ],
+  "kunyomi": [
+    "ほとほと",
+    "ほとん.ど",
+    "あやうい"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

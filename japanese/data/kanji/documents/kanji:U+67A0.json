@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+67A0",
+  "unicode": "U+67A0",
+  "symbol": "枠",
+  "meanings": [
+    "frame",
+    "framework",
+    "spindle",
+    "spool",
+    "bounding-box",
+    "(kokuji)"
+  ],
+  "kunyomi": [
+    "わく"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

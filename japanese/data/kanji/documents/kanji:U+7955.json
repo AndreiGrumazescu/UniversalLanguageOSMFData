@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+7955",
+  "unicode": "U+7955",
+  "symbol": "祕",
+  "meanings": [
+    "mysterious",
+    "secret",
+    "abstruse"
+  ],
+  "onyomi": [
+    "ヒ"
+  ],
+  "kunyomi": [
+    "ひ.める",
+    "かく.す"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+50AC",
+  "unicode": "U+50AC",
+  "symbol": "催",
+  "meanings": [
+    "sponsor",
+    "hold (a meeting)",
+    "give (a dinner)"
+  ],
+  "onyomi": [
+    "サイ"
+  ],
+  "kunyomi": [
+    "もよう.す",
+    "もよお.す"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

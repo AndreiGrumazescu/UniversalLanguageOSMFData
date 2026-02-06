@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+8CA8",
+  "unicode": "U+8CA8",
+  "symbol": "貨",
+  "meanings": [
+    "freight",
+    "goods",
+    "property"
+  ],
+  "onyomi": [
+    "カ"
+  ],
+  "kunyomi": [
+    "たから"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

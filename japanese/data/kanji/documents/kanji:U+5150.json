@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+5150",
+  "unicode": "U+5150",
+  "symbol": "児",
+  "meanings": [
+    "newborn babe",
+    "child",
+    "young of animals"
+  ],
+  "onyomi": [
+    "ジ",
+    "ニ",
+    "ゲイ"
+  ],
+  "kunyomi": [
+    "こ",
+    "-こ",
+    "-っこ"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

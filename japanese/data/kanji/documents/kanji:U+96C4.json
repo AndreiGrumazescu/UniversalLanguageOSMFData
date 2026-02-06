@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+96C4",
+  "unicode": "U+96C4",
+  "symbol": "雄",
+  "meanings": [
+    "masculine",
+    "male",
+    "hero",
+    "leader",
+    "superiority",
+    "excellence"
+  ],
+  "onyomi": [
+    "ユウ"
+  ],
+  "kunyomi": [
+    "お-",
+    "おす",
+    "おん"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

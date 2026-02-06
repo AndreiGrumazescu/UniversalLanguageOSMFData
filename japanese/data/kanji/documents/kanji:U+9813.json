@@ -1,0 +1,27 @@
+{
+  "$id": "kanji:U+9813",
+  "unicode": "U+9813",
+  "symbol": "頓",
+  "meanings": [
+    "suddenly",
+    "immediately",
+    "in a hurry",
+    "arrange",
+    "stay in place",
+    "bow",
+    "kowtow"
+  ],
+  "onyomi": [
+    "トン",
+    "トツ"
+  ],
+  "kunyomi": [
+    "にわか.に",
+    "とん.と",
+    "つまず.く",
+    "とみ.に",
+    "ぬかずく"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

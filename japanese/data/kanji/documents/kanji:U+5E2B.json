@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+5E2B",
+  "unicode": "U+5E2B",
+  "symbol": "師",
+  "meanings": [
+    "expert",
+    "teacher",
+    "master",
+    "model",
+    "exemplar",
+    "army (incl. counter)",
+    "war"
+  ],
+  "onyomi": [
+    "シ"
+  ],
+  "kunyomi": [
+    "いくさ"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

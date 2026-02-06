@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+63A1",
+  "unicode": "U+63A1",
+  "symbol": "採",
+  "meanings": [
+    "pick",
+    "take",
+    "fetch",
+    "take up"
+  ],
+  "onyomi": [
+    "サイ"
+  ],
+  "kunyomi": [
+    "と.る"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

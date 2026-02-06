@@ -1,0 +1,27 @@
+{
+  "$id": "kanji:U+7126",
+  "unicode": "U+7126",
+  "symbol": "焦",
+  "meanings": [
+    "char",
+    "hurry",
+    "impatient",
+    "irritate",
+    "burn",
+    "scorch",
+    "singe"
+  ],
+  "onyomi": [
+    "ショウ"
+  ],
+  "kunyomi": [
+    "こ.げる",
+    "こ.がす",
+    "こ.がれる",
+    "あせ.る",
+    "じ.れる",
+    "じ.らす"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

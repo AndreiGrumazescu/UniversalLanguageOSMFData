@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+9F4A",
+  "unicode": "U+9F4A",
+  "symbol": "齊",
+  "meanings": [
+    "alike",
+    "equal",
+    "similar",
+    "Saito"
+  ],
+  "onyomi": [
+    "セイ",
+    "サイ"
+  ],
+  "kunyomi": [
+    "そろ.う",
+    "ひと.しい",
+    "ひと.しく",
+    "あたる",
+    "はやい"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

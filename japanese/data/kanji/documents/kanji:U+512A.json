@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+512A",
+  "unicode": "U+512A",
+  "symbol": "優",
+  "meanings": [
+    "tenderness",
+    "excel",
+    "surpass",
+    "actor",
+    "superiority",
+    "gentleness"
+  ],
+  "onyomi": [
+    "ユウ",
+    "ウ"
+  ],
+  "kunyomi": [
+    "やさ.しい",
+    "すぐ.れる",
+    "まさ.る"
+  ],
+  "strokeCount": 17,
+  "jlptLevel": "unspecified"
+}

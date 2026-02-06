@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+5F1B",
+  "unicode": "U+5F1B",
+  "symbol": "弛",
+  "meanings": [
+    "slacken",
+    "relax"
+  ],
+  "onyomi": [
+    "チ",
+    "シ"
+  ],
+  "kunyomi": [
+    "たる.む",
+    "たる.める",
+    "たゆ.む",
+    "ゆる.む",
+    "ゆる.み"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

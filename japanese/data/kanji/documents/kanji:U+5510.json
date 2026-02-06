@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+5510",
+  "unicode": "U+5510",
+  "symbol": "唐",
+  "meanings": [
+    "T'ang",
+    "China",
+    "foreign"
+  ],
+  "onyomi": [
+    "トウ"
+  ],
+  "kunyomi": [
+    "から"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

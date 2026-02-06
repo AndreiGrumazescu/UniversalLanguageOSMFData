@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+885D",
+  "unicode": "U+885D",
+  "symbol": "衝",
+  "meanings": [
+    "collide",
+    "brunt",
+    "highway",
+    "opposition (astronomy)",
+    "thrust",
+    "pierce",
+    "stab",
+    "prick"
+  ],
+  "onyomi": [
+    "ショウ"
+  ],
+  "kunyomi": [
+    "つ.く"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

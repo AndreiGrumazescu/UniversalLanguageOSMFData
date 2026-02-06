@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+53F7",
+  "unicode": "U+53F7",
+  "symbol": "号",
+  "meanings": [
+    "nickname",
+    "number",
+    "item",
+    "title",
+    "pseudonym",
+    "name",
+    "call"
+  ],
+  "onyomi": [
+    "ゴウ"
+  ],
+  "kunyomi": [
+    "さけ.ぶ",
+    "よびな"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

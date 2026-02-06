@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+7F70",
+  "unicode": "U+7F70",
+  "symbol": "罰",
+  "meanings": [
+    "penalty",
+    "punishment"
+  ],
+  "onyomi": [
+    "バツ",
+    "バチ",
+    "ハツ"
+  ],
+  "kunyomi": [
+    "ばっ.する"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

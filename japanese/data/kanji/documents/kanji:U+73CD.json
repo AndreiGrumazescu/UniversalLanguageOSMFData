@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+73CD",
+  "unicode": "U+73CD",
+  "symbol": "珍",
+  "meanings": [
+    "rare",
+    "curious",
+    "strange"
+  ],
+  "onyomi": [
+    "チン"
+  ],
+  "kunyomi": [
+    "めずら.しい",
+    "たから"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+9805",
+  "unicode": "U+9805",
+  "symbol": "項",
+  "meanings": [
+    "paragraph",
+    "nape of neck",
+    "clause",
+    "item",
+    "term (expression)"
+  ],
+  "onyomi": [
+    "コウ"
+  ],
+  "kunyomi": [
+    "うなじ"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

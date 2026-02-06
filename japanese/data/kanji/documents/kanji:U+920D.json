@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+920D",
+  "unicode": "U+920D",
+  "symbol": "鈍",
+  "meanings": [
+    "dull",
+    "slow",
+    "foolish",
+    "blunt"
+  ],
+  "onyomi": [
+    "ドン"
+  ],
+  "kunyomi": [
+    "にぶ.い",
+    "にぶ.る",
+    "にぶ-",
+    "なま.る",
+    "なまく.ら"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

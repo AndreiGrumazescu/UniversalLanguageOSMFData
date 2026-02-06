@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+590F",
+  "unicode": "U+590F",
+  "symbol": "夏",
+  "meanings": [
+    "summer"
+  ],
+  "onyomi": [
+    "カ",
+    "ガ",
+    "ゲ"
+  ],
+  "kunyomi": [
+    "なつ"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

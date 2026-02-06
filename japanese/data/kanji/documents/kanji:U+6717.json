@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+6717",
+  "unicode": "U+6717",
+  "symbol": "朗",
+  "meanings": [
+    "melodious",
+    "clear",
+    "bright",
+    "serene",
+    "cheerful"
+  ],
+  "onyomi": [
+    "ロウ"
+  ],
+  "kunyomi": [
+    "ほが.らか",
+    "あき.らか"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

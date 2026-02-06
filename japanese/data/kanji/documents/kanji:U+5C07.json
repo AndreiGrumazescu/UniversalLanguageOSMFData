@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+5C07",
+  "unicode": "U+5C07",
+  "symbol": "將",
+  "meanings": [
+    "commander",
+    "general",
+    "admiral"
+  ],
+  "onyomi": [
+    "ショウ",
+    "ソウ"
+  ],
+  "kunyomi": [
+    "まさ.に",
+    "はた",
+    "ひきい.る",
+    "もって"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

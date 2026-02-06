@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+53CE",
+  "unicode": "U+53CE",
+  "symbol": "収",
+  "meanings": [
+    "income",
+    "obtain",
+    "reap",
+    "pay",
+    "supply",
+    "store"
+  ],
+  "onyomi": [
+    "シュウ"
+  ],
+  "kunyomi": [
+    "おさ.める",
+    "おさ.まる"
+  ],
+  "strokeCount": 4,
+  "jlptLevel": "unspecified"
+}

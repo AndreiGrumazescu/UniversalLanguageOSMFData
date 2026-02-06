@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+50DE",
+  "unicode": "U+50DE",
+  "symbol": "僞",
+  "meanings": [
+    "lie",
+    "falsehood",
+    "deceive",
+    "pretend"
+  ],
+  "onyomi": [
+    "ギ",
+    "カ"
+  ],
+  "kunyomi": [
+    "いつわ.る",
+    "いつわ.り",
+    "にせ"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

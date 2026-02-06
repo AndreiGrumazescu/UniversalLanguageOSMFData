@@ -1,0 +1,17 @@
+{
+  "$id": "kanji:U+7891",
+  "unicode": "U+7891",
+  "symbol": "碑",
+  "meanings": [
+    "tombstone",
+    "monument"
+  ],
+  "onyomi": [
+    "ヒ"
+  ],
+  "kunyomi": [
+    "いしぶみ"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

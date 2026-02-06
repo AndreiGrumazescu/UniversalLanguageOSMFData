@@ -1,0 +1,28 @@
+{
+  "$id": "kanji:U+8ABF",
+  "unicode": "U+8ABF",
+  "symbol": "調",
+  "meanings": [
+    "tune",
+    "tone",
+    "meter",
+    "key (music)",
+    "writing style",
+    "prepare",
+    "exorcise",
+    "investigate",
+    "harmonize",
+    "mediate"
+  ],
+  "onyomi": [
+    "チョウ"
+  ],
+  "kunyomi": [
+    "しら.べる",
+    "しら.べ",
+    "ととの.う",
+    "ととの.える"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

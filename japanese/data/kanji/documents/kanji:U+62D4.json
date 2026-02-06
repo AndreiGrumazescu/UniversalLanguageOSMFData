@@ -1,0 +1,25 @@
+{
+  "$id": "kanji:U+62D4",
+  "unicode": "U+62D4",
+  "symbol": "拔",
+  "meanings": [
+    "extract",
+    "pull out",
+    "pilfer",
+    "quote",
+    "remove",
+    "omit"
+  ],
+  "onyomi": [
+    "バツ",
+    "ハイ"
+  ],
+  "kunyomi": [
+    "ぬ.く",
+    "ぬ.ける",
+    "ぬ.かす",
+    "ぬ.かる"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

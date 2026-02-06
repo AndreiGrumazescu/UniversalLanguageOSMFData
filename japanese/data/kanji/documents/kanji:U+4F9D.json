@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+4F9D",
+  "unicode": "U+4F9D",
+  "symbol": "依",
+  "meanings": [
+    "reliant",
+    "depend on",
+    "consequently",
+    "therefore",
+    "due to"
+  ],
+  "onyomi": [
+    "イ",
+    "エ"
+  ],
+  "kunyomi": [
+    "よ.る"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

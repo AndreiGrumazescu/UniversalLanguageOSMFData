@@ -1,0 +1,35 @@
+{
+  "$id": "kanji:U+70BA",
+  "unicode": "U+70BA",
+  "symbol": "為",
+  "meanings": [
+    "do",
+    "change",
+    "make",
+    "benefit",
+    "welfare",
+    "be of use",
+    "reach to",
+    "try",
+    "practice",
+    "cost",
+    "serve as",
+    "good",
+    "advantage",
+    "as a result of"
+  ],
+  "onyomi": [
+    "イ"
+  ],
+  "kunyomi": [
+    "ため",
+    "な.る",
+    "な.す",
+    "す.る",
+    "たり",
+    "つく.る",
+    "なり"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

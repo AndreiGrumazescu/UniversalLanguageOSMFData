@@ -1,0 +1,17 @@
+{
+  "$id": "kanji:U+96BC",
+  "unicode": "U+96BC",
+  "symbol": "隼",
+  "meanings": [
+    "falcon"
+  ],
+  "onyomi": [
+    "シュン",
+    "ジュン"
+  ],
+  "kunyomi": [
+    "はやぶさ"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

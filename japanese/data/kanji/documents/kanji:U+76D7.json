@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+76D7",
+  "unicode": "U+76D7",
+  "symbol": "盗",
+  "meanings": [
+    "steal",
+    "rob",
+    "pilfer"
+  ],
+  "onyomi": [
+    "トウ"
+  ],
+  "kunyomi": [
+    "ぬす.む",
+    "ぬす.み"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

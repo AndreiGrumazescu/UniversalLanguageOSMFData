@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+6D6E",
+  "unicode": "U+6D6E",
+  "symbol": "浮",
+  "meanings": [
+    "floating",
+    "float",
+    "rise to surface"
+  ],
+  "onyomi": [
+    "フ"
+  ],
+  "kunyomi": [
+    "う.く",
+    "う.かれる",
+    "う.かぶ",
+    "う.かべる"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

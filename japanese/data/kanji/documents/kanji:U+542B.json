@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+542B",
+  "unicode": "U+542B",
+  "symbol": "含",
+  "meanings": [
+    "contain",
+    "include",
+    "hold in the mouth",
+    "bear in mind",
+    "understand",
+    "cherish"
+  ],
+  "onyomi": [
+    "ガン"
+  ],
+  "kunyomi": [
+    "ふく.む",
+    "ふく.める"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

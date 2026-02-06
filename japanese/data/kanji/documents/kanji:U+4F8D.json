@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+4F8D",
+  "unicode": "U+4F8D",
+  "symbol": "侍",
+  "meanings": [
+    "waiter",
+    "samurai",
+    "wait upon",
+    "serve"
+  ],
+  "onyomi": [
+    "ジ",
+    "シ"
+  ],
+  "kunyomi": [
+    "さむらい",
+    "はべ.る"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

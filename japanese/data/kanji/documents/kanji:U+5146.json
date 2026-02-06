@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+5146",
+  "unicode": "U+5146",
+  "symbol": "兆",
+  "meanings": [
+    "portent",
+    "10**12",
+    "trillion",
+    "sign",
+    "omen",
+    "symptoms"
+  ],
+  "onyomi": [
+    "チョウ"
+  ],
+  "kunyomi": [
+    "きざ.す",
+    "きざ.し"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

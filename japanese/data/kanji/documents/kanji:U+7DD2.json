@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+7DD2",
+  "unicode": "U+7DD2",
+  "symbol": "緒",
+  "meanings": [
+    "thong",
+    "beginning",
+    "inception",
+    "end",
+    "cord",
+    "strap",
+    "mental or emotional state"
+  ],
+  "onyomi": [
+    "ショ",
+    "チョ"
+  ],
+  "kunyomi": [
+    "お",
+    "いとぐち"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

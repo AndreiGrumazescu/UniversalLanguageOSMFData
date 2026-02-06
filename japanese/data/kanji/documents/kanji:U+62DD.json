@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+62DD",
+  "unicode": "U+62DD",
+  "symbol": "拝",
+  "meanings": [
+    "worship",
+    "adore",
+    "pray to"
+  ],
+  "onyomi": [
+    "ハイ"
+  ],
+  "kunyomi": [
+    "おが.む",
+    "おろが.む"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

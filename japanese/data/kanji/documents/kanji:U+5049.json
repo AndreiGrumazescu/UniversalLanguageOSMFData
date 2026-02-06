@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+5049",
+  "unicode": "U+5049",
+  "symbol": "偉",
+  "meanings": [
+    "admirable",
+    "greatness",
+    "remarkable",
+    "conceited",
+    "famous",
+    "excellent"
+  ],
+  "onyomi": [
+    "イ"
+  ],
+  "kunyomi": [
+    "えら.い"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+6700",
+  "unicode": "U+6700",
+  "symbol": "最",
+  "meanings": [
+    "utmost",
+    "most",
+    "extreme"
+  ],
+  "onyomi": [
+    "サイ",
+    "シュ"
+  ],
+  "kunyomi": [
+    "もっと.も",
+    "つま"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

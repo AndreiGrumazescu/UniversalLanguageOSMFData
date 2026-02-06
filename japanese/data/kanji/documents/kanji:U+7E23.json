@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+7E23",
+  "unicode": "U+7E23",
+  "symbol": "縣",
+  "meanings": [
+    "county",
+    "district",
+    "subdivision"
+  ],
+  "onyomi": [
+    "ケン"
+  ],
+  "kunyomi": [
+    "か.ける"
+  ],
+  "strokeCount": 16,
+  "jlptLevel": "unspecified"
+}

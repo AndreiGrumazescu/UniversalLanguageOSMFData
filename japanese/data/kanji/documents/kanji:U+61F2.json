@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+61F2",
+  "unicode": "U+61F2",
+  "symbol": "懲",
+  "meanings": [
+    "penal",
+    "chastise",
+    "punish",
+    "discipline"
+  ],
+  "onyomi": [
+    "チョウ"
+  ],
+  "kunyomi": [
+    "こ.りる",
+    "こ.らす",
+    "こ.らしめる"
+  ],
+  "strokeCount": 18,
+  "jlptLevel": "unspecified"
+}

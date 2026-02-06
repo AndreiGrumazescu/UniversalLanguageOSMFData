@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+6FEB",
+  "unicode": "U+6FEB",
+  "symbol": "濫",
+  "meanings": [
+    "excessive",
+    "overflow",
+    "spread out"
+  ],
+  "onyomi": [
+    "ラン"
+  ],
+  "kunyomi": [
+    "みだ.りに",
+    "みだ.りがましい"
+  ],
+  "strokeCount": 18,
+  "jlptLevel": "unspecified"
+}

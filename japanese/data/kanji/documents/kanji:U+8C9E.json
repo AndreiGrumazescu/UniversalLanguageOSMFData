@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+8C9E",
+  "unicode": "U+8C9E",
+  "symbol": "貞",
+  "meanings": [
+    "upright",
+    "chastity",
+    "constancy",
+    "righteousness"
+  ],
+  "onyomi": [
+    "テイ",
+    "ジョウ"
+  ],
+  "kunyomi": [
+    "ただし.い",
+    "さだ"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

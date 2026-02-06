@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+5341",
+  "unicode": "U+5341",
+  "symbol": "十",
+  "meanings": [
+    "ten"
+  ],
+  "onyomi": [
+    "ジュウ",
+    "ジッ",
+    "ジュッ"
+  ],
+  "kunyomi": [
+    "とお",
+    "と",
+    "そ"
+  ],
+  "strokeCount": 2,
+  "jlptLevel": "unspecified"
+}

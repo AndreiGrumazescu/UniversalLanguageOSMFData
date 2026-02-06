@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+5DE1",
+  "unicode": "U+5DE1",
+  "symbol": "巡",
+  "meanings": [
+    "patrol",
+    "go around",
+    "circumference"
+  ],
+  "onyomi": [
+    "ジュン"
+  ],
+  "kunyomi": [
+    "めぐ.る",
+    "めぐ.り"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

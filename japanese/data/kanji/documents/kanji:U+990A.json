@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+990A",
+  "unicode": "U+990A",
+  "symbol": "養",
+  "meanings": [
+    "foster",
+    "bring up",
+    "rear",
+    "develop",
+    "nurture"
+  ],
+  "onyomi": [
+    "ヨウ",
+    "リョウ"
+  ],
+  "kunyomi": [
+    "やしな.う"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

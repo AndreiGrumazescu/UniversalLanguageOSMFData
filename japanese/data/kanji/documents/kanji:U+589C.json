@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+589C",
+  "unicode": "U+589C",
+  "symbol": "墜",
+  "meanings": [
+    "crash",
+    "fall (down)"
+  ],
+  "onyomi": [
+    "ツイ"
+  ],
+  "kunyomi": [
+    "お.ちる",
+    "お.つ"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,32 @@
+{
+  "$id": "kanji:U+7BC0",
+  "unicode": "U+7BC0",
+  "symbol": "節",
+  "meanings": [
+    "node",
+    "season",
+    "period",
+    "occasion",
+    "verse",
+    "clause",
+    "stanza",
+    "honor",
+    "joint",
+    "knuckle",
+    "knob",
+    "knot",
+    "tune",
+    "melody"
+  ],
+  "onyomi": [
+    "セツ",
+    "セチ"
+  ],
+  "kunyomi": [
+    "ふし",
+    "-ぶし",
+    "のっと"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

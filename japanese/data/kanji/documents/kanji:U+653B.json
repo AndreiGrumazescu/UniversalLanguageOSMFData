@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+653B",
+  "unicode": "U+653B",
+  "symbol": "攻",
+  "meanings": [
+    "aggression",
+    "attack",
+    "criticize",
+    "polish"
+  ],
+  "onyomi": [
+    "コウ"
+  ],
+  "kunyomi": [
+    "せ.める"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+5BA5",
+  "unicode": "U+5BA5",
+  "symbol": "宥",
+  "meanings": [
+    "soothe",
+    "calm",
+    "pacify"
+  ],
+  "onyomi": [
+    "ユウ"
+  ],
+  "kunyomi": [
+    "なだ.める",
+    "ゆる.す"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

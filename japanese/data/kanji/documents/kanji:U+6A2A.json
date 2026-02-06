@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+6A2A",
+  "unicode": "U+6A2A",
+  "symbol": "横",
+  "meanings": [
+    "sideways",
+    "side",
+    "horizontal",
+    "width",
+    "woof",
+    "unreasonable",
+    "perverse"
+  ],
+  "onyomi": [
+    "オウ"
+  ],
+  "kunyomi": [
+    "よこ"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

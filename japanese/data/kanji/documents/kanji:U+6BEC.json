@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+6BEC",
+  "unicode": "U+6BEC",
+  "symbol": "毬",
+  "meanings": [
+    "burr",
+    "ball"
+  ],
+  "onyomi": [
+    "キュウ"
+  ],
+  "kunyomi": [
+    "いが",
+    "まり"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

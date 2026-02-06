@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+767D",
+  "unicode": "U+767D",
+  "symbol": "白",
+  "meanings": [
+    "white"
+  ],
+  "onyomi": [
+    "ハク",
+    "ビャク"
+  ],
+  "kunyomi": [
+    "しろ",
+    "しら-",
+    "しろ.い"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

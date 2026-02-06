@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+6442",
+  "unicode": "U+6442",
+  "symbol": "摂",
+  "meanings": [
+    "vicarious",
+    "surrogate",
+    "act in addition to",
+    "take in",
+    "absorb"
+  ],
+  "onyomi": [
+    "セツ",
+    "ショウ"
+  ],
+  "kunyomi": [
+    "おさ.める",
+    "かね.る",
+    "と.る"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

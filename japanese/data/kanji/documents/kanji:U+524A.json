@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+524A",
+  "unicode": "U+524A",
+  "symbol": "削",
+  "meanings": [
+    "plane",
+    "sharpen",
+    "whittle",
+    "pare",
+    "shave"
+  ],
+  "onyomi": [
+    "サク"
+  ],
+  "kunyomi": [
+    "けず.る",
+    "はつ.る",
+    "そ.ぐ"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

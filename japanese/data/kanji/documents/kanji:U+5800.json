@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+5800",
+  "unicode": "U+5800",
+  "symbol": "堀",
+  "meanings": [
+    "ditch",
+    "moat",
+    "canal"
+  ],
+  "onyomi": [
+    "クツ"
+  ],
+  "kunyomi": [
+    "ほり"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

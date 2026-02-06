@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+7B4B",
+  "unicode": "U+7B4B",
+  "symbol": "筋",
+  "meanings": [
+    "muscle",
+    "sinew",
+    "tendon",
+    "fiber",
+    "plot",
+    "plan",
+    "descent"
+  ],
+  "onyomi": [
+    "キン"
+  ],
+  "kunyomi": [
+    "すじ"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

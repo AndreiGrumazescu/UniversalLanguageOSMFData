@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+932C",
+  "unicode": "U+932C",
+  "symbol": "錬",
+  "meanings": [
+    "tempering",
+    "refine",
+    "drill",
+    "train",
+    "polish"
+  ],
+  "onyomi": [
+    "レン"
+  ],
+  "kunyomi": [
+    "ね.る"
+  ],
+  "strokeCount": 16,
+  "jlptLevel": "unspecified"
+}

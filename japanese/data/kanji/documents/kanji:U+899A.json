@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+899A",
+  "unicode": "U+899A",
+  "symbol": "覚",
+  "meanings": [
+    "memorize",
+    "learn",
+    "remember",
+    "awake",
+    "sober up"
+  ],
+  "onyomi": [
+    "カク"
+  ],
+  "kunyomi": [
+    "おぼ.える",
+    "さ.ます",
+    "さ.める",
+    "さと.る"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

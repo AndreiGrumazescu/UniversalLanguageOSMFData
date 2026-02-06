@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+5C24",
+  "unicode": "U+5C24",
+  "symbol": "尤",
+  "meanings": [
+    "reasonable",
+    "just",
+    "natural",
+    "superb",
+    "outstanding",
+    "plausible"
+  ],
+  "onyomi": [
+    "ユウ"
+  ],
+  "kunyomi": [
+    "もっと.も",
+    "とが.める"
+  ],
+  "strokeCount": 4,
+  "jlptLevel": "unspecified"
+}

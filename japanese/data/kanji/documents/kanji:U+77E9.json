@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+77E9",
+  "unicode": "U+77E9",
+  "symbol": "矩",
+  "meanings": [
+    "ruler",
+    "carpenter's square"
+  ],
+  "onyomi": [
+    "ク"
+  ],
+  "kunyomi": [
+    "かね",
+    "かねざし",
+    "さしがね"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

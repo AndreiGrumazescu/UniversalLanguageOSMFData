@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+76DB",
+  "unicode": "U+76DB",
+  "symbol": "盛",
+  "meanings": [
+    "boom",
+    "prosper",
+    "copulate"
+  ],
+  "onyomi": [
+    "セイ",
+    "ジョウ"
+  ],
+  "kunyomi": [
+    "も.る",
+    "さか.る",
+    "さか.ん"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

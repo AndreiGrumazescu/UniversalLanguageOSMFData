@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+5FD9",
+  "unicode": "U+5FD9",
+  "symbol": "忙",
+  "meanings": [
+    "busy",
+    "occupied",
+    "restless"
+  ],
+  "onyomi": [
+    "ボウ",
+    "モウ"
+  ],
+  "kunyomi": [
+    "いそが.しい",
+    "せわ.しい",
+    "おそ.れる",
+    "うれえるさま"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

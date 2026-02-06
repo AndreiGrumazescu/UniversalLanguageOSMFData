@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+7720",
+  "unicode": "U+7720",
+  "symbol": "眠",
+  "meanings": [
+    "sleep",
+    "die",
+    "sleepy"
+  ],
+  "onyomi": [
+    "ミン"
+  ],
+  "kunyomi": [
+    "ねむ.る",
+    "ねむ.い"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

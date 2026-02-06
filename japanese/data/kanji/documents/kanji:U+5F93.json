@@ -1,0 +1,27 @@
+{
+  "$id": "kanji:U+5F93",
+  "unicode": "U+5F93",
+  "symbol": "従",
+  "meanings": [
+    "accompany",
+    "obey",
+    "submit to",
+    "comply",
+    "follow",
+    "secondary",
+    "incidental",
+    "subordinate"
+  ],
+  "onyomi": [
+    "ジュウ",
+    "ショウ",
+    "ジュ"
+  ],
+  "kunyomi": [
+    "したが.う",
+    "したが.える",
+    "より"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

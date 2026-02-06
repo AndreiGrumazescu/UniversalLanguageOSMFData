@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+8CED",
+  "unicode": "U+8CED",
+  "symbol": "賭",
+  "meanings": [
+    "gamble",
+    "wager",
+    "bet"
+  ],
+  "onyomi": [
+    "ト"
+  ],
+  "kunyomi": [
+    "か.ける",
+    "かけ"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

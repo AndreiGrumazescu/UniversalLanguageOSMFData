@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+7551",
+  "unicode": "U+7551",
+  "symbol": "畑",
+  "meanings": [
+    "farm",
+    "field",
+    "garden",
+    "one's specialty",
+    "(kokuji)"
+  ],
+  "kunyomi": [
+    "はた",
+    "はたけ",
+    "-ばたけ"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

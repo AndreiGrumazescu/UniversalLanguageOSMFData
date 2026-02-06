@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+63C3",
+  "unicode": "U+63C3",
+  "symbol": "揃",
+  "meanings": [
+    "be complete",
+    "uniform",
+    "all present"
+  ],
+  "onyomi": [
+    "セン"
+  ],
+  "kunyomi": [
+    "そろ.える",
+    "そろ.う",
+    "そろ.い",
+    "き.る"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

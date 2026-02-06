@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+6614",
+  "unicode": "U+6614",
+  "symbol": "昔",
+  "meanings": [
+    "once upon a time",
+    "antiquity",
+    "old times"
+  ],
+  "onyomi": [
+    "セキ",
+    "シャク"
+  ],
+  "kunyomi": [
+    "むかし"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

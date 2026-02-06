@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+6301",
+  "unicode": "U+6301",
+  "symbol": "持",
+  "meanings": [
+    "hold",
+    "have"
+  ],
+  "onyomi": [
+    "ジ"
+  ],
+  "kunyomi": [
+    "も.つ",
+    "-も.ち",
+    "も.てる"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

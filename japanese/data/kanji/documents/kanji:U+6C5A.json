@@ -1,0 +1,25 @@
+{
+  "$id": "kanji:U+6C5A",
+  "unicode": "U+6C5A",
+  "symbol": "汚",
+  "meanings": [
+    "dirty",
+    "pollute",
+    "disgrace",
+    "rape",
+    "defile"
+  ],
+  "onyomi": [
+    "オ"
+  ],
+  "kunyomi": [
+    "けが.す",
+    "けが.れる",
+    "けが.らわしい",
+    "よご.す",
+    "よご.れる",
+    "きたな.い"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+638C",
+  "unicode": "U+638C",
+  "symbol": "掌",
+  "meanings": [
+    "palm of hand",
+    "rule",
+    "administer",
+    "conduct"
+  ],
+  "onyomi": [
+    "ショウ"
+  ],
+  "kunyomi": [
+    "てのひら",
+    "たなごころ"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

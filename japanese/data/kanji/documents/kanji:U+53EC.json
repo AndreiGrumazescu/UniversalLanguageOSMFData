@@ -1,0 +1,25 @@
+{
+  "$id": "kanji:U+53EC",
+  "unicode": "U+53EC",
+  "symbol": "召",
+  "meanings": [
+    "seduce",
+    "call",
+    "send for",
+    "wear",
+    "put on",
+    "ride in",
+    "buy",
+    "eat",
+    "drink",
+    "catch (cold)"
+  ],
+  "onyomi": [
+    "ショウ"
+  ],
+  "kunyomi": [
+    "め.す"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

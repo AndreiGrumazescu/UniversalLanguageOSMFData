@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+8CDB",
+  "unicode": "U+8CDB",
+  "symbol": "賛",
+  "meanings": [
+    "approve",
+    "praise",
+    "title or inscription on picture",
+    "assist",
+    "agree with"
+  ],
+  "onyomi": [
+    "サン"
+  ],
+  "kunyomi": [
+    "たす.ける",
+    "たた.える"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

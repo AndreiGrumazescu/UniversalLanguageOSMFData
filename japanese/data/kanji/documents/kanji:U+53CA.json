@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+53CA",
+  "unicode": "U+53CA",
+  "symbol": "及",
+  "meanings": [
+    "reach out",
+    "exert",
+    "exercise",
+    "cause"
+  ],
+  "onyomi": [
+    "キュウ"
+  ],
+  "kunyomi": [
+    "およ.ぶ",
+    "およ.び",
+    "および",
+    "およ.ぼす"
+  ],
+  "strokeCount": 3,
+  "jlptLevel": "unspecified"
+}

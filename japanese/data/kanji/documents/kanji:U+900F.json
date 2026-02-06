@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+900F",
+  "unicode": "U+900F",
+  "symbol": "透",
+  "meanings": [
+    "transparent",
+    "permeate",
+    "filter",
+    "penetrate"
+  ],
+  "onyomi": [
+    "トウ"
+  ],
+  "kunyomi": [
+    "す.く",
+    "す.かす",
+    "す.ける",
+    "とう.る",
+    "とう.す"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

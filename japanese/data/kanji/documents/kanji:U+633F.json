@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+633F",
+  "unicode": "U+633F",
+  "symbol": "挿",
+  "meanings": [
+    "insert",
+    "put in",
+    "graft",
+    "wear (sword)"
+  ],
+  "onyomi": [
+    "ソウ"
+  ],
+  "kunyomi": [
+    "さ.す",
+    "はさ.む"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

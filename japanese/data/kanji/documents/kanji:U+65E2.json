@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+65E2",
+  "unicode": "U+65E2",
+  "symbol": "既",
+  "meanings": [
+    "previously",
+    "already",
+    "long ago"
+  ],
+  "onyomi": [
+    "キ"
+  ],
+  "kunyomi": [
+    "すで.に"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

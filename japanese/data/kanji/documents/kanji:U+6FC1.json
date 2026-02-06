@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+6FC1",
+  "unicode": "U+6FC1",
+  "symbol": "濁",
+  "meanings": [
+    "voiced",
+    "uncleanness",
+    "wrong",
+    "nigori",
+    "impurity"
+  ],
+  "onyomi": [
+    "ダク",
+    "ジョク"
+  ],
+  "kunyomi": [
+    "にご.る",
+    "にご.す"
+  ],
+  "strokeCount": 16,
+  "jlptLevel": "unspecified"
+}

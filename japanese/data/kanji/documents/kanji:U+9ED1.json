@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+9ED1",
+  "unicode": "U+9ED1",
+  "symbol": "黑",
+  "meanings": [
+    "black",
+    "dark",
+    "evil",
+    "sinister"
+  ],
+  "onyomi": [
+    "コク"
+  ],
+  "kunyomi": [
+    "くろい",
+    "くろ"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

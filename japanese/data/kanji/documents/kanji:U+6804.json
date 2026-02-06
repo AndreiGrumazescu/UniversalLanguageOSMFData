@@ -1,0 +1,25 @@
+{
+  "$id": "kanji:U+6804",
+  "unicode": "U+6804",
+  "symbol": "栄",
+  "meanings": [
+    "flourish",
+    "prosperity",
+    "honor",
+    "glory",
+    "splendor"
+  ],
+  "onyomi": [
+    "エイ",
+    "ヨウ"
+  ],
+  "kunyomi": [
+    "さか.える",
+    "は.え",
+    "-ば.え",
+    "は.える",
+    "え"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

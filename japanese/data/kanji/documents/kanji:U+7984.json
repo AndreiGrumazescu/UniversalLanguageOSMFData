@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+7984",
+  "unicode": "U+7984",
+  "symbol": "禄",
+  "meanings": [
+    "fief",
+    "allowance",
+    "pension",
+    "grant",
+    "happiness"
+  ],
+  "onyomi": [
+    "ロク"
+  ],
+  "kunyomi": [
+    "さいわ.い",
+    "ふち"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

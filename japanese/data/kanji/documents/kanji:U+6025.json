@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+6025",
+  "unicode": "U+6025",
+  "symbol": "急",
+  "meanings": [
+    "hurry",
+    "emergency",
+    "sudden",
+    "steep"
+  ],
+  "onyomi": [
+    "キュウ"
+  ],
+  "kunyomi": [
+    "いそ.ぐ",
+    "いそ.ぎ",
+    "せ.く"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

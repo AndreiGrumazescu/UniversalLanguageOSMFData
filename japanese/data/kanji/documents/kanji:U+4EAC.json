@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+4EAC",
+  "unicode": "U+4EAC",
+  "symbol": "京",
+  "meanings": [
+    "capital",
+    "10**16"
+  ],
+  "onyomi": [
+    "キョウ",
+    "ケイ",
+    "キン"
+  ],
+  "kunyomi": [
+    "みやこ"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

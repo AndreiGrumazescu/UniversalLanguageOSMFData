@@ -1,0 +1,26 @@
+{
+  "$id": "kanji:U+8A70",
+  "unicode": "U+8A70",
+  "symbol": "詰",
+  "meanings": [
+    "packed",
+    "close",
+    "pressed",
+    "reprove",
+    "rebuke",
+    "blame"
+  ],
+  "onyomi": [
+    "キツ",
+    "キチ"
+  ],
+  "kunyomi": [
+    "つ.める",
+    "つ.め",
+    "-づ.め",
+    "つ.まる",
+    "つ.む"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

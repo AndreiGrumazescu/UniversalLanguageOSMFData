@@ -1,0 +1,28 @@
+{
+  "$id": "kanji:U+660E",
+  "unicode": "U+660E",
+  "symbol": "明",
+  "meanings": [
+    "bright",
+    "light"
+  ],
+  "onyomi": [
+    "メイ",
+    "ミョウ",
+    "ミン"
+  ],
+  "kunyomi": [
+    "あ.かり",
+    "あか.るい",
+    "あか.るむ",
+    "あか.らむ",
+    "あき.らか",
+    "あ.ける",
+    "-あ.け",
+    "あ.く",
+    "あ.くる",
+    "あ.かす"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+8981",
+  "unicode": "U+8981",
+  "symbol": "要",
+  "meanings": [
+    "need",
+    "main point",
+    "essence",
+    "pivot",
+    "key to"
+  ],
+  "onyomi": [
+    "ヨウ"
+  ],
+  "kunyomi": [
+    "い.る",
+    "かなめ"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+4E16",
+  "unicode": "U+4E16",
+  "symbol": "世",
+  "meanings": [
+    "generation",
+    "world",
+    "society",
+    "public"
+  ],
+  "onyomi": [
+    "セイ",
+    "セ",
+    "ソウ"
+  ],
+  "kunyomi": [
+    "よ"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

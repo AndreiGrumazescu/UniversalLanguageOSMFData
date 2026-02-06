@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+60DC",
+  "unicode": "U+60DC",
+  "symbol": "惜",
+  "meanings": [
+    "pity",
+    "be sparing of",
+    "frugal",
+    "stingy",
+    "regret"
+  ],
+  "onyomi": [
+    "セキ"
+  ],
+  "kunyomi": [
+    "お.しい",
+    "お.しむ"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

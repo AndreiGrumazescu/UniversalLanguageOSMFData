@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+82D1",
+  "unicode": "U+82D1",
+  "symbol": "苑",
+  "meanings": [
+    "garden",
+    "farm",
+    "park"
+  ],
+  "onyomi": [
+    "エン",
+    "オン"
+  ],
+  "kunyomi": [
+    "その",
+    "う.つ"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

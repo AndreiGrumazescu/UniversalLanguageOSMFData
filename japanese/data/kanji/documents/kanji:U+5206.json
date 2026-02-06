@@ -1,0 +1,34 @@
+{
+  "$id": "kanji:U+5206",
+  "unicode": "U+5206",
+  "symbol": "分",
+  "meanings": [
+    "part",
+    "minute of time",
+    "segment",
+    "share",
+    "degree",
+    "one's lot",
+    "duty",
+    "understand",
+    "know",
+    "rate",
+    "1%",
+    "chances",
+    "shaku/100"
+  ],
+  "onyomi": [
+    "ブン",
+    "フン",
+    "ブ"
+  ],
+  "kunyomi": [
+    "わ.ける",
+    "わ.け",
+    "わ.かれる",
+    "わ.かる",
+    "わ.かつ"
+  ],
+  "strokeCount": 4,
+  "jlptLevel": "unspecified"
+}

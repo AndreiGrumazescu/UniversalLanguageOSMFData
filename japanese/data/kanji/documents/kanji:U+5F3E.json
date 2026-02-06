@@ -1,0 +1,27 @@
+{
+  "$id": "kanji:U+5F3E",
+  "unicode": "U+5F3E",
+  "symbol": "弾",
+  "meanings": [
+    "bullet",
+    "twang",
+    "flip",
+    "snap"
+  ],
+  "onyomi": [
+    "ダン",
+    "タン"
+  ],
+  "kunyomi": [
+    "ひ.く",
+    "-ひ.き",
+    "はず.む",
+    "たま",
+    "はじ.く",
+    "はじ.ける",
+    "ただ.す",
+    "はじ.きゆみ"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

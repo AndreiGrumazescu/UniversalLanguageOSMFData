@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+6144",
+  "unicode": "U+6144",
+  "symbol": "慄",
+  "meanings": [
+    "fear"
+  ],
+  "onyomi": [
+    "リツ"
+  ],
+  "kunyomi": [
+    "ふる.える",
+    "おそ.れる",
+    "おのの.く"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

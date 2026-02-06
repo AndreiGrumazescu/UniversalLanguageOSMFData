@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+637A",
+  "unicode": "U+637A",
+  "symbol": "捺",
+  "meanings": [
+    "press",
+    "print",
+    "affix a seal",
+    "stamp"
+  ],
+  "onyomi": [
+    "ナツ",
+    "ダツ"
+  ],
+  "kunyomi": [
+    "さ.す",
+    "お.す"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

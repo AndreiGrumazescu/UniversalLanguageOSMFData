@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+4F55",
+  "unicode": "U+4F55",
+  "symbol": "何",
+  "meanings": [
+    "what"
+  ],
+  "onyomi": [
+    "カ"
+  ],
+  "kunyomi": [
+    "なに",
+    "なん",
+    "なに-",
+    "なん-"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

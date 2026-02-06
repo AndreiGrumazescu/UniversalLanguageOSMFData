@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+62BD",
+  "unicode": "U+62BD",
+  "symbol": "抽",
+  "meanings": [
+    "pluck",
+    "pull",
+    "extract",
+    "excel"
+  ],
+  "onyomi": [
+    "チュウ"
+  ],
+  "kunyomi": [
+    "ひき-"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

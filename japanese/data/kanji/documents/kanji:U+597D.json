@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+597D",
+  "unicode": "U+597D",
+  "symbol": "好",
+  "meanings": [
+    "fond",
+    "pleasing",
+    "like something"
+  ],
+  "onyomi": [
+    "コウ"
+  ],
+  "kunyomi": [
+    "この.む",
+    "す.く",
+    "よ.い",
+    "い.い"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

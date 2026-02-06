@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+5668",
+  "unicode": "U+5668",
+  "symbol": "器",
+  "meanings": [
+    "utensil",
+    "vessel",
+    "receptacle",
+    "implement",
+    "instrument",
+    "ability",
+    "container",
+    "tool",
+    "set"
+  ],
+  "onyomi": [
+    "キ"
+  ],
+  "kunyomi": [
+    "うつわ"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

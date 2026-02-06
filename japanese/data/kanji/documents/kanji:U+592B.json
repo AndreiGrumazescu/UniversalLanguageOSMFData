@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+592B",
+  "unicode": "U+592B",
+  "symbol": "夫",
+  "meanings": [
+    "husband",
+    "man"
+  ],
+  "onyomi": [
+    "フ",
+    "フウ",
+    "ブ"
+  ],
+  "kunyomi": [
+    "おっと",
+    "それ"
+  ],
+  "strokeCount": 4,
+  "jlptLevel": "unspecified"
+}

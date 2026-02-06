@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+727D",
+  "unicode": "U+727D",
+  "symbol": "牽",
+  "meanings": [
+    "pull",
+    "tug",
+    "drag",
+    "lead by hand"
+  ],
+  "onyomi": [
+    "ケン"
+  ],
+  "kunyomi": [
+    "ひ.く"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

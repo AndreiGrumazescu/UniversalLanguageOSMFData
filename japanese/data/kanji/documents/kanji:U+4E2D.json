@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+4E2D",
+  "unicode": "U+4E2D",
+  "symbol": "中",
+  "meanings": [
+    "in",
+    "inside",
+    "middle",
+    "mean",
+    "center"
+  ],
+  "onyomi": [
+    "チュウ"
+  ],
+  "kunyomi": [
+    "なか",
+    "うち",
+    "あた.る"
+  ],
+  "strokeCount": 4,
+  "jlptLevel": "unspecified"
+}

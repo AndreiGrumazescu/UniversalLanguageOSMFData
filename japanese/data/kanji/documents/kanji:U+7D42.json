@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+7D42",
+  "unicode": "U+7D42",
+  "symbol": "終",
+  "meanings": [
+    "end",
+    "finish"
+  ],
+  "onyomi": [
+    "シュウ"
+  ],
+  "kunyomi": [
+    "お.わる",
+    "-お.わる",
+    "おわ.る",
+    "お.える",
+    "つい",
+    "つい.に"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

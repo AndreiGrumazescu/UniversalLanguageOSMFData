@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+8B0E",
+  "unicode": "U+8B0E",
+  "symbol": "謎",
+  "meanings": [
+    "riddle",
+    "puzzle",
+    "enigma",
+    "hint",
+    "tip"
+  ],
+  "onyomi": [
+    "メイ",
+    "ベイ"
+  ],
+  "kunyomi": [
+    "なぞ"
+  ],
+  "strokeCount": 16,
+  "jlptLevel": "unspecified"
+}

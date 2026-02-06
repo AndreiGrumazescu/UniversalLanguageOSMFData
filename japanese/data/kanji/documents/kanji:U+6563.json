@@ -1,0 +1,26 @@
+{
+  "$id": "kanji:U+6563",
+  "unicode": "U+6563",
+  "symbol": "散",
+  "meanings": [
+    "scatter",
+    "disperse",
+    "spend",
+    "squander"
+  ],
+  "onyomi": [
+    "サン"
+  ],
+  "kunyomi": [
+    "ち.る",
+    "ち.らす",
+    "-ち.らす",
+    "ち.らかす",
+    "ち.らかる",
+    "ち.らばる",
+    "ばら",
+    "ばら.ける"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

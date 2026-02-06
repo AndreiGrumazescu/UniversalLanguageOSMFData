@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+5CA9",
+  "unicode": "U+5CA9",
+  "symbol": "岩",
+  "meanings": [
+    "boulder",
+    "rock",
+    "cliff"
+  ],
+  "onyomi": [
+    "ガン"
+  ],
+  "kunyomi": [
+    "いわ"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

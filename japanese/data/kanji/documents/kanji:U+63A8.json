@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+63A8",
+  "unicode": "U+63A8",
+  "symbol": "推",
+  "meanings": [
+    "conjecture",
+    "infer",
+    "guess",
+    "suppose",
+    "support",
+    "push (for)"
+  ],
+  "onyomi": [
+    "スイ"
+  ],
+  "kunyomi": [
+    "お.す"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

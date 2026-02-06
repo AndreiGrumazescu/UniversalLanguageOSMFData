@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+90ED",
+  "unicode": "U+90ED",
+  "symbol": "郭",
+  "meanings": [
+    "enclosure",
+    "quarters",
+    "fortification",
+    "red-light district"
+  ],
+  "onyomi": [
+    "カク"
+  ],
+  "kunyomi": [
+    "くるわ"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

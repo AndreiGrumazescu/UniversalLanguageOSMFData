@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+7252",
+  "unicode": "U+7252",
+  "symbol": "牒",
+  "meanings": [
+    "label",
+    "genealogy",
+    "circular"
+  ],
+  "onyomi": [
+    "チョウ",
+    "ジョウ"
+  ],
+  "kunyomi": [
+    "ふだ"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,25 @@
+{
+  "$id": "kanji:U+6E5B",
+  "unicode": "U+6E5B",
+  "symbol": "湛",
+  "meanings": [
+    "fill",
+    "wear (a smile)",
+    "clear",
+    "pure",
+    "dense",
+    "deep"
+  ],
+  "onyomi": [
+    "タン",
+    "チン",
+    "ジン",
+    "セン"
+  ],
+  "kunyomi": [
+    "しず.む",
+    "たた.える"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

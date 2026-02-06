@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+6D88",
+  "unicode": "U+6D88",
+  "symbol": "消",
+  "meanings": [
+    "extinguish",
+    "blow out",
+    "turn off",
+    "neutralize",
+    "cancel"
+  ],
+  "onyomi": [
+    "ショウ"
+  ],
+  "kunyomi": [
+    "き.える",
+    "け.す"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

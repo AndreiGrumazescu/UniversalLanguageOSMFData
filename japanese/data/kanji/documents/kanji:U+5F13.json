@@ -1,0 +1,17 @@
+{
+  "$id": "kanji:U+5F13",
+  "unicode": "U+5F13",
+  "symbol": "弓",
+  "meanings": [
+    "bow",
+    "bow (archery, violin)"
+  ],
+  "onyomi": [
+    "キュウ"
+  ],
+  "kunyomi": [
+    "ゆみ"
+  ],
+  "strokeCount": 3,
+  "jlptLevel": "unspecified"
+}

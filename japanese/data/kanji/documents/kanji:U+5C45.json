@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+5C45",
+  "unicode": "U+5C45",
+  "symbol": "居",
+  "meanings": [
+    "reside",
+    "to be",
+    "exist",
+    "live with"
+  ],
+  "onyomi": [
+    "キョ",
+    "コ"
+  ],
+  "kunyomi": [
+    "い.る",
+    "-い",
+    "お.る"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

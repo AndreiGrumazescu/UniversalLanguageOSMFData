@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+8178",
+  "unicode": "U+8178",
+  "symbol": "腸",
+  "meanings": [
+    "intestines",
+    "guts",
+    "bowels",
+    "viscera"
+  ],
+  "onyomi": [
+    "チョウ"
+  ],
+  "kunyomi": [
+    "はらわた",
+    "わた"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

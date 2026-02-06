@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+84B2",
+  "unicode": "U+84B2",
+  "symbol": "蒲",
+  "meanings": [
+    "bullrush",
+    "flag",
+    "cattail"
+  ],
+  "onyomi": [
+    "ホ",
+    "ボ",
+    "フ",
+    "ブ"
+  ],
+  "kunyomi": [
+    "がま",
+    "かば",
+    "かま"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

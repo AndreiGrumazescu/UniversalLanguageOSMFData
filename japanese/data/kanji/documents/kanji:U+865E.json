@@ -1,0 +1,28 @@
+{
+  "$id": "kanji:U+865E",
+  "unicode": "U+865E",
+  "symbol": "虞",
+  "meanings": [
+    "fear",
+    "uneasiness",
+    "anxiety",
+    "concern",
+    "expectation",
+    "consideration"
+  ],
+  "onyomi": [
+    "グ"
+  ],
+  "kunyomi": [
+    "おそれ",
+    "おもんぱか.る",
+    "はか.る",
+    "うれ.える",
+    "あざむ.く",
+    "あやま.る",
+    "のぞ.む",
+    "たの.しむ"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

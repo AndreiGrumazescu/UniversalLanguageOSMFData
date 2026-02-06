@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+66DD",
+  "unicode": "U+66DD",
+  "symbol": "曝",
+  "meanings": [
+    "bleach",
+    "refine",
+    "expose",
+    "air"
+  ],
+  "onyomi": [
+    "バク",
+    "ホク",
+    "ボク"
+  ],
+  "kunyomi": [
+    "さら.す"
+  ],
+  "strokeCount": 19,
+  "jlptLevel": "unspecified"
+}

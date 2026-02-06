@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+8A8D",
+  "unicode": "U+8A8D",
+  "symbol": "認",
+  "meanings": [
+    "acknowledge",
+    "witness",
+    "discern",
+    "recognize",
+    "appreciate",
+    "believe"
+  ],
+  "onyomi": [
+    "ニン"
+  ],
+  "kunyomi": [
+    "みと.める",
+    "したた.める"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

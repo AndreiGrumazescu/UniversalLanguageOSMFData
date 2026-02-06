@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+20B9F",
+  "unicode": "U+20B9F",
+  "symbol": "𠮟",
+  "meanings": [
+    "scold",
+    "reprove"
+  ],
+  "onyomi": [
+    "シツ",
+    "シチ",
+    "カ"
+  ],
+  "kunyomi": [
+    "しか.る"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

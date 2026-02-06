@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+6E9D",
+  "unicode": "U+6E9D",
+  "symbol": "溝",
+  "meanings": [
+    "gutter",
+    "ditch",
+    "sewer",
+    "drain",
+    "10**32"
+  ],
+  "onyomi": [
+    "コウ"
+  ],
+  "kunyomi": [
+    "みぞ"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

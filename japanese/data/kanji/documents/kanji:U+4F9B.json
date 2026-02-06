@@ -1,0 +1,25 @@
+{
+  "$id": "kanji:U+4F9B",
+  "unicode": "U+4F9B",
+  "symbol": "供",
+  "meanings": [
+    "submit",
+    "offer",
+    "present",
+    "serve (meal)",
+    "accompany"
+  ],
+  "onyomi": [
+    "キョウ",
+    "ク",
+    "クウ",
+    "グ"
+  ],
+  "kunyomi": [
+    "そな.える",
+    "とも",
+    "-ども"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,27 @@
+{
+  "$id": "kanji:U+5370",
+  "unicode": "U+5370",
+  "symbol": "印",
+  "meanings": [
+    "stamp",
+    "seal",
+    "mark",
+    "imprint",
+    "symbol",
+    "emblem",
+    "trademark",
+    "evidence",
+    "souvenir",
+    "India"
+  ],
+  "onyomi": [
+    "イン"
+  ],
+  "kunyomi": [
+    "しるし",
+    "-じるし",
+    "しる.す"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

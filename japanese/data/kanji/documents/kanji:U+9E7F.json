@@ -1,0 +1,17 @@
+{
+  "$id": "kanji:U+9E7F",
+  "unicode": "U+9E7F",
+  "symbol": "鹿",
+  "meanings": [
+    "deer"
+  ],
+  "onyomi": [
+    "ロク"
+  ],
+  "kunyomi": [
+    "しか",
+    "か"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+6046",
+  "unicode": "U+6046",
+  "symbol": "恆",
+  "meanings": [
+    "constant",
+    "regular",
+    "persistent"
+  ],
+  "onyomi": [
+    "コウ"
+  ],
+  "kunyomi": [
+    "つね.に"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

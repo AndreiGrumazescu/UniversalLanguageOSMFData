@@ -1,0 +1,17 @@
+{
+  "$id": "kanji:U+8C5A",
+  "unicode": "U+8C5A",
+  "symbol": "豚",
+  "meanings": [
+    "pork",
+    "pig"
+  ],
+  "onyomi": [
+    "トン"
+  ],
+  "kunyomi": [
+    "ぶた"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

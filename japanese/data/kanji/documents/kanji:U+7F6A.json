@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+7F6A",
+  "unicode": "U+7F6A",
+  "symbol": "罪",
+  "meanings": [
+    "guilt",
+    "sin",
+    "crime",
+    "fault",
+    "blame",
+    "offense"
+  ],
+  "onyomi": [
+    "ザイ"
+  ],
+  "kunyomi": [
+    "つみ"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+6C40",
+  "unicode": "U+6C40",
+  "symbol": "汀",
+  "meanings": [
+    "water's edge",
+    "shore",
+    "bank"
+  ],
+  "onyomi": [
+    "テイ"
+  ],
+  "kunyomi": [
+    "みぎわ",
+    "なぎさ"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

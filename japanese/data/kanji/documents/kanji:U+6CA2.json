@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+6CA2",
+  "unicode": "U+6CA2",
+  "symbol": "沢",
+  "meanings": [
+    "swamp",
+    "marsh",
+    "brilliance",
+    "grace"
+  ],
+  "onyomi": [
+    "タク"
+  ],
+  "kunyomi": [
+    "さわ",
+    "うるお.い",
+    "うるお.す",
+    "つや"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

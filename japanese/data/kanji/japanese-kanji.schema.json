@@ -9,6 +9,10 @@
         "type": "string",
         "description": "Unicode codepoint (e.g., 'U+732B' for 猫, 'U+65E5' for 日)"
       },
+      "unicode": {
+        "type": "string",
+        "description": "Unicode codepoint (e.g., 'U+732B', 'U+65E5')"
+      },
       "symbol": {
         "type": "string",
         "description": "The kanji character itself (e.g., '猫', '日')"

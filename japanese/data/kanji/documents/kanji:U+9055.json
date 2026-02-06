@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+9055",
+  "unicode": "U+9055",
+  "symbol": "違",
+  "meanings": [
+    "difference",
+    "differ"
+  ],
+  "onyomi": [
+    "イ"
+  ],
+  "kunyomi": [
+    "ちが.う",
+    "ちが.い",
+    "ちが.える",
+    "-ちが.える",
+    "たが.う",
+    "たが.える"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

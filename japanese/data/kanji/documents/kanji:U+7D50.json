@@ -1,0 +1,25 @@
+{
+  "$id": "kanji:U+7D50",
+  "unicode": "U+7D50",
+  "symbol": "結",
+  "meanings": [
+    "tie",
+    "bind",
+    "contract",
+    "join",
+    "organize",
+    "do up hair",
+    "fasten"
+  ],
+  "onyomi": [
+    "ケツ",
+    "ケチ"
+  ],
+  "kunyomi": [
+    "むす.ぶ",
+    "ゆ.う",
+    "ゆ.わえる"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

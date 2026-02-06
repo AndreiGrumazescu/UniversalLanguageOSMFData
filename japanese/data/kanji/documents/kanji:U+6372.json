@@ -1,0 +1,27 @@
+{
+  "$id": "kanji:U+6372",
+  "unicode": "U+6372",
+  "symbol": "捲",
+  "meanings": [
+    "roll",
+    "wind",
+    "coil",
+    "turn pages",
+    "roll up sleeves",
+    "strip off",
+    "be turned",
+    "be rolled up"
+  ],
+  "onyomi": [
+    "ケン"
+  ],
+  "kunyomi": [
+    "ま.く",
+    "ま.くる",
+    "まく.る",
+    "めく.る",
+    "まく.れる"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

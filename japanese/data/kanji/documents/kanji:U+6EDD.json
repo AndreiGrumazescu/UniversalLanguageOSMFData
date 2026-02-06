@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+6EDD",
+  "unicode": "U+6EDD",
+  "symbol": "滝",
+  "meanings": [
+    "waterfall",
+    "rapids",
+    "cascade"
+  ],
+  "onyomi": [
+    "ロウ",
+    "ソウ"
+  ],
+  "kunyomi": [
+    "たき"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

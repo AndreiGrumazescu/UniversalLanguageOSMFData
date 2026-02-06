@@ -1,0 +1,17 @@
+{
+  "$id": "kanji:U+6850",
+  "unicode": "U+6850",
+  "symbol": "桐",
+  "meanings": [
+    "paulownia"
+  ],
+  "onyomi": [
+    "トウ",
+    "ドウ"
+  ],
+  "kunyomi": [
+    "きり"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

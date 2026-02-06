@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+85AB",
+  "unicode": "U+85AB",
+  "symbol": "薫",
+  "meanings": [
+    "send forth fragrance",
+    "fragrant",
+    "be scented",
+    "smoke (tobacco)"
+  ],
+  "onyomi": [
+    "クン"
+  ],
+  "kunyomi": [
+    "かお.る"
+  ],
+  "strokeCount": 16,
+  "jlptLevel": "unspecified"
+}

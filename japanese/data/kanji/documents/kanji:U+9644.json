@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+9644",
+  "unicode": "U+9644",
+  "symbol": "附",
+  "meanings": [
+    "affixed",
+    "attach",
+    "refer to",
+    "append"
+  ],
+  "onyomi": [
+    "フ"
+  ],
+  "kunyomi": [
+    "つ.ける",
+    "つ.く"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

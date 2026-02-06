@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+6027",
+  "unicode": "U+6027",
+  "symbol": "性",
+  "meanings": [
+    "sex",
+    "gender",
+    "nature"
+  ],
+  "onyomi": [
+    "セイ",
+    "ショウ"
+  ],
+  "kunyomi": [
+    "さが"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

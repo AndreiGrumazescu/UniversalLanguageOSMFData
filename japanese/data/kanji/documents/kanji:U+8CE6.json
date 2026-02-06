@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+8CE6",
+  "unicode": "U+8CE6",
+  "symbol": "賦",
+  "meanings": [
+    "levy",
+    "ode",
+    "prose",
+    "poem",
+    "tribute",
+    "installment"
+  ],
+  "onyomi": [
+    "フ",
+    "ブ"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

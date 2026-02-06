@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+6B32",
+  "unicode": "U+6B32",
+  "symbol": "欲",
+  "meanings": [
+    "longing",
+    "covetousness",
+    "greed",
+    "passion",
+    "desire",
+    "craving"
+  ],
+  "onyomi": [
+    "ヨク"
+  ],
+  "kunyomi": [
+    "ほっ.する",
+    "ほ.しい"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

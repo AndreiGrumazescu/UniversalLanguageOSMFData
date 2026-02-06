@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+79D8",
+  "unicode": "U+79D8",
+  "symbol": "秘",
+  "meanings": [
+    "secret",
+    "conceal"
+  ],
+  "onyomi": [
+    "ヒ"
+  ],
+  "kunyomi": [
+    "ひ.める",
+    "ひそ.か",
+    "かく.す"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

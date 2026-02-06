@@ -1,0 +1,25 @@
+{
+  "$id": "kanji:U+508D",
+  "unicode": "U+508D",
+  "symbol": "傍",
+  "meanings": [
+    "bystander",
+    "side",
+    "besides",
+    "while",
+    "nearby",
+    "third person"
+  ],
+  "onyomi": [
+    "ボウ"
+  ],
+  "kunyomi": [
+    "かたわ.ら",
+    "わき",
+    "おか-",
+    "はた",
+    "そば"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

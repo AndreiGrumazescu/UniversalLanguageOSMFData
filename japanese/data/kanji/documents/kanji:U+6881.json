@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+6881",
+  "unicode": "U+6881",
+  "symbol": "梁",
+  "meanings": [
+    "weir",
+    "fish trap",
+    "beam",
+    "girder"
+  ],
+  "onyomi": [
+    "リョウ"
+  ],
+  "kunyomi": [
+    "はり",
+    "うつばり",
+    "うちばり",
+    "やな",
+    "はし"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

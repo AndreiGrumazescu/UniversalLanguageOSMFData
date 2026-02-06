@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+6734",
+  "unicode": "U+6734",
+  "symbol": "朴",
+  "meanings": [
+    "crude",
+    "simple",
+    "plain",
+    "docile"
+  ],
+  "onyomi": [
+    "ボク"
+  ],
+  "kunyomi": [
+    "ほう",
+    "ほお",
+    "えのき"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

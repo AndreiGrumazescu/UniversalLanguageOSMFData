@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+7A3B",
+  "unicode": "U+7A3B",
+  "symbol": "稻",
+  "meanings": [
+    "rice plant"
+  ],
+  "onyomi": [
+    "トウ",
+    "テ"
+  ],
+  "kunyomi": [
+    "いね",
+    "いな-"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

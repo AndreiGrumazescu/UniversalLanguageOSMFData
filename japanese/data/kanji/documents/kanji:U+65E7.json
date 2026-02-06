@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+65E7",
+  "unicode": "U+65E7",
+  "symbol": "旧",
+  "meanings": [
+    "old times",
+    "old things",
+    "old friend",
+    "former",
+    "ex-"
+  ],
+  "onyomi": [
+    "キュウ"
+  ],
+  "kunyomi": [
+    "ふる.い",
+    "もと"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

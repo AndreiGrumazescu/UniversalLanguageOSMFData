@@ -1,0 +1,24 @@
+{
+  "$id": "kanji-grapheme-dep:U+8996",
+  "connectors": {
+    "parent": {
+      "$id": "kanji:U+8996"
+    }
+  },
+  "many": [
+    {
+      "connectors": {
+        "component": {
+          "$id": "grapheme:U+793A"
+        }
+      }
+    },
+    {
+      "connectors": {
+        "component": {
+          "$id": "grapheme:U+898B"
+        }
+      }
+    }
+  ]
+}

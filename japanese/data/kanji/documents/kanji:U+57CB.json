@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+57CB",
+  "unicode": "U+57CB",
+  "symbol": "埋",
+  "meanings": [
+    "bury",
+    "be filled up",
+    "embedded"
+  ],
+  "onyomi": [
+    "マイ"
+  ],
+  "kunyomi": [
+    "う.める",
+    "う.まる",
+    "う.もれる",
+    "うず.める",
+    "うず.まる",
+    "い.ける"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

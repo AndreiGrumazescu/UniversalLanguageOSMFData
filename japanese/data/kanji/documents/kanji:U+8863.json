@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+8863",
+  "unicode": "U+8863",
+  "symbol": "衣",
+  "meanings": [
+    "garment",
+    "clothes",
+    "dressing"
+  ],
+  "onyomi": [
+    "イ",
+    "エ"
+  ],
+  "kunyomi": [
+    "ころも",
+    "きぬ",
+    "-ぎ"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

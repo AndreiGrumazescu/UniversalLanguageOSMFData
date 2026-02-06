@@ -1,0 +1,17 @@
+{
+  "$id": "kanji:U+4ECA",
+  "unicode": "U+4ECA",
+  "symbol": "今",
+  "meanings": [
+    "now"
+  ],
+  "onyomi": [
+    "コン",
+    "キン"
+  ],
+  "kunyomi": [
+    "いま"
+  ],
+  "strokeCount": 4,
+  "jlptLevel": "unspecified"
+}

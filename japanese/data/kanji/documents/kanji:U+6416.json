@@ -1,0 +1,26 @@
+{
+  "$id": "kanji:U+6416",
+  "unicode": "U+6416",
+  "symbol": "搖",
+  "meanings": [
+    "wag",
+    "swing",
+    "wave",
+    "shake",
+    "scull"
+  ],
+  "onyomi": [
+    "ヨウ"
+  ],
+  "kunyomi": [
+    "ゆ.れる",
+    "ゆ.らぐ",
+    "ゆ.るぐ",
+    "ゆ.する",
+    "ゆ.さぶる",
+    "ゆ.すぶる",
+    "うご.く"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

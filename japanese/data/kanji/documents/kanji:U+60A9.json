@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+60A9",
+  "unicode": "U+60A9",
+  "symbol": "悩",
+  "meanings": [
+    "trouble",
+    "worry",
+    "in pain",
+    "distress",
+    "illness"
+  ],
+  "onyomi": [
+    "ノウ"
+  ],
+  "kunyomi": [
+    "なや.む",
+    "なや.ます",
+    "なや.ましい",
+    "なやみ"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "kanji:U+8036",
+  "unicode": "U+8036",
+  "symbol": "耶",
+  "meanings": [
+    "question mark"
+  ],
+  "onyomi": [
+    "ヤ",
+    "ジャ"
+  ],
+  "kunyomi": [
+    "か"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

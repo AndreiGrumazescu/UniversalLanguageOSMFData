@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+6309",
+  "unicode": "U+6309",
+  "symbol": "按",
+  "meanings": [
+    "hold",
+    "consider",
+    "investigate"
+  ],
+  "onyomi": [
+    "アン"
+  ],
+  "kunyomi": [
+    "おさ.える",
+    "しら.べる"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

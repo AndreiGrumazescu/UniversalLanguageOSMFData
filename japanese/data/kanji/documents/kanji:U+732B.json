@@ -1,0 +1,16 @@
+{
+  "$id": "kanji:U+732B",
+  "unicode": "U+732B",
+  "symbol": "猫",
+  "meanings": [
+    "cat"
+  ],
+  "onyomi": [
+    "ビョウ"
+  ],
+  "kunyomi": [
+    "ねこ"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

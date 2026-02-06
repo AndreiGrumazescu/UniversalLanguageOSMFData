@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+5E2D",
+  "unicode": "U+5E2D",
+  "symbol": "席",
+  "meanings": [
+    "seat",
+    "mat",
+    "occasion",
+    "place"
+  ],
+  "onyomi": [
+    "セキ"
+  ],
+  "kunyomi": [
+    "むしろ"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

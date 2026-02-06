@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+53D9",
+  "unicode": "U+53D9",
+  "symbol": "叙",
+  "meanings": [
+    "confer",
+    "relate",
+    "narrate",
+    "describe"
+  ],
+  "onyomi": [
+    "ジョ"
+  ],
+  "kunyomi": [
+    "つい.ず",
+    "ついで"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

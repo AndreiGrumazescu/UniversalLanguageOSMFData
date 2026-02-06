@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+533B",
+  "unicode": "U+533B",
+  "symbol": "医",
+  "meanings": [
+    "doctor",
+    "medicine"
+  ],
+  "onyomi": [
+    "イ"
+  ],
+  "kunyomi": [
+    "い.やす",
+    "い.する",
+    "くすし"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

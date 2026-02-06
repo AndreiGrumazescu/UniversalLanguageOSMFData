@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+5237",
+  "unicode": "U+5237",
+  "symbol": "刷",
+  "meanings": [
+    "printing",
+    "print",
+    "brush"
+  ],
+  "onyomi": [
+    "サツ"
+  ],
+  "kunyomi": [
+    "す.る",
+    "-ず.り",
+    "-ずり",
+    "は.く"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

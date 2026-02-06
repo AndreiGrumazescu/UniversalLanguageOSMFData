@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+58EF",
+  "unicode": "U+58EF",
+  "symbol": "壯",
+  "meanings": [
+    "big",
+    "large",
+    "robust",
+    "name of tribe"
+  ],
+  "onyomi": [
+    "ソウ"
+  ],
+  "kunyomi": [
+    "さかん"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

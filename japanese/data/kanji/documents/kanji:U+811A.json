@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+811A",
+  "unicode": "U+811A",
+  "symbol": "脚",
+  "meanings": [
+    "skids",
+    "leg",
+    "undercarriage",
+    "lower part",
+    "base"
+  ],
+  "onyomi": [
+    "キャク",
+    "キャ",
+    "カク"
+  ],
+  "kunyomi": [
+    "あし"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

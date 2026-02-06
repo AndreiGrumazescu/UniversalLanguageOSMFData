@@ -1,0 +1,17 @@
+{
+  "$id": "kanji:U+691C",
+  "unicode": "U+691C",
+  "symbol": "検",
+  "meanings": [
+    "examination",
+    "investigate"
+  ],
+  "onyomi": [
+    "ケン"
+  ],
+  "kunyomi": [
+    "しら.べる"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

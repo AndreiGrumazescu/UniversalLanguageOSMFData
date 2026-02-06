@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+7F6E",
+  "unicode": "U+7F6E",
+  "symbol": "置",
+  "meanings": [
+    "placement",
+    "put",
+    "set",
+    "deposit",
+    "leave behind",
+    "keep",
+    "employ",
+    "pawn"
+  ],
+  "onyomi": [
+    "チ"
+  ],
+  "kunyomi": [
+    "お.く",
+    "-お.き"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

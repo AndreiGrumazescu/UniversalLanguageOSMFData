@@ -1,0 +1,26 @@
+{
+  "$id": "kanji:U+8B00",
+  "unicode": "U+8B00",
+  "symbol": "謀",
+  "meanings": [
+    "conspire",
+    "cheat",
+    "impose on",
+    "plan",
+    "devise",
+    "scheme",
+    "have in mind",
+    "deceive"
+  ],
+  "onyomi": [
+    "ボウ",
+    "ム"
+  ],
+  "kunyomi": [
+    "はか.る",
+    "たばか.る",
+    "はかりごと"
+  ],
+  "strokeCount": 16,
+  "jlptLevel": "unspecified"
+}

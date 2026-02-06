@@ -1,0 +1,25 @@
+{
+  "$id": "kanji:U+7C60",
+  "unicode": "U+7C60",
+  "symbol": "籠",
+  "meanings": [
+    "basket",
+    "devote oneself",
+    "seclude oneself",
+    "cage",
+    "coop",
+    "implied"
+  ],
+  "onyomi": [
+    "ロウ",
+    "ル"
+  ],
+  "kunyomi": [
+    "かご",
+    "こ.める",
+    "こも.る",
+    "こ.む"
+  ],
+  "strokeCount": 22,
+  "jlptLevel": "unspecified"
+}

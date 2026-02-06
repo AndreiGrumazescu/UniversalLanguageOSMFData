@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+6EA2",
+  "unicode": "U+6EA2",
+  "symbol": "溢",
+  "meanings": [
+    "overflow",
+    "inundate",
+    "spill"
+  ],
+  "onyomi": [
+    "イツ"
+  ],
+  "kunyomi": [
+    "こぼ.れる",
+    "あふ.れる",
+    "み.ちる"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

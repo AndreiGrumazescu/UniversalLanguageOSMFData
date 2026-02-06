@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+8466",
+  "unicode": "U+8466",
+  "symbol": "葦",
+  "meanings": [
+    "reed",
+    "bullrush"
+  ],
+  "onyomi": [
+    "イ"
+  ],
+  "kunyomi": [
+    "あし",
+    "よし",
+    "しお.れる",
+    "しな.びる",
+    "しぼ.む",
+    "な.える"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

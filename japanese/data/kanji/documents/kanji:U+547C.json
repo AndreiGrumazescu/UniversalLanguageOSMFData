@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+547C",
+  "unicode": "U+547C",
+  "symbol": "呼",
+  "meanings": [
+    "call",
+    "call out to",
+    "invite"
+  ],
+  "onyomi": [
+    "コ"
+  ],
+  "kunyomi": [
+    "よ.ぶ"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

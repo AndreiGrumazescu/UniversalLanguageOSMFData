@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+629E",
+  "unicode": "U+629E",
+  "symbol": "択",
+  "meanings": [
+    "choose",
+    "select",
+    "elect",
+    "prefer"
+  ],
+  "onyomi": [
+    "タク"
+  ],
+  "kunyomi": [
+    "えら.ぶ"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

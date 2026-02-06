@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+5C0B",
+  "unicode": "U+5C0B",
+  "symbol": "尋",
+  "meanings": [
+    "inquire",
+    "fathom",
+    "look for"
+  ],
+  "onyomi": [
+    "ジン"
+  ],
+  "kunyomi": [
+    "たず.ねる",
+    "ひろ"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

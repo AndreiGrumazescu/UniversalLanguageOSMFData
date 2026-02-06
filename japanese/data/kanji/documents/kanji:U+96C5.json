@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+96C5",
+  "unicode": "U+96C5",
+  "symbol": "雅",
+  "meanings": [
+    "gracious",
+    "elegant",
+    "graceful",
+    "refined"
+  ],
+  "onyomi": [
+    "ガ"
+  ],
+  "kunyomi": [
+    "みや.び"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,25 @@
+{
+  "$id": "kanji:U+6E96",
+  "unicode": "U+6E96",
+  "symbol": "準",
+  "meanings": [
+    "semi-",
+    "correspond to",
+    "proportionate to",
+    "conform",
+    "imitate"
+  ],
+  "onyomi": [
+    "ジュン"
+  ],
+  "kunyomi": [
+    "じゅん.じる",
+    "じゅん.ずる",
+    "なぞら.える",
+    "のり",
+    "ひと.しい",
+    "みずもり"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

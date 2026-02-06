@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+8FCE",
+  "unicode": "U+8FCE",
+  "symbol": "迎",
+  "meanings": [
+    "welcome",
+    "meet",
+    "greet"
+  ],
+  "onyomi": [
+    "ゲイ"
+  ],
+  "kunyomi": [
+    "むか.える"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

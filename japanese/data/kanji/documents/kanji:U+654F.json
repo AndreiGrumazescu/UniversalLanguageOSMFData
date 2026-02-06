@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+654F",
+  "unicode": "U+654F",
+  "symbol": "敏",
+  "meanings": [
+    "cleverness",
+    "agile",
+    "alert"
+  ],
+  "onyomi": [
+    "ビン"
+  ],
+  "kunyomi": [
+    "さとい"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

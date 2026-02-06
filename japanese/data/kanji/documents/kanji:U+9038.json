@@ -1,0 +1,25 @@
+{
+  "$id": "kanji:U+9038",
+  "unicode": "U+9038",
+  "symbol": "逸",
+  "meanings": [
+    "deviate",
+    "idleness",
+    "leisure",
+    "miss the mark",
+    "evade",
+    "elude",
+    "parry",
+    "diverge"
+  ],
+  "onyomi": [
+    "イツ"
+  ],
+  "kunyomi": [
+    "そ.れる",
+    "そ.らす",
+    "はぐ.れる"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+4F75",
+  "unicode": "U+4F75",
+  "symbol": "併",
+  "meanings": [
+    "join",
+    "get together",
+    "unite",
+    "collective"
+  ],
+  "onyomi": [
+    "ヘイ"
+  ],
+  "kunyomi": [
+    "あわ.せる"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

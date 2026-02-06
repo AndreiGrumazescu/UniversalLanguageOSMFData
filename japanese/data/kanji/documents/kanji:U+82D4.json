@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+82D4",
+  "unicode": "U+82D4",
+  "symbol": "苔",
+  "meanings": [
+    "moss",
+    "lichen"
+  ],
+  "onyomi": [
+    "タイ"
+  ],
+  "kunyomi": [
+    "こけ",
+    "こけら"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

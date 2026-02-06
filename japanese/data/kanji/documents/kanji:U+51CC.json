@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+51CC",
+  "unicode": "U+51CC",
+  "symbol": "凌",
+  "meanings": [
+    "endure",
+    "keep (rain)out",
+    "stave off",
+    "tide over",
+    "defy",
+    "slight",
+    "surpass"
+  ],
+  "onyomi": [
+    "リョウ"
+  ],
+  "kunyomi": [
+    "しの.ぐ"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

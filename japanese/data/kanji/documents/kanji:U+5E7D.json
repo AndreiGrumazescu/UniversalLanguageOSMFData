@@ -1,0 +1,27 @@
+{
+  "$id": "kanji:U+5E7D",
+  "unicode": "U+5E7D",
+  "symbol": "幽",
+  "meanings": [
+    "seclude",
+    "confine to a room",
+    "deep",
+    "profound",
+    "secluded",
+    "faint",
+    "dark",
+    "tranquil",
+    "calm"
+  ],
+  "onyomi": [
+    "ユウ"
+  ],
+  "kunyomi": [
+    "ふか.い",
+    "かす.か",
+    "くら.い",
+    "しろ.い"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

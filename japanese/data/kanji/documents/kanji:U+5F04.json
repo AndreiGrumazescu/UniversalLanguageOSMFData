@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+5F04",
+  "unicode": "U+5F04",
+  "symbol": "弄",
+  "meanings": [
+    "play with",
+    "tamper",
+    "trifle with"
+  ],
+  "onyomi": [
+    "ロウ",
+    "ル"
+  ],
+  "kunyomi": [
+    "いじく.る",
+    "ろう.する",
+    "いじ.る",
+    "ひねく.る",
+    "たわむ.れる",
+    "もてあそ.ぶ"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

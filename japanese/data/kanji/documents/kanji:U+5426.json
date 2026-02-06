@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+5426",
+  "unicode": "U+5426",
+  "symbol": "否",
+  "meanings": [
+    "negate",
+    "no",
+    "noes",
+    "refuse",
+    "decline",
+    "deny"
+  ],
+  "onyomi": [
+    "ヒ"
+  ],
+  "kunyomi": [
+    "いな",
+    "いや"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

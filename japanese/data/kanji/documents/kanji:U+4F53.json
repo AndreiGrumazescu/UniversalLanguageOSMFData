@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+4F53",
+  "unicode": "U+4F53",
+  "symbol": "体",
+  "meanings": [
+    "body",
+    "substance",
+    "object",
+    "reality",
+    "counter for images"
+  ],
+  "onyomi": [
+    "タイ",
+    "テイ"
+  ],
+  "kunyomi": [
+    "からだ",
+    "かたち"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

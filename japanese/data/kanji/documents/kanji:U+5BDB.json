@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+5BDB",
+  "unicode": "U+5BDB",
+  "symbol": "寛",
+  "meanings": [
+    "tolerant",
+    "leniency",
+    "generosity",
+    "relax",
+    "feel at home",
+    "be at ease",
+    "broadminded"
+  ],
+  "onyomi": [
+    "カン"
+  ],
+  "kunyomi": [
+    "くつろ.ぐ",
+    "ひろ.い",
+    "ゆる.やか"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+60DF",
+  "unicode": "U+60DF",
+  "symbol": "惟",
+  "meanings": [
+    "consider",
+    "reflect",
+    "think"
+  ],
+  "onyomi": [
+    "イ",
+    "ユイ"
+  ],
+  "kunyomi": [
+    "おも.んみる",
+    "これ",
+    "おも.うに"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

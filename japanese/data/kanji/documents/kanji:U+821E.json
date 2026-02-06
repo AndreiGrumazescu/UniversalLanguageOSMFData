@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+821E",
+  "unicode": "U+821E",
+  "symbol": "舞",
+  "meanings": [
+    "dance",
+    "flit",
+    "circle",
+    "wheel"
+  ],
+  "onyomi": [
+    "ブ"
+  ],
+  "kunyomi": [
+    "ま.う",
+    "-ま.う",
+    "まい"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

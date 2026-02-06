@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+51F8",
+  "unicode": "U+51F8",
+  "symbol": "凸",
+  "meanings": [
+    "convex",
+    "beetle brow",
+    "uneven"
+  ],
+  "onyomi": [
+    "トツ"
+  ],
+  "kunyomi": [
+    "でこ"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

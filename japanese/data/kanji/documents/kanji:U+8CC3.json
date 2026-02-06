@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+8CC3",
+  "unicode": "U+8CC3",
+  "symbol": "賃",
+  "meanings": [
+    "fare",
+    "fee",
+    "hire",
+    "rent",
+    "wages",
+    "charge"
+  ],
+  "onyomi": [
+    "チン"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

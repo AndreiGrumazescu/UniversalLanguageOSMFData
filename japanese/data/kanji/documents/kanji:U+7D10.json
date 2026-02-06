@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+7D10",
+  "unicode": "U+7D10",
+  "symbol": "紐",
+  "meanings": [
+    "string",
+    "cord",
+    "braid",
+    "lace",
+    "tape",
+    "strap",
+    "ribbon"
+  ],
+  "onyomi": [
+    "チュウ",
+    "ジュウ"
+  ],
+  "kunyomi": [
+    "ひも"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

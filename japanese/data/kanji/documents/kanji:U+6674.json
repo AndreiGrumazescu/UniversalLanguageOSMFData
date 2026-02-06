@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+6674",
+  "unicode": "U+6674",
+  "symbol": "晴",
+  "meanings": [
+    "clear up"
+  ],
+  "onyomi": [
+    "セイ"
+  ],
+  "kunyomi": [
+    "は.れる",
+    "は.れ",
+    "は.れ-",
+    "-ば.れ",
+    "は.らす"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

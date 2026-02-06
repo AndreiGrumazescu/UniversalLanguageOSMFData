@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+9047",
+  "unicode": "U+9047",
+  "symbol": "遇",
+  "meanings": [
+    "meet",
+    "encounter",
+    "interview",
+    "treat",
+    "entertain",
+    "receive",
+    "deal with"
+  ],
+  "onyomi": [
+    "グウ"
+  ],
+  "kunyomi": [
+    "あ.う"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

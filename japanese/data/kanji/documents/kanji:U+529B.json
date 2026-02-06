@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+529B",
+  "unicode": "U+529B",
+  "symbol": "力",
+  "meanings": [
+    "power",
+    "strength",
+    "strong",
+    "strain",
+    "bear up",
+    "exert"
+  ],
+  "onyomi": [
+    "リョク",
+    "リキ",
+    "リイ"
+  ],
+  "kunyomi": [
+    "ちから"
+  ],
+  "strokeCount": 2,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+50AD",
+  "unicode": "U+50AD",
+  "symbol": "傭",
+  "meanings": [
+    "employ",
+    "hire"
+  ],
+  "onyomi": [
+    "ヨウ",
+    "チョウ"
+  ],
+  "kunyomi": [
+    "やと.う",
+    "あた.い",
+    "ひと.しい"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

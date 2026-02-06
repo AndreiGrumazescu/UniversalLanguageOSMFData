@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+51E1",
+  "unicode": "U+51E1",
+  "symbol": "凡",
+  "meanings": [
+    "commonplace",
+    "ordinary",
+    "mediocre"
+  ],
+  "onyomi": [
+    "ボン",
+    "ハン"
+  ],
+  "kunyomi": [
+    "およ.そ",
+    "おうよ.そ",
+    "すべ.て"
+  ],
+  "strokeCount": 3,
+  "jlptLevel": "unspecified"
+}

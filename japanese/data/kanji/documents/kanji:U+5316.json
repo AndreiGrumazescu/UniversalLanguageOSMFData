@@ -1,0 +1,25 @@
+{
+  "$id": "kanji:U+5316",
+  "unicode": "U+5316",
+  "symbol": "化",
+  "meanings": [
+    "change",
+    "take the form of",
+    "influence",
+    "enchant",
+    "delude",
+    "-ization"
+  ],
+  "onyomi": [
+    "カ",
+    "ケ"
+  ],
+  "kunyomi": [
+    "ば.ける",
+    "ば.かす",
+    "ふ.ける",
+    "け.する"
+  ],
+  "strokeCount": 4,
+  "jlptLevel": "unspecified"
+}

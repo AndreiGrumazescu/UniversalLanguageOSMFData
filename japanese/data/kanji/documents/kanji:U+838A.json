@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+838A",
+  "unicode": "U+838A",
+  "symbol": "莊",
+  "meanings": [
+    "broom"
+  ],
+  "onyomi": [
+    "ソウ",
+    "ショウ",
+    "チャン"
+  ],
+  "kunyomi": [
+    "ほうき",
+    "おごそ.か"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

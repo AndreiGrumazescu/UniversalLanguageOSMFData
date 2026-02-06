@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+6094",
+  "unicode": "U+6094",
+  "symbol": "悔",
+  "meanings": [
+    "repent",
+    "regret"
+  ],
+  "onyomi": [
+    "カイ"
+  ],
+  "kunyomi": [
+    "く.いる",
+    "く.やむ",
+    "くや.しい"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+7B46",
+  "unicode": "U+7B46",
+  "symbol": "筆",
+  "meanings": [
+    "writing brush",
+    "writing",
+    "painting brush",
+    "handwriting"
+  ],
+  "onyomi": [
+    "ヒツ"
+  ],
+  "kunyomi": [
+    "ふで"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

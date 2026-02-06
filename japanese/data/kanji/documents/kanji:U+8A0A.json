@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+8A0A",
+  "unicode": "U+8A0A",
+  "symbol": "訊",
+  "meanings": [
+    "request",
+    "question",
+    "investigate"
+  ],
+  "onyomi": [
+    "ジン",
+    "シュン",
+    "シン"
+  ],
+  "kunyomi": [
+    "き.く",
+    "と.う",
+    "たず.ねる"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

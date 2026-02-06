@@ -1,0 +1,25 @@
+{
+  "$id": "kanji:U+675F",
+  "unicode": "U+675F",
+  "symbol": "束",
+  "meanings": [
+    "bundle",
+    "sheaf",
+    "ream",
+    "tie in bundles",
+    "govern",
+    "manage",
+    "control"
+  ],
+  "onyomi": [
+    "ソク"
+  ],
+  "kunyomi": [
+    "たば",
+    "たば.ねる",
+    "つか",
+    "つか.ねる"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

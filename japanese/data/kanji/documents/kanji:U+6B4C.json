@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+6B4C",
+  "unicode": "U+6B4C",
+  "symbol": "歌",
+  "meanings": [
+    "song",
+    "sing"
+  ],
+  "onyomi": [
+    "カ"
+  ],
+  "kunyomi": [
+    "うた",
+    "うた.う"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

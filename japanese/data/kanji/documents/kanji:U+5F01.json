@@ -1,0 +1,29 @@
+{
+  "$id": "kanji:U+5F01",
+  "unicode": "U+5F01",
+  "symbol": "弁",
+  "meanings": [
+    "valve",
+    "petal",
+    "braid",
+    "speech",
+    "dialect",
+    "discrimination",
+    "dispose of",
+    "distinguish",
+    "conical cap"
+  ],
+  "onyomi": [
+    "ベン",
+    "ヘン"
+  ],
+  "kunyomi": [
+    "かんむり",
+    "わきま.える",
+    "わ.ける",
+    "はなびら",
+    "あらそ.う"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

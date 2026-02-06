@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+59AC",
+  "unicode": "U+59AC",
+  "symbol": "妬",
+  "meanings": [
+    "jealous",
+    "envy"
+  ],
+  "onyomi": [
+    "ト",
+    "ツ"
+  ],
+  "kunyomi": [
+    "ねた.む",
+    "そね.む",
+    "つも.る",
+    "ふさ.ぐ"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+798D",
+  "unicode": "U+798D",
+  "symbol": "禍",
+  "meanings": [
+    "calamity",
+    "misfortune",
+    "evil",
+    "curse"
+  ],
+  "onyomi": [
+    "カ"
+  ],
+  "kunyomi": [
+    "わざわい"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

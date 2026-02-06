@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+7A2E",
+  "unicode": "U+7A2E",
+  "symbol": "種",
+  "meanings": [
+    "species",
+    "kind",
+    "class",
+    "variety",
+    "seed"
+  ],
+  "onyomi": [
+    "シュ"
+  ],
+  "kunyomi": [
+    "たね",
+    "-ぐさ"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

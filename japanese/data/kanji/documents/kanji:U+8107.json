@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+8107",
+  "unicode": "U+8107",
+  "symbol": "脇",
+  "meanings": [
+    "armpit",
+    "the other way",
+    "another place",
+    "flank",
+    "supporting role"
+  ],
+  "onyomi": [
+    "キョウ"
+  ],
+  "kunyomi": [
+    "わき",
+    "わけ"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

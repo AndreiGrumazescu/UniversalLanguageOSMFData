@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+8000",
+  "unicode": "U+8000",
+  "symbol": "耀",
+  "meanings": [
+    "shine",
+    "sparkle",
+    "gleam",
+    "twinkle"
+  ],
+  "onyomi": [
+    "ヨウ"
+  ],
+  "kunyomi": [
+    "かがや.く",
+    "ひかり"
+  ],
+  "strokeCount": 20,
+  "jlptLevel": "unspecified"
+}

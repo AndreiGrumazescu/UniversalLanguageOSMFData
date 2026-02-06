@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+767B",
+  "unicode": "U+767B",
+  "symbol": "登",
+  "meanings": [
+    "ascend",
+    "climb up"
+  ],
+  "onyomi": [
+    "トウ",
+    "ト",
+    "ドウ",
+    "ショウ",
+    "チョウ"
+  ],
+  "kunyomi": [
+    "のぼ.る",
+    "あ.がる"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+8CA2",
+  "unicode": "U+8CA2",
+  "symbol": "貢",
+  "meanings": [
+    "tribute",
+    "support",
+    "finance"
+  ],
+  "onyomi": [
+    "コウ",
+    "ク"
+  ],
+  "kunyomi": [
+    "みつ.ぐ"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+5CF0",
+  "unicode": "U+5CF0",
+  "symbol": "峰",
+  "meanings": [
+    "summit",
+    "peak"
+  ],
+  "onyomi": [
+    "ホウ"
+  ],
+  "kunyomi": [
+    "みね",
+    "ね"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+9784",
+  "unicode": "U+9784",
+  "symbol": "鞄",
+  "meanings": [
+    "suitcase",
+    "bag",
+    "briefcase"
+  ],
+  "onyomi": [
+    "ハク",
+    "ホウ",
+    "ビョウ"
+  ],
+  "kunyomi": [
+    "かばん"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

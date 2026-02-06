@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+8E2A",
+  "unicode": "U+8E2A",
+  "symbol": "踪",
+  "meanings": [
+    "remains",
+    "clue",
+    "footprint"
+  ],
+  "onyomi": [
+    "ソウ",
+    "ショウ"
+  ],
+  "kunyomi": [
+    "あと"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

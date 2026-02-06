@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+99C8",
+  "unicode": "U+99C8",
+  "symbol": "駈",
+  "meanings": [
+    "run",
+    "gallop",
+    "advance"
+  ],
+  "onyomi": [
+    "ク"
+  ],
+  "kunyomi": [
+    "か.ける",
+    "か.る"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

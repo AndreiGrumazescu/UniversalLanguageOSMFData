@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+90AA",
+  "unicode": "U+90AA",
+  "symbol": "邪",
+  "meanings": [
+    "wicked",
+    "injustice",
+    "wrong"
+  ],
+  "onyomi": [
+    "ジャ"
+  ],
+  "kunyomi": [
+    "よこし.ま"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+895F",
+  "unicode": "U+895F",
+  "symbol": "襟",
+  "meanings": [
+    "collar",
+    "neck",
+    "lapel",
+    "one's inner feelings"
+  ],
+  "onyomi": [
+    "キン"
+  ],
+  "kunyomi": [
+    "えり"
+  ],
+  "strokeCount": 18,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+7DCA",
+  "unicode": "U+7DCA",
+  "symbol": "緊",
+  "meanings": [
+    "tense",
+    "solid",
+    "hard",
+    "reliable",
+    "tight"
+  ],
+  "onyomi": [
+    "キン"
+  ],
+  "kunyomi": [
+    "し.める",
+    "し.まる"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

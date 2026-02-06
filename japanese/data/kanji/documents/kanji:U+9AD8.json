@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+9AD8",
+  "unicode": "U+9AD8",
+  "symbol": "高",
+  "meanings": [
+    "tall",
+    "high",
+    "expensive"
+  ],
+  "onyomi": [
+    "コウ"
+  ],
+  "kunyomi": [
+    "たか.い",
+    "たか",
+    "-だか",
+    "たか.まる",
+    "たか.める"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

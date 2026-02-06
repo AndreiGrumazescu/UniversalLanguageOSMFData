@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+62EC",
+  "unicode": "U+62EC",
+  "symbol": "括",
+  "meanings": [
+    "fasten",
+    "tie up",
+    "arrest",
+    "constrict"
+  ],
+  "onyomi": [
+    "カツ"
+  ],
+  "kunyomi": [
+    "くく.る"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

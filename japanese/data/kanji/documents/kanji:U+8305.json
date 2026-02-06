@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+8305",
+  "unicode": "U+8305",
+  "symbol": "茅",
+  "meanings": [
+    "miscanthus reed"
+  ],
+  "onyomi": [
+    "ボウ",
+    "ミョウ"
+  ],
+  "kunyomi": [
+    "かや",
+    "ちがや"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

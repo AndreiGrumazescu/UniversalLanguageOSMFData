@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+9830",
+  "unicode": "U+9830",
+  "symbol": "頰",
+  "meanings": [
+    "cheeks",
+    "jaw"
+  ],
+  "onyomi": [
+    "キョウ"
+  ],
+  "kunyomi": [
+    "ほお",
+    "ほほ"
+  ],
+  "strokeCount": 16,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,28 @@
+{
+  "$id": "kanji:U+4EA4",
+  "unicode": "U+4EA4",
+  "symbol": "交",
+  "meanings": [
+    "mingle",
+    "mixing",
+    "association",
+    "coming & going"
+  ],
+  "onyomi": [
+    "コウ"
+  ],
+  "kunyomi": [
+    "まじ.わる",
+    "まじ.える",
+    "ま.じる",
+    "まじ.る",
+    "ま.ざる",
+    "ま.ぜる",
+    "-か.う",
+    "か.わす",
+    "かわ.す",
+    "こもごも"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

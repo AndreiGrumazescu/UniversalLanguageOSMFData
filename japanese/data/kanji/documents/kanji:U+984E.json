@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+984E",
+  "unicode": "U+984E",
+  "symbol": "顎",
+  "meanings": [
+    "jaw",
+    "chin",
+    "gill"
+  ],
+  "onyomi": [
+    "ガク"
+  ],
+  "kunyomi": [
+    "あご",
+    "あぎと"
+  ],
+  "strokeCount": 18,
+  "jlptLevel": "unspecified"
+}

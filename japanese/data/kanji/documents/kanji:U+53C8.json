@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+53C8",
+  "unicode": "U+53C8",
+  "symbol": "又",
+  "meanings": [
+    "or again",
+    "furthermore",
+    "on the other hand"
+  ],
+  "onyomi": [
+    "ユウ"
+  ],
+  "kunyomi": [
+    "また",
+    "また-",
+    "また.の-"
+  ],
+  "strokeCount": 2,
+  "jlptLevel": "unspecified"
+}

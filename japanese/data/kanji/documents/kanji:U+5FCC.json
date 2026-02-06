@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+5FCC",
+  "unicode": "U+5FCC",
+  "symbol": "忌",
+  "meanings": [
+    "mourning",
+    "abhor",
+    "detestable",
+    "death anniversary"
+  ],
+  "onyomi": [
+    "キ"
+  ],
+  "kunyomi": [
+    "い.む",
+    "い.み",
+    "い.まわしい"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

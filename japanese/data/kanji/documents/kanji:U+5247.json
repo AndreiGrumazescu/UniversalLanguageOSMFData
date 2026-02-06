@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+5247",
+  "unicode": "U+5247",
+  "symbol": "則",
+  "meanings": [
+    "rule",
+    "law",
+    "follow",
+    "based on",
+    "model after"
+  ],
+  "onyomi": [
+    "ソク"
+  ],
+  "kunyomi": [
+    "のっと.る",
+    "のり",
+    "すなわち"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

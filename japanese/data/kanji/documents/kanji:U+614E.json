@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+614E",
+  "unicode": "U+614E",
+  "symbol": "慎",
+  "meanings": [
+    "humility",
+    "be careful",
+    "discreet",
+    "prudent"
+  ],
+  "onyomi": [
+    "シン"
+  ],
+  "kunyomi": [
+    "つつし.む",
+    "つつ.ましい",
+    "つつし",
+    "つつし.み"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+67D4",
+  "unicode": "U+67D4",
+  "symbol": "柔",
+  "meanings": [
+    "tender",
+    "weakness",
+    "gentleness",
+    "softness"
+  ],
+  "onyomi": [
+    "ジュウ",
+    "ニュウ"
+  ],
+  "kunyomi": [
+    "やわ.らか",
+    "やわ.らかい",
+    "やわ",
+    "やわ.ら"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

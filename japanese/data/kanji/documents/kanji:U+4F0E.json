@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+4F0E",
+  "unicode": "U+4F0E",
+  "symbol": "伎",
+  "meanings": [
+    "deed",
+    "skill"
+  ],
+  "onyomi": [
+    "ギ",
+    "キ"
+  ],
+  "kunyomi": [
+    "わざ",
+    "わざおぎ"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

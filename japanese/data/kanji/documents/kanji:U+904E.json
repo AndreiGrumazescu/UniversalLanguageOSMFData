@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+904E",
+  "unicode": "U+904E",
+  "symbol": "過",
+  "meanings": [
+    "overdo",
+    "exceed",
+    "go beyond",
+    "error"
+  ],
+  "onyomi": [
+    "カ"
+  ],
+  "kunyomi": [
+    "す.ぎる",
+    "す.ごす",
+    "あやま.ち",
+    "あやま.つ",
+    "よぎ.る",
+    "よ.ぎる"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

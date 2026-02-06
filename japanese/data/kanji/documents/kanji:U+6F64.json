@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+6F64",
+  "unicode": "U+6F64",
+  "symbol": "潤",
+  "meanings": [
+    "wet",
+    "be watered",
+    "profit by",
+    "receive benefits",
+    "favor",
+    "charm",
+    "steep"
+  ],
+  "onyomi": [
+    "ジュン"
+  ],
+  "kunyomi": [
+    "うるお.う",
+    "うるお.す",
+    "うる.む"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

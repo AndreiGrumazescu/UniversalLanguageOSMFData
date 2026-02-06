@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+6211",
+  "unicode": "U+6211",
+  "symbol": "我",
+  "meanings": [
+    "ego",
+    "I",
+    "selfish",
+    "our",
+    "oneself"
+  ],
+  "onyomi": [
+    "ガ"
+  ],
+  "kunyomi": [
+    "われ",
+    "わ",
+    "わ.が-",
+    "わが-"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

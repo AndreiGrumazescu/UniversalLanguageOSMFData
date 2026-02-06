@@ -1,0 +1,32 @@
+{
+  "$id": "kanji:U+884C",
+  "unicode": "U+884C",
+  "symbol": "行",
+  "meanings": [
+    "going",
+    "journey",
+    "carry out",
+    "conduct",
+    "act",
+    "line",
+    "row",
+    "bank"
+  ],
+  "onyomi": [
+    "コウ",
+    "ギョウ",
+    "アン"
+  ],
+  "kunyomi": [
+    "い.く",
+    "ゆ.く",
+    "-ゆ.き",
+    "-ゆき",
+    "-い.き",
+    "-いき",
+    "おこな.う",
+    "おこ.なう"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

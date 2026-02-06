@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+78D0",
+  "unicode": "U+78D0",
+  "symbol": "磐",
+  "meanings": [
+    "rock",
+    "crag",
+    "cliff",
+    "wall (in a mine)"
+  ],
+  "onyomi": [
+    "バン",
+    "ハン"
+  ],
+  "kunyomi": [
+    "いわ"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

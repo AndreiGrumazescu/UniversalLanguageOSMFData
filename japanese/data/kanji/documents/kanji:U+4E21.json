@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+4E21",
+  "unicode": "U+4E21",
+  "symbol": "両",
+  "meanings": [
+    "both",
+    "old Japanese coin",
+    "counter for carriages (e.g., in a train)",
+    "two"
+  ],
+  "onyomi": [
+    "リョウ"
+  ],
+  "kunyomi": [
+    "てる",
+    "ふたつ"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

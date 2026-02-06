@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+71C3",
+  "unicode": "U+71C3",
+  "symbol": "燃",
+  "meanings": [
+    "burn",
+    "blaze",
+    "glow"
+  ],
+  "onyomi": [
+    "ネン"
+  ],
+  "kunyomi": [
+    "も.える",
+    "も.やす",
+    "も.す"
+  ],
+  "strokeCount": 16,
+  "jlptLevel": "unspecified"
+}

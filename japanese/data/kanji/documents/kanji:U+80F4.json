@@ -1,0 +1,16 @@
+{
+  "$id": "kanji:U+80F4",
+  "unicode": "U+80F4",
+  "symbol": "胴",
+  "meanings": [
+    "trunk",
+    "torso",
+    "hull (ship)",
+    "hub of wheel"
+  ],
+  "onyomi": [
+    "ドウ"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

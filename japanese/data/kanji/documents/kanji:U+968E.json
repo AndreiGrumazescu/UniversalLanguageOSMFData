@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+968E",
+  "unicode": "U+968E",
+  "symbol": "階",
+  "meanings": [
+    "storey",
+    "stair",
+    "counter for storeys of a building"
+  ],
+  "onyomi": [
+    "カイ"
+  ],
+  "kunyomi": [
+    "きざはし"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

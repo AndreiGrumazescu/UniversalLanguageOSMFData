@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+9B42",
+  "unicode": "U+9B42",
+  "symbol": "魂",
+  "meanings": [
+    "soul",
+    "spirit"
+  ],
+  "onyomi": [
+    "コン"
+  ],
+  "kunyomi": [
+    "たましい",
+    "たま"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

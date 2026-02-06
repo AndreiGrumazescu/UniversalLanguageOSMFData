@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+9727",
+  "unicode": "U+9727",
+  "symbol": "霧",
+  "meanings": [
+    "fog",
+    "mist"
+  ],
+  "onyomi": [
+    "ム",
+    "ボウ",
+    "ブ"
+  ],
+  "kunyomi": [
+    "きり"
+  ],
+  "strokeCount": 19,
+  "jlptLevel": "unspecified"
+}

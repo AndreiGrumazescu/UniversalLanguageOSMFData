@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+514D",
+  "unicode": "U+514D",
+  "symbol": "免",
+  "meanings": [
+    "excuse",
+    "dismissal"
+  ],
+  "onyomi": [
+    "メン"
+  ],
+  "kunyomi": [
+    "まぬか.れる",
+    "まぬが.れる"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

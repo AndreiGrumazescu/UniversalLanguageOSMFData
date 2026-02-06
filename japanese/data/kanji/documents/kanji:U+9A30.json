@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+9A30",
+  "unicode": "U+9A30",
+  "symbol": "騰",
+  "meanings": [
+    "leaping up",
+    "jumping up",
+    "rising",
+    "advancing",
+    "going"
+  ],
+  "onyomi": [
+    "トウ"
+  ],
+  "kunyomi": [
+    "あが.る",
+    "のぼ.る"
+  ],
+  "strokeCount": 20,
+  "jlptLevel": "unspecified"
+}

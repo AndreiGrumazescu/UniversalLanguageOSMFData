@@ -1,0 +1,17 @@
+{
+  "$id": "kanji:U+9D8F",
+  "unicode": "U+9D8F",
+  "symbol": "鶏",
+  "meanings": [
+    "chicken"
+  ],
+  "onyomi": [
+    "ケイ"
+  ],
+  "kunyomi": [
+    "にわとり",
+    "とり"
+  ],
+  "strokeCount": 19,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+627F",
+  "unicode": "U+627F",
+  "symbol": "承",
+  "meanings": [
+    "acquiesce",
+    "hear",
+    "listen to",
+    "be informed",
+    "receive"
+  ],
+  "onyomi": [
+    "ショウ",
+    "ジョウ"
+  ],
+  "kunyomi": [
+    "うけたまわ.る",
+    "う.ける"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

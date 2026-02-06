@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+5C3E",
+  "unicode": "U+5C3E",
+  "symbol": "尾",
+  "meanings": [
+    "tail",
+    "end",
+    "counter for fish",
+    "lower slope of mountain"
+  ],
+  "onyomi": [
+    "ビ"
+  ],
+  "kunyomi": [
+    "お"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

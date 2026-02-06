@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+6028",
+  "unicode": "U+6028",
+  "symbol": "怨",
+  "meanings": [
+    "grudge",
+    "show resentment",
+    "be jealous"
+  ],
+  "onyomi": [
+    "エン",
+    "オン",
+    "ウン"
+  ],
+  "kunyomi": [
+    "うら.む",
+    "うらみ",
+    "うら.めしい"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

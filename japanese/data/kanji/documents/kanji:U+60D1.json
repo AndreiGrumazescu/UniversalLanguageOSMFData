@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+60D1",
+  "unicode": "U+60D1",
+  "symbol": "惑",
+  "meanings": [
+    "beguile",
+    "delusion",
+    "perplexity"
+  ],
+  "onyomi": [
+    "ワク"
+  ],
+  "kunyomi": [
+    "まど.う"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+5D29",
+  "unicode": "U+5D29",
+  "symbol": "崩",
+  "meanings": [
+    "crumble",
+    "die",
+    "demolish",
+    "level"
+  ],
+  "onyomi": [
+    "ホウ"
+  ],
+  "kunyomi": [
+    "くず.れる",
+    "-くず.れ",
+    "くず.す"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

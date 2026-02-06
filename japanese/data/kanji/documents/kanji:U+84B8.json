@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+84B8",
+  "unicode": "U+84B8",
+  "symbol": "蒸",
+  "meanings": [
+    "steam",
+    "heat",
+    "sultry",
+    "foment",
+    "get musty"
+  ],
+  "onyomi": [
+    "ジョウ",
+    "セイ"
+  ],
+  "kunyomi": [
+    "む.す",
+    "む.れる",
+    "む.らす"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

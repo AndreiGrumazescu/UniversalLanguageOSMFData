@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+7D61",
+  "unicode": "U+7D61",
+  "symbol": "絡",
+  "meanings": [
+    "entwine",
+    "coil around",
+    "get caught in"
+  ],
+  "onyomi": [
+    "ラク"
+  ],
+  "kunyomi": [
+    "から.む",
+    "から.まる"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

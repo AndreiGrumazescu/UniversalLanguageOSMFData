@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+8607",
+  "unicode": "U+8607",
+  "symbol": "蘇",
+  "meanings": [
+    "be resuscitated",
+    "revived",
+    "perilla",
+    "shiso"
+  ],
+  "onyomi": [
+    "ソ",
+    "ス"
+  ],
+  "kunyomi": [
+    "よみがえ.る"
+  ],
+  "strokeCount": 19,
+  "jlptLevel": "unspecified"
+}

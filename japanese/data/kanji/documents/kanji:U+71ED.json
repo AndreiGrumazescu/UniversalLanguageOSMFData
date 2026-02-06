@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+71ED",
+  "unicode": "U+71ED",
+  "symbol": "燭",
+  "meanings": [
+    "light",
+    "candlepower"
+  ],
+  "onyomi": [
+    "ソク",
+    "ショク"
+  ],
+  "kunyomi": [
+    "ともしび"
+  ],
+  "strokeCount": 17,
+  "jlptLevel": "unspecified"
+}

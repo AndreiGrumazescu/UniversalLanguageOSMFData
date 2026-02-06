@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+5F9E",
+  "unicode": "U+5F9E",
+  "symbol": "從",
+  "meanings": [
+    "from",
+    "by",
+    "since",
+    "whence",
+    "through"
+  ],
+  "onyomi": [
+    "ジュウ",
+    "ショウ",
+    "ジュ"
+  ],
+  "kunyomi": [
+    "したが.う",
+    "したが.える",
+    "より"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

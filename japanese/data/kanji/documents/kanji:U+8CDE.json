@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+8CDE",
+  "unicode": "U+8CDE",
+  "symbol": "賞",
+  "meanings": [
+    "prize",
+    "reward",
+    "praise"
+  ],
+  "onyomi": [
+    "ショウ"
+  ],
+  "kunyomi": [
+    "ほ.める"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

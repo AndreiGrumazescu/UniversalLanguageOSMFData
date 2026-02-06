@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+56DB",
+  "unicode": "U+56DB",
+  "symbol": "四",
+  "meanings": [
+    "four"
+  ],
+  "onyomi": [
+    "シ"
+  ],
+  "kunyomi": [
+    "よ",
+    "よ.つ",
+    "よっ.つ",
+    "よん"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

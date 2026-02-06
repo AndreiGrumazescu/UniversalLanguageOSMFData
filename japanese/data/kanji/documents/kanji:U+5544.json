@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+5544",
+  "unicode": "U+5544",
+  "symbol": "啄",
+  "meanings": [
+    "peck",
+    "pick up"
+  ],
+  "onyomi": [
+    "タク",
+    "ツク",
+    "トク"
+  ],
+  "kunyomi": [
+    "ついば.む",
+    "つつ.く"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

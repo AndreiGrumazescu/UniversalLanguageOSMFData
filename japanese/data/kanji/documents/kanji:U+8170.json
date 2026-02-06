@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+8170",
+  "unicode": "U+8170",
+  "symbol": "腰",
+  "meanings": [
+    "loins",
+    "hips",
+    "waist",
+    "low wainscoting"
+  ],
+  "onyomi": [
+    "ヨウ"
+  ],
+  "kunyomi": [
+    "こし"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

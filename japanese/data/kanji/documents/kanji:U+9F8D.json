@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+9F8D",
+  "unicode": "U+9F8D",
+  "symbol": "龍",
+  "meanings": [
+    "dragon",
+    "imperial"
+  ],
+  "onyomi": [
+    "リュウ",
+    "リョウ",
+    "ロウ"
+  ],
+  "kunyomi": [
+    "たつ"
+  ],
+  "strokeCount": 16,
+  "jlptLevel": "unspecified"
+}

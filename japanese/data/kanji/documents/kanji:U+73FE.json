@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+73FE",
+  "unicode": "U+73FE",
+  "symbol": "現",
+  "meanings": [
+    "present",
+    "existing",
+    "actual"
+  ],
+  "onyomi": [
+    "ゲン"
+  ],
+  "kunyomi": [
+    "あらわ.れる",
+    "あらわ.す",
+    "うつつ",
+    "うつ.つ"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

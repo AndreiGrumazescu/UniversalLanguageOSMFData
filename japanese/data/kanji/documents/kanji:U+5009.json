@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+5009",
+  "unicode": "U+5009",
+  "symbol": "倉",
+  "meanings": [
+    "godown",
+    "warehouse",
+    "storehouse",
+    "cellar",
+    "treasury"
+  ],
+  "onyomi": [
+    "ソウ"
+  ],
+  "kunyomi": [
+    "くら"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

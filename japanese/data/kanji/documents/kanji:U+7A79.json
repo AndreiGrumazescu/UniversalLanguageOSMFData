@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+7A79",
+  "unicode": "U+7A79",
+  "symbol": "穹",
+  "meanings": [
+    "sky"
+  ],
+  "onyomi": [
+    "キュウ",
+    "キョウ"
+  ],
+  "kunyomi": [
+    "あめ",
+    "そら"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

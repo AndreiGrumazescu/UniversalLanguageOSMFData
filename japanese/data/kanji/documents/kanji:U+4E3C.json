@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+4E3C",
+  "unicode": "U+4E3C",
+  "symbol": "丼",
+  "meanings": [
+    "bowl",
+    "bowl of food"
+  ],
+  "onyomi": [
+    "トン",
+    "タン",
+    "ショウ",
+    "セイ"
+  ],
+  "kunyomi": [
+    "どんぶり"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

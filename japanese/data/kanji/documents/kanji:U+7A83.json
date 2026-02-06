@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+7A83",
+  "unicode": "U+7A83",
+  "symbol": "窃",
+  "meanings": [
+    "stealth",
+    "steal",
+    "secret",
+    "private",
+    "hushed"
+  ],
+  "onyomi": [
+    "セツ"
+  ],
+  "kunyomi": [
+    "ぬす.む",
+    "ひそ.か"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

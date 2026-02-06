@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+5F59",
+  "unicode": "U+5F59",
+  "symbol": "彙",
+  "meanings": [
+    "same kind",
+    "collect",
+    "classify",
+    "category",
+    "hedgehog"
+  ],
+  "onyomi": [
+    "イ"
+  ],
+  "kunyomi": [
+    "はりねずみ"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

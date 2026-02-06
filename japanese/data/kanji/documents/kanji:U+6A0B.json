@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+6A0B",
+  "unicode": "U+6A0B",
+  "symbol": "樋",
+  "meanings": [
+    "water pipe",
+    "gutter",
+    "downspout",
+    "conduit"
+  ],
+  "onyomi": [
+    "トウ"
+  ],
+  "kunyomi": [
+    "ひ",
+    "とい"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

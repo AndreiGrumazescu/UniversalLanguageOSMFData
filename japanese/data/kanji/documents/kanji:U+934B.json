@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+934B",
+  "unicode": "U+934B",
+  "symbol": "鍋",
+  "meanings": [
+    "pot",
+    "pan",
+    "kettle"
+  ],
+  "onyomi": [
+    "カ"
+  ],
+  "kunyomi": [
+    "なべ"
+  ],
+  "strokeCount": 17,
+  "jlptLevel": "unspecified"
+}

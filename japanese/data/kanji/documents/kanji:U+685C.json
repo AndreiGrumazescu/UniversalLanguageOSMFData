@@ -1,0 +1,17 @@
+{
+  "$id": "kanji:U+685C",
+  "unicode": "U+685C",
+  "symbol": "桜",
+  "meanings": [
+    "cherry"
+  ],
+  "onyomi": [
+    "オウ",
+    "ヨウ"
+  ],
+  "kunyomi": [
+    "さくら"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

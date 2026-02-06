@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+5EDF",
+  "unicode": "U+5EDF",
+  "symbol": "廟",
+  "meanings": [
+    "mausoleum",
+    "shrine",
+    "palace"
+  ],
+  "onyomi": [
+    "ビョウ",
+    "ミョウ"
+  ],
+  "kunyomi": [
+    "たまや",
+    "みたまや",
+    "やしろ"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

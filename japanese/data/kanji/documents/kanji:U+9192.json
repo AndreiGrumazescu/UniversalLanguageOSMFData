@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+9192",
+  "unicode": "U+9192",
+  "symbol": "醒",
+  "meanings": [
+    "awake",
+    "be disillusioned",
+    "sober up"
+  ],
+  "onyomi": [
+    "セイ"
+  ],
+  "kunyomi": [
+    "さ.ます",
+    "さ.める"
+  ],
+  "strokeCount": 16,
+  "jlptLevel": "unspecified"
+}

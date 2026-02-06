@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+86C7",
+  "unicode": "U+86C7",
+  "symbol": "蛇",
+  "meanings": [
+    "snake",
+    "serpent",
+    "hard drinker"
+  ],
+  "onyomi": [
+    "ジャ",
+    "ダ",
+    "イ",
+    "ヤ"
+  ],
+  "kunyomi": [
+    "へび"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+6728",
+  "unicode": "U+6728",
+  "symbol": "木",
+  "meanings": [
+    "tree",
+    "wood"
+  ],
+  "onyomi": [
+    "ボク",
+    "モク"
+  ],
+  "kunyomi": [
+    "き",
+    "こ-"
+  ],
+  "strokeCount": 4,
+  "jlptLevel": "unspecified"
+}

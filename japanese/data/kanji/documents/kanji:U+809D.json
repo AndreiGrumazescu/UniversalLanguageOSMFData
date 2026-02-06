@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+809D",
+  "unicode": "U+809D",
+  "symbol": "肝",
+  "meanings": [
+    "liver",
+    "pluck",
+    "nerve",
+    "chutzpah"
+  ],
+  "onyomi": [
+    "カン"
+  ],
+  "kunyomi": [
+    "きも"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

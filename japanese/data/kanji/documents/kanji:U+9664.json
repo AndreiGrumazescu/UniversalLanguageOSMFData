@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+9664",
+  "unicode": "U+9664",
+  "symbol": "除",
+  "meanings": [
+    "exclude",
+    "division (x/3)",
+    "remove",
+    "abolish",
+    "cancel",
+    "except"
+  ],
+  "onyomi": [
+    "ジョ",
+    "ジ"
+  ],
+  "kunyomi": [
+    "のぞ.く",
+    "-よ.け"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

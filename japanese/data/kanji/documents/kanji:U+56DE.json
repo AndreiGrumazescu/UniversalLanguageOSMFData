@@ -1,0 +1,29 @@
+{
+  "$id": "kanji:U+56DE",
+  "unicode": "U+56DE",
+  "symbol": "回",
+  "meanings": [
+    "-times",
+    "round",
+    "game",
+    "revolve",
+    "counter for occurrences"
+  ],
+  "onyomi": [
+    "カイ",
+    "エ"
+  ],
+  "kunyomi": [
+    "まわ.る",
+    "-まわ.る",
+    "-まわ.り",
+    "まわ.す",
+    "-まわ.す",
+    "まわ.し-",
+    "-まわ.し",
+    "もとお.る",
+    "か.える"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

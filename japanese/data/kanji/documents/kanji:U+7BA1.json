@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+7BA1",
+  "unicode": "U+7BA1",
+  "symbol": "管",
+  "meanings": [
+    "pipe",
+    "tube",
+    "wind instrument",
+    "drunken talk",
+    "control",
+    "jurisdiction"
+  ],
+  "onyomi": [
+    "カン"
+  ],
+  "kunyomi": [
+    "くだ"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

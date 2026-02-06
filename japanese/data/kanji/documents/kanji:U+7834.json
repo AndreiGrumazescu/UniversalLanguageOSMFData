@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+7834",
+  "unicode": "U+7834",
+  "symbol": "破",
+  "meanings": [
+    "rend",
+    "rip",
+    "tear",
+    "break",
+    "destroy",
+    "defeat",
+    "frustrate"
+  ],
+  "onyomi": [
+    "ハ"
+  ],
+  "kunyomi": [
+    "やぶ.る",
+    "やぶ.れる",
+    "わ.れる"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

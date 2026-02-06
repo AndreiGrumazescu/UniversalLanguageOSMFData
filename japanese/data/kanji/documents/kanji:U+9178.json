@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+9178",
+  "unicode": "U+9178",
+  "symbol": "酸",
+  "meanings": [
+    "acid",
+    "bitterness",
+    "sour",
+    "tart"
+  ],
+  "onyomi": [
+    "サン"
+  ],
+  "kunyomi": [
+    "す.い"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

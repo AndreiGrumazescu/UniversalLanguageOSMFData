@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+7206",
+  "unicode": "U+7206",
+  "symbol": "爆",
+  "meanings": [
+    "bomb",
+    "burst open",
+    "pop",
+    "split"
+  ],
+  "onyomi": [
+    "バク"
+  ],
+  "kunyomi": [
+    "は.ぜる"
+  ],
+  "strokeCount": 19,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+7947",
+  "unicode": "U+7947",
+  "symbol": "祇",
+  "meanings": [
+    "national or local god",
+    "peaceful",
+    "great"
+  ],
+  "onyomi": [
+    "ギ",
+    "キ",
+    "シ"
+  ],
+  "kunyomi": [
+    "くにつかみ",
+    "ただ",
+    "まさに"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

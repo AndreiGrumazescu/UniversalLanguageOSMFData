@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+614C",
+  "unicode": "U+614C",
+  "symbol": "慌",
+  "meanings": [
+    "disconcerted",
+    "be confused",
+    "lose one's head"
+  ],
+  "onyomi": [
+    "コウ"
+  ],
+  "kunyomi": [
+    "あわ.てる",
+    "あわ.ただしい"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

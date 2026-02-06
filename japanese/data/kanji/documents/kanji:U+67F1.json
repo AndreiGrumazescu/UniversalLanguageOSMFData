@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+67F1",
+  "unicode": "U+67F1",
+  "symbol": "柱",
+  "meanings": [
+    "pillar",
+    "post",
+    "cylinder",
+    "support"
+  ],
+  "onyomi": [
+    "チュウ"
+  ],
+  "kunyomi": [
+    "はしら"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

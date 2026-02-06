@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+6210",
+  "unicode": "U+6210",
+  "symbol": "成",
+  "meanings": [
+    "turn into",
+    "become",
+    "get",
+    "grow",
+    "elapse",
+    "reach"
+  ],
+  "onyomi": [
+    "セイ",
+    "ジョウ"
+  ],
+  "kunyomi": [
+    "な.る",
+    "な.す",
+    "-な.す"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

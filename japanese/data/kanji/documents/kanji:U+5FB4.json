@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+5FB4",
+  "unicode": "U+5FB4",
+  "symbol": "徴",
+  "meanings": [
+    "indications",
+    "sign",
+    "omen",
+    "symptom",
+    "collect",
+    "seek",
+    "refer to",
+    "question"
+  ],
+  "onyomi": [
+    "チョウ",
+    "チ"
+  ],
+  "kunyomi": [
+    "しるし"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,25 @@
+{
+  "$id": "kanji:U+5275",
+  "unicode": "U+5275",
+  "symbol": "創",
+  "meanings": [
+    "genesis",
+    "wound",
+    "injury",
+    "hurt",
+    "start",
+    "originate"
+  ],
+  "onyomi": [
+    "ソウ",
+    "ショウ"
+  ],
+  "kunyomi": [
+    "つく.る",
+    "はじ.める",
+    "きず",
+    "けず.しける"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

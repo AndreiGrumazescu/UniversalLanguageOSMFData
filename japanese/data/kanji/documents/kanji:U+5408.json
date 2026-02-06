@@ -1,0 +1,29 @@
+{
+  "$id": "kanji:U+5408",
+  "unicode": "U+5408",
+  "symbol": "合",
+  "meanings": [
+    "fit",
+    "suit",
+    "join",
+    "0.1"
+  ],
+  "onyomi": [
+    "ゴウ",
+    "ガッ",
+    "カッ"
+  ],
+  "kunyomi": [
+    "あ.う",
+    "-あ.う",
+    "あ.い",
+    "あい-",
+    "-あ.い",
+    "-あい",
+    "あ.わす",
+    "あ.わせる",
+    "-あ.わせる"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

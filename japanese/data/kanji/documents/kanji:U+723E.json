@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+723E",
+  "unicode": "U+723E",
+  "symbol": "爾",
+  "meanings": [
+    "you",
+    "thou",
+    "second person"
+  ],
+  "onyomi": [
+    "ジ",
+    "ニ"
+  ],
+  "kunyomi": [
+    "なんじ",
+    "しかり",
+    "その",
+    "のみ",
+    "おれ",
+    "しか"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

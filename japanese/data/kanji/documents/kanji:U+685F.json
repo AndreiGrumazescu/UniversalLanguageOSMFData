@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+685F",
+  "unicode": "U+685F",
+  "symbol": "桟",
+  "meanings": [
+    "scaffold",
+    "cleat",
+    "frame",
+    "jetty",
+    "bolt (door)"
+  ],
+  "onyomi": [
+    "サン",
+    "セン"
+  ],
+  "kunyomi": [
+    "かけはし"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

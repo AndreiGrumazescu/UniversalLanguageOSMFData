@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+6589",
+  "unicode": "U+6589",
+  "symbol": "斉",
+  "meanings": [
+    "adjusted",
+    "alike",
+    "equal",
+    "similar variety of"
+  ],
+  "onyomi": [
+    "セイ",
+    "サイ"
+  ],
+  "kunyomi": [
+    "そろ.う",
+    "ひと.しい",
+    "ひと.しく",
+    "あたる",
+    "はやい"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

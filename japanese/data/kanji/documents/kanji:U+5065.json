@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+5065",
+  "unicode": "U+5065",
+  "symbol": "健",
+  "meanings": [
+    "healthy",
+    "health",
+    "strength",
+    "persistence"
+  ],
+  "onyomi": [
+    "ケン"
+  ],
+  "kunyomi": [
+    "すこ.やか"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

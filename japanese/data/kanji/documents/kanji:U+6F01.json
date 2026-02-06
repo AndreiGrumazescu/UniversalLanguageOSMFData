@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+6F01",
+  "unicode": "U+6F01",
+  "symbol": "漁",
+  "meanings": [
+    "fishing",
+    "fishery"
+  ],
+  "onyomi": [
+    "ギョ",
+    "リョウ"
+  ],
+  "kunyomi": [
+    "あさ.る"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

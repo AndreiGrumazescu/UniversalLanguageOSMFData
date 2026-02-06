@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+5B5F",
+  "unicode": "U+5B5F",
+  "symbol": "孟",
+  "meanings": [
+    "chief",
+    "beginning"
+  ],
+  "onyomi": [
+    "モウ",
+    "ボウ",
+    "ミョウ"
+  ],
+  "kunyomi": [
+    "かしら"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

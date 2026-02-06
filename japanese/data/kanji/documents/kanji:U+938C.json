@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+938C",
+  "unicode": "U+938C",
+  "symbol": "鎌",
+  "meanings": [
+    "sickle",
+    "scythe",
+    "trick"
+  ],
+  "onyomi": [
+    "レン",
+    "ケン"
+  ],
+  "kunyomi": [
+    "かま"
+  ],
+  "strokeCount": 18,
+  "jlptLevel": "unspecified"
+}

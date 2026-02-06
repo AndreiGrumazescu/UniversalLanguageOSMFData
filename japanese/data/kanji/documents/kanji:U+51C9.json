@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+51C9",
+  "unicode": "U+51C9",
+  "symbol": "凉",
+  "meanings": [
+    "nice and cool"
+  ],
+  "onyomi": [
+    "リョウ"
+  ],
+  "kunyomi": [
+    "すず.しい",
+    "すず.む",
+    "すず.やか",
+    "うす.い",
+    "ひや.す",
+    "まことに"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

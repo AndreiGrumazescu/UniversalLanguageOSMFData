@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+8C8C",
+  "unicode": "U+8C8C",
+  "symbol": "貌",
+  "meanings": [
+    "form",
+    "appearance",
+    "countenance"
+  ],
+  "onyomi": [
+    "ボウ",
+    "バク"
+  ],
+  "kunyomi": [
+    "かたち",
+    "かたどる"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

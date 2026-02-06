@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+5BEC",
+  "unicode": "U+5BEC",
+  "symbol": "寬",
+  "meanings": [
+    "broad",
+    "wide",
+    "spacious",
+    "vast"
+  ],
+  "onyomi": [
+    "カン"
+  ],
+  "kunyomi": [
+    "ひろい",
+    "ゆるやか",
+    "くつろぐ"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

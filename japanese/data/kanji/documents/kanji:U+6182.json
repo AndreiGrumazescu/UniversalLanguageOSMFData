@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+6182",
+  "unicode": "U+6182",
+  "symbol": "憂",
+  "meanings": [
+    "melancholy",
+    "grieve",
+    "lament",
+    "be anxious",
+    "sad",
+    "unhappy"
+  ],
+  "onyomi": [
+    "ユウ"
+  ],
+  "kunyomi": [
+    "うれ.える",
+    "うれ.い",
+    "う.い",
+    "う.き"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

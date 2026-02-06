@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+4FEE",
+  "unicode": "U+4FEE",
+  "symbol": "修",
+  "meanings": [
+    "discipline",
+    "conduct oneself well",
+    "study",
+    "master"
+  ],
+  "onyomi": [
+    "シュウ",
+    "シュ"
+  ],
+  "kunyomi": [
+    "おさ.める",
+    "おさ.まる"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

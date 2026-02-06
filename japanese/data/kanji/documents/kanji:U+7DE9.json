@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+7DE9",
+  "unicode": "U+7DE9",
+  "symbol": "緩",
+  "meanings": [
+    "slacken",
+    "loosen",
+    "relax",
+    "lessen",
+    "be moderate",
+    "ease"
+  ],
+  "onyomi": [
+    "カン"
+  ],
+  "kunyomi": [
+    "ゆる.い",
+    "ゆる.やか",
+    "ゆる.む",
+    "ゆる.める"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+9632",
+  "unicode": "U+9632",
+  "symbol": "防",
+  "meanings": [
+    "ward off",
+    "defend",
+    "protect",
+    "resist"
+  ],
+  "onyomi": [
+    "ボウ"
+  ],
+  "kunyomi": [
+    "ふせ.ぐ"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

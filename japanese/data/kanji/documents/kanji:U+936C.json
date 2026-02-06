@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+936C",
+  "unicode": "U+936C",
+  "symbol": "鍬",
+  "meanings": [
+    "hoe with long blade at acute angle"
+  ],
+  "onyomi": [
+    "ショウ",
+    "シュウ"
+  ],
+  "kunyomi": [
+    "くわ",
+    "すき"
+  ],
+  "strokeCount": 17,
+  "jlptLevel": "unspecified"
+}

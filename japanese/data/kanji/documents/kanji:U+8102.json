@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+8102",
+  "unicode": "U+8102",
+  "symbol": "脂",
+  "meanings": [
+    "fat",
+    "grease",
+    "tallow",
+    "lard",
+    "rosin",
+    "gum",
+    "tar"
+  ],
+  "onyomi": [
+    "シ"
+  ],
+  "kunyomi": [
+    "あぶら"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

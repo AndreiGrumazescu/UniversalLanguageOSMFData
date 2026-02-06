@@ -1,0 +1,27 @@
+{
+  "$id": "kanji:U+5C3D",
+  "unicode": "U+5C3D",
+  "symbol": "尽",
+  "meanings": [
+    "exhaust",
+    "use up",
+    "run out of",
+    "deplete",
+    "befriend",
+    "serve"
+  ],
+  "onyomi": [
+    "ジン",
+    "サン"
+  ],
+  "kunyomi": [
+    "つ.きる",
+    "つ.くす",
+    "つ.かす",
+    "-づ.く",
+    "-ず.く",
+    "ことごと.く"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

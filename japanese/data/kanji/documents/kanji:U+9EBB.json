@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+9EBB",
+  "unicode": "U+9EBB",
+  "symbol": "麻",
+  "meanings": [
+    "hemp",
+    "flax",
+    "numb"
+  ],
+  "onyomi": [
+    "マ",
+    "マア"
+  ],
+  "kunyomi": [
+    "あさ"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

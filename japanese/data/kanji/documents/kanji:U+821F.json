@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+821F",
+  "unicode": "U+821F",
+  "symbol": "舟",
+  "meanings": [
+    "boat",
+    "ship"
+  ],
+  "onyomi": [
+    "シュウ"
+  ],
+  "kunyomi": [
+    "ふね",
+    "ふな-",
+    "-ぶね"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

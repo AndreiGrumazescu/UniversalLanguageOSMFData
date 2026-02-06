@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+541E",
+  "unicode": "U+541E",
+  "symbol": "吞",
+  "meanings": [
+    "swallow",
+    "absorb",
+    "annex",
+    "engulf"
+  ],
+  "onyomi": [
+    "ドン",
+    "トン",
+    "テン"
+  ],
+  "kunyomi": [
+    "のむ"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

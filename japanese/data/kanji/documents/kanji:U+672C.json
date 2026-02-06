@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+672C",
+  "unicode": "U+672C",
+  "symbol": "本",
+  "meanings": [
+    "book",
+    "present",
+    "main",
+    "origin",
+    "true",
+    "real",
+    "counter for long cylindrical things"
+  ],
+  "onyomi": [
+    "ホン"
+  ],
+  "kunyomi": [
+    "もと"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

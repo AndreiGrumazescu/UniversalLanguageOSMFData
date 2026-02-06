@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+6B04",
+  "unicode": "U+6B04",
+  "symbol": "欄",
+  "meanings": [
+    "column",
+    "handrail",
+    "blank",
+    "space"
+  ],
+  "onyomi": [
+    "ラン"
+  ],
+  "kunyomi": [
+    "てすり"
+  ],
+  "strokeCount": 20,
+  "jlptLevel": "unspecified"
+}

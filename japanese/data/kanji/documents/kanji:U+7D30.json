@@ -1,0 +1,25 @@
+{
+  "$id": "kanji:U+7D30",
+  "unicode": "U+7D30",
+  "symbol": "細",
+  "meanings": [
+    "dainty",
+    "get thin",
+    "taper",
+    "slender",
+    "narrow",
+    "detailed",
+    "precise"
+  ],
+  "onyomi": [
+    "サイ"
+  ],
+  "kunyomi": [
+    "ほそ.い",
+    "ほそ.る",
+    "こま.か",
+    "こま.かい"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+716E",
+  "unicode": "U+716E",
+  "symbol": "煮",
+  "meanings": [
+    "boil",
+    "cook"
+  ],
+  "onyomi": [
+    "シャ"
+  ],
+  "kunyomi": [
+    "に.る",
+    "-に",
+    "に.える",
+    "に.やす"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

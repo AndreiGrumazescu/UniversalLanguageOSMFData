@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+5199",
+  "unicode": "U+5199",
+  "symbol": "写",
+  "meanings": [
+    "copy",
+    "be photographed",
+    "describe"
+  ],
+  "onyomi": [
+    "シャ",
+    "ジャ"
+  ],
+  "kunyomi": [
+    "うつ.す",
+    "うつ.る",
+    "うつ-",
+    "うつ.し"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+5883",
+  "unicode": "U+5883",
+  "symbol": "境",
+  "meanings": [
+    "boundary",
+    "border",
+    "region"
+  ],
+  "onyomi": [
+    "キョウ",
+    "ケイ"
+  ],
+  "kunyomi": [
+    "さかい"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

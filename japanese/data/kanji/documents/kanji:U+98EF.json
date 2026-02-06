@@ -1,0 +1,17 @@
+{
+  "$id": "kanji:U+98EF",
+  "unicode": "U+98EF",
+  "symbol": "飯",
+  "meanings": [
+    "meal",
+    "boiled rice"
+  ],
+  "onyomi": [
+    "ハン"
+  ],
+  "kunyomi": [
+    "めし"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

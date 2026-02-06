@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+5230",
+  "unicode": "U+5230",
+  "symbol": "到",
+  "meanings": [
+    "arrival",
+    "proceed",
+    "reach",
+    "attain",
+    "result in"
+  ],
+  "onyomi": [
+    "トウ"
+  ],
+  "kunyomi": [
+    "いた.る"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

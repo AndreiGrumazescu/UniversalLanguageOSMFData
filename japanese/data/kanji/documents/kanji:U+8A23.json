@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+8A23",
+  "unicode": "U+8A23",
+  "symbol": "訣",
+  "meanings": [
+    "separation",
+    "part",
+    "secret"
+  ],
+  "onyomi": [
+    "ケツ"
+  ],
+  "kunyomi": [
+    "わかれ",
+    "わかれ.る"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

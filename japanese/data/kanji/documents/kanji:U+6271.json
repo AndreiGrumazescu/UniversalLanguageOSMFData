@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+6271",
+  "unicode": "U+6271",
+  "symbol": "扱",
+  "meanings": [
+    "handle",
+    "entertain",
+    "thresh",
+    "strip"
+  ],
+  "onyomi": [
+    "ソウ",
+    "キュウ"
+  ],
+  "kunyomi": [
+    "あつか.い",
+    "あつか.う",
+    "あつか.る",
+    "こ.く"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+77AC",
+  "unicode": "U+77AC",
+  "symbol": "瞬",
+  "meanings": [
+    "wink",
+    "blink",
+    "twinkle"
+  ],
+  "onyomi": [
+    "シュン"
+  ],
+  "kunyomi": [
+    "またた.く",
+    "まじろ.ぐ"
+  ],
+  "strokeCount": 18,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "kanji:U+7BC7",
+  "unicode": "U+7BC7",
+  "symbol": "篇",
+  "meanings": [
+    "volume",
+    "chapter",
+    "book",
+    "editing",
+    "compilation"
+  ],
+  "onyomi": [
+    "ヘン"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

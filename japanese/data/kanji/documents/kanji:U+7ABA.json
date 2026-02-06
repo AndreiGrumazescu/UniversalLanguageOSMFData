@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+7ABA",
+  "unicode": "U+7ABA",
+  "symbol": "窺",
+  "meanings": [
+    "lie in wait",
+    "spy on",
+    "reconnoiter"
+  ],
+  "onyomi": [
+    "キ"
+  ],
+  "kunyomi": [
+    "うかが.う",
+    "のぞく"
+  ],
+  "strokeCount": 16,
+  "jlptLevel": "unspecified"
+}

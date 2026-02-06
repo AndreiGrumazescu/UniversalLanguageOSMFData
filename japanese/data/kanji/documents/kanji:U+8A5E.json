@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+8A5E",
+  "unicode": "U+8A5E",
+  "symbol": "詞",
+  "meanings": [
+    "part of speech",
+    "words",
+    "poetry"
+  ],
+  "onyomi": [
+    "シ"
+  ],
+  "kunyomi": [
+    "ことば"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

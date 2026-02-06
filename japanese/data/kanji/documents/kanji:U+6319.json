@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+6319",
+  "unicode": "U+6319",
+  "symbol": "挙",
+  "meanings": [
+    "raise",
+    "plan",
+    "project",
+    "behavior",
+    "actions"
+  ],
+  "onyomi": [
+    "キョ"
+  ],
+  "kunyomi": [
+    "あ.げる",
+    "あ.がる",
+    "こぞ.る"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

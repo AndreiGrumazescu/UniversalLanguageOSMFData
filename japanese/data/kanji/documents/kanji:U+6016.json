@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+6016",
+  "unicode": "U+6016",
+  "symbol": "怖",
+  "meanings": [
+    "dreadful",
+    "be frightened",
+    "fearful"
+  ],
+  "onyomi": [
+    "フ",
+    "ホ"
+  ],
+  "kunyomi": [
+    "こわ.い",
+    "こわ.がる",
+    "お.じる",
+    "おそ.れる"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

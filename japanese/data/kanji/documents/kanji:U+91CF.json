@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+91CF",
+  "unicode": "U+91CF",
+  "symbol": "量",
+  "meanings": [
+    "quantity",
+    "measure",
+    "weight",
+    "amount",
+    "consider",
+    "estimate",
+    "surmise"
+  ],
+  "onyomi": [
+    "リョウ"
+  ],
+  "kunyomi": [
+    "はか.る"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

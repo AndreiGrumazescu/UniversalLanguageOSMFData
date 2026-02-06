@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+69CD",
+  "unicode": "U+69CD",
+  "symbol": "槍",
+  "meanings": [
+    "spear",
+    "lance",
+    "javelin"
+  ],
+  "onyomi": [
+    "ソウ",
+    "ショウ"
+  ],
+  "kunyomi": [
+    "やり"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

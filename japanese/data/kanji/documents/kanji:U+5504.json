@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+5504",
+  "unicode": "U+5504",
+  "symbol": "唄",
+  "meanings": [
+    "song",
+    "ballad"
+  ],
+  "onyomi": [
+    "バイ"
+  ],
+  "kunyomi": [
+    "うた",
+    "うた.う"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

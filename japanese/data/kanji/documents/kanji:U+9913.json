@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+9913",
+  "unicode": "U+9913",
+  "symbol": "餓",
+  "meanings": [
+    "starve",
+    "hungry",
+    "thirst"
+  ],
+  "onyomi": [
+    "ガ"
+  ],
+  "kunyomi": [
+    "う.える"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

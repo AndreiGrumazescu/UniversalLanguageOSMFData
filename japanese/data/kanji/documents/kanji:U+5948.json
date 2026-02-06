@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+5948",
+  "unicode": "U+5948",
+  "symbol": "奈",
+  "meanings": [
+    "Nara",
+    "what?"
+  ],
+  "onyomi": [
+    "ナ",
+    "ナイ",
+    "ダイ"
+  ],
+  "kunyomi": [
+    "いかん",
+    "からなし"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

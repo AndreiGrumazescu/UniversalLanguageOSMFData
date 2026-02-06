@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+67D3",
+  "unicode": "U+67D3",
+  "symbol": "染",
+  "meanings": [
+    "dye",
+    "color",
+    "paint",
+    "stain",
+    "print"
+  ],
+  "onyomi": [
+    "セン"
+  ],
+  "kunyomi": [
+    "そ.める",
+    "そ.まる",
+    "し.みる",
+    "し.み"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+967D",
+  "unicode": "U+967D",
+  "symbol": "陽",
+  "meanings": [
+    "sunshine",
+    "yang principle",
+    "positive",
+    "male",
+    "heaven",
+    "daytime"
+  ],
+  "onyomi": [
+    "ヨウ"
+  ],
+  "kunyomi": [
+    "ひ"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

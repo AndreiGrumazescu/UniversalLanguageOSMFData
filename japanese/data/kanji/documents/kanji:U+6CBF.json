@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+6CBF",
+  "unicode": "U+6CBF",
+  "symbol": "沿",
+  "meanings": [
+    "run alongside",
+    "follow along",
+    "run along",
+    "lie along"
+  ],
+  "onyomi": [
+    "エン"
+  ],
+  "kunyomi": [
+    "そ.う",
+    "-ぞ.い"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

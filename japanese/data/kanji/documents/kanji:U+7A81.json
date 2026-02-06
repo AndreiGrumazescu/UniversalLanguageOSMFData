@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+7A81",
+  "unicode": "U+7A81",
+  "symbol": "突",
+  "meanings": [
+    "stab",
+    "protruding",
+    "thrust",
+    "pierce",
+    "prick",
+    "collision",
+    "sudden"
+  ],
+  "onyomi": [
+    "トツ",
+    "カ"
+  ],
+  "kunyomi": [
+    "つ.く"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

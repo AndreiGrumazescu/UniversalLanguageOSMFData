@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+529F",
+  "unicode": "U+529F",
+  "symbol": "功",
+  "meanings": [
+    "achievement",
+    "merits",
+    "success",
+    "honor",
+    "credit"
+  ],
+  "onyomi": [
+    "コウ",
+    "ク"
+  ],
+  "kunyomi": [
+    "いさお"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+6D3B",
+  "unicode": "U+6D3B",
+  "symbol": "活",
+  "meanings": [
+    "lively",
+    "resuscitation",
+    "being helped",
+    "living"
+  ],
+  "onyomi": [
+    "カツ"
+  ],
+  "kunyomi": [
+    "い.きる",
+    "い.かす",
+    "い.ける"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

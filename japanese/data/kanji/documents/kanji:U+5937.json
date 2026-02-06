@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+5937",
+  "unicode": "U+5937",
+  "symbol": "夷",
+  "meanings": [
+    "barbarian",
+    "savage",
+    "Ainu"
+  ],
+  "onyomi": [
+    "イ"
+  ],
+  "kunyomi": [
+    "えびす",
+    "えみし",
+    "ころ.す",
+    "たい.らげる"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

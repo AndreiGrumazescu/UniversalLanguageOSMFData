@@ -1,0 +1,25 @@
+{
+  "$id": "kanji:U+5272",
+  "unicode": "U+5272",
+  "symbol": "割",
+  "meanings": [
+    "proportion",
+    "comparatively",
+    "divide",
+    "cut",
+    "separate",
+    "split"
+  ],
+  "onyomi": [
+    "カツ"
+  ],
+  "kunyomi": [
+    "わ.る",
+    "わり",
+    "わ.り",
+    "わ.れる",
+    "さ.く"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

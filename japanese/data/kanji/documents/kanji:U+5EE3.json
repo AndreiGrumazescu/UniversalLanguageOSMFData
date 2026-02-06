@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+5EE3",
+  "unicode": "U+5EE3",
+  "symbol": "廣",
+  "meanings": [
+    "broad",
+    "wide",
+    "spacious"
+  ],
+  "onyomi": [
+    "コウ"
+  ],
+  "kunyomi": [
+    "ひろ.い",
+    "ひろ.まる",
+    "ひろ.める",
+    "ひろ.がる",
+    "ひろ.げる"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

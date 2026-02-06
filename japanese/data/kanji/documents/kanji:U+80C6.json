@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+80C6",
+  "unicode": "U+80C6",
+  "symbol": "胆",
+  "meanings": [
+    "gall bladder",
+    "courage",
+    "pluck",
+    "nerve"
+  ],
+  "onyomi": [
+    "タン"
+  ],
+  "kunyomi": [
+    "きも"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+6BB4",
+  "unicode": "U+6BB4",
+  "symbol": "殴",
+  "meanings": [
+    "assault",
+    "hit",
+    "beat",
+    "thrash"
+  ],
+  "onyomi": [
+    "オウ"
+  ],
+  "kunyomi": [
+    "なぐ.る"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

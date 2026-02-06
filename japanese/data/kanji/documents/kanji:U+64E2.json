@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+64E2",
+  "unicode": "U+64E2",
+  "symbol": "擢",
+  "meanings": [
+    "excel in",
+    "surpass",
+    "pull out",
+    "select"
+  ],
+  "onyomi": [
+    "テキ",
+    "タク"
+  ],
+  "kunyomi": [
+    "ぬ.く",
+    "ぬき.んでる"
+  ],
+  "strokeCount": 17,
+  "jlptLevel": "unspecified"
+}

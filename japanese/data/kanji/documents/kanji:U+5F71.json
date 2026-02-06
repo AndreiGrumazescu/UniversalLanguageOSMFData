@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+5F71",
+  "unicode": "U+5F71",
+  "symbol": "影",
+  "meanings": [
+    "shadow",
+    "silhouette",
+    "phantom"
+  ],
+  "onyomi": [
+    "エイ"
+  ],
+  "kunyomi": [
+    "かげ"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+5263",
+  "unicode": "U+5263",
+  "symbol": "剣",
+  "meanings": [
+    "sabre",
+    "sword",
+    "blade",
+    "clock hand"
+  ],
+  "onyomi": [
+    "ケン"
+  ],
+  "kunyomi": [
+    "つるぎ"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

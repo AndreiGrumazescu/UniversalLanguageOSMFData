@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+5C04",
+  "unicode": "U+5C04",
+  "symbol": "射",
+  "meanings": [
+    "shoot",
+    "shine into",
+    "onto",
+    "archery"
+  ],
+  "onyomi": [
+    "シャ"
+  ],
+  "kunyomi": [
+    "い.る",
+    "さ.す",
+    "う.つ"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

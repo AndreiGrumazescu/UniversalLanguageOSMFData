@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+6CB8",
+  "unicode": "U+6CB8",
+  "symbol": "沸",
+  "meanings": [
+    "seethe",
+    "boil",
+    "ferment",
+    "uproar",
+    "breed"
+  ],
+  "onyomi": [
+    "フツ"
+  ],
+  "kunyomi": [
+    "わ.く",
+    "わ.かす"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

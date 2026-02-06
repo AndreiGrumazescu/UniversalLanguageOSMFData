@@ -1,0 +1,26 @@
+{
+  "$id": "kanji:U+658E",
+  "unicode": "U+658E",
+  "symbol": "斎",
+  "meanings": [
+    "purification",
+    "Buddhist food",
+    "room",
+    "worship",
+    "avoid",
+    "alike"
+  ],
+  "onyomi": [
+    "サイ"
+  ],
+  "kunyomi": [
+    "とき",
+    "つつし.む",
+    "ものいみ",
+    "い.む",
+    "いわ.う",
+    "いつ.く"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

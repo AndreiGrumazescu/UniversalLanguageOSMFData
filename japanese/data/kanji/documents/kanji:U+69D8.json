@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+69D8",
+  "unicode": "U+69D8",
+  "symbol": "様",
+  "meanings": [
+    "Esq.",
+    "way",
+    "manner",
+    "situation",
+    "polite suffix"
+  ],
+  "onyomi": [
+    "ヨウ",
+    "ショウ"
+  ],
+  "kunyomi": [
+    "さま",
+    "さん"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

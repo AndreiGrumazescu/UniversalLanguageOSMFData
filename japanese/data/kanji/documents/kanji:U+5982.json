@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+5982",
+  "unicode": "U+5982",
+  "symbol": "如",
+  "meanings": [
+    "likeness",
+    "like",
+    "such as",
+    "as if",
+    "better",
+    "best",
+    "equal"
+  ],
+  "onyomi": [
+    "ジョ",
+    "ニョ"
+  ],
+  "kunyomi": [
+    "ごと.し"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

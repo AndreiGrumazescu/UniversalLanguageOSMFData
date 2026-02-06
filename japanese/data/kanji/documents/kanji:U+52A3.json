@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+52A3",
+  "unicode": "U+52A3",
+  "symbol": "劣",
+  "meanings": [
+    "inferiority",
+    "be inferior to",
+    "be worse"
+  ],
+  "onyomi": [
+    "レツ"
+  ],
+  "kunyomi": [
+    "おと.る"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

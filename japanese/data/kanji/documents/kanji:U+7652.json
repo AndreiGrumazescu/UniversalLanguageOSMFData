@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+7652",
+  "unicode": "U+7652",
+  "symbol": "癒",
+  "meanings": [
+    "healing",
+    "cure",
+    "quench (thirst)",
+    "wreak"
+  ],
+  "onyomi": [
+    "ユ"
+  ],
+  "kunyomi": [
+    "い.える",
+    "いや.す",
+    "い.やす"
+  ],
+  "strokeCount": 18,
+  "jlptLevel": "unspecified"
+}

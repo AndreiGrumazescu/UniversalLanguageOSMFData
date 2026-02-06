@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+53F0",
+  "unicode": "U+53F0",
+  "symbol": "台",
+  "meanings": [
+    "pedestal",
+    "a stand",
+    "counter for machines and vehicles"
+  ],
+  "onyomi": [
+    "ダイ",
+    "タイ"
+  ],
+  "kunyomi": [
+    "うてな",
+    "われ",
+    "つかさ"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

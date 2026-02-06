@@ -1,0 +1,17 @@
+{
+  "$id": "kanji:U+732A",
+  "unicode": "U+732A",
+  "symbol": "猪",
+  "meanings": [
+    "boar"
+  ],
+  "onyomi": [
+    "チョ"
+  ],
+  "kunyomi": [
+    "い",
+    "いのしし"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

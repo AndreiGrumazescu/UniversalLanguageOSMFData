@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+983C",
+  "unicode": "U+983C",
+  "symbol": "頼",
+  "meanings": [
+    "trust",
+    "request"
+  ],
+  "onyomi": [
+    "ライ"
+  ],
+  "kunyomi": [
+    "たの.む",
+    "たの.もしい",
+    "たよ.る"
+  ],
+  "strokeCount": 16,
+  "jlptLevel": "unspecified"
+}

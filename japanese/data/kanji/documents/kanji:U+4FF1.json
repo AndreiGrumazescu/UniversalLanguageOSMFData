@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+4FF1",
+  "unicode": "U+4FF1",
+  "symbol": "俱",
+  "meanings": [
+    "all",
+    "together",
+    "accompany"
+  ],
+  "onyomi": [
+    "ク"
+  ],
+  "kunyomi": [
+    "ともに"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

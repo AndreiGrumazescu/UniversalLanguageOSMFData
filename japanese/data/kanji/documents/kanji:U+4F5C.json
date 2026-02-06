@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+4F5C",
+  "unicode": "U+4F5C",
+  "symbol": "作",
+  "meanings": [
+    "make",
+    "production",
+    "prepare",
+    "build"
+  ],
+  "onyomi": [
+    "サク",
+    "サ"
+  ],
+  "kunyomi": [
+    "つく.る",
+    "つく.り",
+    "-づく.り"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

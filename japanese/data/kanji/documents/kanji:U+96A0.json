@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+96A0",
+  "unicode": "U+96A0",
+  "symbol": "隠",
+  "meanings": [
+    "conceal",
+    "hide",
+    "cover"
+  ],
+  "onyomi": [
+    "イン",
+    "オン"
+  ],
+  "kunyomi": [
+    "かく.す",
+    "かく.し",
+    "かく.れる",
+    "よ.る"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

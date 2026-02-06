@@ -1,0 +1,27 @@
+{
+  "$id": "kanji:U+9000",
+  "unicode": "U+9000",
+  "symbol": "退",
+  "meanings": [
+    "retreat",
+    "withdraw",
+    "retire",
+    "resign",
+    "repel",
+    "expel",
+    "reject"
+  ],
+  "onyomi": [
+    "タイ"
+  ],
+  "kunyomi": [
+    "しりぞ.く",
+    "しりぞ.ける",
+    "ひ.く",
+    "の.く",
+    "の.ける",
+    "ど.く"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+665A",
+  "unicode": "U+665A",
+  "symbol": "晚",
+  "meanings": [
+    "night",
+    "evening",
+    "late"
+  ],
+  "onyomi": [
+    "バン"
+  ],
+  "kunyomi": [
+    "くれ",
+    "おそい"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

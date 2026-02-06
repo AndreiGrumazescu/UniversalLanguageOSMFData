@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+9060",
+  "unicode": "U+9060",
+  "symbol": "遠",
+  "meanings": [
+    "distant",
+    "far"
+  ],
+  "onyomi": [
+    "エン",
+    "オン"
+  ],
+  "kunyomi": [
+    "とお.い"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

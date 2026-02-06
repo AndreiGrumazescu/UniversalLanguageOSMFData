@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+80AF",
+  "unicode": "U+80AF",
+  "symbol": "肯",
+  "meanings": [
+    "agreement",
+    "consent",
+    "comply with"
+  ],
+  "onyomi": [
+    "コウ"
+  ],
+  "kunyomi": [
+    "がえんじ.る"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

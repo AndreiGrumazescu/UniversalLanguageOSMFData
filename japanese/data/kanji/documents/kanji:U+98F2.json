@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+98F2",
+  "unicode": "U+98F2",
+  "symbol": "飲",
+  "meanings": [
+    "drink",
+    "smoke",
+    "take"
+  ],
+  "onyomi": [
+    "イン",
+    "オン"
+  ],
+  "kunyomi": [
+    "の.む",
+    "-の.み"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

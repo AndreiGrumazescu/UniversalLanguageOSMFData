@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+906D",
+  "unicode": "U+906D",
+  "symbol": "遭",
+  "meanings": [
+    "encounter",
+    "meet",
+    "party",
+    "association",
+    "interview",
+    "join"
+  ],
+  "onyomi": [
+    "ソウ"
+  ],
+  "kunyomi": [
+    "あ.う",
+    "あ.わせる"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

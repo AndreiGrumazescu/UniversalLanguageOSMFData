@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+9928",
+  "unicode": "U+9928",
+  "symbol": "館",
+  "meanings": [
+    "building",
+    "mansion",
+    "large building",
+    "palace"
+  ],
+  "onyomi": [
+    "カン"
+  ],
+  "kunyomi": [
+    "やかた",
+    "たて"
+  ],
+  "strokeCount": 16,
+  "jlptLevel": "unspecified"
+}

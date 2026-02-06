@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+7E54",
+  "unicode": "U+7E54",
+  "symbol": "織",
+  "meanings": [
+    "weave",
+    "fabric"
+  ],
+  "onyomi": [
+    "ショク",
+    "シキ"
+  ],
+  "kunyomi": [
+    "お.る",
+    "お.り",
+    "おり",
+    "-おり",
+    "-お.り"
+  ],
+  "strokeCount": 18,
+  "jlptLevel": "unspecified"
+}

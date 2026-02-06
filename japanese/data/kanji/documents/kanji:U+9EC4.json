@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+9EC4",
+  "unicode": "U+9EC4",
+  "symbol": "黄",
+  "meanings": [
+    "yellow"
+  ],
+  "onyomi": [
+    "コウ",
+    "オウ"
+  ],
+  "kunyomi": [
+    "き",
+    "こ-"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

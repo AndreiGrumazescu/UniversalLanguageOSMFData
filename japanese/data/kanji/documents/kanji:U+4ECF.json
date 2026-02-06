@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+4ECF",
+  "unicode": "U+4ECF",
+  "symbol": "仏",
+  "meanings": [
+    "Buddha",
+    "the dead",
+    "France"
+  ],
+  "onyomi": [
+    "ブツ",
+    "フツ"
+  ],
+  "kunyomi": [
+    "ほとけ"
+  ],
+  "strokeCount": 4,
+  "jlptLevel": "unspecified"
+}

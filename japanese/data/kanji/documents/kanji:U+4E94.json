@@ -1,0 +1,17 @@
+{
+  "$id": "kanji:U+4E94",
+  "unicode": "U+4E94",
+  "symbol": "五",
+  "meanings": [
+    "five"
+  ],
+  "onyomi": [
+    "ゴ"
+  ],
+  "kunyomi": [
+    "いつ",
+    "いつ.つ"
+  ],
+  "strokeCount": 4,
+  "jlptLevel": "unspecified"
+}

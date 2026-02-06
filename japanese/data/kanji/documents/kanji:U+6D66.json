@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+6D66",
+  "unicode": "U+6D66",
+  "symbol": "浦",
+  "meanings": [
+    "bay",
+    "creek",
+    "inlet",
+    "gulf",
+    "beach",
+    "seacoast"
+  ],
+  "onyomi": [
+    "ホ"
+  ],
+  "kunyomi": [
+    "うら"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+6574",
+  "unicode": "U+6574",
+  "symbol": "整",
+  "meanings": [
+    "organize",
+    "arranging",
+    "tune",
+    "tone",
+    "meter",
+    "key (music)"
+  ],
+  "onyomi": [
+    "セイ"
+  ],
+  "kunyomi": [
+    "ととの.える",
+    "ととの.う"
+  ],
+  "strokeCount": 16,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+843D",
+  "unicode": "U+843D",
+  "symbol": "落",
+  "meanings": [
+    "fall",
+    "drop",
+    "come down",
+    "village",
+    "hamlet"
+  ],
+  "onyomi": [
+    "ラク"
+  ],
+  "kunyomi": [
+    "お.ちる",
+    "お.ち",
+    "お.とす"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

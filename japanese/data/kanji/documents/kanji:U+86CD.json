@@ -1,0 +1,17 @@
+{
+  "$id": "kanji:U+86CD",
+  "unicode": "U+86CD",
+  "symbol": "蛍",
+  "meanings": [
+    "lightning-bug",
+    "firefly"
+  ],
+  "onyomi": [
+    "ケイ"
+  ],
+  "kunyomi": [
+    "ほたる"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

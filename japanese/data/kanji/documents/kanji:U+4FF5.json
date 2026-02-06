@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+4FF5",
+  "unicode": "U+4FF5",
+  "symbol": "俵",
+  "meanings": [
+    "bag",
+    "bale",
+    "sack",
+    "counter for bags"
+  ],
+  "onyomi": [
+    "ヒョウ"
+  ],
+  "kunyomi": [
+    "たわら"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

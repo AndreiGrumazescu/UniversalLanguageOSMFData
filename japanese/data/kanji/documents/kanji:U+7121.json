@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+7121",
+  "unicode": "U+7121",
+  "symbol": "無",
+  "meanings": [
+    "nothingness",
+    "none",
+    "ain't",
+    "nothing",
+    "nil",
+    "not"
+  ],
+  "onyomi": [
+    "ム",
+    "ブ"
+  ],
+  "kunyomi": [
+    "な.い"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

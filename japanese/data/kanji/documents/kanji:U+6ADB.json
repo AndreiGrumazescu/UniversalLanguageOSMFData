@@ -1,0 +1,17 @@
+{
+  "$id": "kanji:U+6ADB",
+  "unicode": "U+6ADB",
+  "symbol": "櫛",
+  "meanings": [
+    "comb"
+  ],
+  "onyomi": [
+    "シツ"
+  ],
+  "kunyomi": [
+    "くし",
+    "くしけず.る"
+  ],
+  "strokeCount": 17,
+  "jlptLevel": "unspecified"
+}

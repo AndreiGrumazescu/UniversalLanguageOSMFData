@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+5B66",
+  "unicode": "U+5B66",
+  "symbol": "学",
+  "meanings": [
+    "study",
+    "learning",
+    "science"
+  ],
+  "onyomi": [
+    "ガク"
+  ],
+  "kunyomi": [
+    "まな.ぶ"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

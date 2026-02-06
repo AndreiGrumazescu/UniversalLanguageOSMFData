@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+5302",
+  "unicode": "U+5302",
+  "symbol": "匂",
+  "meanings": [
+    "fragrant",
+    "stink",
+    "glow",
+    "insinuate",
+    "(kokuji)"
+  ],
+  "kunyomi": [
+    "にお.う",
+    "にお.い",
+    "にお.わせる"
+  ],
+  "strokeCount": 4,
+  "jlptLevel": "unspecified"
+}

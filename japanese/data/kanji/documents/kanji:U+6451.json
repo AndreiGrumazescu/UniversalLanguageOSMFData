@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+6451",
+  "unicode": "U+6451",
+  "symbol": "摑",
+  "meanings": [
+    "box one's ears",
+    "slap"
+  ],
+  "onyomi": [
+    "カク"
+  ],
+  "kunyomi": [
+    "つか.む",
+    "つか.まえる",
+    "つか.まる"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+7FD4",
+  "unicode": "U+7FD4",
+  "symbol": "翔",
+  "meanings": [
+    "soar",
+    "fly"
+  ],
+  "onyomi": [
+    "ショウ"
+  ],
+  "kunyomi": [
+    "かけ.る",
+    "と.ぶ"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+7389",
+  "unicode": "U+7389",
+  "symbol": "玉",
+  "meanings": [
+    "jewel",
+    "ball"
+  ],
+  "onyomi": [
+    "ギョク"
+  ],
+  "kunyomi": [
+    "たま",
+    "たま-",
+    "-だま"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

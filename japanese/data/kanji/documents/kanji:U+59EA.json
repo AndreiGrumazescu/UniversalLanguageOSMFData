@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+59EA",
+  "unicode": "U+59EA",
+  "symbol": "姪",
+  "meanings": [
+    "niece"
+  ],
+  "onyomi": [
+    "テツ",
+    "チツ",
+    "ジチ",
+    "イツ",
+    "イチ"
+  ],
+  "kunyomi": [
+    "めい",
+    "おい"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

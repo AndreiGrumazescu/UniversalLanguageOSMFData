@@ -1,0 +1,25 @@
+{
+  "$id": "kanji:U+969B",
+  "unicode": "U+969B",
+  "symbol": "際",
+  "meanings": [
+    "occasion",
+    "side",
+    "edge",
+    "verge",
+    "dangerous",
+    "adventurous",
+    "indecent",
+    "time",
+    "when"
+  ],
+  "onyomi": [
+    "サイ"
+  ],
+  "kunyomi": [
+    "きわ",
+    "-ぎわ"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

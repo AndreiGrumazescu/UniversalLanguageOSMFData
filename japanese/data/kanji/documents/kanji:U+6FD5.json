@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+6FD5",
+  "unicode": "U+6FD5",
+  "symbol": "濕",
+  "meanings": [
+    "wet",
+    "moist",
+    "humid",
+    "damp",
+    "an illness"
+  ],
+  "onyomi": [
+    "シツ",
+    "シュウ"
+  ],
+  "kunyomi": [
+    "しめ.る",
+    "しめ.す",
+    "うるお.う",
+    "うるお.す"
+  ],
+  "strokeCount": 17,
+  "jlptLevel": "unspecified"
+}

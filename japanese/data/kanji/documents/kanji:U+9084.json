@@ -1,0 +1,17 @@
+{
+  "$id": "kanji:U+9084",
+  "unicode": "U+9084",
+  "symbol": "還",
+  "meanings": [
+    "send back",
+    "return"
+  ],
+  "onyomi": [
+    "カン"
+  ],
+  "kunyomi": [
+    "かえ.る"
+  ],
+  "strokeCount": 16,
+  "jlptLevel": "unspecified"
+}

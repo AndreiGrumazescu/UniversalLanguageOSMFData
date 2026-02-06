@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+75DB",
+  "unicode": "U+75DB",
+  "symbol": "痛",
+  "meanings": [
+    "pain",
+    "hurt",
+    "damage",
+    "bruise"
+  ],
+  "onyomi": [
+    "ツウ"
+  ],
+  "kunyomi": [
+    "いた.い",
+    "いた.む",
+    "いた.ましい",
+    "いた.める"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

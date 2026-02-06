@@ -1,0 +1,25 @@
+{
+  "$id": "kanji:U+9023",
+  "unicode": "U+9023",
+  "symbol": "連",
+  "meanings": [
+    "take along",
+    "lead",
+    "join",
+    "connect",
+    "party",
+    "gang",
+    "clique"
+  ],
+  "onyomi": [
+    "レン"
+  ],
+  "kunyomi": [
+    "つら.なる",
+    "つら.ねる",
+    "つ.れる",
+    "-づ.れ"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

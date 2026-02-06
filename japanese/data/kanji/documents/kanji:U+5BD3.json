@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+5BD3",
+  "unicode": "U+5BD3",
+  "symbol": "寓",
+  "meanings": [
+    "temporary abode",
+    "imply",
+    "suggest"
+  ],
+  "onyomi": [
+    "グウ",
+    "グ",
+    "ドウ"
+  ],
+  "kunyomi": [
+    "ぐう.する",
+    "かこつ.ける",
+    "よ.せる",
+    "よ.る",
+    "かりずまい"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

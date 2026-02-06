@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+8A18",
+  "unicode": "U+8A18",
+  "symbol": "記",
+  "meanings": [
+    "scribe",
+    "account",
+    "narrative"
+  ],
+  "onyomi": [
+    "キ"
+  ],
+  "kunyomi": [
+    "しる.す"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+6697",
+  "unicode": "U+6697",
+  "symbol": "暗",
+  "meanings": [
+    "darkness",
+    "disappear",
+    "shade",
+    "informal",
+    "grow dark",
+    "be blinded"
+  ],
+  "onyomi": [
+    "アン"
+  ],
+  "kunyomi": [
+    "くら.い",
+    "くら.む",
+    "くれ.る"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+66B4",
+  "unicode": "U+66B4",
+  "symbol": "暴",
+  "meanings": [
+    "outburst",
+    "rave",
+    "fret",
+    "force",
+    "violence",
+    "cruelty",
+    "outrage"
+  ],
+  "onyomi": [
+    "ボウ",
+    "バク"
+  ],
+  "kunyomi": [
+    "あば.く",
+    "あば.れる"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

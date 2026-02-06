@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+70CF",
+  "unicode": "U+70CF",
+  "symbol": "烏",
+  "meanings": [
+    "crow",
+    "raven"
+  ],
+  "onyomi": [
+    "ウ",
+    "オ"
+  ],
+  "kunyomi": [
+    "からす",
+    "いずくんぞ",
+    "なんぞ"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

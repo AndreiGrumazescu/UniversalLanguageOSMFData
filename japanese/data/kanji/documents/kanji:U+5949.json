@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+5949",
+  "unicode": "U+5949",
+  "symbol": "奉",
+  "meanings": [
+    "observance",
+    "offer",
+    "present",
+    "dedicate"
+  ],
+  "onyomi": [
+    "ホウ",
+    "ブ"
+  ],
+  "kunyomi": [
+    "たてまつ.る",
+    "まつ.る",
+    "ほう.ずる"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

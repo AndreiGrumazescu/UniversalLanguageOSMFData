@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+578B",
+  "unicode": "U+578B",
+  "symbol": "型",
+  "meanings": [
+    "mould",
+    "type",
+    "model"
+  ],
+  "onyomi": [
+    "ケイ"
+  ],
+  "kunyomi": [
+    "かた",
+    "-がた"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

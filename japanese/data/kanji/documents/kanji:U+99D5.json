@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+99D5",
+  "unicode": "U+99D5",
+  "symbol": "駕",
+  "meanings": [
+    "vehicle",
+    "palanquin",
+    "litter",
+    "hitch up an animal"
+  ],
+  "onyomi": [
+    "カ",
+    "ガ"
+  ],
+  "kunyomi": [
+    "かご",
+    "が.する",
+    "しのぐ",
+    "のる"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,25 @@
+{
+  "$id": "kanji:U+523A",
+  "unicode": "U+523A",
+  "symbol": "刺",
+  "meanings": [
+    "thorn",
+    "pierce",
+    "stab",
+    "prick",
+    "sting",
+    "calling card"
+  ],
+  "onyomi": [
+    "シ"
+  ],
+  "kunyomi": [
+    "さ.す",
+    "さ.さる",
+    "さ.し",
+    "さし",
+    "とげ"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

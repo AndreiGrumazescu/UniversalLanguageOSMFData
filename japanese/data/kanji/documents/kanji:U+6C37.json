@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+6C37",
+  "unicode": "U+6C37",
+  "symbol": "氷",
+  "meanings": [
+    "icicle",
+    "ice",
+    "hail",
+    "freeze",
+    "congeal"
+  ],
+  "onyomi": [
+    "ヒョウ"
+  ],
+  "kunyomi": [
+    "こおり",
+    "ひ",
+    "こお.る"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

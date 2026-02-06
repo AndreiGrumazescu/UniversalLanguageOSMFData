@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+9858",
+  "unicode": "U+9858",
+  "symbol": "願",
+  "meanings": [
+    "petition",
+    "request",
+    "vow",
+    "wish",
+    "hope"
+  ],
+  "onyomi": [
+    "ガン"
+  ],
+  "kunyomi": [
+    "ねが.う",
+    "-ねがい"
+  ],
+  "strokeCount": 19,
+  "jlptLevel": "unspecified"
+}

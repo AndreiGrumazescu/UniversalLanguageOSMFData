@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+6190",
+  "unicode": "U+6190",
+  "symbol": "憐",
+  "meanings": [
+    "pity",
+    "have mercy",
+    "sympathise",
+    "compassion"
+  ],
+  "onyomi": [
+    "レン"
+  ],
+  "kunyomi": [
+    "あわ.れむ",
+    "あわ.れ"
+  ],
+  "strokeCount": 16,
+  "jlptLevel": "unspecified"
+}

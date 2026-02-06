@@ -1,0 +1,27 @@
+{
+  "$id": "kanji:U+88AB",
+  "unicode": "U+88AB",
+  "symbol": "被",
+  "meanings": [
+    "incur",
+    "cover",
+    "veil",
+    "brood over",
+    "shelter",
+    "wear",
+    "put on",
+    "be exposed (film)",
+    "receiving"
+  ],
+  "onyomi": [
+    "ヒ"
+  ],
+  "kunyomi": [
+    "こうむ.る",
+    "おお.う",
+    "かぶ.る",
+    "かぶ.せる"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

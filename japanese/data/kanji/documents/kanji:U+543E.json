@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+543E",
+  "unicode": "U+543E",
+  "symbol": "吾",
+  "meanings": [
+    "I",
+    "my",
+    "our",
+    "one's own"
+  ],
+  "onyomi": [
+    "ゴ"
+  ],
+  "kunyomi": [
+    "われ",
+    "わが-",
+    "あ-"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

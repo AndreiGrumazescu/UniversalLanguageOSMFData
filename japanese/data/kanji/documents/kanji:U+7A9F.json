@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+7A9F",
+  "unicode": "U+7A9F",
+  "symbol": "窟",
+  "meanings": [
+    "cavern"
+  ],
+  "onyomi": [
+    "クツ",
+    "コツ"
+  ],
+  "kunyomi": [
+    "いわや",
+    "いはや",
+    "あな"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

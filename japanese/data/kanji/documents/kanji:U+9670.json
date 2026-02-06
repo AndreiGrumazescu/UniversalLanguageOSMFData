@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+9670",
+  "unicode": "U+9670",
+  "symbol": "陰",
+  "meanings": [
+    "shade",
+    "yin",
+    "negative",
+    "sex organs",
+    "secret",
+    "shadow"
+  ],
+  "onyomi": [
+    "イン"
+  ],
+  "kunyomi": [
+    "かげ",
+    "かげ.る"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

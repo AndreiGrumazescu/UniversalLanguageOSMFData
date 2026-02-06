@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+6A3D",
+  "unicode": "U+6A3D",
+  "symbol": "樽",
+  "meanings": [
+    "barrel",
+    "cask",
+    "keg"
+  ],
+  "onyomi": [
+    "ソン"
+  ],
+  "kunyomi": [
+    "たる"
+  ],
+  "strokeCount": 16,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+5177",
+  "unicode": "U+5177",
+  "symbol": "具",
+  "meanings": [
+    "tool",
+    "utensil",
+    "means",
+    "possess",
+    "ingredients",
+    "counter for armor, suits, sets of furniture"
+  ],
+  "onyomi": [
+    "グ"
+  ],
+  "kunyomi": [
+    "そな.える",
+    "つぶさ.に"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

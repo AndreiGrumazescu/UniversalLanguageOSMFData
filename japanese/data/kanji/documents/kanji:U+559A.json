@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+559A",
+  "unicode": "U+559A",
+  "symbol": "喚",
+  "meanings": [
+    "yell",
+    "cry",
+    "call",
+    "scream",
+    "summon"
+  ],
+  "onyomi": [
+    "カン"
+  ],
+  "kunyomi": [
+    "わめ.く"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,26 @@
+{
+  "$id": "kanji:U+7565",
+  "unicode": "U+7565",
+  "symbol": "略",
+  "meanings": [
+    "abbreviation",
+    "omission",
+    "outline",
+    "shorten",
+    "capture",
+    "plunder"
+  ],
+  "onyomi": [
+    "リャク"
+  ],
+  "kunyomi": [
+    "ほぼ",
+    "はぶ.く",
+    "おか.す",
+    "おさ.める",
+    "はかりごと",
+    "はか.る"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

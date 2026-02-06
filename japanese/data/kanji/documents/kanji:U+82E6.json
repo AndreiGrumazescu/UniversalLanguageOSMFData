@@ -1,0 +1,26 @@
+{
+  "$id": "kanji:U+82E6",
+  "unicode": "U+82E6",
+  "symbol": "苦",
+  "meanings": [
+    "suffering",
+    "trial",
+    "worry",
+    "hardship",
+    "feel bitter",
+    "scowl"
+  ],
+  "onyomi": [
+    "ク"
+  ],
+  "kunyomi": [
+    "くる.しい",
+    "-ぐる.しい",
+    "くる.しむ",
+    "くる.しめる",
+    "にが.い",
+    "にが.る"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

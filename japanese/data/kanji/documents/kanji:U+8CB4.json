@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+8CB4",
+  "unicode": "U+8CB4",
+  "symbol": "貴",
+  "meanings": [
+    "precious",
+    "value",
+    "prize",
+    "esteem",
+    "honor"
+  ],
+  "onyomi": [
+    "キ"
+  ],
+  "kunyomi": [
+    "たっと.い",
+    "とうと.い",
+    "たっと.ぶ",
+    "とうと.ぶ"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

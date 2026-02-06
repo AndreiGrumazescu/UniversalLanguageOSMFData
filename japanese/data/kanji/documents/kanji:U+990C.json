@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+990C",
+  "unicode": "U+990C",
+  "symbol": "餌",
+  "meanings": [
+    "food",
+    "bait",
+    "prey",
+    "tempting profit"
+  ],
+  "onyomi": [
+    "ジ",
+    "ニ"
+  ],
+  "kunyomi": [
+    "え",
+    "えば",
+    "えさ",
+    "もち"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

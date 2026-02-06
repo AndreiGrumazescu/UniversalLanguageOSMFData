@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+92F8",
+  "unicode": "U+92F8",
+  "symbol": "鋸",
+  "meanings": [
+    "saw (cuts wood)"
+  ],
+  "onyomi": [
+    "キョ",
+    "コ"
+  ],
+  "kunyomi": [
+    "のこ",
+    "のこぎり"
+  ],
+  "strokeCount": 16,
+  "jlptLevel": "unspecified"
+}

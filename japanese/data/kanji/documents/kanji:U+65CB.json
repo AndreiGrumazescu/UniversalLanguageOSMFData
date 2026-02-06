@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+65CB",
+  "unicode": "U+65CB",
+  "symbol": "旋",
+  "meanings": [
+    "rotation",
+    "go around"
+  ],
+  "onyomi": [
+    "セン"
+  ],
+  "kunyomi": [
+    "め.ぐる",
+    "いばり"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+5F8B",
+  "unicode": "U+5F8B",
+  "symbol": "律",
+  "meanings": [
+    "rhythm",
+    "law",
+    "regulation",
+    "gauge",
+    "control"
+  ],
+  "onyomi": [
+    "リツ",
+    "リチ",
+    "レツ"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

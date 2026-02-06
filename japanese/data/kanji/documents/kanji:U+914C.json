@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+914C",
+  "unicode": "U+914C",
+  "symbol": "酌",
+  "meanings": [
+    "bar-tending",
+    "serving sake",
+    "the host",
+    "draw (water)",
+    "ladle",
+    "scoop",
+    "pump"
+  ],
+  "onyomi": [
+    "シャク"
+  ],
+  "kunyomi": [
+    "く.む"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

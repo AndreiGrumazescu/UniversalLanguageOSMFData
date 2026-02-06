@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+8A3C",
+  "unicode": "U+8A3C",
+  "symbol": "証",
+  "meanings": [
+    "evidence",
+    "proof",
+    "certificate"
+  ],
+  "onyomi": [
+    "ショウ"
+  ],
+  "kunyomi": [
+    "あかし"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

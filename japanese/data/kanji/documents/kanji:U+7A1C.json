@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+7A1C",
+  "unicode": "U+7A1C",
+  "symbol": "稜",
+  "meanings": [
+    "angle",
+    "edge",
+    "corner",
+    "power",
+    "majesty"
+  ],
+  "onyomi": [
+    "リョウ",
+    "ロウ"
+  ],
+  "kunyomi": [
+    "いつ",
+    "かど"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

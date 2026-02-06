@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+4E5F",
+  "unicode": "U+4E5F",
+  "symbol": "也",
+  "meanings": [
+    "to be (classical)"
+  ],
+  "onyomi": [
+    "ヤ",
+    "エ"
+  ],
+  "kunyomi": [
+    "なり",
+    "か",
+    "また"
+  ],
+  "strokeCount": 3,
+  "jlptLevel": "unspecified"
+}

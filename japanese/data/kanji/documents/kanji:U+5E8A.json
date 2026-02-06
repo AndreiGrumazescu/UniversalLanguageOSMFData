@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+5E8A",
+  "unicode": "U+5E8A",
+  "symbol": "床",
+  "meanings": [
+    "bed",
+    "counter for beds",
+    "floor",
+    "padding",
+    "tatami"
+  ],
+  "onyomi": [
+    "ショウ"
+  ],
+  "kunyomi": [
+    "とこ",
+    "ゆか"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

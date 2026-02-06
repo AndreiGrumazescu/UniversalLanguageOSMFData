@@ -1,0 +1,30 @@
+{
+  "$id": "kanji:U+60AA",
+  "unicode": "U+60AA",
+  "symbol": "悪",
+  "meanings": [
+    "bad",
+    "vice",
+    "rascal",
+    "false",
+    "evil",
+    "wrong"
+  ],
+  "onyomi": [
+    "アク",
+    "オ"
+  ],
+  "kunyomi": [
+    "わる.い",
+    "わる-",
+    "あ.し",
+    "にく.い",
+    "-にく.い",
+    "ああ",
+    "いずくに",
+    "いずくんぞ",
+    "にく.む"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

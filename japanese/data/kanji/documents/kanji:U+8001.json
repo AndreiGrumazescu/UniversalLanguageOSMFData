@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+8001",
+  "unicode": "U+8001",
+  "symbol": "老",
+  "meanings": [
+    "old man",
+    "old age",
+    "grow old"
+  ],
+  "onyomi": [
+    "ロウ"
+  ],
+  "kunyomi": [
+    "お.いる",
+    "ふ.ける"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

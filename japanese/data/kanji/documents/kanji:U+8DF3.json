@@ -1,0 +1,26 @@
+{
+  "$id": "kanji:U+8DF3",
+  "unicode": "U+8DF3",
+  "symbol": "跳",
+  "meanings": [
+    "hop",
+    "leap up",
+    "spring",
+    "jerk",
+    "prance",
+    "buck",
+    "splash",
+    "sputter",
+    "snap"
+  ],
+  "onyomi": [
+    "チョウ"
+  ],
+  "kunyomi": [
+    "は.ねる",
+    "と.ぶ",
+    "-と.び"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+516D",
+  "unicode": "U+516D",
+  "symbol": "六",
+  "meanings": [
+    "six"
+  ],
+  "onyomi": [
+    "ロク",
+    "リク"
+  ],
+  "kunyomi": [
+    "む",
+    "む.つ",
+    "むっ.つ",
+    "むい"
+  ],
+  "strokeCount": 4,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+5947",
+  "unicode": "U+5947",
+  "symbol": "奇",
+  "meanings": [
+    "strange",
+    "strangeness",
+    "curiosity"
+  ],
+  "onyomi": [
+    "キ"
+  ],
+  "kunyomi": [
+    "く.しき",
+    "あや.しい",
+    "くし",
+    "めずら.しい"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

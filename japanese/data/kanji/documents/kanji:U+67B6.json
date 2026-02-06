@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+67B6",
+  "unicode": "U+67B6",
+  "symbol": "架",
+  "meanings": [
+    "erect",
+    "frame",
+    "mount",
+    "support",
+    "shelf",
+    "construct"
+  ],
+  "onyomi": [
+    "カ"
+  ],
+  "kunyomi": [
+    "か.ける",
+    "か.かる"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

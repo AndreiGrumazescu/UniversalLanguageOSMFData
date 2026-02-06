@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+9B5A",
+  "unicode": "U+9B5A",
+  "symbol": "魚",
+  "meanings": [
+    "fish"
+  ],
+  "onyomi": [
+    "ギョ"
+  ],
+  "kunyomi": [
+    "うお",
+    "さかな",
+    "-ざかな"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

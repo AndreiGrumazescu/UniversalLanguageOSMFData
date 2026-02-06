@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+584A",
+  "unicode": "U+584A",
+  "symbol": "塊",
+  "meanings": [
+    "clod",
+    "lump",
+    "chunk",
+    "clot",
+    "mass"
+  ],
+  "onyomi": [
+    "カイ",
+    "ケ"
+  ],
+  "kunyomi": [
+    "かたまり",
+    "つちくれ"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

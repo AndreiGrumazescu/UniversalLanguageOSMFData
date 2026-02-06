@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+631F",
+  "unicode": "U+631F",
+  "symbol": "挟",
+  "meanings": [
+    "pinch",
+    "between"
+  ],
+  "onyomi": [
+    "キョウ",
+    "ショウ"
+  ],
+  "kunyomi": [
+    "はさ.む",
+    "はさ.まる",
+    "わきばさ.む",
+    "さしはさ.む"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

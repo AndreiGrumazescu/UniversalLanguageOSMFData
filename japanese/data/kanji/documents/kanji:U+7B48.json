@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+7B48",
+  "unicode": "U+7B48",
+  "symbol": "筈",
+  "meanings": [
+    "notch of an arrow",
+    "ought",
+    "must",
+    "should be",
+    "expected"
+  ],
+  "onyomi": [
+    "カツ"
+  ],
+  "kunyomi": [
+    "はず",
+    "やはず"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

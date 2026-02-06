@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+852D",
+  "unicode": "U+852D",
+  "symbol": "蔭",
+  "meanings": [
+    "shade",
+    "shadow",
+    "backing assistance"
+  ],
+  "onyomi": [
+    "イン",
+    "オン"
+  ],
+  "kunyomi": [
+    "かげ"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

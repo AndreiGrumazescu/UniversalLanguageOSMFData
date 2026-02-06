@@ -1,0 +1,25 @@
+{
+  "$id": "kanji:U+7AF6",
+  "unicode": "U+7AF6",
+  "symbol": "競",
+  "meanings": [
+    "emulate",
+    "compete with",
+    "bid",
+    "sell at auction",
+    "bout",
+    "contest",
+    "race"
+  ],
+  "onyomi": [
+    "キョウ",
+    "ケイ"
+  ],
+  "kunyomi": [
+    "きそ.う",
+    "せ.る",
+    "くら.べる"
+  ],
+  "strokeCount": 20,
+  "jlptLevel": "unspecified"
+}

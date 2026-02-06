@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+99C4",
+  "unicode": "U+99C4",
+  "symbol": "駄",
+  "meanings": [
+    "burdensome",
+    "pack horse",
+    "horse load",
+    "send by horse",
+    "trivial",
+    "worthless"
+  ],
+  "onyomi": [
+    "ダ",
+    "タ"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

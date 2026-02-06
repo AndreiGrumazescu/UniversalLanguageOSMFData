@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+79FB",
+  "unicode": "U+79FB",
+  "symbol": "移",
+  "meanings": [
+    "shift",
+    "move",
+    "change",
+    "drift",
+    "catch (cold, fire)",
+    "pass into"
+  ],
+  "onyomi": [
+    "イ"
+  ],
+  "kunyomi": [
+    "うつ.る",
+    "うつ.す"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

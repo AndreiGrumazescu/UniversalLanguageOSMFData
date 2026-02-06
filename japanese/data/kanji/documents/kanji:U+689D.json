@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+689D",
+  "unicode": "U+689D",
+  "symbol": "條",
+  "meanings": [
+    "article",
+    "counter for articles, clauses, paragraphs, etc.",
+    "twig",
+    "ray of light"
+  ],
+  "onyomi": [
+    "ジョウ",
+    "チョウ",
+    "デキ"
+  ],
+  "kunyomi": [
+    "えだ",
+    "すじ"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

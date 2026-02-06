@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+7D43",
+  "unicode": "U+7D43",
+  "symbol": "絃",
+  "meanings": [
+    "string",
+    "cord",
+    "samisen music"
+  ],
+  "onyomi": [
+    "ゲン"
+  ],
+  "kunyomi": [
+    "いと"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+7533",
+  "unicode": "U+7533",
+  "symbol": "申",
+  "meanings": [
+    "have the honor to",
+    "sign of the monkey",
+    "3-5PM",
+    "ninth sign of Chinese zodiac"
+  ],
+  "onyomi": [
+    "シン"
+  ],
+  "kunyomi": [
+    "もう.す",
+    "もう.し-",
+    "さる"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

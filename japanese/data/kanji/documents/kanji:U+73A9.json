@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+73A9",
+  "unicode": "U+73A9",
+  "symbol": "玩",
+  "meanings": [
+    "play",
+    "take pleasure in",
+    "trifle with",
+    "make sport of"
+  ],
+  "onyomi": [
+    "ガン"
+  ],
+  "kunyomi": [
+    "もちあそ.ぶ",
+    "もてあそ.ぶ"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

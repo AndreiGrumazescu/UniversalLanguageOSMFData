@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+9867",
+  "unicode": "U+9867",
+  "symbol": "顧",
+  "meanings": [
+    "look back",
+    "review",
+    "examine oneself",
+    "turn around"
+  ],
+  "onyomi": [
+    "コ"
+  ],
+  "kunyomi": [
+    "かえり.みる"
+  ],
+  "strokeCount": 21,
+  "jlptLevel": "unspecified"
+}

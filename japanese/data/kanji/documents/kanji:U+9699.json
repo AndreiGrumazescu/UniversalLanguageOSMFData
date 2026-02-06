@@ -1,0 +1,25 @@
+{
+  "$id": "kanji:U+9699",
+  "unicode": "U+9699",
+  "symbol": "隙",
+  "meanings": [
+    "crevice",
+    "fissure",
+    "discord",
+    "opportunity",
+    "leisure"
+  ],
+  "onyomi": [
+    "ゲキ",
+    "キャク",
+    "ケキ"
+  ],
+  "kunyomi": [
+    "すき",
+    "す.く",
+    "す.かす",
+    "ひま"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+8139",
+  "unicode": "U+8139",
+  "symbol": "脹",
+  "meanings": [
+    "dilate",
+    "distend",
+    "bulge",
+    "fill out",
+    "swell"
+  ],
+  "onyomi": [
+    "チョウ"
+  ],
+  "kunyomi": [
+    "は.れる",
+    "ふく.らむ",
+    "ふく.れる"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

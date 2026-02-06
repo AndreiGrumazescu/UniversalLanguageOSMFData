@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+98DC",
+  "unicode": "U+98DC",
+  "symbol": "飜",
+  "meanings": [
+    "flip over",
+    "upset",
+    "capsize"
+  ],
+  "onyomi": [
+    "ハン",
+    "ホン"
+  ],
+  "kunyomi": [
+    "ひるがえ.す",
+    "ひるがえ.る"
+  ],
+  "strokeCount": 21,
+  "jlptLevel": "unspecified"
+}

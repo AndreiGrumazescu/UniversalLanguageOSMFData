@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+905C",
+  "unicode": "U+905C",
+  "symbol": "遜",
+  "meanings": [
+    "humble",
+    "modest"
+  ],
+  "onyomi": [
+    "ソン"
+  ],
+  "kunyomi": [
+    "したが.う",
+    "へりくだ.る",
+    "ゆず.る"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

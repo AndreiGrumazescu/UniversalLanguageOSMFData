@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+5305",
+  "unicode": "U+5305",
+  "symbol": "包",
+  "meanings": [
+    "wrap",
+    "pack up",
+    "cover",
+    "conceal"
+  ],
+  "onyomi": [
+    "ホウ"
+  ],
+  "kunyomi": [
+    "つつ.む",
+    "くる.む"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

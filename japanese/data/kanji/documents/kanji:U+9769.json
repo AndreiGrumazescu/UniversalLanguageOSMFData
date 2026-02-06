@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+9769",
+  "unicode": "U+9769",
+  "symbol": "革",
+  "meanings": [
+    "leather",
+    "skin",
+    "reform",
+    "become serious"
+  ],
+  "onyomi": [
+    "カク"
+  ],
+  "kunyomi": [
+    "かわ"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

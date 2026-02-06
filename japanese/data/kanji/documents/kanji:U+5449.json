@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+5449",
+  "unicode": "U+5449",
+  "symbol": "呉",
+  "meanings": [
+    "give",
+    "do something for",
+    "kingdom of Wu"
+  ],
+  "onyomi": [
+    "ゴ"
+  ],
+  "kunyomi": [
+    "く.れる",
+    "くれ"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

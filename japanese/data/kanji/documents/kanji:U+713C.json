@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+713C",
+  "unicode": "U+713C",
+  "symbol": "焼",
+  "meanings": [
+    "bake",
+    "burning"
+  ],
+  "onyomi": [
+    "ショウ"
+  ],
+  "kunyomi": [
+    "や.く",
+    "や.き",
+    "や.き-",
+    "-や.き",
+    "や.ける"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

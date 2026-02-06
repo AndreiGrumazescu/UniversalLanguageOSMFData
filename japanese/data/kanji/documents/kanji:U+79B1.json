@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+79B1",
+  "unicode": "U+79B1",
+  "symbol": "禱",
+  "meanings": [
+    "pray",
+    "entreat",
+    "beg",
+    "plead",
+    "prayer"
+  ],
+  "onyomi": [
+    "トウ"
+  ],
+  "kunyomi": [
+    "いの.る",
+    "まつ.る"
+  ],
+  "strokeCount": 18,
+  "jlptLevel": "unspecified"
+}

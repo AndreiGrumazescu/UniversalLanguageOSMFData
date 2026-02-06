@@ -1,0 +1,25 @@
+{
+  "$id": "kanji:U+5727",
+  "unicode": "U+5727",
+  "symbol": "圧",
+  "meanings": [
+    "pressure",
+    "push",
+    "overwhelm",
+    "oppress",
+    "dominate"
+  ],
+  "onyomi": [
+    "アツ",
+    "エン",
+    "オウ"
+  ],
+  "kunyomi": [
+    "お.す",
+    "へ.す",
+    "おさ.える",
+    "お.さえる"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

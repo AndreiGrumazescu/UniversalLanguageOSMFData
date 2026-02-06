@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+85B0",
+  "unicode": "U+85B0",
+  "symbol": "薰",
+  "meanings": [
+    "a medicinal herb",
+    "to cauterize"
+  ],
+  "onyomi": [
+    "クン"
+  ],
+  "kunyomi": [
+    "かおる",
+    "かおりぐさ",
+    "かおり"
+  ],
+  "strokeCount": 20,
+  "jlptLevel": "unspecified"
+}

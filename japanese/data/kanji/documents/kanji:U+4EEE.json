@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+4EEE",
+  "unicode": "U+4EEE",
+  "symbol": "仮",
+  "meanings": [
+    "sham",
+    "temporary",
+    "interim",
+    "assumed (name)",
+    "informal"
+  ],
+  "onyomi": [
+    "カ",
+    "ケ"
+  ],
+  "kunyomi": [
+    "かり",
+    "かり-"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

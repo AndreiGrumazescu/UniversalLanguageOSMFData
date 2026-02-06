@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+592A",
+  "unicode": "U+592A",
+  "symbol": "太",
+  "meanings": [
+    "plump",
+    "thick",
+    "big around"
+  ],
+  "onyomi": [
+    "タイ",
+    "タ"
+  ],
+  "kunyomi": [
+    "ふと.い",
+    "ふと.る"
+  ],
+  "strokeCount": 4,
+  "jlptLevel": "unspecified"
+}

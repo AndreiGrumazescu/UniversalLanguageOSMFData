@@ -1,0 +1,26 @@
+{
+  "$id": "kanji:U+76E1",
+  "unicode": "U+76E1",
+  "symbol": "盡",
+  "meanings": [
+    "exhaust",
+    "use up",
+    "run out of",
+    "deplete",
+    "befriend",
+    "serve"
+  ],
+  "onyomi": [
+    "ジン",
+    "サン"
+  ],
+  "kunyomi": [
+    "つ.くす",
+    "つ.きる",
+    "つ.かす",
+    "さかづき",
+    "ことごと.く"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

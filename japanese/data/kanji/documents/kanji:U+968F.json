@@ -1,0 +1,27 @@
+{
+  "$id": "kanji:U+968F",
+  "unicode": "U+968F",
+  "symbol": "随",
+  "meanings": [
+    "follow",
+    "though",
+    "notwithstanding",
+    "while",
+    "during",
+    "both",
+    "all",
+    "obey",
+    "submit to",
+    "comply",
+    "at the mercy of (the waves)"
+  ],
+  "onyomi": [
+    "ズイ"
+  ],
+  "kunyomi": [
+    "まにま.に",
+    "したが.う"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

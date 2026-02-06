@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+5ACC",
+  "unicode": "U+5ACC",
+  "symbol": "嫌",
+  "meanings": [
+    "dislike",
+    "detest",
+    "hate"
+  ],
+  "onyomi": [
+    "ケン",
+    "ゲン"
+  ],
+  "kunyomi": [
+    "きら.う",
+    "きら.い",
+    "いや"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

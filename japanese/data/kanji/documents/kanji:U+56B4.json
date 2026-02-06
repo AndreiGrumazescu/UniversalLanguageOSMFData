@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+56B4",
+  "unicode": "U+56B4",
+  "symbol": "嚴",
+  "meanings": [
+    "strictness",
+    "severity",
+    "rigidity"
+  ],
+  "onyomi": [
+    "ゲン",
+    "ゴン"
+  ],
+  "kunyomi": [
+    "おごそ.か",
+    "きび.しい",
+    "いか.めしい",
+    "いつくし"
+  ],
+  "strokeCount": 20,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+5E73",
+  "unicode": "U+5E73",
+  "symbol": "平",
+  "meanings": [
+    "even",
+    "flat",
+    "peace"
+  ],
+  "onyomi": [
+    "ヘイ",
+    "ビョウ",
+    "ヒョウ"
+  ],
+  "kunyomi": [
+    "たい.ら",
+    "たい.らげる",
+    "ひら"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

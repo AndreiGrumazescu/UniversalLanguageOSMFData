@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+5203",
+  "unicode": "U+5203",
+  "symbol": "刃",
+  "meanings": [
+    "blade",
+    "sword",
+    "edge"
+  ],
+  "onyomi": [
+    "ジン",
+    "ニン"
+  ],
+  "kunyomi": [
+    "は",
+    "やいば",
+    "き.る"
+  ],
+  "strokeCount": 3,
+  "jlptLevel": "unspecified"
+}

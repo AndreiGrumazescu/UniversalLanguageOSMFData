@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+61C9",
+  "unicode": "U+61C9",
+  "symbol": "應",
+  "meanings": [
+    "answer",
+    "yes",
+    "OK",
+    "reply",
+    "accept"
+  ],
+  "onyomi": [
+    "オウ",
+    "ヨウ"
+  ],
+  "kunyomi": [
+    "あた.る",
+    "まさに",
+    "こた.える"
+  ],
+  "strokeCount": 17,
+  "jlptLevel": "unspecified"
+}

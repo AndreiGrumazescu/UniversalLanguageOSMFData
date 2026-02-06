@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+8FB1",
+  "unicode": "U+8FB1",
+  "symbol": "辱",
+  "meanings": [
+    "embarrass",
+    "humiliate",
+    "shame"
+  ],
+  "onyomi": [
+    "ジョク"
+  ],
+  "kunyomi": [
+    "はずかし.める"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

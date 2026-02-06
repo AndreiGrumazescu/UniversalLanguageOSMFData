@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+83AB",
+  "unicode": "U+83AB",
+  "symbol": "莫",
+  "meanings": [
+    "must not",
+    "do not",
+    "be not"
+  ],
+  "onyomi": [
+    "バク",
+    "ボ",
+    "マク",
+    "モ",
+    "ナイ"
+  ],
+  "kunyomi": [
+    "くれ",
+    "なか.れ",
+    "なし"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

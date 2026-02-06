@@ -1,0 +1,25 @@
+{
+  "$id": "kanji:U+7387",
+  "unicode": "U+7387",
+  "symbol": "率",
+  "meanings": [
+    "ratio",
+    "rate",
+    "proportion",
+    "%",
+    "factor",
+    "lead",
+    "spearhead",
+    "command"
+  ],
+  "onyomi": [
+    "ソツ",
+    "リツ",
+    "シュツ"
+  ],
+  "kunyomi": [
+    "ひき.いる"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

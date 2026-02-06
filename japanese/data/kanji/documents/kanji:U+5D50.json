@@ -1,0 +1,17 @@
+{
+  "$id": "kanji:U+5D50",
+  "unicode": "U+5D50",
+  "symbol": "嵐",
+  "meanings": [
+    "storm",
+    "tempest"
+  ],
+  "onyomi": [
+    "ラン"
+  ],
+  "kunyomi": [
+    "あらし"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

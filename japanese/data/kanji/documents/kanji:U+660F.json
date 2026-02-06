@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+660F",
+  "unicode": "U+660F",
+  "symbol": "昏",
+  "meanings": [
+    "dark",
+    "evening",
+    "dusk"
+  ],
+  "onyomi": [
+    "コン"
+  ],
+  "kunyomi": [
+    "くら.い",
+    "くれ"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

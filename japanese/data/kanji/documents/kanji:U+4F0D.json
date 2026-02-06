@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+4F0D",
+  "unicode": "U+4F0D",
+  "symbol": "伍",
+  "meanings": [
+    "five",
+    "five-man squad",
+    "file",
+    "line"
+  ],
+  "onyomi": [
+    "ゴ"
+  ],
+  "kunyomi": [
+    "いつつ"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+5E02",
+  "unicode": "U+5E02",
+  "symbol": "市",
+  "meanings": [
+    "market",
+    "city",
+    "town"
+  ],
+  "onyomi": [
+    "シ"
+  ],
+  "kunyomi": [
+    "いち"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

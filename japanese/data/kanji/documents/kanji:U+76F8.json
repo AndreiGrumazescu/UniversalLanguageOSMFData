@@ -1,0 +1,25 @@
+{
+  "$id": "kanji:U+76F8",
+  "unicode": "U+76F8",
+  "symbol": "相",
+  "meanings": [
+    "inter-",
+    "mutual",
+    "together",
+    "each other",
+    "minister of state",
+    "councillor",
+    "aspect",
+    "phase",
+    "physiognomy"
+  ],
+  "onyomi": [
+    "ソウ",
+    "ショウ"
+  ],
+  "kunyomi": [
+    "あい-"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

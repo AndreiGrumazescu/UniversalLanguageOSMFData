@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+91D8",
+  "unicode": "U+91D8",
+  "symbol": "釘",
+  "meanings": [
+    "nail",
+    "tack",
+    "peg"
+  ],
+  "onyomi": [
+    "テイ",
+    "チョウ"
+  ],
+  "kunyomi": [
+    "くぎ"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

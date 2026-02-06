@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+51C4",
+  "unicode": "U+51C4",
+  "symbol": "凄",
+  "meanings": [
+    "uncanny",
+    "weird",
+    "threatening",
+    "horrible"
+  ],
+  "onyomi": [
+    "セイ",
+    "サイ"
+  ],
+  "kunyomi": [
+    "さむ.い",
+    "すご.い",
+    "すさ.まじい"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

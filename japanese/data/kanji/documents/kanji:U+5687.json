@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+5687",
+  "unicode": "U+5687",
+  "symbol": "嚇",
+  "meanings": [
+    "menacing",
+    "dignity",
+    "majesty",
+    "threaten"
+  ],
+  "onyomi": [
+    "カク"
+  ],
+  "kunyomi": [
+    "おど.す"
+  ],
+  "strokeCount": 17,
+  "jlptLevel": "unspecified"
+}

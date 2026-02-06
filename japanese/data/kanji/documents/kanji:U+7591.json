@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+7591",
+  "unicode": "U+7591",
+  "symbol": "疑",
+  "meanings": [
+    "doubt",
+    "distrust",
+    "be suspicious",
+    "question"
+  ],
+  "onyomi": [
+    "ギ"
+  ],
+  "kunyomi": [
+    "うたが.う"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

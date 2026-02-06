@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+65E9",
+  "unicode": "U+65E9",
+  "symbol": "早",
+  "meanings": [
+    "early",
+    "fast"
+  ],
+  "onyomi": [
+    "ソウ",
+    "サッ"
+  ],
+  "kunyomi": [
+    "はや.い",
+    "はや",
+    "はや-",
+    "はや.まる",
+    "はや.める",
+    "さ-"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,27 @@
+{
+  "$id": "kanji:U+50B7",
+  "unicode": "U+50B7",
+  "symbol": "傷",
+  "meanings": [
+    "wound",
+    "hurt",
+    "injure",
+    "impair",
+    "pain",
+    "injury",
+    "cut",
+    "gash",
+    "scar",
+    "weak point"
+  ],
+  "onyomi": [
+    "ショウ"
+  ],
+  "kunyomi": [
+    "きず",
+    "いた.む",
+    "いた.める"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

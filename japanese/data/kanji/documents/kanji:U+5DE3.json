@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+5DE3",
+  "unicode": "U+5DE3",
+  "symbol": "巣",
+  "meanings": [
+    "nest",
+    "rookery",
+    "hive",
+    "cobweb",
+    "den"
+  ],
+  "onyomi": [
+    "ソウ"
+  ],
+  "kunyomi": [
+    "す",
+    "す.くう"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

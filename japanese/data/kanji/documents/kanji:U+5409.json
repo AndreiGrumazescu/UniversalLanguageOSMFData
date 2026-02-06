@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+5409",
+  "unicode": "U+5409",
+  "symbol": "吉",
+  "meanings": [
+    "good luck",
+    "joy",
+    "congratulations"
+  ],
+  "onyomi": [
+    "キチ",
+    "キツ"
+  ],
+  "kunyomi": [
+    "よし"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+5713",
+  "unicode": "U+5713",
+  "symbol": "圓",
+  "meanings": [
+    "yen",
+    "circle",
+    "round"
+  ],
+  "onyomi": [
+    "エン"
+  ],
+  "kunyomi": [
+    "まる.い",
+    "まる",
+    "まど",
+    "まど.か",
+    "まろ.やか"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

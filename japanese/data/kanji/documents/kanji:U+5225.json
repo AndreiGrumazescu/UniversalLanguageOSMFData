@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+5225",
+  "unicode": "U+5225",
+  "symbol": "別",
+  "meanings": [
+    "separate",
+    "branch off",
+    "diverge",
+    "fork",
+    "another",
+    "extra",
+    "specially"
+  ],
+  "onyomi": [
+    "ベツ"
+  ],
+  "kunyomi": [
+    "わか.れる",
+    "わ.ける"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

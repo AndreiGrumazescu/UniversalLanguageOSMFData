@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+553E",
+  "unicode": "U+553E",
+  "symbol": "唾",
+  "meanings": [
+    "saliva",
+    "sputum"
+  ],
+  "onyomi": [
+    "ダ",
+    "タ"
+  ],
+  "kunyomi": [
+    "つば",
+    "つばき"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

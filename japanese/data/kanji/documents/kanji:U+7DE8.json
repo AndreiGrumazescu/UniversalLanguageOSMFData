@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+7DE8",
+  "unicode": "U+7DE8",
+  "symbol": "編",
+  "meanings": [
+    "compilation",
+    "knit",
+    "plait",
+    "braid",
+    "twist",
+    "editing",
+    "completed poem",
+    "part of a book"
+  ],
+  "onyomi": [
+    "ヘン"
+  ],
+  "kunyomi": [
+    "あ.む",
+    "-あ.み"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

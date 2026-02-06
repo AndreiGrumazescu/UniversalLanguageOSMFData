@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+7684",
+  "unicode": "U+7684",
+  "symbol": "的",
+  "meanings": [
+    "bull's eye",
+    "mark",
+    "target",
+    "object",
+    "adjective ending"
+  ],
+  "onyomi": [
+    "テキ"
+  ],
+  "kunyomi": [
+    "まと"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

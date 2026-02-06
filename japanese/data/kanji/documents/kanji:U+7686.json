@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+7686",
+  "unicode": "U+7686",
+  "symbol": "皆",
+  "meanings": [
+    "all",
+    "everything"
+  ],
+  "onyomi": [
+    "カイ"
+  ],
+  "kunyomi": [
+    "みな",
+    "みんな"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

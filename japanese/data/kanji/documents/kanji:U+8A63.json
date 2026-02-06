@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+8A63",
+  "unicode": "U+8A63",
+  "symbol": "詣",
+  "meanings": [
+    "visit a temple",
+    "arrive",
+    "attain"
+  ],
+  "onyomi": [
+    "ケイ",
+    "ゲイ"
+  ],
+  "kunyomi": [
+    "けい.する",
+    "まい.る",
+    "いた.る",
+    "もう.でる"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

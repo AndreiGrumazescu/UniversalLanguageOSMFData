@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+90F7",
+  "unicode": "U+90F7",
+  "symbol": "郷",
+  "meanings": [
+    "home town",
+    "village",
+    "native place",
+    "district"
+  ],
+  "onyomi": [
+    "キョウ",
+    "ゴウ"
+  ],
+  "kunyomi": [
+    "さと"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

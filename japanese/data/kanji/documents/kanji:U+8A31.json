@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+8A31",
+  "unicode": "U+8A31",
+  "symbol": "許",
+  "meanings": [
+    "permit",
+    "approve"
+  ],
+  "onyomi": [
+    "キョ"
+  ],
+  "kunyomi": [
+    "ゆる.す",
+    "もと"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

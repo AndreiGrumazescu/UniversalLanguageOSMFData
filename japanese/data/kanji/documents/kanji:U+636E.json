@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+636E",
+  "unicode": "U+636E",
+  "symbol": "据",
+  "meanings": [
+    "set",
+    "lay a foundation",
+    "install",
+    "equip",
+    "squat down",
+    "sit down"
+  ],
+  "onyomi": [
+    "キョ"
+  ],
+  "kunyomi": [
+    "す.える",
+    "す.わる"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

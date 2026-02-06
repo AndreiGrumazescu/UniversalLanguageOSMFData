@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+9234",
+  "unicode": "U+9234",
+  "symbol": "鈴",
+  "meanings": [
+    "small bell",
+    "buzzer"
+  ],
+  "onyomi": [
+    "レイ",
+    "リン"
+  ],
+  "kunyomi": [
+    "すず"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

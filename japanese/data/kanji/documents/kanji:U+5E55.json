@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+5E55",
+  "unicode": "U+5E55",
+  "symbol": "幕",
+  "meanings": [
+    "curtain",
+    "bunting",
+    "act of play"
+  ],
+  "onyomi": [
+    "マク",
+    "バク"
+  ],
+  "kunyomi": [
+    "とばり"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+64AD",
+  "unicode": "U+64AD",
+  "symbol": "播",
+  "meanings": [
+    "plant",
+    "sow"
+  ],
+  "onyomi": [
+    "ハ",
+    "バン",
+    "ハン"
+  ],
+  "kunyomi": [
+    "ま.く"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

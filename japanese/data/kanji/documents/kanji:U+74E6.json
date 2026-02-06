@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+74E6",
+  "unicode": "U+74E6",
+  "symbol": "瓦",
+  "meanings": [
+    "tile",
+    "gram"
+  ],
+  "onyomi": [
+    "ガ"
+  ],
+  "kunyomi": [
+    "かわら",
+    "ぐらむ"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

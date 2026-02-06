@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+6A80",
+  "unicode": "U+6A80",
+  "symbol": "檀",
+  "meanings": [
+    "cedar",
+    "sandalwood",
+    "spindle tree"
+  ],
+  "onyomi": [
+    "ダン",
+    "タン"
+  ],
+  "kunyomi": [
+    "まゆみ"
+  ],
+  "strokeCount": 17,
+  "jlptLevel": "unspecified"
+}

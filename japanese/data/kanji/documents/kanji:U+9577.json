@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+9577",
+  "unicode": "U+9577",
+  "symbol": "長",
+  "meanings": [
+    "long",
+    "leader",
+    "superior",
+    "senior"
+  ],
+  "onyomi": [
+    "チョウ"
+  ],
+  "kunyomi": [
+    "なが.い",
+    "おさ"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

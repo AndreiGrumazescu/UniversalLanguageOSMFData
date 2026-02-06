@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+8CD3",
+  "unicode": "U+8CD3",
+  "symbol": "賓",
+  "meanings": [
+    "V.I.P.",
+    "guest"
+  ],
+  "onyomi": [
+    "ヒン"
+  ],
+  "kunyomi": [
+    "まろうど",
+    "したがう"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

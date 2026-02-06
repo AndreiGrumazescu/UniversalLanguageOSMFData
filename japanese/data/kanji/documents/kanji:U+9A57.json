@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+9A57",
+  "unicode": "U+9A57",
+  "symbol": "驗",
+  "meanings": [
+    "verification",
+    "effect",
+    "testing"
+  ],
+  "onyomi": [
+    "ケン",
+    "ゲン"
+  ],
+  "kunyomi": [
+    "あかし",
+    "しるし",
+    "ため.す",
+    "ためし"
+  ],
+  "strokeCount": 23,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+8B93",
+  "unicode": "U+8B93",
+  "symbol": "讓",
+  "meanings": [
+    "allow",
+    "permit",
+    "yield",
+    "concede"
+  ],
+  "onyomi": [
+    "ジョウ"
+  ],
+  "kunyomi": [
+    "ゆず.る"
+  ],
+  "strokeCount": 24,
+  "jlptLevel": "unspecified"
+}

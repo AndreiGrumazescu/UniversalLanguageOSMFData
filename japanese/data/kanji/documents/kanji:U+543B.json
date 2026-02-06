@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+543B",
+  "unicode": "U+543B",
+  "symbol": "吻",
+  "meanings": [
+    "proboscis"
+  ],
+  "onyomi": [
+    "フン",
+    "ブン"
+  ],
+  "kunyomi": [
+    "くちわき",
+    "くちさき"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

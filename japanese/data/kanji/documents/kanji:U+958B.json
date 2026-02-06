@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+958B",
+  "unicode": "U+958B",
+  "symbol": "開",
+  "meanings": [
+    "open",
+    "unfold",
+    "unseal"
+  ],
+  "onyomi": [
+    "カイ"
+  ],
+  "kunyomi": [
+    "ひら.く",
+    "ひら.き",
+    "-びら.き",
+    "ひら.ける",
+    "あ.く",
+    "あ.ける"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

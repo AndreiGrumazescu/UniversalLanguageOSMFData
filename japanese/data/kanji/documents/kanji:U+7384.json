@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+7384",
+  "unicode": "U+7384",
+  "symbol": "玄",
+  "meanings": [
+    "mysterious",
+    "occultness",
+    "black",
+    "deep",
+    "profound"
+  ],
+  "onyomi": [
+    "ゲン"
+  ],
+  "kunyomi": [
+    "くろ",
+    "くろ.い"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

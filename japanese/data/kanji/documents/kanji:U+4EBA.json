@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+4EBA",
+  "unicode": "U+4EBA",
+  "symbol": "人",
+  "meanings": [
+    "person"
+  ],
+  "onyomi": [
+    "ジン",
+    "ニン"
+  ],
+  "kunyomi": [
+    "ひと",
+    "-り",
+    "-と"
+  ],
+  "strokeCount": 2,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+5FD7",
+  "unicode": "U+5FD7",
+  "symbol": "志",
+  "meanings": [
+    "intention",
+    "plan",
+    "resolve",
+    "aspire",
+    "motive",
+    "hopes",
+    "shilling"
+  ],
+  "onyomi": [
+    "シ"
+  ],
+  "kunyomi": [
+    "シリング",
+    "こころざ.す",
+    "こころざし"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

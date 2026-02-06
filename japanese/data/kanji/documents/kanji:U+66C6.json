@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+66C6",
+  "unicode": "U+66C6",
+  "symbol": "曆",
+  "meanings": [
+    "calendar",
+    "era"
+  ],
+  "onyomi": [
+    "レキ",
+    "リャク"
+  ],
+  "kunyomi": [
+    "こよみ"
+  ],
+  "strokeCount": 16,
+  "jlptLevel": "unspecified"
+}

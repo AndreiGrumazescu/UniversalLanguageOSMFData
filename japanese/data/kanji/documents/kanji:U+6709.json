@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+6709",
+  "unicode": "U+6709",
+  "symbol": "有",
+  "meanings": [
+    "possess",
+    "have",
+    "exist",
+    "happen",
+    "occur",
+    "approx"
+  ],
+  "onyomi": [
+    "ユウ",
+    "ウ"
+  ],
+  "kunyomi": [
+    "あ.る"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

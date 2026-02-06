@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+699B",
+  "unicode": "U+699B",
+  "symbol": "榛",
+  "meanings": [
+    "hazelnut",
+    "filbert"
+  ],
+  "onyomi": [
+    "シン",
+    "ハン"
+  ],
+  "kunyomi": [
+    "はしばみ",
+    "はり"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

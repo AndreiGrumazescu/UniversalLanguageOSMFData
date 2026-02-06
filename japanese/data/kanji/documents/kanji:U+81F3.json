@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+81F3",
+  "unicode": "U+81F3",
+  "symbol": "至",
+  "meanings": [
+    "climax",
+    "arrive",
+    "proceed",
+    "reach",
+    "attain",
+    "result in"
+  ],
+  "onyomi": [
+    "シ"
+  ],
+  "kunyomi": [
+    "いた.る"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+723D",
+  "unicode": "U+723D",
+  "symbol": "爽",
+  "meanings": [
+    "refreshing",
+    "bracing",
+    "resonant",
+    "sweet",
+    "clear"
+  ],
+  "onyomi": [
+    "ソウ"
+  ],
+  "kunyomi": [
+    "あき.らか",
+    "さわ.やか",
+    "たがう"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

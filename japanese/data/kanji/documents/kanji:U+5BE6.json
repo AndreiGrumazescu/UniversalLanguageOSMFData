@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+5BE6",
+  "unicode": "U+5BE6",
+  "symbol": "實",
+  "meanings": [
+    "truth",
+    "reality"
+  ],
+  "onyomi": [
+    "ジツ",
+    "シツ"
+  ],
+  "kunyomi": [
+    "み",
+    "みの.る",
+    "まこと.に",
+    "みの.り",
+    "みち.る"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

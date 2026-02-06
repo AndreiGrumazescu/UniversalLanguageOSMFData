@@ -1,0 +1,28 @@
+{
+  "$id": "kanji:U+7E01",
+  "unicode": "U+7E01",
+  "symbol": "縁",
+  "meanings": [
+    "affinity",
+    "relation",
+    "connection",
+    "edge",
+    "border",
+    "verge",
+    "brink"
+  ],
+  "onyomi": [
+    "エン",
+    "-ネン"
+  ],
+  "kunyomi": [
+    "ふち",
+    "ふち.どる",
+    "ゆかり",
+    "よすが",
+    "へり",
+    "えにし"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

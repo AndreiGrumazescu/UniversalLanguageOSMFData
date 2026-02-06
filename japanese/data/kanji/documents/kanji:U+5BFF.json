@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+5BFF",
+  "unicode": "U+5BFF",
+  "symbol": "寿",
+  "meanings": [
+    "longevity",
+    "congratulations",
+    "one's natural life"
+  ],
+  "onyomi": [
+    "ジュ",
+    "ス",
+    "シュウ"
+  ],
+  "kunyomi": [
+    "ことぶき",
+    "ことぶ.く",
+    "ことほ.ぐ"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

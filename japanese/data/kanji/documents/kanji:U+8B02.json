@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+8B02",
+  "unicode": "U+8B02",
+  "symbol": "謂",
+  "meanings": [
+    "reason",
+    "origin",
+    "history",
+    "oral tradition"
+  ],
+  "onyomi": [
+    "イ"
+  ],
+  "kunyomi": [
+    "い.う",
+    "いい",
+    "おも.う",
+    "いわゆる"
+  ],
+  "strokeCount": 16,
+  "jlptLevel": "unspecified"
+}

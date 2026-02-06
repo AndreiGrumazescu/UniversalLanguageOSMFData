@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+66A6",
+  "unicode": "U+66A6",
+  "symbol": "暦",
+  "meanings": [
+    "calendar",
+    "almanac"
+  ],
+  "onyomi": [
+    "レキ",
+    "リャク"
+  ],
+  "kunyomi": [
+    "こよみ"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

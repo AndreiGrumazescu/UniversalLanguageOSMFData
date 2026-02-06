@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+866B",
+  "unicode": "U+866B",
+  "symbol": "虫",
+  "meanings": [
+    "insect",
+    "bug",
+    "temper"
+  ],
+  "onyomi": [
+    "チュウ",
+    "キ"
+  ],
+  "kunyomi": [
+    "むし"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

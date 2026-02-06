@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+6280",
+  "unicode": "U+6280",
+  "symbol": "技",
+  "meanings": [
+    "skill",
+    "art",
+    "craft",
+    "ability",
+    "feat",
+    "performance",
+    "vocation",
+    "arts"
+  ],
+  "onyomi": [
+    "ギ"
+  ],
+  "kunyomi": [
+    "わざ"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

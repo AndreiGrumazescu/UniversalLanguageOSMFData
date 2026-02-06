@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+8F29",
+  "unicode": "U+8F29",
+  "symbol": "輩",
+  "meanings": [
+    "comrade",
+    "fellow",
+    "people",
+    "companions"
+  ],
+  "onyomi": [
+    "ハイ"
+  ],
+  "kunyomi": [
+    "-ばら",
+    "やから",
+    "やかい",
+    "ともがら"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

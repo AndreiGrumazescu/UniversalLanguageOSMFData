@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+9AB8",
+  "unicode": "U+9AB8",
+  "symbol": "骸",
+  "meanings": [
+    "bone",
+    "body",
+    "corpse"
+  ],
+  "onyomi": [
+    "ガイ",
+    "カイ"
+  ],
+  "kunyomi": [
+    "むくろ"
+  ],
+  "strokeCount": 16,
+  "jlptLevel": "unspecified"
+}

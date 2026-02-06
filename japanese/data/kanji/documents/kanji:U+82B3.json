@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+82B3",
+  "unicode": "U+82B3",
+  "symbol": "芳",
+  "meanings": [
+    "perfume",
+    "balmy",
+    "favorable",
+    "fragrant"
+  ],
+  "onyomi": [
+    "ホウ"
+  ],
+  "kunyomi": [
+    "かんば.しい"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

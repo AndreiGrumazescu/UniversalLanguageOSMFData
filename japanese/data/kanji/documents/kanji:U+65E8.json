@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+65E8",
+  "unicode": "U+65E8",
+  "symbol": "旨",
+  "meanings": [
+    "delicious",
+    "relish",
+    "show a liking for",
+    "purport",
+    "will",
+    "clever",
+    "expert"
+  ],
+  "onyomi": [
+    "シ"
+  ],
+  "kunyomi": [
+    "むね",
+    "うま.い"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

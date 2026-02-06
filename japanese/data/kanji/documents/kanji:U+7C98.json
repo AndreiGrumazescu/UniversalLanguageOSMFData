@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+7C98",
+  "unicode": "U+7C98",
+  "symbol": "粘",
+  "meanings": [
+    "sticky",
+    "glutinous",
+    "greasy",
+    "persevere"
+  ],
+  "onyomi": [
+    "ネン"
+  ],
+  "kunyomi": [
+    "ねば.る"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

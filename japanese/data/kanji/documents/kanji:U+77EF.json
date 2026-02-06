@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+77EF",
+  "unicode": "U+77EF",
+  "symbol": "矯",
+  "meanings": [
+    "rectify",
+    "straighten",
+    "correct",
+    "reform",
+    "cure",
+    "control",
+    "pretend",
+    "falsify"
+  ],
+  "onyomi": [
+    "キョウ"
+  ],
+  "kunyomi": [
+    "た.める"
+  ],
+  "strokeCount": 17,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+6B64",
+  "unicode": "U+6B64",
+  "symbol": "此",
+  "meanings": [
+    "this",
+    "current",
+    "next",
+    "coming",
+    "last",
+    "past"
+  ],
+  "onyomi": [
+    "シ"
+  ],
+  "kunyomi": [
+    "これ",
+    "この",
+    "ここ"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

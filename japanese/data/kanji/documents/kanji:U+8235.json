@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+8235",
+  "unicode": "U+8235",
+  "symbol": "舵",
+  "meanings": [
+    "rudder",
+    "helm",
+    "wheel"
+  ],
+  "onyomi": [
+    "ダ",
+    "タ"
+  ],
+  "kunyomi": [
+    "かじ"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

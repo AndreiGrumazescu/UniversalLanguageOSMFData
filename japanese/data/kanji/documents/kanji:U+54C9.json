@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+54C9",
+  "unicode": "U+54C9",
+  "symbol": "哉",
+  "meanings": [
+    "how",
+    "what",
+    "alas",
+    "question mark",
+    "exclamation mark"
+  ],
+  "onyomi": [
+    "サイ"
+  ],
+  "kunyomi": [
+    "かな",
+    "や"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

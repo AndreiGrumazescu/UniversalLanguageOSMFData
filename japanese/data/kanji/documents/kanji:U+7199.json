@@ -1,0 +1,26 @@
+{
+  "$id": "kanji:U+7199",
+  "unicode": "U+7199",
+  "symbol": "熙",
+  "meanings": [
+    "bright",
+    "sunny",
+    "prosperous",
+    "merry"
+  ],
+  "onyomi": [
+    "キ"
+  ],
+  "kunyomi": [
+    "たのし.む",
+    "ひか.る",
+    "ひろ.い",
+    "よろこ.ぶ",
+    "かわ.く",
+    "あきらか",
+    "ひろ.める",
+    "ひろ.まる"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

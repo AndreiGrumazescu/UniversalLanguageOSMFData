@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+9ED9",
+  "unicode": "U+9ED9",
+  "symbol": "黙",
+  "meanings": [
+    "silence",
+    "become silent",
+    "stop speaking",
+    "leave as is"
+  ],
+  "onyomi": [
+    "モク",
+    "ボク"
+  ],
+  "kunyomi": [
+    "だま.る",
+    "もだ.す"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

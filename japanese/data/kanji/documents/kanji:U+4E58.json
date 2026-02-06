@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+4E58",
+  "unicode": "U+4E58",
+  "symbol": "乘",
+  "meanings": [
+    "power",
+    "multiplication",
+    "record",
+    "counter for vehicles"
+  ],
+  "onyomi": [
+    "ジョウ"
+  ],
+  "kunyomi": [
+    "の.る",
+    "の.せる"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

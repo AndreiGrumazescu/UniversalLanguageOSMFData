@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+518D",
+  "unicode": "U+518D",
+  "symbol": "再",
+  "meanings": [
+    "again",
+    "twice",
+    "second time"
+  ],
+  "onyomi": [
+    "サイ",
+    "サ"
+  ],
+  "kunyomi": [
+    "ふたた.び"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

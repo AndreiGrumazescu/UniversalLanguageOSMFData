@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+6559",
+  "unicode": "U+6559",
+  "symbol": "教",
+  "meanings": [
+    "teach",
+    "faith",
+    "doctrine"
+  ],
+  "onyomi": [
+    "キョウ"
+  ],
+  "kunyomi": [
+    "おし.える",
+    "おそ.わる"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

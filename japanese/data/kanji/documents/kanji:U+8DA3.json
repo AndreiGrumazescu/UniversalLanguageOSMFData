@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+8DA3",
+  "unicode": "U+8DA3",
+  "symbol": "趣",
+  "meanings": [
+    "purport",
+    "gist",
+    "elegance",
+    "interest",
+    "proceed to",
+    "tend",
+    "become"
+  ],
+  "onyomi": [
+    "シュ"
+  ],
+  "kunyomi": [
+    "おもむき",
+    "おもむ.く"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+916C",
+  "unicode": "U+916C",
+  "symbol": "酬",
+  "meanings": [
+    "repay",
+    "reward",
+    "retribution"
+  ],
+  "onyomi": [
+    "シュウ",
+    "シュ",
+    "トウ"
+  ],
+  "kunyomi": [
+    "むく.いる"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

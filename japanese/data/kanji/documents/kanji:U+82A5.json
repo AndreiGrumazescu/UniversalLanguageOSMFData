@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+82A5",
+  "unicode": "U+82A5",
+  "symbol": "芥",
+  "meanings": [
+    "mustard",
+    "rape",
+    "dust",
+    "trash",
+    "rubbish"
+  ],
+  "onyomi": [
+    "カイ",
+    "ケ"
+  ],
+  "kunyomi": [
+    "からし",
+    "ごみ",
+    "あくた"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

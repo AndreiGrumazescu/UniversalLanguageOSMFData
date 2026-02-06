@@ -1,0 +1,14 @@
+{
+  "$id": "kanji:U+5104",
+  "unicode": "U+5104",
+  "symbol": "億",
+  "meanings": [
+    "hundred million",
+    "10**8"
+  ],
+  "onyomi": [
+    "オク"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

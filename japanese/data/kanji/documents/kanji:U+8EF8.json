@@ -1,0 +1,17 @@
+{
+  "$id": "kanji:U+8EF8",
+  "unicode": "U+8EF8",
+  "symbol": "軸",
+  "meanings": [
+    "axis",
+    "pivot",
+    "stem",
+    "stalk",
+    "counter for book scrolls"
+  ],
+  "onyomi": [
+    "ジク"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

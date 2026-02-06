@@ -1,0 +1,17 @@
+{
+  "$id": "kanji:U+65C5",
+  "unicode": "U+65C5",
+  "symbol": "旅",
+  "meanings": [
+    "trip",
+    "travel"
+  ],
+  "onyomi": [
+    "リョ"
+  ],
+  "kunyomi": [
+    "たび"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

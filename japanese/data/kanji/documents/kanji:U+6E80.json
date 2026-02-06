@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+6E80",
+  "unicode": "U+6E80",
+  "symbol": "満",
+  "meanings": [
+    "full",
+    "fullness",
+    "enough",
+    "satisfy"
+  ],
+  "onyomi": [
+    "マン",
+    "バン"
+  ],
+  "kunyomi": [
+    "み.ちる",
+    "み.つ",
+    "み.たす"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

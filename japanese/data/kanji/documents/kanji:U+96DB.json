@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+96DB",
+  "unicode": "U+96DB",
+  "symbol": "雛",
+  "meanings": [
+    "chick",
+    "squab",
+    "duckling",
+    "doll"
+  ],
+  "onyomi": [
+    "スウ",
+    "ス",
+    "ジュ"
+  ],
+  "kunyomi": [
+    "ひな",
+    "ひよこ"
+  ],
+  "strokeCount": 18,
+  "jlptLevel": "unspecified"
+}

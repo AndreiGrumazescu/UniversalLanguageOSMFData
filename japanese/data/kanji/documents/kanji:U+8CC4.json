@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+8CC4",
+  "unicode": "U+8CC4",
+  "symbol": "賄",
+  "meanings": [
+    "bribe",
+    "board",
+    "supply",
+    "finance"
+  ],
+  "onyomi": [
+    "ワイ"
+  ],
+  "kunyomi": [
+    "まかな.う"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

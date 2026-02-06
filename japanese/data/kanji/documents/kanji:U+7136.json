@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+7136",
+  "unicode": "U+7136",
+  "symbol": "然",
+  "meanings": [
+    "sort of thing",
+    "so",
+    "if so",
+    "in that case",
+    "well"
+  ],
+  "onyomi": [
+    "ゼン",
+    "ネン"
+  ],
+  "kunyomi": [
+    "しか",
+    "しか.り",
+    "しか.し",
+    "さ"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

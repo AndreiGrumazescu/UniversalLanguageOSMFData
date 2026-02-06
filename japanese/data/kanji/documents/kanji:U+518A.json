@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+518A",
+  "unicode": "U+518A",
+  "symbol": "冊",
+  "meanings": [
+    "tome",
+    "counter for books",
+    "volume"
+  ],
+  "onyomi": [
+    "サツ",
+    "サク"
+  ],
+  "kunyomi": [
+    "ふみ"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

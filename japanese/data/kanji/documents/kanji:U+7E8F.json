@@ -1,0 +1,25 @@
+{
+  "$id": "kanji:U+7E8F",
+  "unicode": "U+7E8F",
+  "symbol": "纏",
+  "meanings": [
+    "wear",
+    "wrap",
+    "tie",
+    "follow around",
+    "collect"
+  ],
+  "onyomi": [
+    "テン",
+    "デン"
+  ],
+  "kunyomi": [
+    "まつ.わる",
+    "まと.う",
+    "まと.める",
+    "まと.まる",
+    "まと.い"
+  ],
+  "strokeCount": 21,
+  "jlptLevel": "unspecified"
+}

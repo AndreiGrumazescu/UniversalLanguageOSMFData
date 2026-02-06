@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+54C0",
+  "unicode": "U+54C0",
+  "symbol": "哀",
+  "meanings": [
+    "pathetic",
+    "grief",
+    "sorrow",
+    "pathos",
+    "pity",
+    "sympathize"
+  ],
+  "onyomi": [
+    "アイ"
+  ],
+  "kunyomi": [
+    "あわ.れ",
+    "あわ.れむ",
+    "かな.しい"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

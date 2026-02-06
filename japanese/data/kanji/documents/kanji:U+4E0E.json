@@ -1,0 +1,27 @@
+{
+  "$id": "kanji:U+4E0E",
+  "unicode": "U+4E0E",
+  "symbol": "与",
+  "meanings": [
+    "bestow",
+    "participate in",
+    "give",
+    "award",
+    "impart",
+    "provide",
+    "cause",
+    "gift",
+    "godsend"
+  ],
+  "onyomi": [
+    "ヨ"
+  ],
+  "kunyomi": [
+    "あた.える",
+    "あずか.る",
+    "くみ.する",
+    "ともに"
+  ],
+  "strokeCount": 3,
+  "jlptLevel": "unspecified"
+}

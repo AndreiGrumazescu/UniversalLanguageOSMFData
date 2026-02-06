@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+65AF",
+  "unicode": "U+65AF",
+  "symbol": "斯",
+  "meanings": [
+    "this",
+    "thus",
+    "such",
+    "verbal pause"
+  ],
+  "onyomi": [
+    "シ"
+  ],
+  "kunyomi": [
+    "か",
+    "こう",
+    "か.く",
+    "この",
+    "これ",
+    "ここに"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+8CEA",
+  "unicode": "U+8CEA",
+  "symbol": "質",
+  "meanings": [
+    "substance",
+    "quality",
+    "matter",
+    "temperament"
+  ],
+  "onyomi": [
+    "シツ",
+    "シチ",
+    "チ"
+  ],
+  "kunyomi": [
+    "たち",
+    "ただ.す",
+    "もと",
+    "わりふ"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

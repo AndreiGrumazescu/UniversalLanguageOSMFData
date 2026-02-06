@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+5DDD",
+  "unicode": "U+5DDD",
+  "symbol": "川",
+  "meanings": [
+    "stream",
+    "river",
+    "river or three-stroke river radical (no. 47)"
+  ],
+  "onyomi": [
+    "セン"
+  ],
+  "kunyomi": [
+    "かわ"
+  ],
+  "strokeCount": 3,
+  "jlptLevel": "unspecified"
+}

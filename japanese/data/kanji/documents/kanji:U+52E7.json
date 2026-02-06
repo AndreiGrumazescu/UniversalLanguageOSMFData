@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+52E7",
+  "unicode": "U+52E7",
+  "symbol": "勧",
+  "meanings": [
+    "persuade",
+    "recommend",
+    "advise",
+    "encourage",
+    "offer"
+  ],
+  "onyomi": [
+    "カン",
+    "ケン"
+  ],
+  "kunyomi": [
+    "すす.める"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

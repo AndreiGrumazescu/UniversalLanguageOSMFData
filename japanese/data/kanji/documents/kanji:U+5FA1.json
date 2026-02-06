@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+5FA1",
+  "unicode": "U+5FA1",
+  "symbol": "御",
+  "meanings": [
+    "honorable",
+    "manipulate",
+    "govern"
+  ],
+  "onyomi": [
+    "ギョ",
+    "ゴ"
+  ],
+  "kunyomi": [
+    "おん-",
+    "お-",
+    "み-"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

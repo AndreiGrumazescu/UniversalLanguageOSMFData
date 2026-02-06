@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+59D4",
+  "unicode": "U+59D4",
+  "symbol": "委",
+  "meanings": [
+    "committee",
+    "entrust to",
+    "leave to",
+    "devote",
+    "discard"
+  ],
+  "onyomi": [
+    "イ"
+  ],
+  "kunyomi": [
+    "ゆだ.ねる"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

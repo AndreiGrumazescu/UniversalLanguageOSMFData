@@ -1,0 +1,16 @@
+{
+  "$id": "kanji:U+8AFA",
+  "unicode": "U+8AFA",
+  "symbol": "諺",
+  "meanings": [
+    "proverb"
+  ],
+  "onyomi": [
+    "ゲン"
+  ],
+  "kunyomi": [
+    "ことわざ"
+  ],
+  "strokeCount": 16,
+  "jlptLevel": "unspecified"
+}

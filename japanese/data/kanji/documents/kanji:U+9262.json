@@ -1,0 +1,17 @@
+{
+  "$id": "kanji:U+9262",
+  "unicode": "U+9262",
+  "symbol": "鉢",
+  "meanings": [
+    "bowl",
+    "rice tub",
+    "pot",
+    "crown"
+  ],
+  "onyomi": [
+    "ハチ",
+    "ハツ"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

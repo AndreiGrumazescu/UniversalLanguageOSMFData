@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+714E",
+  "unicode": "U+714E",
+  "symbol": "煎",
+  "meanings": [
+    "broil",
+    "parch",
+    "roast",
+    "boil"
+  ],
+  "onyomi": [
+    "セン"
+  ],
+  "kunyomi": [
+    "せん.じる",
+    "い.る",
+    "に.る"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

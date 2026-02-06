@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+9580",
+  "unicode": "U+9580",
+  "symbol": "門",
+  "meanings": [
+    "gate",
+    "counter for cannons"
+  ],
+  "onyomi": [
+    "モン"
+  ],
+  "kunyomi": [
+    "かど",
+    "と"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

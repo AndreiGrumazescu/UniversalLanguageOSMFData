@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+8A66",
+  "unicode": "U+8A66",
+  "symbol": "試",
+  "meanings": [
+    "test",
+    "try",
+    "attempt",
+    "experiment",
+    "ordeal"
+  ],
+  "onyomi": [
+    "シ"
+  ],
+  "kunyomi": [
+    "こころ.みる",
+    "ため.す"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

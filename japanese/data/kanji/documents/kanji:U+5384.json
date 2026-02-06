@@ -1,0 +1,16 @@
+{
+  "$id": "kanji:U+5384",
+  "unicode": "U+5384",
+  "symbol": "厄",
+  "meanings": [
+    "unlucky",
+    "misfortune",
+    "bad luck",
+    "disaster"
+  ],
+  "onyomi": [
+    "ヤク"
+  ],
+  "strokeCount": 4,
+  "jlptLevel": "unspecified"
+}

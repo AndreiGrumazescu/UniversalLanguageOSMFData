@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+661F",
+  "unicode": "U+661F",
+  "symbol": "星",
+  "meanings": [
+    "star",
+    "spot",
+    "dot",
+    "mark"
+  ],
+  "onyomi": [
+    "セイ",
+    "ショウ"
+  ],
+  "kunyomi": [
+    "ほし",
+    "-ぼし"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

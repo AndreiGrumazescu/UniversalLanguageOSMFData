@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+5074",
+  "unicode": "U+5074",
+  "symbol": "側",
+  "meanings": [
+    "side",
+    "lean",
+    "oppose",
+    "regret"
+  ],
+  "onyomi": [
+    "ソク"
+  ],
+  "kunyomi": [
+    "かわ",
+    "がわ",
+    "そば"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

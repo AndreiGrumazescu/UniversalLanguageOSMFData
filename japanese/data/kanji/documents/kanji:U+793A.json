@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+793A",
+  "unicode": "U+793A",
+  "symbol": "示",
+  "meanings": [
+    "show",
+    "indicate",
+    "point out",
+    "express",
+    "display"
+  ],
+  "onyomi": [
+    "ジ",
+    "シ"
+  ],
+  "kunyomi": [
+    "しめ.す"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

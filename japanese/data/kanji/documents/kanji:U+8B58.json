@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+8B58",
+  "unicode": "U+8B58",
+  "symbol": "識",
+  "meanings": [
+    "discriminating",
+    "know",
+    "write"
+  ],
+  "onyomi": [
+    "シキ"
+  ],
+  "kunyomi": [
+    "し.る",
+    "しる.す"
+  ],
+  "strokeCount": 19,
+  "jlptLevel": "unspecified"
+}

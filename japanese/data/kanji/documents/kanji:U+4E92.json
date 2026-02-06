@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+4E92",
+  "unicode": "U+4E92",
+  "symbol": "互",
+  "meanings": [
+    "mutually",
+    "reciprocally",
+    "together"
+  ],
+  "onyomi": [
+    "ゴ"
+  ],
+  "kunyomi": [
+    "たが.い",
+    "かたみ.に"
+  ],
+  "strokeCount": 4,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+66AE",
+  "unicode": "U+66AE",
+  "symbol": "暮",
+  "meanings": [
+    "evening",
+    "twilight",
+    "season's end",
+    "livelihood",
+    "make a living",
+    "spend time"
+  ],
+  "onyomi": [
+    "ボ"
+  ],
+  "kunyomi": [
+    "く.れる",
+    "く.らす"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

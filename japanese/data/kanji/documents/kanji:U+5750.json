@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+5750",
+  "unicode": "U+5750",
+  "symbol": "坐",
+  "meanings": [
+    "sit"
+  ],
+  "onyomi": [
+    "ザ",
+    "サ"
+  ],
+  "kunyomi": [
+    "すわ.る",
+    "おわす",
+    "そぞろに",
+    "まします"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

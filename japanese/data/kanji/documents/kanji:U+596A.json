@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+596A",
+  "unicode": "U+596A",
+  "symbol": "奪",
+  "meanings": [
+    "rob",
+    "take by force",
+    "snatch away",
+    "dispossess",
+    "plunder",
+    "usurp"
+  ],
+  "onyomi": [
+    "ダツ"
+  ],
+  "kunyomi": [
+    "うば.う"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

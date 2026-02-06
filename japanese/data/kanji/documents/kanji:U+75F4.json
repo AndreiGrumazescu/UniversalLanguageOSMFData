@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+75F4",
+  "unicode": "U+75F4",
+  "symbol": "痴",
+  "meanings": [
+    "stupid",
+    "foolish"
+  ],
+  "onyomi": [
+    "チ"
+  ],
+  "kunyomi": [
+    "し.れる",
+    "おろか"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

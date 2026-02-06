@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+5DF1",
+  "unicode": "U+5DF1",
+  "symbol": "己",
+  "meanings": [
+    "self"
+  ],
+  "onyomi": [
+    "コ",
+    "キ"
+  ],
+  "kunyomi": [
+    "おのれ",
+    "つちのと",
+    "な"
+  ],
+  "strokeCount": 3,
+  "jlptLevel": "unspecified"
+}

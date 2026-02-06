@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+7A1A",
+  "unicode": "U+7A1A",
+  "symbol": "稚",
+  "meanings": [
+    "immature",
+    "young"
+  ],
+  "onyomi": [
+    "チ",
+    "ジ"
+  ],
+  "kunyomi": [
+    "いとけない",
+    "おさない",
+    "おくて",
+    "おでる"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

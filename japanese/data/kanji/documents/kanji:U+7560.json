@@ -1,0 +1,17 @@
+{
+  "$id": "kanji:U+7560",
+  "unicode": "U+7560",
+  "symbol": "畠",
+  "meanings": [
+    "field",
+    "farm",
+    "garden",
+    "(kokuji)"
+  ],
+  "kunyomi": [
+    "はたけ",
+    "はた"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+7F8E",
+  "unicode": "U+7F8E",
+  "symbol": "美",
+  "meanings": [
+    "beauty",
+    "beautiful"
+  ],
+  "onyomi": [
+    "ビ",
+    "ミ"
+  ],
+  "kunyomi": [
+    "うつく.しい"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

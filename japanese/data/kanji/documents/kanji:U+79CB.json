@@ -1,0 +1,17 @@
+{
+  "$id": "kanji:U+79CB",
+  "unicode": "U+79CB",
+  "symbol": "秋",
+  "meanings": [
+    "autumn"
+  ],
+  "onyomi": [
+    "シュウ"
+  ],
+  "kunyomi": [
+    "あき",
+    "とき"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+64AB",
+  "unicode": "U+64AB",
+  "symbol": "撫",
+  "meanings": [
+    "stroke",
+    "pat",
+    "smooth down"
+  ],
+  "onyomi": [
+    "ブ",
+    "フ"
+  ],
+  "kunyomi": [
+    "な.でる"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

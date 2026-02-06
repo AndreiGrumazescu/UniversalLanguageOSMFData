@@ -1,0 +1,17 @@
+{
+  "$id": "kanji:U+52C5",
+  "unicode": "U+52C5",
+  "symbol": "勅",
+  "meanings": [
+    "imperial order"
+  ],
+  "onyomi": [
+    "チョク"
+  ],
+  "kunyomi": [
+    "いまし.める",
+    "みことのり"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

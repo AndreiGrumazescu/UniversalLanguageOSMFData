@@ -1,0 +1,26 @@
+{
+  "$id": "kanji:U+548C",
+  "unicode": "U+548C",
+  "symbol": "和",
+  "meanings": [
+    "harmony",
+    "Japanese style",
+    "peace",
+    "soften",
+    "Japan"
+  ],
+  "onyomi": [
+    "ワ",
+    "オ",
+    "カ"
+  ],
+  "kunyomi": [
+    "やわ.らぐ",
+    "やわ.らげる",
+    "なご.む",
+    "なご.やか",
+    "あ.える"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

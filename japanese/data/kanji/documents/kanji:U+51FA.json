@@ -1,0 +1,27 @@
+{
+  "$id": "kanji:U+51FA",
+  "unicode": "U+51FA",
+  "symbol": "出",
+  "meanings": [
+    "exit",
+    "leave",
+    "go out",
+    "come out",
+    "put out",
+    "protrude"
+  ],
+  "onyomi": [
+    "シュツ",
+    "スイ"
+  ],
+  "kunyomi": [
+    "で.る",
+    "-で",
+    "だ.す",
+    "-だ.す",
+    "い.でる",
+    "い.だす"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

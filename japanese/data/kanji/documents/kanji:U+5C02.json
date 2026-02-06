@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+5C02",
+  "unicode": "U+5C02",
+  "symbol": "専",
+  "meanings": [
+    "specialty",
+    "exclusive",
+    "mainly",
+    "solely"
+  ],
+  "onyomi": [
+    "セン"
+  ],
+  "kunyomi": [
+    "もっぱ.ら"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

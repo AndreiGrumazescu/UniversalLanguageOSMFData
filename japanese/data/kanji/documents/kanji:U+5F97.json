@@ -1,0 +1,27 @@
+{
+  "$id": "kanji:U+5F97",
+  "unicode": "U+5F97",
+  "symbol": "得",
+  "meanings": [
+    "gain",
+    "get",
+    "find",
+    "earn",
+    "acquire",
+    "can",
+    "may",
+    "able to",
+    "profit",
+    "advantage",
+    "benefit"
+  ],
+  "onyomi": [
+    "トク"
+  ],
+  "kunyomi": [
+    "え.る",
+    "う.る"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

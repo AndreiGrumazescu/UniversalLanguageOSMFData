@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+8CB8",
+  "unicode": "U+8CB8",
+  "symbol": "貸",
+  "meanings": [
+    "lend"
+  ],
+  "onyomi": [
+    "タイ"
+  ],
+  "kunyomi": [
+    "か.す",
+    "か.し-",
+    "かし-"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+6DEB",
+  "unicode": "U+6DEB",
+  "symbol": "淫",
+  "meanings": [
+    "lewdness",
+    "licentiousness"
+  ],
+  "onyomi": [
+    "イン"
+  ],
+  "kunyomi": [
+    "ひた.す",
+    "ほしいまま",
+    "みだ.ら",
+    "みだ.れる",
+    "みだり"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+5024",
+  "unicode": "U+5024",
+  "symbol": "値",
+  "meanings": [
+    "price",
+    "cost",
+    "value"
+  ],
+  "onyomi": [
+    "チ"
+  ],
+  "kunyomi": [
+    "ね",
+    "あたい"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

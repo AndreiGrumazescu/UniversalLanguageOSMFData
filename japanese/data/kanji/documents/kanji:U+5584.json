@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+5584",
+  "unicode": "U+5584",
+  "symbol": "善",
+  "meanings": [
+    "virtuous",
+    "good",
+    "goodness"
+  ],
+  "onyomi": [
+    "ゼン"
+  ],
+  "kunyomi": [
+    "よ.い",
+    "い.い",
+    "よ.く",
+    "よし.とする"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

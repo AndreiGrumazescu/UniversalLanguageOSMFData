@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+65A1",
+  "unicode": "U+65A1",
+  "symbol": "斡",
+  "meanings": [
+    "go around",
+    "rule",
+    "administer"
+  ],
+  "onyomi": [
+    "アツ",
+    "カン",
+    "ワツ"
+  ],
+  "kunyomi": [
+    "めぐ.る",
+    "めぐ.らす"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

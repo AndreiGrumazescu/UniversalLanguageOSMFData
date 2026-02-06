@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+53C9",
+  "unicode": "U+53C9",
+  "symbol": "叉",
+  "meanings": [
+    "fork in road",
+    "crotch"
+  ],
+  "onyomi": [
+    "サ",
+    "シャ",
+    "サイ"
+  ],
+  "kunyomi": [
+    "また"
+  ],
+  "strokeCount": 3,
+  "jlptLevel": "unspecified"
+}

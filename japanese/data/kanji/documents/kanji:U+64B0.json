@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+64B0",
+  "unicode": "U+64B0",
+  "symbol": "撰",
+  "meanings": [
+    "composing",
+    "editing",
+    "compiling",
+    "selecting"
+  ],
+  "onyomi": [
+    "サン",
+    "セン"
+  ],
+  "kunyomi": [
+    "せん.する",
+    "えら.む",
+    "えら.ぶ"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

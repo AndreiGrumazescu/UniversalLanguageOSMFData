@@ -1,0 +1,27 @@
+{
+  "$id": "kanji:U+50BE",
+  "unicode": "U+50BE",
+  "symbol": "傾",
+  "meanings": [
+    "lean",
+    "incline",
+    "tilt",
+    "trend",
+    "wane",
+    "sink",
+    "ruin",
+    "bias"
+  ],
+  "onyomi": [
+    "ケイ"
+  ],
+  "kunyomi": [
+    "かたむ.く",
+    "かたむ.ける",
+    "かたぶ.く",
+    "かた.げる",
+    "かし.げる"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

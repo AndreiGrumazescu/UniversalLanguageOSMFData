@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+8CAC",
+  "unicode": "U+8CAC",
+  "symbol": "責",
+  "meanings": [
+    "blame",
+    "condemn",
+    "censure"
+  ],
+  "onyomi": [
+    "セキ"
+  ],
+  "kunyomi": [
+    "せ.める"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "kanji:U+5EFF",
+  "unicode": "U+5EFF",
+  "symbol": "廿",
+  "meanings": [
+    "twenty"
+  ],
+  "onyomi": [
+    "ジュウ",
+    "ニュウ"
+  ],
+  "kunyomi": [
+    "にじゅう"
+  ],
+  "strokeCount": 4,
+  "jlptLevel": "unspecified"
+}

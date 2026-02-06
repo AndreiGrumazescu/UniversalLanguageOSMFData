@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+65BC",
+  "unicode": "U+65BC",
+  "symbol": "於",
+  "meanings": [
+    "at",
+    "in",
+    "on",
+    "as for"
+  ],
+  "onyomi": [
+    "オ",
+    "ヨ"
+  ],
+  "kunyomi": [
+    "おい.て",
+    "お.ける",
+    "ああ",
+    "より"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

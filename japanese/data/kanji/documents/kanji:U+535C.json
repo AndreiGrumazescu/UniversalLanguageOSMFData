@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+535C",
+  "unicode": "U+535C",
+  "symbol": "卜",
+  "meanings": [
+    "divining",
+    "fortune-telling",
+    "divination or katakana to radical (no. 25)"
+  ],
+  "onyomi": [
+    "ボク"
+  ],
+  "kunyomi": [
+    "うらな.う",
+    "うらない"
+  ],
+  "strokeCount": 2,
+  "jlptLevel": "unspecified"
+}

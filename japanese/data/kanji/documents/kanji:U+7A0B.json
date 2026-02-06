@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+7A0B",
+  "unicode": "U+7A0B",
+  "symbol": "程",
+  "meanings": [
+    "extent",
+    "degree",
+    "law",
+    "formula",
+    "distance",
+    "limits",
+    "amount"
+  ],
+  "onyomi": [
+    "テイ"
+  ],
+  "kunyomi": [
+    "ほど",
+    "-ほど"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

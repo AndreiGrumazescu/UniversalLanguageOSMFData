@@ -1,0 +1,17 @@
+{
+  "$id": "kanji:U+51FD",
+  "unicode": "U+51FD",
+  "symbol": "函",
+  "meanings": [
+    "box (archaic)"
+  ],
+  "onyomi": [
+    "カン"
+  ],
+  "kunyomi": [
+    "はこ",
+    "い.れる"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

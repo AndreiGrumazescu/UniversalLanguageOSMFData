@@ -1,0 +1,25 @@
+{
+  "$id": "kanji:U+82B8",
+  "unicode": "U+82B8",
+  "symbol": "芸",
+  "meanings": [
+    "technique",
+    "art",
+    "craft",
+    "performance",
+    "acting",
+    "trick",
+    "stunt"
+  ],
+  "onyomi": [
+    "ゲイ",
+    "ウン"
+  ],
+  "kunyomi": [
+    "う.える",
+    "のり",
+    "わざ"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

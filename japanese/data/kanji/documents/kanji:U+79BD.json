@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+79BD",
+  "unicode": "U+79BD",
+  "symbol": "禽",
+  "meanings": [
+    "bird",
+    "captive",
+    "capture"
+  ],
+  "onyomi": [
+    "キン"
+  ],
+  "kunyomi": [
+    "とり",
+    "とりこ"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

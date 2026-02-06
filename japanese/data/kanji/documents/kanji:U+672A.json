@@ -1,0 +1,26 @@
+{
+  "$id": "kanji:U+672A",
+  "unicode": "U+672A",
+  "symbol": "未",
+  "meanings": [
+    "un-",
+    "not yet",
+    "hitherto",
+    "still",
+    "even now",
+    "sign of the ram",
+    "1-3PM",
+    "eighth sign of Chinese zodiac"
+  ],
+  "onyomi": [
+    "ミ",
+    "ビ"
+  ],
+  "kunyomi": [
+    "いま.だ",
+    "ま.だ",
+    "ひつじ"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

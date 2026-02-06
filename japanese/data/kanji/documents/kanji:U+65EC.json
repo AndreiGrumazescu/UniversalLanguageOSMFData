@@ -1,0 +1,16 @@
+{
+  "$id": "kanji:U+65EC",
+  "unicode": "U+65EC",
+  "symbol": "旬",
+  "meanings": [
+    "decameron",
+    "ten-day period",
+    "season (for specific products)"
+  ],
+  "onyomi": [
+    "ジュン",
+    "シュン"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

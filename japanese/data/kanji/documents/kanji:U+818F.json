@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+818F",
+  "unicode": "U+818F",
+  "symbol": "膏",
+  "meanings": [
+    "fat",
+    "grease",
+    "lard",
+    "paste",
+    "ointment",
+    "plaster"
+  ],
+  "onyomi": [
+    "コウ"
+  ],
+  "kunyomi": [
+    "あぶら"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

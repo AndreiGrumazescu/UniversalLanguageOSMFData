@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+4F0F",
+  "unicode": "U+4F0F",
+  "symbol": "伏",
+  "meanings": [
+    "prostrated",
+    "bend down",
+    "bow",
+    "cover",
+    "lay (pipes)"
+  ],
+  "onyomi": [
+    "フク"
+  ],
+  "kunyomi": [
+    "ふ.せる",
+    "ふ.す"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

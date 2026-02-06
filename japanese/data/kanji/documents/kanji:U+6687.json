@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+6687",
+  "unicode": "U+6687",
+  "symbol": "暇",
+  "meanings": [
+    "spare time",
+    "rest",
+    "leisure",
+    "time",
+    "leave of absence"
+  ],
+  "onyomi": [
+    "カ"
+  ],
+  "kunyomi": [
+    "ひま",
+    "いとま"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

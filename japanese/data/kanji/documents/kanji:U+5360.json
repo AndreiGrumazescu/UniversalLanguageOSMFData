@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+5360",
+  "unicode": "U+5360",
+  "symbol": "占",
+  "meanings": [
+    "fortune-telling",
+    "divining",
+    "forecasting",
+    "occupy",
+    "hold",
+    "have",
+    "get",
+    "take"
+  ],
+  "onyomi": [
+    "セン"
+  ],
+  "kunyomi": [
+    "し.める",
+    "うらな.う"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

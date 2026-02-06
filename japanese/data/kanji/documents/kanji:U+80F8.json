@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+80F8",
+  "unicode": "U+80F8",
+  "symbol": "胸",
+  "meanings": [
+    "bosom",
+    "breast",
+    "chest",
+    "heart",
+    "feelings"
+  ],
+  "onyomi": [
+    "キョウ"
+  ],
+  "kunyomi": [
+    "むね",
+    "むな-"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

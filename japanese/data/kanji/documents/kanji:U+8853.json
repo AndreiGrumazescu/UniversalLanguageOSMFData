@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+8853",
+  "unicode": "U+8853",
+  "symbol": "術",
+  "meanings": [
+    "art",
+    "technique",
+    "skill",
+    "means",
+    "trick",
+    "resources",
+    "magic"
+  ],
+  "onyomi": [
+    "ジュツ"
+  ],
+  "kunyomi": [
+    "すべ"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

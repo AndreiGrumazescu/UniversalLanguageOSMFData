@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+5404",
+  "unicode": "U+5404",
+  "symbol": "各",
+  "meanings": [
+    "each",
+    "every",
+    "either"
+  ],
+  "onyomi": [
+    "カク"
+  ],
+  "kunyomi": [
+    "おのおの"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

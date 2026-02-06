@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+7AAA",
+  "unicode": "U+7AAA",
+  "symbol": "窪",
+  "meanings": [
+    "depression",
+    "cave in",
+    "sink",
+    "become hollow"
+  ],
+  "onyomi": [
+    "ワ",
+    "ア"
+  ],
+  "kunyomi": [
+    "くぼ.む",
+    "くぼ.み",
+    "くぼ.まる",
+    "くぼ"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

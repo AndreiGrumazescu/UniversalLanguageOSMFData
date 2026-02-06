@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+4FA1",
+  "unicode": "U+4FA1",
+  "symbol": "価",
+  "meanings": [
+    "value",
+    "price"
+  ],
+  "onyomi": [
+    "カ",
+    "ケ"
+  ],
+  "kunyomi": [
+    "あたい"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

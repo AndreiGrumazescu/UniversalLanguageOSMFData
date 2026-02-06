@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+5EAD",
+  "unicode": "U+5EAD",
+  "symbol": "庭",
+  "meanings": [
+    "courtyard",
+    "garden",
+    "yard"
+  ],
+  "onyomi": [
+    "テイ"
+  ],
+  "kunyomi": [
+    "にわ"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

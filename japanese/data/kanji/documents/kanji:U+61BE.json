@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+61BE",
+  "unicode": "U+61BE",
+  "symbol": "憾",
+  "meanings": [
+    "remorse",
+    "regret",
+    "be sorry"
+  ],
+  "onyomi": [
+    "カン"
+  ],
+  "kunyomi": [
+    "うら.む"
+  ],
+  "strokeCount": 16,
+  "jlptLevel": "unspecified"
+}

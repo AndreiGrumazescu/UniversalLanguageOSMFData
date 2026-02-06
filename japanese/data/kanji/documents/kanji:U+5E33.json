@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+5E33",
+  "unicode": "U+5E33",
+  "symbol": "帳",
+  "meanings": [
+    "notebook",
+    "account book",
+    "album",
+    "curtain",
+    "veil",
+    "net",
+    "tent"
+  ],
+  "onyomi": [
+    "チョウ"
+  ],
+  "kunyomi": [
+    "とばり"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

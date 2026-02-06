@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+9A37",
+  "unicode": "U+9A37",
+  "symbol": "騷",
+  "meanings": [
+    "harass",
+    "bother",
+    "annoy",
+    "disturb",
+    "agitate",
+    "sad",
+    "grieved"
+  ],
+  "onyomi": [
+    "ソウ"
+  ],
+  "kunyomi": [
+    "さわ.ぐ",
+    "うれい",
+    "さわが.しい"
+  ],
+  "strokeCount": 20,
+  "jlptLevel": "unspecified"
+}

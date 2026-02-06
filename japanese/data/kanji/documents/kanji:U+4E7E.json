@@ -1,0 +1,26 @@
+{
+  "$id": "kanji:U+4E7E",
+  "unicode": "U+4E7E",
+  "symbol": "乾",
+  "meanings": [
+    "drought",
+    "dry",
+    "desiccate",
+    "drink up",
+    "heaven",
+    "emperor"
+  ],
+  "onyomi": [
+    "カン",
+    "ケン"
+  ],
+  "kunyomi": [
+    "かわ.く",
+    "かわ.かす",
+    "ほ.す",
+    "ひ.る",
+    "いぬい"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

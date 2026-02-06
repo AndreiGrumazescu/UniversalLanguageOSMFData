@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+5176",
+  "unicode": "U+5176",
+  "symbol": "其",
+  "meanings": [
+    "that"
+  ],
+  "onyomi": [
+    "キ",
+    "ギ",
+    "ゴ"
+  ],
+  "kunyomi": [
+    "それ",
+    "その"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

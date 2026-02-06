@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+8F49",
+  "unicode": "U+8F49",
+  "symbol": "轉",
+  "meanings": [
+    "shift",
+    "move",
+    "turn"
+  ],
+  "onyomi": [
+    "テン"
+  ],
+  "kunyomi": [
+    "ころ.がる",
+    "ころ.げる",
+    "ころ.がす",
+    "ころ.ぶ",
+    "まろ.ぶ",
+    "うたた",
+    "うつ.る"
+  ],
+  "strokeCount": 18,
+  "jlptLevel": "unspecified"
+}

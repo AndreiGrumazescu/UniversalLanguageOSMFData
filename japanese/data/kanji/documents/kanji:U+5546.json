@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+5546",
+  "unicode": "U+5546",
+  "symbol": "商",
+  "meanings": [
+    "make a deal",
+    "selling",
+    "dealing in",
+    "merchant"
+  ],
+  "onyomi": [
+    "ショウ"
+  ],
+  "kunyomi": [
+    "あきな.う"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

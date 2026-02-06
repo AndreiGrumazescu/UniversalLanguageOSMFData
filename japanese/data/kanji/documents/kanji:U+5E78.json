@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+5E78",
+  "unicode": "U+5E78",
+  "symbol": "幸",
+  "meanings": [
+    "happiness",
+    "blessing",
+    "fortune"
+  ],
+  "onyomi": [
+    "コウ"
+  ],
+  "kunyomi": [
+    "さいわ.い",
+    "さち",
+    "しあわ.せ"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

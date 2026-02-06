@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+76BF",
+  "unicode": "U+76BF",
+  "symbol": "皿",
+  "meanings": [
+    "dish",
+    "a helping",
+    "plate"
+  ],
+  "onyomi": [
+    "ベイ"
+  ],
+  "kunyomi": [
+    "さら"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

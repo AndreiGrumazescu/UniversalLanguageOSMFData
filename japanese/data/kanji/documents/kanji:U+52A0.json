@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+52A0",
+  "unicode": "U+52A0",
+  "symbol": "加",
+  "meanings": [
+    "add",
+    "addition",
+    "increase",
+    "join",
+    "include",
+    "Canada"
+  ],
+  "onyomi": [
+    "カ"
+  ],
+  "kunyomi": [
+    "くわ.える",
+    "くわ.わる"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+7D46",
+  "unicode": "U+7D46",
+  "symbol": "絆",
+  "meanings": [
+    "bonds",
+    "fetters"
+  ],
+  "onyomi": [
+    "ハン"
+  ],
+  "kunyomi": [
+    "きずな",
+    "ほだ.す",
+    "つな.ぐ"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

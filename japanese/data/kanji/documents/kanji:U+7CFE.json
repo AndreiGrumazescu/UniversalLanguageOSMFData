@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+7CFE",
+  "unicode": "U+7CFE",
+  "symbol": "糾",
+  "meanings": [
+    "twist",
+    "ask",
+    "investigate",
+    "verify"
+  ],
+  "onyomi": [
+    "キュウ"
+  ],
+  "kunyomi": [
+    "ただ.す"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

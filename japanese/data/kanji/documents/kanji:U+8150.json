@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+8150",
+  "unicode": "U+8150",
+  "symbol": "腐",
+  "meanings": [
+    "rot",
+    "decay",
+    "sour"
+  ],
+  "onyomi": [
+    "フ"
+  ],
+  "kunyomi": [
+    "くさ.る",
+    "-くさ.る",
+    "くさ.れる",
+    "くさ.れ",
+    "くさ.らす",
+    "くさ.す"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

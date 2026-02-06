@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+5FB7",
+  "unicode": "U+5FB7",
+  "symbol": "德",
+  "meanings": [
+    "ethics",
+    "morality",
+    "virtue"
+  ],
+  "onyomi": [
+    "トク"
+  ],
+  "kunyomi": [
+    "おしえ"
+  ],
+  "strokeCount": 16,
+  "jlptLevel": "unspecified"
+}

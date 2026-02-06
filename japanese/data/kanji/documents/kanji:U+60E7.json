@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+60E7",
+  "unicode": "U+60E7",
+  "symbol": "惧",
+  "meanings": [
+    "fear",
+    "be afraid of",
+    "dread"
+  ],
+  "onyomi": [
+    "ク",
+    "グ"
+  ],
+  "kunyomi": [
+    "おそ.れる"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

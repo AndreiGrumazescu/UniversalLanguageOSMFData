@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+5F8C",
+  "unicode": "U+5F8C",
+  "symbol": "後",
+  "meanings": [
+    "behind",
+    "back",
+    "later"
+  ],
+  "onyomi": [
+    "ゴ",
+    "コウ"
+  ],
+  "kunyomi": [
+    "のち",
+    "うし.ろ",
+    "うしろ",
+    "あと",
+    "おく.れる"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

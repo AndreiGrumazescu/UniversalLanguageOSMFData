@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+5B09",
+  "unicode": "U+5B09",
+  "symbol": "嬉",
+  "meanings": [
+    "glad",
+    "pleased",
+    "rejoice"
+  ],
+  "onyomi": [
+    "キ"
+  ],
+  "kunyomi": [
+    "うれ.しい",
+    "たの.しむ"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

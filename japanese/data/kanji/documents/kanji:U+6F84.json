@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+6F84",
+  "unicode": "U+6F84",
+  "symbol": "澄",
+  "meanings": [
+    "lucidity",
+    "be clear",
+    "clear",
+    "clarify",
+    "settle",
+    "strain",
+    "look grave"
+  ],
+  "onyomi": [
+    "チョウ"
+  ],
+  "kunyomi": [
+    "す.む",
+    "す.ます",
+    "-す.ます"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

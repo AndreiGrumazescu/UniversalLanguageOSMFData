@@ -1,0 +1,26 @@
+{
+  "$id": "kanji:U+7CBE",
+  "unicode": "U+7CBE",
+  "symbol": "精",
+  "meanings": [
+    "refined",
+    "ghost",
+    "fairy",
+    "energy",
+    "vitality",
+    "semen",
+    "excellence",
+    "purity",
+    "skill"
+  ],
+  "onyomi": [
+    "セイ",
+    "ショウ"
+  ],
+  "kunyomi": [
+    "しら.げる",
+    "くわ.しい"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,25 @@
+{
+  "$id": "kanji:U+5EFB",
+  "unicode": "U+5EFB",
+  "symbol": "廻",
+  "meanings": [
+    "round",
+    "game",
+    "revolve",
+    "go around",
+    "circumference"
+  ],
+  "onyomi": [
+    "カイ",
+    "エ"
+  ],
+  "kunyomi": [
+    "まわ.る",
+    "まわ.す",
+    "もとお.る",
+    "めぐ.る",
+    "めぐ.らす"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

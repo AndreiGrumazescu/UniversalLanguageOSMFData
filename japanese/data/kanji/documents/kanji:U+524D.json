@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+524D",
+  "unicode": "U+524D",
+  "symbol": "前",
+  "meanings": [
+    "in front",
+    "before"
+  ],
+  "onyomi": [
+    "ゼン"
+  ],
+  "kunyomi": [
+    "まえ",
+    "-まえ"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

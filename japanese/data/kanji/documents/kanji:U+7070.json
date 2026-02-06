@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+7070",
+  "unicode": "U+7070",
+  "symbol": "灰",
+  "meanings": [
+    "ashes",
+    "puckery juice",
+    "cremate"
+  ],
+  "onyomi": [
+    "カイ"
+  ],
+  "kunyomi": [
+    "はい"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

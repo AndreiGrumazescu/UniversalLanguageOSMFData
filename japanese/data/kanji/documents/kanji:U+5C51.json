@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+5C51",
+  "unicode": "U+5C51",
+  "symbol": "屑",
+  "meanings": [
+    "rubbish",
+    "junk",
+    "trash",
+    "waste",
+    "scraps"
+  ],
+  "onyomi": [
+    "セツ"
+  ],
+  "kunyomi": [
+    "くず",
+    "いさぎよ.い"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

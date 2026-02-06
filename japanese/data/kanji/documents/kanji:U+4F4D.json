@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+4F4D",
+  "unicode": "U+4F4D",
+  "symbol": "位",
+  "meanings": [
+    "rank",
+    "grade",
+    "throne",
+    "crown",
+    "about",
+    "some"
+  ],
+  "onyomi": [
+    "イ"
+  ],
+  "kunyomi": [
+    "くらい",
+    "ぐらい"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

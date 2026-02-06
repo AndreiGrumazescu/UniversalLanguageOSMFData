@@ -1,0 +1,17 @@
+{
+  "$id": "kanji:U+9685",
+  "unicode": "U+9685",
+  "symbol": "隅",
+  "meanings": [
+    "corner",
+    "nook"
+  ],
+  "onyomi": [
+    "グウ"
+  ],
+  "kunyomi": [
+    "すみ"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

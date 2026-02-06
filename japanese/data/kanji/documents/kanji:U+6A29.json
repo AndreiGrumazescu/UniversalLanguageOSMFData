@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+6A29",
+  "unicode": "U+6A29",
+  "symbol": "権",
+  "meanings": [
+    "authority",
+    "power",
+    "rights"
+  ],
+  "onyomi": [
+    "ケン",
+    "ゴン"
+  ],
+  "kunyomi": [
+    "おもり",
+    "かり",
+    "はか.る"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

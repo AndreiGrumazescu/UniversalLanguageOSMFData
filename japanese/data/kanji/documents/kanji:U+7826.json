@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+7826",
+  "unicode": "U+7826",
+  "symbol": "砦",
+  "meanings": [
+    "fort",
+    "stronghold",
+    "entrenchments"
+  ],
+  "onyomi": [
+    "サイ"
+  ],
+  "kunyomi": [
+    "とりで"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

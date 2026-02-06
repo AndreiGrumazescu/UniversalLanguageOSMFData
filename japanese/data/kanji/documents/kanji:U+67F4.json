@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+67F4",
+  "unicode": "U+67F4",
+  "symbol": "柴",
+  "meanings": [
+    "brush",
+    "firewood"
+  ],
+  "onyomi": [
+    "サイ",
+    "シ"
+  ],
+  "kunyomi": [
+    "しば"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

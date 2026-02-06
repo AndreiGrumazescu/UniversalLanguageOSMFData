@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+4ED4",
+  "unicode": "U+4ED4",
+  "symbol": "仔",
+  "meanings": [
+    "offspring (animal)",
+    "detailed",
+    "fine"
+  ],
+  "onyomi": [
+    "シ"
+  ],
+  "kunyomi": [
+    "こ",
+    "た.える"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

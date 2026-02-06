@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+8DB3",
+  "unicode": "U+8DB3",
+  "symbol": "足",
+  "meanings": [
+    "leg",
+    "foot",
+    "be sufficient",
+    "counter for pairs of footwear"
+  ],
+  "onyomi": [
+    "ソク"
+  ],
+  "kunyomi": [
+    "あし",
+    "た.りる",
+    "た.る",
+    "た.す"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

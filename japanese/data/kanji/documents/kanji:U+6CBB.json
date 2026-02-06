@@ -1,0 +1,29 @@
+{
+  "$id": "kanji:U+6CBB",
+  "unicode": "U+6CBB",
+  "symbol": "治",
+  "meanings": [
+    "reign",
+    "be at peace",
+    "calm down",
+    "subdue",
+    "quell",
+    "govt",
+    "cure",
+    "heal",
+    "rule",
+    "conserve"
+  ],
+  "onyomi": [
+    "ジ",
+    "チ"
+  ],
+  "kunyomi": [
+    "おさ.める",
+    "おさ.まる",
+    "なお.る",
+    "なお.す"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

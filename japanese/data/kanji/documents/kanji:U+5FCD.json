@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+5FCD",
+  "unicode": "U+5FCD",
+  "symbol": "忍",
+  "meanings": [
+    "endure",
+    "bear",
+    "put up with",
+    "conceal",
+    "secrete",
+    "spy",
+    "sneak"
+  ],
+  "onyomi": [
+    "ニン"
+  ],
+  "kunyomi": [
+    "しの.ぶ",
+    "しの.ばせる"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

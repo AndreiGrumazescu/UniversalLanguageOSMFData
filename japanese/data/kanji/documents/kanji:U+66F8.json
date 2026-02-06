@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+66F8",
+  "unicode": "U+66F8",
+  "symbol": "書",
+  "meanings": [
+    "write"
+  ],
+  "onyomi": [
+    "ショ"
+  ],
+  "kunyomi": [
+    "か.く",
+    "-が.き",
+    "-がき"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+5F6A",
+  "unicode": "U+5F6A",
+  "symbol": "彪",
+  "meanings": [
+    "spotted",
+    "mottled",
+    "patterned",
+    "small tiger"
+  ],
+  "onyomi": [
+    "ヒョウ",
+    "ヒュウ"
+  ],
+  "kunyomi": [
+    "あや"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

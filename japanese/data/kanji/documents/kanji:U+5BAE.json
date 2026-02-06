@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+5BAE",
+  "unicode": "U+5BAE",
+  "symbol": "宮",
+  "meanings": [
+    "Shinto shrine",
+    "constellations",
+    "palace",
+    "princess"
+  ],
+  "onyomi": [
+    "キュウ",
+    "グウ",
+    "ク",
+    "クウ"
+  ],
+  "kunyomi": [
+    "みや"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

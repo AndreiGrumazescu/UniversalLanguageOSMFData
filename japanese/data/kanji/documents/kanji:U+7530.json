@@ -1,0 +1,17 @@
+{
+  "$id": "kanji:U+7530",
+  "unicode": "U+7530",
+  "symbol": "田",
+  "meanings": [
+    "rice field",
+    "rice paddy"
+  ],
+  "onyomi": [
+    "デン"
+  ],
+  "kunyomi": [
+    "た"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

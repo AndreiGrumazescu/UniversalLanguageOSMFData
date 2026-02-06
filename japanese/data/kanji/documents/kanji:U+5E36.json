@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+5E36",
+  "unicode": "U+5E36",
+  "symbol": "帶",
+  "meanings": [
+    "belt",
+    "girdle",
+    "band",
+    "strap",
+    "zone"
+  ],
+  "onyomi": [
+    "タイ"
+  ],
+  "kunyomi": [
+    "お.びる",
+    "おび"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

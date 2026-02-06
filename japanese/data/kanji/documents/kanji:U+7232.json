@@ -1,0 +1,29 @@
+{
+  "$id": "kanji:U+7232",
+  "unicode": "U+7232",
+  "symbol": "爲",
+  "meanings": [
+    "change",
+    "be of use",
+    "reach to",
+    "do",
+    "try",
+    "practice",
+    "cost",
+    "serve as"
+  ],
+  "onyomi": [
+    "イ"
+  ],
+  "kunyomi": [
+    "ため",
+    "な.る",
+    "な.す",
+    "す.る",
+    "たり",
+    "つく.る",
+    "なり"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

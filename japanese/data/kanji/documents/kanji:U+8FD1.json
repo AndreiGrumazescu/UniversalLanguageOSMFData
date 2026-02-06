@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+8FD1",
+  "unicode": "U+8FD1",
+  "symbol": "近",
+  "meanings": [
+    "near",
+    "early",
+    "akin",
+    "tantamount"
+  ],
+  "onyomi": [
+    "キン",
+    "コン"
+  ],
+  "kunyomi": [
+    "ちか.い"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,25 @@
+{
+  "$id": "kanji:U+5FDC",
+  "unicode": "U+5FDC",
+  "symbol": "応",
+  "meanings": [
+    "apply",
+    "answer",
+    "yes",
+    "OK",
+    "reply",
+    "accept"
+  ],
+  "onyomi": [
+    "オウ",
+    "ヨウ",
+    "-ノウ"
+  ],
+  "kunyomi": [
+    "あた.る",
+    "まさに",
+    "こた.える"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

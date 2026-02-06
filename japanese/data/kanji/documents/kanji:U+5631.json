@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+5631",
+  "unicode": "U+5631",
+  "symbol": "嘱",
+  "meanings": [
+    "entrust",
+    "request",
+    "send a message"
+  ],
+  "onyomi": [
+    "ショク"
+  ],
+  "kunyomi": [
+    "しょく.する",
+    "たの.む"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

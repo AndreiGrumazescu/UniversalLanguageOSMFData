@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+65E5",
+  "unicode": "U+65E5",
+  "symbol": "日",
+  "meanings": [
+    "day",
+    "sun",
+    "Japan",
+    "counter for days"
+  ],
+  "onyomi": [
+    "ニチ",
+    "ジツ"
+  ],
+  "kunyomi": [
+    "ひ",
+    "-び",
+    "-か"
+  ],
+  "strokeCount": 4,
+  "jlptLevel": "unspecified"
+}

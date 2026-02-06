@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+5410",
+  "unicode": "U+5410",
+  "symbol": "吐",
+  "meanings": [
+    "spit",
+    "vomit",
+    "belch",
+    "confess",
+    "tell (lies)"
+  ],
+  "onyomi": [
+    "ト"
+  ],
+  "kunyomi": [
+    "は.く",
+    "つ.く"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

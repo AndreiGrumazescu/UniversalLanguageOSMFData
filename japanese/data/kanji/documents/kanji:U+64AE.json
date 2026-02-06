@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+64AE",
+  "unicode": "U+64AE",
+  "symbol": "撮",
+  "meanings": [
+    "snapshot",
+    "take pictures"
+  ],
+  "onyomi": [
+    "サツ"
+  ],
+  "kunyomi": [
+    "と.る",
+    "つま.む",
+    "-ど.り"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

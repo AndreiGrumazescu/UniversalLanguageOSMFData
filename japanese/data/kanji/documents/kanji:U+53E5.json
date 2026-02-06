@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+53E5",
+  "unicode": "U+53E5",
+  "symbol": "句",
+  "meanings": [
+    "phrase",
+    "clause",
+    "sentence",
+    "passage",
+    "paragraph",
+    "counter for haiku"
+  ],
+  "onyomi": [
+    "ク"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

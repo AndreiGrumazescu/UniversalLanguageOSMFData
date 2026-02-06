@@ -1,0 +1,25 @@
+{
+  "$id": "kanji:U+5F80",
+  "unicode": "U+5F80",
+  "symbol": "往",
+  "meanings": [
+    "journey",
+    "travel",
+    "chase away",
+    "let go",
+    "going",
+    "before",
+    "formerly"
+  ],
+  "onyomi": [
+    "オウ"
+  ],
+  "kunyomi": [
+    "い.く",
+    "いにしえ",
+    "さき.に",
+    "ゆ.く"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

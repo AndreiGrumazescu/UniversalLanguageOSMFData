@@ -1,0 +1,17 @@
+{
+  "$id": "kanji:U+55B0",
+  "unicode": "U+55B0",
+  "symbol": "喰",
+  "meanings": [
+    "eat",
+    "drink",
+    "receive (a blow)",
+    "(kokuji)"
+  ],
+  "kunyomi": [
+    "く.う",
+    "く.らう"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

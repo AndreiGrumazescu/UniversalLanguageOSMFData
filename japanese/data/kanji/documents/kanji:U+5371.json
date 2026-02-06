@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+5371",
+  "unicode": "U+5371",
+  "symbol": "危",
+  "meanings": [
+    "dangerous",
+    "fear",
+    "uneasy"
+  ],
+  "onyomi": [
+    "キ"
+  ],
+  "kunyomi": [
+    "あぶ.ない",
+    "あや.うい",
+    "あや.ぶむ"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

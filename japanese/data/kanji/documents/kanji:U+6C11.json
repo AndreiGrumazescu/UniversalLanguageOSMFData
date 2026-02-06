@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+6C11",
+  "unicode": "U+6C11",
+  "symbol": "民",
+  "meanings": [
+    "people",
+    "nation",
+    "subjects"
+  ],
+  "onyomi": [
+    "ミン"
+  ],
+  "kunyomi": [
+    "たみ"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

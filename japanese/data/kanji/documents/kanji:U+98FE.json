@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+98FE",
+  "unicode": "U+98FE",
+  "symbol": "飾",
+  "meanings": [
+    "decorate",
+    "ornament",
+    "adorn",
+    "embellish"
+  ],
+  "onyomi": [
+    "ショク"
+  ],
+  "kunyomi": [
+    "かざ.る",
+    "かざ.り"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

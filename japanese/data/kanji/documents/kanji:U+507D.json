@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+507D",
+  "unicode": "U+507D",
+  "symbol": "偽",
+  "meanings": [
+    "falsehood",
+    "lie",
+    "deceive",
+    "pretend",
+    "counterfeit",
+    "forgery"
+  ],
+  "onyomi": [
+    "ギ",
+    "カ"
+  ],
+  "kunyomi": [
+    "いつわ.る",
+    "にせ",
+    "いつわ.り"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+8003",
+  "unicode": "U+8003",
+  "symbol": "考",
+  "meanings": [
+    "consider",
+    "think over"
+  ],
+  "onyomi": [
+    "コウ"
+  ],
+  "kunyomi": [
+    "かんが.える",
+    "かんが.え"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

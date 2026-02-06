@@ -1,0 +1,26 @@
+{
+  "$id": "kanji:U+6545",
+  "unicode": "U+6545",
+  "symbol": "故",
+  "meanings": [
+    "happenstance",
+    "especially",
+    "intentionally",
+    "reason",
+    "cause",
+    "circumstances",
+    "the late",
+    "therefore",
+    "consequently"
+  ],
+  "onyomi": [
+    "コ"
+  ],
+  "kunyomi": [
+    "ゆえ",
+    "ふる.い",
+    "もと"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

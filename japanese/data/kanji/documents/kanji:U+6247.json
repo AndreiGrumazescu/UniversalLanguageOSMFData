@@ -1,0 +1,17 @@
+{
+  "$id": "kanji:U+6247",
+  "unicode": "U+6247",
+  "symbol": "扇",
+  "meanings": [
+    "fan",
+    "folding fan"
+  ],
+  "onyomi": [
+    "セン"
+  ],
+  "kunyomi": [
+    "おうぎ"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

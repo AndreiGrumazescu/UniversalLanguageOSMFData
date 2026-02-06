@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+72AF",
+  "unicode": "U+72AF",
+  "symbol": "犯",
+  "meanings": [
+    "crime",
+    "sin",
+    "offense"
+  ],
+  "onyomi": [
+    "ハン",
+    "ボン"
+  ],
+  "kunyomi": [
+    "おか.す"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

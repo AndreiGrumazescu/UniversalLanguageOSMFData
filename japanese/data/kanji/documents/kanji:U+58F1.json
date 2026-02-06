@@ -1,0 +1,17 @@
+{
+  "$id": "kanji:U+58F1",
+  "unicode": "U+58F1",
+  "symbol": "壱",
+  "meanings": [
+    "one (in documents)"
+  ],
+  "onyomi": [
+    "イチ",
+    "イツ"
+  ],
+  "kunyomi": [
+    "ひとつ"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

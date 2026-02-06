@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+6E67",
+  "unicode": "U+6E67",
+  "symbol": "湧",
+  "meanings": [
+    "boil",
+    "ferment",
+    "seethe",
+    "uproar",
+    "breed"
+  ],
+  "onyomi": [
+    "ユウ",
+    "ヨウ",
+    "ユ"
+  ],
+  "kunyomi": [
+    "わ.く"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

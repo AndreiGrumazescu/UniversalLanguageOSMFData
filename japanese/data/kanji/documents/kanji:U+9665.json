@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+9665",
+  "unicode": "U+9665",
+  "symbol": "陥",
+  "meanings": [
+    "collapse",
+    "fall into",
+    "cave in",
+    "fall (castle)",
+    "slide into"
+  ],
+  "onyomi": [
+    "カン"
+  ],
+  "kunyomi": [
+    "おちい.る",
+    "おとしい.れる"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

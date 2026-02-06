@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+99B3",
+  "unicode": "U+99B3",
+  "symbol": "馳",
+  "meanings": [
+    "run",
+    "gallop",
+    "sail",
+    "drive (a wagon)",
+    "win (fame)",
+    "despatch"
+  ],
+  "onyomi": [
+    "チ",
+    "ジ"
+  ],
+  "kunyomi": [
+    "は.せる"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

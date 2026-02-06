@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+8338",
+  "unicode": "U+8338",
+  "symbol": "茸",
+  "meanings": [
+    "mushroom"
+  ],
+  "onyomi": [
+    "ジョウ",
+    "ニュ"
+  ],
+  "kunyomi": [
+    "きのこ",
+    "たけ",
+    "しげ.る"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

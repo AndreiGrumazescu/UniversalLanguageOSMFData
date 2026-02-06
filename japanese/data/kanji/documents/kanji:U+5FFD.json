@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+5FFD",
+  "unicode": "U+5FFD",
+  "symbol": "忽",
+  "meanings": [
+    "in a moment",
+    "instantly",
+    "all of a sudden",
+    "neglect",
+    "disregard"
+  ],
+  "onyomi": [
+    "コツ"
+  ],
+  "kunyomi": [
+    "たちま.ち",
+    "ゆるが.せ"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

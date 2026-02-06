@@ -1,0 +1,26 @@
+{
+  "$id": "kanji:U+6DFB",
+  "unicode": "U+6DFB",
+  "symbol": "添",
+  "meanings": [
+    "annexed",
+    "accompany",
+    "marry",
+    "suit",
+    "meet",
+    "satisfy",
+    "attach",
+    "append",
+    "garnish",
+    "imitate"
+  ],
+  "onyomi": [
+    "テン"
+  ],
+  "kunyomi": [
+    "そ.える",
+    "そ.う"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

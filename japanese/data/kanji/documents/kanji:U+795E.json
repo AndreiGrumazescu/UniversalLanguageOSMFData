@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+795E",
+  "unicode": "U+795E",
+  "symbol": "神",
+  "meanings": [
+    "gods",
+    "mind",
+    "soul"
+  ],
+  "onyomi": [
+    "シン",
+    "ジン"
+  ],
+  "kunyomi": [
+    "かみ",
+    "かん-",
+    "こう-"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,31 @@
+{
+  "$id": "kanji:U+5617",
+  "unicode": "U+5617",
+  "symbol": "嘗",
+  "meanings": [
+    "once",
+    "before",
+    "formerly",
+    "ever",
+    "never",
+    "ex-",
+    "lick",
+    "lap up",
+    "burn up",
+    "taste",
+    "undergo",
+    "underrate",
+    "despise"
+  ],
+  "onyomi": [
+    "ショウ",
+    "ジョウ"
+  ],
+  "kunyomi": [
+    "かつ.て",
+    "こころ.みる",
+    "な.める"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

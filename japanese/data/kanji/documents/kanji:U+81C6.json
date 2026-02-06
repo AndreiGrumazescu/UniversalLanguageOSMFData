@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+81C6",
+  "unicode": "U+81C6",
+  "symbol": "臆",
+  "meanings": [
+    "timidity",
+    "heart",
+    "mind",
+    "fear",
+    "cowardly"
+  ],
+  "onyomi": [
+    "オク",
+    "ヨク"
+  ],
+  "kunyomi": [
+    "むね",
+    "おくする"
+  ],
+  "strokeCount": 17,
+  "jlptLevel": "unspecified"
+}

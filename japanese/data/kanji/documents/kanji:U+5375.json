@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+5375",
+  "unicode": "U+5375",
+  "symbol": "卵",
+  "meanings": [
+    "egg",
+    "ovum",
+    "spawn",
+    "roe"
+  ],
+  "onyomi": [
+    "ラン"
+  ],
+  "kunyomi": [
+    "たまご"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

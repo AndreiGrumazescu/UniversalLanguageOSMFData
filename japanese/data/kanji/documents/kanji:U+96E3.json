@@ -1,0 +1,25 @@
+{
+  "$id": "kanji:U+96E3",
+  "unicode": "U+96E3",
+  "symbol": "難",
+  "meanings": [
+    "difficult",
+    "impossible",
+    "trouble",
+    "accident",
+    "defect"
+  ],
+  "onyomi": [
+    "ナン"
+  ],
+  "kunyomi": [
+    "かた.い",
+    "-がた.い",
+    "むずか.しい",
+    "むづか.しい",
+    "むつか.しい",
+    "-にく.い"
+  ],
+  "strokeCount": 18,
+  "jlptLevel": "unspecified"
+}

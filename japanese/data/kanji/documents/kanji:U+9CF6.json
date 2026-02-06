@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+9CF6",
+  "unicode": "U+9CF6",
+  "symbol": "鳶",
+  "meanings": [
+    "black kite",
+    "fireman",
+    "hook"
+  ],
+  "onyomi": [
+    "エン"
+  ],
+  "kunyomi": [
+    "とび",
+    "とんび"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

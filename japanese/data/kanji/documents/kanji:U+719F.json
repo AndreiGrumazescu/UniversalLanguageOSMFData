@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+719F",
+  "unicode": "U+719F",
+  "symbol": "熟",
+  "meanings": [
+    "mellow",
+    "ripen",
+    "mature",
+    "acquire skill"
+  ],
+  "onyomi": [
+    "ジュク"
+  ],
+  "kunyomi": [
+    "う.れる"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

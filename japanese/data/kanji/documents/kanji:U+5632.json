@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+5632",
+  "unicode": "U+5632",
+  "symbol": "嘲",
+  "meanings": [
+    "ridicule",
+    "insult"
+  ],
+  "onyomi": [
+    "チョウ",
+    "トウ"
+  ],
+  "kunyomi": [
+    "あざけ.る"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

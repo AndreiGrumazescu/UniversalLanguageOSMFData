@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+5EA6",
+  "unicode": "U+5EA6",
+  "symbol": "度",
+  "meanings": [
+    "degrees",
+    "occurrence",
+    "time",
+    "counter for occurrences",
+    "consider",
+    "attitude"
+  ],
+  "onyomi": [
+    "ド",
+    "ト",
+    "タク"
+  ],
+  "kunyomi": [
+    "たび",
+    "-た.い"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

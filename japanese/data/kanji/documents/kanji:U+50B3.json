@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+50B3",
+  "unicode": "U+50B3",
+  "symbol": "傳",
+  "meanings": [
+    "summon",
+    "propagate",
+    "transmit"
+  ],
+  "onyomi": [
+    "テン",
+    "デン"
+  ],
+  "kunyomi": [
+    "つた.わる",
+    "つた.える",
+    "つた.う",
+    "つて"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

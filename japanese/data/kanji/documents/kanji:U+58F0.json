@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+58F0",
+  "unicode": "U+58F0",
+  "symbol": "声",
+  "meanings": [
+    "voice"
+  ],
+  "onyomi": [
+    "セイ",
+    "ショウ"
+  ],
+  "kunyomi": [
+    "こえ",
+    "こわ-"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

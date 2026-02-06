@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+5E4C",
+  "unicode": "U+5E4C",
+  "symbol": "幌",
+  "meanings": [
+    "canopy",
+    "awning",
+    "hood",
+    "curtain"
+  ],
+  "onyomi": [
+    "コウ"
+  ],
+  "kunyomi": [
+    "ほろ",
+    "とばり"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

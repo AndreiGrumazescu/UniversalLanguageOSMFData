@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+831C",
+  "unicode": "U+831C",
+  "symbol": "茜",
+  "meanings": [
+    "madder",
+    "red dye",
+    "Turkey red"
+  ],
+  "onyomi": [
+    "セン"
+  ],
+  "kunyomi": [
+    "あかね"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

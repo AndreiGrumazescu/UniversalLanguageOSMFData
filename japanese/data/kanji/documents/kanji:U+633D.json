@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+633D",
+  "unicode": "U+633D",
+  "symbol": "挽",
+  "meanings": [
+    "saw",
+    "turn (lathe)",
+    "grind"
+  ],
+  "onyomi": [
+    "バン"
+  ],
+  "kunyomi": [
+    "ひ.く"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+5E84",
+  "unicode": "U+5E84",
+  "symbol": "庄",
+  "meanings": [
+    "level",
+    "in the country",
+    "manor",
+    "village",
+    "hamlet"
+  ],
+  "onyomi": [
+    "ショウ",
+    "ソ",
+    "ソウ",
+    "ホウ"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

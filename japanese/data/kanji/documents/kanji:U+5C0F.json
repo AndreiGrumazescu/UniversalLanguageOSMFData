@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+5C0F",
+  "unicode": "U+5C0F",
+  "symbol": "小",
+  "meanings": [
+    "little",
+    "small"
+  ],
+  "onyomi": [
+    "ショウ"
+  ],
+  "kunyomi": [
+    "ちい.さい",
+    "こ-",
+    "お-",
+    "さ-"
+  ],
+  "strokeCount": 3,
+  "jlptLevel": "unspecified"
+}

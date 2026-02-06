@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+6458",
+  "unicode": "U+6458",
+  "symbol": "摘",
+  "meanings": [
+    "pinch",
+    "pick",
+    "pluck",
+    "trim",
+    "clip",
+    "summarize"
+  ],
+  "onyomi": [
+    "テキ"
+  ],
+  "kunyomi": [
+    "つ.む"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

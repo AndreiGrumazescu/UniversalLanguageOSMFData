@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+7269",
+  "unicode": "U+7269",
+  "symbol": "物",
+  "meanings": [
+    "thing",
+    "object",
+    "matter"
+  ],
+  "onyomi": [
+    "ブツ",
+    "モツ"
+  ],
+  "kunyomi": [
+    "もの",
+    "もの-"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

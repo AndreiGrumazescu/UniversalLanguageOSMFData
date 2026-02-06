@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+4ED6",
+  "unicode": "U+4ED6",
+  "symbol": "他",
+  "meanings": [
+    "other",
+    "another",
+    "the others"
+  ],
+  "onyomi": [
+    "タ"
+  ],
+  "kunyomi": [
+    "ほか"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

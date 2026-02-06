@@ -1,0 +1,25 @@
+{
+  "$id": "kanji:U+78BA",
+  "unicode": "U+78BA",
+  "symbol": "確",
+  "meanings": [
+    "assurance",
+    "firm",
+    "tight",
+    "hard",
+    "solid",
+    "confirm",
+    "clear",
+    "evident"
+  ],
+  "onyomi": [
+    "カク",
+    "コウ"
+  ],
+  "kunyomi": [
+    "たし.か",
+    "たし.かめる"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+6101",
+  "unicode": "U+6101",
+  "symbol": "愁",
+  "meanings": [
+    "distress",
+    "grieve",
+    "lament",
+    "be anxious"
+  ],
+  "onyomi": [
+    "シュウ"
+  ],
+  "kunyomi": [
+    "うれ.える",
+    "うれ.い"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

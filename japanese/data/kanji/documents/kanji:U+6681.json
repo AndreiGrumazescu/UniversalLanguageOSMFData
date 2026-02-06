@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+6681",
+  "unicode": "U+6681",
+  "symbol": "暁",
+  "meanings": [
+    "daybreak",
+    "dawn",
+    "in the event"
+  ],
+  "onyomi": [
+    "ギョウ",
+    "キョウ"
+  ],
+  "kunyomi": [
+    "あかつき",
+    "さと.る"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

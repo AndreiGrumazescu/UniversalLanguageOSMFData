@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+68DA",
+  "unicode": "U+68DA",
+  "symbol": "棚",
+  "meanings": [
+    "shelf",
+    "ledge",
+    "rack",
+    "mount",
+    "mantle",
+    "trellis"
+  ],
+  "onyomi": [
+    "ホウ"
+  ],
+  "kunyomi": [
+    "たな",
+    "-だな"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

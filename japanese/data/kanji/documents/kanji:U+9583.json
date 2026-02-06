@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+9583",
+  "unicode": "U+9583",
+  "symbol": "閃",
+  "meanings": [
+    "flash",
+    "brandish"
+  ],
+  "onyomi": [
+    "セン"
+  ],
+  "kunyomi": [
+    "ひらめ.く",
+    "ひらめ.き",
+    "うかが.う"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

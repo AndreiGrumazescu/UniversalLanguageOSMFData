@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+826F",
+  "unicode": "U+826F",
+  "symbol": "良",
+  "meanings": [
+    "good",
+    "pleasing",
+    "skilled"
+  ],
+  "onyomi": [
+    "リョウ"
+  ],
+  "kunyomi": [
+    "よ.い",
+    "-よ.い",
+    "い.い",
+    "-い.い"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

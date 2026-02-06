@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+56E3",
+  "unicode": "U+56E3",
+  "symbol": "団",
+  "meanings": [
+    "group",
+    "association"
+  ],
+  "onyomi": [
+    "ダン",
+    "トン"
+  ],
+  "kunyomi": [
+    "かたまり",
+    "まる.い"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

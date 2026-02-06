@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+6CC1",
+  "unicode": "U+6CC1",
+  "symbol": "況",
+  "meanings": [
+    "condition",
+    "situation"
+  ],
+  "onyomi": [
+    "キョウ"
+  ],
+  "kunyomi": [
+    "まし.て",
+    "いわ.んや",
+    "おもむき"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

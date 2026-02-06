@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+67A2",
+  "unicode": "U+67A2",
+  "symbol": "枢",
+  "meanings": [
+    "hinge",
+    "pivot",
+    "door",
+    "center of things"
+  ],
+  "onyomi": [
+    "スウ",
+    "シュ"
+  ],
+  "kunyomi": [
+    "とぼそ",
+    "からくり"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

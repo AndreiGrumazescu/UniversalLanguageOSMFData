@@ -47,7 +47,7 @@ Each language directory contains scripts organized into four categories:
 All generators must be **idempotent**: running them multiple times produces the same result.
 
 See the language-specific documentation for details on individual scripts:
-- [Japanese Content](japanese/docs/japanese_grapheme.md)
+- [Japanese Content](japanese/docs/japanese_content.md)
 
 ## Testing
 

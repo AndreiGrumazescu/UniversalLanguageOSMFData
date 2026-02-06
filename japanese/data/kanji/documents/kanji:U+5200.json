@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+5200",
+  "unicode": "U+5200",
+  "symbol": "刀",
+  "meanings": [
+    "sword",
+    "saber",
+    "knife"
+  ],
+  "onyomi": [
+    "トウ"
+  ],
+  "kunyomi": [
+    "かたな",
+    "そり"
+  ],
+  "strokeCount": 2,
+  "jlptLevel": "unspecified"
+}

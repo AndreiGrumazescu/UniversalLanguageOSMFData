@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+9010",
+  "unicode": "U+9010",
+  "symbol": "逐",
+  "meanings": [
+    "pursue",
+    "drive away",
+    "chase",
+    "accomplish",
+    "attain",
+    "commit"
+  ],
+  "onyomi": [
+    "チク"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

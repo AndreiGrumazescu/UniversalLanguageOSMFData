@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+8ACB",
+  "unicode": "U+8ACB",
+  "symbol": "請",
+  "meanings": [
+    "solicit",
+    "invite",
+    "ask"
+  ],
+  "onyomi": [
+    "セイ",
+    "シン",
+    "ショウ"
+  ],
+  "kunyomi": [
+    "こ.う",
+    "う.ける"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

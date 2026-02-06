@@ -1,0 +1,17 @@
+{
+  "$id": "kanji:U+6BCE",
+  "unicode": "U+6BCE",
+  "symbol": "毎",
+  "meanings": [
+    "every"
+  ],
+  "onyomi": [
+    "マイ"
+  ],
+  "kunyomi": [
+    "ごと",
+    "-ごと.に"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

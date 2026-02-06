@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+7573",
+  "unicode": "U+7573",
+  "symbol": "畳",
+  "meanings": [
+    "tatami mat",
+    "counter for tatami mats",
+    "fold",
+    "shut up",
+    "do away with"
+  ],
+  "onyomi": [
+    "ジョウ",
+    "チョウ"
+  ],
+  "kunyomi": [
+    "たた.む",
+    "たたみ",
+    "かさ.なる"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

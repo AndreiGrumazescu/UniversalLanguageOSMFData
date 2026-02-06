@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+98DF",
+  "unicode": "U+98DF",
+  "symbol": "食",
+  "meanings": [
+    "eat",
+    "food"
+  ],
+  "onyomi": [
+    "ショク",
+    "ジキ"
+  ],
+  "kunyomi": [
+    "く.う",
+    "く.らう",
+    "た.べる",
+    "は.む"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

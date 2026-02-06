@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+6D78",
+  "unicode": "U+6D78",
+  "symbol": "浸",
+  "meanings": [
+    "immersed",
+    "soak",
+    "dip",
+    "steep",
+    "moisten",
+    "wet",
+    "dunk"
+  ],
+  "onyomi": [
+    "シン"
+  ],
+  "kunyomi": [
+    "ひた.す",
+    "ひた.る",
+    "つ.かる"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

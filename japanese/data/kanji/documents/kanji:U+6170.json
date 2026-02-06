@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+6170",
+  "unicode": "U+6170",
+  "symbol": "慰",
+  "meanings": [
+    "consolation",
+    "amusement",
+    "seduce",
+    "cheer",
+    "make sport of",
+    "comfort",
+    "console"
+  ],
+  "onyomi": [
+    "イ"
+  ],
+  "kunyomi": [
+    "なぐさ.める",
+    "なぐさ.む"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

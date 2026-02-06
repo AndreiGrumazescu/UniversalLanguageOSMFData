@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+5165",
+  "unicode": "U+5165",
+  "symbol": "入",
+  "meanings": [
+    "enter",
+    "insert"
+  ],
+  "onyomi": [
+    "ニュウ",
+    "ジュ"
+  ],
+  "kunyomi": [
+    "い.る",
+    "-い.る",
+    "-い.り",
+    "い.れる",
+    "-い.れ",
+    "はい.る"
+  ],
+  "strokeCount": 2,
+  "jlptLevel": "unspecified"
+}

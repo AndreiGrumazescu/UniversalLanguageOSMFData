@@ -1,0 +1,31 @@
+{
+  "$id": "kanji:U+6E08",
+  "unicode": "U+6E08",
+  "symbol": "済",
+  "meanings": [
+    "settle (debt, etc.)",
+    "relieve (burden)",
+    "finish",
+    "come to an end",
+    "excusable",
+    "need not"
+  ],
+  "onyomi": [
+    "サイ",
+    "セイ"
+  ],
+  "kunyomi": [
+    "す.む",
+    "-ず.み",
+    "-ずみ",
+    "す.まない",
+    "す.ます",
+    "-す.ます",
+    "すく.う",
+    "な.す",
+    "わたし",
+    "わた.る"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

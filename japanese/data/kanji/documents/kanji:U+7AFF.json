@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+7AFF",
+  "unicode": "U+7AFF",
+  "symbol": "竿",
+  "meanings": [
+    "pole",
+    "rod",
+    "scale beam",
+    "violin neck"
+  ],
+  "onyomi": [
+    "カン"
+  ],
+  "kunyomi": [
+    "さお"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

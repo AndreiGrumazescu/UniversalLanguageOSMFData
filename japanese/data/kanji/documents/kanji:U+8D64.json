@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+8D64",
+  "unicode": "U+8D64",
+  "symbol": "赤",
+  "meanings": [
+    "red"
+  ],
+  "onyomi": [
+    "セキ",
+    "シャク"
+  ],
+  "kunyomi": [
+    "あか",
+    "あか-",
+    "あか.い",
+    "あか.らむ",
+    "あか.らめる"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

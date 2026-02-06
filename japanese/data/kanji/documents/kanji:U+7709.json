@@ -1,0 +1,17 @@
+{
+  "$id": "kanji:U+7709",
+  "unicode": "U+7709",
+  "symbol": "眉",
+  "meanings": [
+    "eyebrow"
+  ],
+  "onyomi": [
+    "ビ",
+    "ミ"
+  ],
+  "kunyomi": [
+    "まゆ"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

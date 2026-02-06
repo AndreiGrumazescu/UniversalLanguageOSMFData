@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+6EB6",
+  "unicode": "U+6EB6",
+  "symbol": "溶",
+  "meanings": [
+    "melt",
+    "dissolve",
+    "thaw"
+  ],
+  "onyomi": [
+    "ヨウ"
+  ],
+  "kunyomi": [
+    "と.ける",
+    "と.かす",
+    "と.く"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

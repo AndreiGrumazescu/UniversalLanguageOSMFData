@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+640D",
+  "unicode": "U+640D",
+  "symbol": "損",
+  "meanings": [
+    "damage",
+    "loss",
+    "disadvantage",
+    "hurt",
+    "injure"
+  ],
+  "onyomi": [
+    "ソン"
+  ],
+  "kunyomi": [
+    "そこ.なう",
+    "そこな.う",
+    "-そこ.なう",
+    "そこ.ねる",
+    "-そこ.ねる"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

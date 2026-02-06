@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+69C7",
+  "unicode": "U+69C7",
+  "symbol": "槇",
+  "meanings": [
+    "twig",
+    "Chinese black pine"
+  ],
+  "onyomi": [
+    "テン",
+    "シン"
+  ],
+  "kunyomi": [
+    "まき",
+    "こずえ"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "kanji:U+6AA2",
+  "unicode": "U+6AA2",
+  "symbol": "檢",
+  "meanings": [
+    "check",
+    "examine"
+  ],
+  "onyomi": [
+    "ケン"
+  ],
+  "kunyomi": [
+    "しら.べる"
+  ],
+  "strokeCount": 17,
+  "jlptLevel": "unspecified"
+}

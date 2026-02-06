@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+6C23",
+  "unicode": "U+6C23",
+  "symbol": "氣",
+  "meanings": [
+    "spirit",
+    "mind",
+    "air",
+    "atmosphere",
+    "mood"
+  ],
+  "onyomi": [
+    "キ",
+    "ケ"
+  ],
+  "kunyomi": [
+    "いき"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

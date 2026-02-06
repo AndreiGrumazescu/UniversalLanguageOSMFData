@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+5B58",
+  "unicode": "U+5B58",
+  "symbol": "存",
+  "meanings": [
+    "exist",
+    "suppose",
+    "be aware of",
+    "believe",
+    "feel"
+  ],
+  "onyomi": [
+    "ソン",
+    "ゾン"
+  ],
+  "kunyomi": [
+    "ながら.える",
+    "あ.る",
+    "たも.つ",
+    "と.う"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

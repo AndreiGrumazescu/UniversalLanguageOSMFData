@@ -1,0 +1,17 @@
+{
+  "$id": "kanji-grapheme-dep:U+7C3F",
+  "connectors": {
+    "parent": {
+      "$id": "kanji:U+7C3F"
+    }
+  },
+  "many": [
+    {
+      "connectors": {
+        "component": {
+          "$id": "grapheme:U+7AF9"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "$id": "kanji:U+8584",
+  "unicode": "U+8584",
+  "symbol": "薄",
+  "meanings": [
+    "dilute",
+    "thin",
+    "weak (tea)",
+    "pampas grass"
+  ],
+  "onyomi": [
+    "ハク"
+  ],
+  "kunyomi": [
+    "うす.い",
+    "うす-",
+    "-うす",
+    "うす.める",
+    "うす.まる",
+    "うす.らぐ",
+    "うす.ら-",
+    "うす.れる",
+    "すすき"
+  ],
+  "strokeCount": 16,
+  "jlptLevel": "unspecified"
+}

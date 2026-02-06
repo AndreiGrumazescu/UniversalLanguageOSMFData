@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+9152",
+  "unicode": "U+9152",
+  "symbol": "酒",
+  "meanings": [
+    "sake",
+    "alcohol"
+  ],
+  "onyomi": [
+    "シュ"
+  ],
+  "kunyomi": [
+    "さけ",
+    "さか-"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

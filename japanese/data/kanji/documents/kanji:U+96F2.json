@@ -1,0 +1,17 @@
+{
+  "$id": "kanji:U+96F2",
+  "unicode": "U+96F2",
+  "symbol": "雲",
+  "meanings": [
+    "cloud"
+  ],
+  "onyomi": [
+    "ウン"
+  ],
+  "kunyomi": [
+    "くも",
+    "-ぐも"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

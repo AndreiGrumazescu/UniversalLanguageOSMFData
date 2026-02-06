@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+5CE1",
+  "unicode": "U+5CE1",
+  "symbol": "峡",
+  "meanings": [
+    "gorge",
+    "ravine"
+  ],
+  "onyomi": [
+    "キョウ",
+    "コウ"
+  ],
+  "kunyomi": [
+    "はざま"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

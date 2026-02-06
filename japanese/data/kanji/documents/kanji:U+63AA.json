@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+63AA",
+  "unicode": "U+63AA",
+  "symbol": "措",
+  "meanings": [
+    "set aside",
+    "give up",
+    "suspend",
+    "discontinue",
+    "lay aside",
+    "except"
+  ],
+  "onyomi": [
+    "ソ"
+  ],
+  "kunyomi": [
+    "お.く"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

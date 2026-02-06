@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+4E9C",
+  "unicode": "U+4E9C",
+  "symbol": "亜",
+  "meanings": [
+    "Asia",
+    "rank next",
+    "come after",
+    "-ous"
+  ],
+  "onyomi": [
+    "ア"
+  ],
+  "kunyomi": [
+    "つ.ぐ"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

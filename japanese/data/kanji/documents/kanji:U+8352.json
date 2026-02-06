@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+8352",
+  "unicode": "U+8352",
+  "symbol": "荒",
+  "meanings": [
+    "laid waste",
+    "rough",
+    "rude",
+    "wild"
+  ],
+  "onyomi": [
+    "コウ"
+  ],
+  "kunyomi": [
+    "あ.らす",
+    "あ.れる",
+    "あら.い",
+    "すさ.ぶ",
+    "すさ.む",
+    "あ.らし"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

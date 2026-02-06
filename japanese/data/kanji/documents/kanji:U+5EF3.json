@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+5EF3",
+  "unicode": "U+5EF3",
+  "symbol": "廳",
+  "meanings": [
+    "hall",
+    "central room"
+  ],
+  "onyomi": [
+    "チョウ",
+    "テイ"
+  ],
+  "kunyomi": [
+    "やくしょ"
+  ],
+  "strokeCount": 25,
+  "jlptLevel": "unspecified"
+}

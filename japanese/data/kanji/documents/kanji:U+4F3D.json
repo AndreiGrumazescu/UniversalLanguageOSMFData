@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+4F3D",
+  "unicode": "U+4F3D",
+  "symbol": "伽",
+  "meanings": [
+    "nursing",
+    "attending",
+    "entertainer"
+  ],
+  "onyomi": [
+    "カ",
+    "ガ",
+    "キャ",
+    "ギャ"
+  ],
+  "kunyomi": [
+    "とぎ"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

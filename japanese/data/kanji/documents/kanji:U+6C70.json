@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+6C70",
+  "unicode": "U+6C70",
+  "symbol": "汰",
+  "meanings": [
+    "washing",
+    "sieving",
+    "filtering",
+    "weeding out",
+    "luxury"
+  ],
+  "onyomi": [
+    "タ",
+    "タイ"
+  ],
+  "kunyomi": [
+    "おご.る",
+    "にご.る",
+    "よな.げる"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

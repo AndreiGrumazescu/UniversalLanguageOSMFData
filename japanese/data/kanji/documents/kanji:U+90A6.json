@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+90A6",
+  "unicode": "U+90A6",
+  "symbol": "邦",
+  "meanings": [
+    "home country",
+    "country",
+    "Japan"
+  ],
+  "onyomi": [
+    "ホウ"
+  ],
+  "kunyomi": [
+    "くに"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

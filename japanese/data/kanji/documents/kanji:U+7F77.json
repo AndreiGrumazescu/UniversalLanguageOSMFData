@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+7F77",
+  "unicode": "U+7F77",
+  "symbol": "罷",
+  "meanings": [
+    "quit",
+    "stop",
+    "leave",
+    "withdraw",
+    "go"
+  ],
+  "onyomi": [
+    "ヒ"
+  ],
+  "kunyomi": [
+    "まか.り-",
+    "や.める"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

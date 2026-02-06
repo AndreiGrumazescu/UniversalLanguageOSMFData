@@ -1,0 +1,26 @@
+{
+  "$id": "kanji:U+6298",
+  "unicode": "U+6298",
+  "symbol": "折",
+  "meanings": [
+    "fold",
+    "break",
+    "fracture",
+    "bend",
+    "yield",
+    "submit"
+  ],
+  "onyomi": [
+    "セツ",
+    "シャク"
+  ],
+  "kunyomi": [
+    "お.る",
+    "おり",
+    "お.り",
+    "-お.り",
+    "お.れる"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,25 @@
+{
+  "$id": "kanji:U+8D8A",
+  "unicode": "U+8D8A",
+  "symbol": "越",
+  "meanings": [
+    "surpass",
+    "cross over",
+    "move to",
+    "exceed",
+    "Vietnam"
+  ],
+  "onyomi": [
+    "エツ",
+    "オツ"
+  ],
+  "kunyomi": [
+    "こ.す",
+    "-こ.す",
+    "-ご.し",
+    "こ.える",
+    "-ご.え"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

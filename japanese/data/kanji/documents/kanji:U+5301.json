@@ -1,0 +1,16 @@
+{
+  "$id": "kanji:U+5301",
+  "unicode": "U+5301",
+  "symbol": "匁",
+  "meanings": [
+    "monme",
+    "3.75 grams",
+    "(kokuji)"
+  ],
+  "kunyomi": [
+    "もんめ",
+    "め"
+  ],
+  "strokeCount": 4,
+  "jlptLevel": "unspecified"
+}

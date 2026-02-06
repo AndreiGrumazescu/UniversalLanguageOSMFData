@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+9640",
+  "unicode": "U+9640",
+  "symbol": "陀",
+  "meanings": [
+    "steep"
+  ],
+  "onyomi": [
+    "タ",
+    "ダ",
+    "イ",
+    "チ",
+    "ジ"
+  ],
+  "kunyomi": [
+    "けわ.しい",
+    "ななめ"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

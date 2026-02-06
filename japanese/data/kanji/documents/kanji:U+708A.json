@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+708A",
+  "unicode": "U+708A",
+  "symbol": "炊",
+  "meanings": [
+    "cook",
+    "boil"
+  ],
+  "onyomi": [
+    "スイ"
+  ],
+  "kunyomi": [
+    "た.く",
+    "-だ.き"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

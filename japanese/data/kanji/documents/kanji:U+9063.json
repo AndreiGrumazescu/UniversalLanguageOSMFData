@@ -1,0 +1,26 @@
+{
+  "$id": "kanji:U+9063",
+  "unicode": "U+9063",
+  "symbol": "遣",
+  "meanings": [
+    "dispatch",
+    "despatch",
+    "send",
+    "give",
+    "donate",
+    "do",
+    "undertake"
+  ],
+  "onyomi": [
+    "ケン"
+  ],
+  "kunyomi": [
+    "つか.う",
+    "-つか.い",
+    "-づか.い",
+    "つか.わす",
+    "や.る"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

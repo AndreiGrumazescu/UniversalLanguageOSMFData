@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+67DA",
+  "unicode": "U+67DA",
+  "symbol": "柚",
+  "meanings": [
+    "citron"
+  ],
+  "onyomi": [
+    "ユ",
+    "ユウ",
+    "ジク"
+  ],
+  "kunyomi": [
+    "ゆず"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

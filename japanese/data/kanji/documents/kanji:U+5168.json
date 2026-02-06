@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+5168",
+  "unicode": "U+5168",
+  "symbol": "全",
+  "meanings": [
+    "whole",
+    "entire",
+    "all",
+    "complete",
+    "fulfill"
+  ],
+  "onyomi": [
+    "ゼン"
+  ],
+  "kunyomi": [
+    "まった.く",
+    "すべ.て"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+6E4A",
+  "unicode": "U+6E4A",
+  "symbol": "湊",
+  "meanings": [
+    "port",
+    "harbor"
+  ],
+  "onyomi": [
+    "ソウ"
+  ],
+  "kunyomi": [
+    "みなと",
+    "あつ.まる"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

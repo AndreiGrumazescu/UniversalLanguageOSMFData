@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+6C0F",
+  "unicode": "U+6C0F",
+  "symbol": "氏",
+  "meanings": [
+    "family name",
+    "surname",
+    "clan"
+  ],
+  "onyomi": [
+    "シ"
+  ],
+  "kunyomi": [
+    "うじ",
+    "-うじ"
+  ],
+  "strokeCount": 4,
+  "jlptLevel": "unspecified"
+}

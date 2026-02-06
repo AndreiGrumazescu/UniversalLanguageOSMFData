@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+8CD1",
+  "unicode": "U+8CD1",
+  "symbol": "賑",
+  "meanings": [
+    "flourish",
+    "be bustling",
+    "prosperity"
+  ],
+  "onyomi": [
+    "シン"
+  ],
+  "kunyomi": [
+    "にぎ.わい",
+    "にぎ.やか",
+    "にぎ.わす",
+    "にぎ.わう"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "kanji:U+5BA2",
+  "unicode": "U+5BA2",
+  "symbol": "客",
+  "meanings": [
+    "guest",
+    "visitor",
+    "customer",
+    "client"
+  ],
+  "onyomi": [
+    "キャク",
+    "カク"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

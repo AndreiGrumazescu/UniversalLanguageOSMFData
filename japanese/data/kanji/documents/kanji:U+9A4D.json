@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+9A4D",
+  "unicode": "U+9A4D",
+  "symbol": "驍",
+  "meanings": [
+    "strong",
+    "good horse",
+    "gallant",
+    "brave",
+    "ferocious"
+  ],
+  "onyomi": [
+    "ギョウ",
+    "キョウ"
+  ],
+  "kunyomi": [
+    "たけし",
+    "つよ.い"
+  ],
+  "strokeCount": 22,
+  "jlptLevel": "unspecified"
+}

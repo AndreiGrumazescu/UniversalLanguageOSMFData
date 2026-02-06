@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+5FEB",
+  "unicode": "U+5FEB",
+  "symbol": "快",
+  "meanings": [
+    "cheerful",
+    "pleasant",
+    "agreeable",
+    "comfortable"
+  ],
+  "onyomi": [
+    "カイ"
+  ],
+  "kunyomi": [
+    "こころよ.い"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

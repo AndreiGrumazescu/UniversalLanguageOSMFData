@@ -1,0 +1,25 @@
+{
+  "$id": "kanji:U+8499",
+  "unicode": "U+8499",
+  "symbol": "蒙",
+  "meanings": [
+    "ignorance",
+    "darkness",
+    "get",
+    "receive",
+    "be subjected to",
+    "sustain",
+    "Mongolia"
+  ],
+  "onyomi": [
+    "モウ",
+    "ボウ"
+  ],
+  "kunyomi": [
+    "こうむ.る",
+    "おお.う",
+    "くら.い"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

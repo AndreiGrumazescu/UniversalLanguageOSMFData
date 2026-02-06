@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+6E09",
+  "unicode": "U+6E09",
+  "symbol": "渉",
+  "meanings": [
+    "ford",
+    "go cross",
+    "transit",
+    "ferry",
+    "import",
+    "involve"
+  ],
+  "onyomi": [
+    "ショウ"
+  ],
+  "kunyomi": [
+    "わた.る"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

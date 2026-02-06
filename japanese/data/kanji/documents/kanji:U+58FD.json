@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+58FD",
+  "unicode": "U+58FD",
+  "symbol": "壽",
+  "meanings": [
+    "longevity",
+    "congratulations"
+  ],
+  "onyomi": [
+    "ジュ",
+    "ス",
+    "シュウ"
+  ],
+  "kunyomi": [
+    "ことぶき",
+    "ことぶ.く",
+    "ことほ.ぐ"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

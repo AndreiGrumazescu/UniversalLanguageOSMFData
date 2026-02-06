@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+63A5",
+  "unicode": "U+63A5",
+  "symbol": "接",
+  "meanings": [
+    "touch",
+    "contact",
+    "adjoin",
+    "piece together"
+  ],
+  "onyomi": [
+    "セツ",
+    "ショウ"
+  ],
+  "kunyomi": [
+    "つ.ぐ"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

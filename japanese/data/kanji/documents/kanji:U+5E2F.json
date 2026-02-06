@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+5E2F",
+  "unicode": "U+5E2F",
+  "symbol": "帯",
+  "meanings": [
+    "sash",
+    "belt",
+    "obi",
+    "zone",
+    "region"
+  ],
+  "onyomi": [
+    "タイ"
+  ],
+  "kunyomi": [
+    "お.びる",
+    "おび"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

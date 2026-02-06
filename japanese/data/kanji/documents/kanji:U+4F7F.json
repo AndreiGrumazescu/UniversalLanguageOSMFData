@@ -1,0 +1,25 @@
+{
+  "$id": "kanji:U+4F7F",
+  "unicode": "U+4F7F",
+  "symbol": "使",
+  "meanings": [
+    "use",
+    "send on a mission",
+    "order",
+    "messenger",
+    "envoy",
+    "ambassador",
+    "cause"
+  ],
+  "onyomi": [
+    "シ"
+  ],
+  "kunyomi": [
+    "つか.う",
+    "つか.い",
+    "-つか.い",
+    "-づか.い"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

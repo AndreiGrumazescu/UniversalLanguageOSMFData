@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+702C",
+  "unicode": "U+702C",
+  "symbol": "瀬",
+  "meanings": [
+    "rapids",
+    "current",
+    "torrent",
+    "shallows",
+    "shoal"
+  ],
+  "onyomi": [
+    "ライ"
+  ],
+  "kunyomi": [
+    "せ"
+  ],
+  "strokeCount": 19,
+  "jlptLevel": "unspecified"
+}

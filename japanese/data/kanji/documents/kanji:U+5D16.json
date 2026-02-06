@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+5D16",
+  "unicode": "U+5D16",
+  "symbol": "崖",
+  "meanings": [
+    "cliff",
+    "bluff",
+    "precipice"
+  ],
+  "onyomi": [
+    "ガイ",
+    "ゲ",
+    "ギ"
+  ],
+  "kunyomi": [
+    "がけ",
+    "きし",
+    "はて"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

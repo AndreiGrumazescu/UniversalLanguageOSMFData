@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+5373",
+  "unicode": "U+5373",
+  "symbol": "即",
+  "meanings": [
+    "instant",
+    "namely",
+    "as is",
+    "conform",
+    "agree",
+    "adapt"
+  ],
+  "onyomi": [
+    "ソク"
+  ],
+  "kunyomi": [
+    "つ.く",
+    "つ.ける",
+    "すなわ.ち"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

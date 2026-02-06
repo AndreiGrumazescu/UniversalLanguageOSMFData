@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+755D",
+  "unicode": "U+755D",
+  "symbol": "畝",
+  "meanings": [
+    "furrow",
+    "thirty tsubo",
+    "ridge",
+    "rib"
+  ],
+  "onyomi": [
+    "ボウ",
+    "ホ",
+    "モ",
+    "ム"
+  ],
+  "kunyomi": [
+    "せ",
+    "うね"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

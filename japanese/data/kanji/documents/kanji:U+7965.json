@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+7965",
+  "unicode": "U+7965",
+  "symbol": "祥",
+  "meanings": [
+    "auspicious",
+    "happiness",
+    "blessedness",
+    "good omen",
+    "good fortune"
+  ],
+  "onyomi": [
+    "ショウ"
+  ],
+  "kunyomi": [
+    "さいわ.い",
+    "きざ.し",
+    "よ.い",
+    "つまび.らか"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

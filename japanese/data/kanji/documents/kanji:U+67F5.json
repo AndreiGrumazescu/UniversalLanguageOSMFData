@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+67F5",
+  "unicode": "U+67F5",
+  "symbol": "柵",
+  "meanings": [
+    "stockade",
+    "fence",
+    "weir",
+    "entwine around"
+  ],
+  "onyomi": [
+    "サク",
+    "サン"
+  ],
+  "kunyomi": [
+    "しがら.む",
+    "しがらみ",
+    "とりで",
+    "やらい"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

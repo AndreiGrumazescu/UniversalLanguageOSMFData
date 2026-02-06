@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+7C92",
+  "unicode": "U+7C92",
+  "symbol": "粒",
+  "meanings": [
+    "grains",
+    "drop",
+    "counter for tiny particles"
+  ],
+  "onyomi": [
+    "リュウ"
+  ],
+  "kunyomi": [
+    "つぶ"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

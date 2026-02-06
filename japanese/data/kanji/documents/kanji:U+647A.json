@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+647A",
+  "unicode": "U+647A",
+  "symbol": "摺",
+  "meanings": [
+    "rub",
+    "fold",
+    "print (on cloth)"
+  ],
+  "onyomi": [
+    "ショウ",
+    "シュウ",
+    "ロウ"
+  ],
+  "kunyomi": [
+    "す.る",
+    "ひだ"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

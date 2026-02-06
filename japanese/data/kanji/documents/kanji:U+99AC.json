@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+99AC",
+  "unicode": "U+99AC",
+  "symbol": "馬",
+  "meanings": [
+    "horse"
+  ],
+  "onyomi": [
+    "バ"
+  ],
+  "kunyomi": [
+    "うま",
+    "うま-",
+    "ま"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

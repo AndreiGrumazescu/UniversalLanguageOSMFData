@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+5CAC",
+  "unicode": "U+5CAC",
+  "symbol": "岬",
+  "meanings": [
+    "headland",
+    "cape",
+    "spit",
+    "promontory"
+  ],
+  "onyomi": [
+    "コウ"
+  ],
+  "kunyomi": [
+    "みさき"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

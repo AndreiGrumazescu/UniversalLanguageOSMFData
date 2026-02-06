@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+6F15",
+  "unicode": "U+6F15",
+  "symbol": "漕",
+  "meanings": [
+    "rowing",
+    "scull",
+    "paddle"
+  ],
+  "onyomi": [
+    "ソウ"
+  ],
+  "kunyomi": [
+    "こ.ぐ",
+    "はこ.ぶ"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

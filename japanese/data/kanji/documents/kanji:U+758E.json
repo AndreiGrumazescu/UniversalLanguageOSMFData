@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+758E",
+  "unicode": "U+758E",
+  "symbol": "疎",
+  "meanings": [
+    "alienate",
+    "rough",
+    "neglect",
+    "shun",
+    "sparse",
+    "penetrate"
+  ],
+  "onyomi": [
+    "ソ",
+    "ショ"
+  ],
+  "kunyomi": [
+    "うと.い",
+    "うと.む",
+    "まば.ら"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

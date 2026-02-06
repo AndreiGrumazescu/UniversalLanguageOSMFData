@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+798E",
+  "unicode": "U+798E",
+  "symbol": "禎",
+  "meanings": [
+    "happiness",
+    "blessed",
+    "good fortune",
+    "auspicious"
+  ],
+  "onyomi": [
+    "テイ"
+  ],
+  "kunyomi": [
+    "さいわ.い"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

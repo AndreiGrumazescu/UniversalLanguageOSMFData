@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+6D25",
+  "unicode": "U+6D25",
+  "symbol": "津",
+  "meanings": [
+    "haven",
+    "port",
+    "harbor",
+    "ferry"
+  ],
+  "onyomi": [
+    "シン"
+  ],
+  "kunyomi": [
+    "つ"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

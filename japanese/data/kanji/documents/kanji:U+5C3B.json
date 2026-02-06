@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+5C3B",
+  "unicode": "U+5C3B",
+  "symbol": "尻",
+  "meanings": [
+    "buttocks",
+    "hips",
+    "butt",
+    "rear"
+  ],
+  "onyomi": [
+    "コウ"
+  ],
+  "kunyomi": [
+    "しり"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

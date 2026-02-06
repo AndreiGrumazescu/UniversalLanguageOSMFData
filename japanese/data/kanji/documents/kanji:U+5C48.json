@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+5C48",
+  "unicode": "U+5C48",
+  "symbol": "屈",
+  "meanings": [
+    "yield",
+    "bend",
+    "flinch",
+    "submit"
+  ],
+  "onyomi": [
+    "クツ"
+  ],
+  "kunyomi": [
+    "かが.む",
+    "かが.める"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

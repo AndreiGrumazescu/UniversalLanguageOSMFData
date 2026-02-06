@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+93AE",
+  "unicode": "U+93AE",
+  "symbol": "鎮",
+  "meanings": [
+    "tranquilize",
+    "ancient peace-preservation centers"
+  ],
+  "onyomi": [
+    "チン"
+  ],
+  "kunyomi": [
+    "しず.める",
+    "しず.まる",
+    "おさえ"
+  ],
+  "strokeCount": 18,
+  "jlptLevel": "unspecified"
+}

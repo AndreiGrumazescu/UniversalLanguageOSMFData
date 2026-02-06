@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+5897",
+  "unicode": "U+5897",
+  "symbol": "増",
+  "meanings": [
+    "increase",
+    "add",
+    "augment",
+    "gain",
+    "promote"
+  ],
+  "onyomi": [
+    "ゾウ"
+  ],
+  "kunyomi": [
+    "ま.す",
+    "ま.し",
+    "ふ.える",
+    "ふ.やす"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

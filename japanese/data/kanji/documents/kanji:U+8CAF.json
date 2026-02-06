@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+8CAF",
+  "unicode": "U+8CAF",
+  "symbol": "貯",
+  "meanings": [
+    "savings",
+    "store",
+    "lay in",
+    "keep",
+    "wear mustache"
+  ],
+  "onyomi": [
+    "チョ"
+  ],
+  "kunyomi": [
+    "た.める",
+    "たくわ.える"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

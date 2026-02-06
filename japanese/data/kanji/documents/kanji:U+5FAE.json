@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+5FAE",
+  "unicode": "U+5FAE",
+  "symbol": "微",
+  "meanings": [
+    "delicate",
+    "minuteness",
+    "insignificance"
+  ],
+  "onyomi": [
+    "ビ"
+  ],
+  "kunyomi": [
+    "かす.か"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

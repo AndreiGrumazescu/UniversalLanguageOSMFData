@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+6F38",
+  "unicode": "U+6F38",
+  "symbol": "漸",
+  "meanings": [
+    "steadily",
+    "gradually advancing",
+    "finally",
+    "barely"
+  ],
+  "onyomi": [
+    "ゼン"
+  ],
+  "kunyomi": [
+    "ようや.く",
+    "やや",
+    "ようよ.う",
+    "すす.む"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

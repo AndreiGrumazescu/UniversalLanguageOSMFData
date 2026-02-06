@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+62D3",
+  "unicode": "U+62D3",
+  "symbol": "拓",
+  "meanings": [
+    "clear (the land)",
+    "open",
+    "break up (land)"
+  ],
+  "onyomi": [
+    "タク"
+  ],
+  "kunyomi": [
+    "ひら.く"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

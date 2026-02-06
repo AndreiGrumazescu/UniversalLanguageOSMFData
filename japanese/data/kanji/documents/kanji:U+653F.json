@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+653F",
+  "unicode": "U+653F",
+  "symbol": "政",
+  "meanings": [
+    "politics",
+    "government"
+  ],
+  "onyomi": [
+    "セイ",
+    "ショウ"
+  ],
+  "kunyomi": [
+    "まつりごと",
+    "まん"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

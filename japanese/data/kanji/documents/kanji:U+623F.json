@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+623F",
+  "unicode": "U+623F",
+  "symbol": "房",
+  "meanings": [
+    "tassel",
+    "tuft",
+    "fringe",
+    "bunch",
+    "lock (hair)",
+    "segment (orange)",
+    "house",
+    "room"
+  ],
+  "onyomi": [
+    "ボウ"
+  ],
+  "kunyomi": [
+    "ふさ"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

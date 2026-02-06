@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+5831",
+  "unicode": "U+5831",
+  "symbol": "報",
+  "meanings": [
+    "report",
+    "news",
+    "reward",
+    "retribution"
+  ],
+  "onyomi": [
+    "ホウ"
+  ],
+  "kunyomi": [
+    "むく.いる"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

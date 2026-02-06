@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+6B7B",
+  "unicode": "U+6B7B",
+  "symbol": "死",
+  "meanings": [
+    "death",
+    "die"
+  ],
+  "onyomi": [
+    "シ"
+  ],
+  "kunyomi": [
+    "し.ぬ",
+    "し.に-"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

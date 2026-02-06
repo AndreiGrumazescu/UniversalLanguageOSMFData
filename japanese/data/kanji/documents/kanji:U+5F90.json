@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+5F90",
+  "unicode": "U+5F90",
+  "symbol": "徐",
+  "meanings": [
+    "gradually",
+    "slowly",
+    "deliberately",
+    "gently"
+  ],
+  "onyomi": [
+    "ジョ"
+  ],
+  "kunyomi": [
+    "おもむ.ろに"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

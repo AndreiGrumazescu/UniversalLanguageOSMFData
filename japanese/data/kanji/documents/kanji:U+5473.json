@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+5473",
+  "unicode": "U+5473",
+  "symbol": "味",
+  "meanings": [
+    "flavor",
+    "taste"
+  ],
+  "onyomi": [
+    "ミ"
+  ],
+  "kunyomi": [
+    "あじ",
+    "あじ.わう"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

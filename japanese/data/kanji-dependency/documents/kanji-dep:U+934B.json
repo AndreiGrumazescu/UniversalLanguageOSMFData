@@ -1,0 +1,17 @@
+{
+  "$id": "kanji-dep:U+934B",
+  "connectors": {
+    "parent": {
+      "$id": "kanji:U+934B"
+    }
+  },
+  "many": [
+    {
+      "connectors": {
+        "prerequisite": {
+          "$id": "kanji:U+91D1"
+        }
+      }
+    }
+  ]
+}

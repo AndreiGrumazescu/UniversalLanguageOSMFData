@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+904D",
+  "unicode": "U+904D",
+  "symbol": "遍",
+  "meanings": [
+    "everywhere",
+    "times",
+    "widely",
+    "generally"
+  ],
+  "onyomi": [
+    "ヘン"
+  ],
+  "kunyomi": [
+    "あまね.く"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

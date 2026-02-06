@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+7815",
+  "unicode": "U+7815",
+  "symbol": "砕",
+  "meanings": [
+    "smash",
+    "break",
+    "crush",
+    "familiar",
+    "popular"
+  ],
+  "onyomi": [
+    "サイ"
+  ],
+  "kunyomi": [
+    "くだ.く",
+    "くだ.ける"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

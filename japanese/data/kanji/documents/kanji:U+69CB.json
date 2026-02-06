@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+69CB",
+  "unicode": "U+69CB",
+  "symbol": "構",
+  "meanings": [
+    "posture",
+    "stance",
+    "appearance",
+    "build",
+    "set up"
+  ],
+  "onyomi": [
+    "コウ"
+  ],
+  "kunyomi": [
+    "かま.える",
+    "かま.う"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

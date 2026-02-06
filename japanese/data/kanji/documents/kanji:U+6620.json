@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+6620",
+  "unicode": "U+6620",
+  "symbol": "映",
+  "meanings": [
+    "reflect",
+    "reflection",
+    "projection"
+  ],
+  "onyomi": [
+    "エイ"
+  ],
+  "kunyomi": [
+    "うつ.る",
+    "うつ.す",
+    "は.える",
+    "-ば.え"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

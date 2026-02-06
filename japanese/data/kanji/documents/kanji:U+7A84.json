@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+7A84",
+  "unicode": "U+7A84",
+  "symbol": "窄",
+  "meanings": [
+    "narrow",
+    "fold",
+    "furl",
+    "shrug",
+    "pucker",
+    "shut",
+    "close"
+  ],
+  "onyomi": [
+    "サク"
+  ],
+  "kunyomi": [
+    "すぼ.める",
+    "つぼ.める",
+    "せま.い"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

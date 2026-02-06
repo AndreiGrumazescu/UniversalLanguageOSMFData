@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+65E6",
+  "unicode": "U+65E6",
+  "symbol": "旦",
+  "meanings": [
+    "daybreak",
+    "dawn",
+    "morning"
+  ],
+  "onyomi": [
+    "タン",
+    "ダン"
+  ],
+  "kunyomi": [
+    "あき.らか",
+    "あきら",
+    "ただし",
+    "あさ",
+    "あした"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

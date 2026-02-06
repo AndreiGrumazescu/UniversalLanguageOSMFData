@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+6012",
+  "unicode": "U+6012",
+  "symbol": "怒",
+  "meanings": [
+    "angry",
+    "be offended"
+  ],
+  "onyomi": [
+    "ド",
+    "ヌ"
+  ],
+  "kunyomi": [
+    "いか.る",
+    "おこ.る"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

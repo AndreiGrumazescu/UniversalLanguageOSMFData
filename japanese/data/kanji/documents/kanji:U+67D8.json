@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+67D8",
+  "unicode": "U+67D8",
+  "symbol": "柘",
+  "meanings": [
+    "wild mulberry"
+  ],
+  "onyomi": [
+    "シャ",
+    "ジャク"
+  ],
+  "kunyomi": [
+    "そ",
+    "つげ",
+    "やまぐわ"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

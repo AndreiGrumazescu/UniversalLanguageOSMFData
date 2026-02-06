@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+92ED",
+  "unicode": "U+92ED",
+  "symbol": "鋭",
+  "meanings": [
+    "pointed",
+    "sharpness",
+    "edge",
+    "weapon",
+    "sharp",
+    "violent"
+  ],
+  "onyomi": [
+    "エイ"
+  ],
+  "kunyomi": [
+    "するど.い"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

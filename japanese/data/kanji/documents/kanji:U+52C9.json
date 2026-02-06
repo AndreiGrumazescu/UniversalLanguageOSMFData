@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+52C9",
+  "unicode": "U+52C9",
+  "symbol": "勉",
+  "meanings": [
+    "exertion",
+    "endeavour",
+    "encourage",
+    "strive",
+    "make effort",
+    "diligent"
+  ],
+  "onyomi": [
+    "ベン"
+  ],
+  "kunyomi": [
+    "つと.める"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+585A",
+  "unicode": "U+585A",
+  "symbol": "塚",
+  "meanings": [
+    "hillock",
+    "mound"
+  ],
+  "onyomi": [
+    "チョウ"
+  ],
+  "kunyomi": [
+    "つか",
+    "-づか"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

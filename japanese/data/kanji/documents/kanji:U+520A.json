@@ -1,0 +1,15 @@
+{
+  "$id": "kanji:U+520A",
+  "unicode": "U+520A",
+  "symbol": "刊",
+  "meanings": [
+    "publish",
+    "carve",
+    "engrave"
+  ],
+  "onyomi": [
+    "カン"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

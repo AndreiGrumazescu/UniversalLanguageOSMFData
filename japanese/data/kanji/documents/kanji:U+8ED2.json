@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+8ED2",
+  "unicode": "U+8ED2",
+  "symbol": "軒",
+  "meanings": [
+    "flats",
+    "counter for houses",
+    "eaves"
+  ],
+  "onyomi": [
+    "ケン"
+  ],
+  "kunyomi": [
+    "のき"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

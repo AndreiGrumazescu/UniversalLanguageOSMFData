@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+96D1",
+  "unicode": "U+96D1",
+  "symbol": "雑",
+  "meanings": [
+    "miscellaneous"
+  ],
+  "onyomi": [
+    "ザツ",
+    "ゾウ"
+  ],
+  "kunyomi": [
+    "まじ.える",
+    "まじ.る"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

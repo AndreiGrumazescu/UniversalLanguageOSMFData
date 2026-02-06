@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+4E0D",
+  "unicode": "U+4E0D",
+  "symbol": "不",
+  "meanings": [
+    "negative",
+    "non-",
+    "bad",
+    "ugly",
+    "clumsy"
+  ],
+  "onyomi": [
+    "フ",
+    "ブ"
+  ],
+  "strokeCount": 4,
+  "jlptLevel": "unspecified"
+}

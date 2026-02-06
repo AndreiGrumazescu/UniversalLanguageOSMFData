@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+5BC4",
+  "unicode": "U+5BC4",
+  "symbol": "寄",
+  "meanings": [
+    "draw near",
+    "stop in",
+    "bring near",
+    "gather",
+    "collect",
+    "send",
+    "forward"
+  ],
+  "onyomi": [
+    "キ"
+  ],
+  "kunyomi": [
+    "よ.る",
+    "-よ.り",
+    "よ.せる"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

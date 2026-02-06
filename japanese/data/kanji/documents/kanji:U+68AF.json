@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+68AF",
+  "unicode": "U+68AF",
+  "symbol": "梯",
+  "meanings": [
+    "ladder",
+    "stairs",
+    "insatiable drinking"
+  ],
+  "onyomi": [
+    "テイ",
+    "タイ"
+  ],
+  "kunyomi": [
+    "はしご"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

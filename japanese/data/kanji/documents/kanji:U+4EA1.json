@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+4EA1",
+  "unicode": "U+4EA1",
+  "symbol": "亡",
+  "meanings": [
+    "deceased",
+    "the late",
+    "dying",
+    "perish"
+  ],
+  "onyomi": [
+    "ボウ",
+    "モウ"
+  ],
+  "kunyomi": [
+    "な.い",
+    "な.き-",
+    "ほろ.びる",
+    "ほろ.ぶ",
+    "ほろ.ぼす"
+  ],
+  "strokeCount": 3,
+  "jlptLevel": "unspecified"
+}

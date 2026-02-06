@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+7559",
+  "unicode": "U+7559",
+  "symbol": "留",
+  "meanings": [
+    "detain",
+    "fasten",
+    "halt",
+    "stop"
+  ],
+  "onyomi": [
+    "リュウ",
+    "ル"
+  ],
+  "kunyomi": [
+    "と.める",
+    "と.まる",
+    "とど.める",
+    "とど.まる",
+    "るうぶる"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

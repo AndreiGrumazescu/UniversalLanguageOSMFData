@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+6DC0",
+  "unicode": "U+6DC0",
+  "symbol": "淀",
+  "meanings": [
+    "pool",
+    "eddy"
+  ],
+  "onyomi": [
+    "テン",
+    "デン"
+  ],
+  "kunyomi": [
+    "よど.む"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

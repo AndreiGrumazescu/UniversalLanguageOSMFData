@@ -1,0 +1,27 @@
+{
+  "$id": "kanji:U+800C",
+  "unicode": "U+800C",
+  "symbol": "而",
+  "meanings": [
+    "and yet",
+    "and then",
+    "but",
+    "however",
+    "nevertheless"
+  ],
+  "onyomi": [
+    "ジ",
+    "ニ"
+  ],
+  "kunyomi": [
+    "しこ.うして",
+    "しか.して",
+    "しか.も",
+    "しか.れども",
+    "すなわち",
+    "なんじ",
+    "しかるに"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

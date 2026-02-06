@@ -1,0 +1,17 @@
+{
+  "$id": "kanji:U+8005",
+  "unicode": "U+8005",
+  "symbol": "者",
+  "meanings": [
+    "someone",
+    "person"
+  ],
+  "onyomi": [
+    "シャ"
+  ],
+  "kunyomi": [
+    "もの"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

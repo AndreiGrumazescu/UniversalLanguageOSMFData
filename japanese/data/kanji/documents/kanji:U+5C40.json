@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+5C40",
+  "unicode": "U+5C40",
+  "symbol": "局",
+  "meanings": [
+    "bureau",
+    "board",
+    "office",
+    "affair",
+    "conclusion",
+    "court lady",
+    "lady-in-waiting",
+    "her apartment"
+  ],
+  "onyomi": [
+    "キョク"
+  ],
+  "kunyomi": [
+    "つぼね"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

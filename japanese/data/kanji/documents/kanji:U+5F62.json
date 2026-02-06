@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+5F62",
+  "unicode": "U+5F62",
+  "symbol": "形",
+  "meanings": [
+    "shape",
+    "form",
+    "style"
+  ],
+  "onyomi": [
+    "ケイ",
+    "ギョウ"
+  ],
+  "kunyomi": [
+    "かた",
+    "-がた",
+    "かたち",
+    "なり"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

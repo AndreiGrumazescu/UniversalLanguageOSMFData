@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+5CA1",
+  "unicode": "U+5CA1",
+  "symbol": "岡",
+  "meanings": [
+    "mount",
+    "hill",
+    "knoll"
+  ],
+  "onyomi": [
+    "コウ"
+  ],
+  "kunyomi": [
+    "おか"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

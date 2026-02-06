@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+5E8F",
+  "unicode": "U+5E8F",
+  "symbol": "序",
+  "meanings": [
+    "preface",
+    "beginning",
+    "order",
+    "precedence",
+    "occasion",
+    "chance",
+    "incidentally"
+  ],
+  "onyomi": [
+    "ジョ"
+  ],
+  "kunyomi": [
+    "つい.で",
+    "ついで"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

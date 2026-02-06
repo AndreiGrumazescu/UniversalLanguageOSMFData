@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+5BC2",
+  "unicode": "U+5BC2",
+  "symbol": "寂",
+  "meanings": [
+    "loneliness",
+    "quietly",
+    "mellow",
+    "mature",
+    "death of a priest"
+  ],
+  "onyomi": [
+    "ジャク",
+    "セキ"
+  ],
+  "kunyomi": [
+    "さび",
+    "さび.しい",
+    "さび.れる",
+    "さみ.しい"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

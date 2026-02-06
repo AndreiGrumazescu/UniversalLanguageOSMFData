@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+9154",
+  "unicode": "U+9154",
+  "symbol": "酔",
+  "meanings": [
+    "drunk",
+    "feel sick",
+    "poisoned",
+    "elated",
+    "spellbound"
+  ],
+  "onyomi": [
+    "スイ"
+  ],
+  "kunyomi": [
+    "よ.う",
+    "よ.い",
+    "よ"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

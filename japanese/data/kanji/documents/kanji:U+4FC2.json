@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+4FC2",
+  "unicode": "U+4FC2",
+  "symbol": "係",
+  "meanings": [
+    "person in charge",
+    "connection",
+    "duty",
+    "concern oneself"
+  ],
+  "onyomi": [
+    "ケイ"
+  ],
+  "kunyomi": [
+    "かか.る",
+    "かかり",
+    "-がかり",
+    "かか.わる"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+6D69",
+  "unicode": "U+6D69",
+  "symbol": "浩",
+  "meanings": [
+    "wide expanse",
+    "abundance",
+    "vigorous"
+  ],
+  "onyomi": [
+    "コウ"
+  ],
+  "kunyomi": [
+    "おおき.い",
+    "ひろ.い"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

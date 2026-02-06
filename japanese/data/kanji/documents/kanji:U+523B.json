@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+523B",
+  "unicode": "U+523B",
+  "symbol": "刻",
+  "meanings": [
+    "engrave",
+    "cut fine",
+    "chop",
+    "hash",
+    "mince",
+    "time",
+    "carving"
+  ],
+  "onyomi": [
+    "コク"
+  ],
+  "kunyomi": [
+    "きざ.む",
+    "きざ.み"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

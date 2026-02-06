@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+96DC",
+  "unicode": "U+96DC",
+  "symbol": "雜",
+  "meanings": [
+    "mixed",
+    "blended",
+    "mix",
+    "mingle"
+  ],
+  "onyomi": [
+    "ザツ",
+    "ゾウ"
+  ],
+  "kunyomi": [
+    "まじ.える",
+    "まじ.る"
+  ],
+  "strokeCount": 18,
+  "jlptLevel": "unspecified"
+}

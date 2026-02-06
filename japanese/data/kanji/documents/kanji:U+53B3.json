@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+53B3",
+  "unicode": "U+53B3",
+  "symbol": "厳",
+  "meanings": [
+    "stern",
+    "strictness",
+    "severity",
+    "rigidity"
+  ],
+  "onyomi": [
+    "ゲン",
+    "ゴン"
+  ],
+  "kunyomi": [
+    "おごそ.か",
+    "きび.しい",
+    "いか.めしい",
+    "いつくし"
+  ],
+  "strokeCount": 17,
+  "jlptLevel": "unspecified"
+}

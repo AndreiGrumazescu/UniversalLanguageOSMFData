@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+8A2D",
+  "unicode": "U+8A2D",
+  "symbol": "設",
+  "meanings": [
+    "establishment",
+    "provision",
+    "prepare"
+  ],
+  "onyomi": [
+    "セツ"
+  ],
+  "kunyomi": [
+    "もう.ける"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

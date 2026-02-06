@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+676D",
+  "unicode": "U+676D",
+  "symbol": "杭",
+  "meanings": [
+    "stake",
+    "post",
+    "picket"
+  ],
+  "onyomi": [
+    "コウ"
+  ],
+  "kunyomi": [
+    "くい"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

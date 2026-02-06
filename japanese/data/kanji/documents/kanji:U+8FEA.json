@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+8FEA",
+  "unicode": "U+8FEA",
+  "symbol": "迪",
+  "meanings": [
+    "edify",
+    "way",
+    "path"
+  ],
+  "onyomi": [
+    "テキ"
+  ],
+  "kunyomi": [
+    "みち",
+    "みちび.く",
+    "すす.む",
+    "いた.る"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

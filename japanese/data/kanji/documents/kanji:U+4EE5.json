@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+4EE5",
+  "unicode": "U+4EE5",
+  "symbol": "以",
+  "meanings": [
+    "by means of",
+    "because",
+    "in view of",
+    "compared with"
+  ],
+  "onyomi": [
+    "イ"
+  ],
+  "kunyomi": [
+    "もっ.て"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+6B21",
+  "unicode": "U+6B21",
+  "symbol": "次",
+  "meanings": [
+    "next",
+    "order",
+    "sequence"
+  ],
+  "onyomi": [
+    "ジ",
+    "シ"
+  ],
+  "kunyomi": [
+    "つ.ぐ",
+    "つぎ"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

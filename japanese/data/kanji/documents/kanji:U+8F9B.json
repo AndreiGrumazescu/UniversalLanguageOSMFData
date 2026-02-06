@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+8F9B",
+  "unicode": "U+8F9B",
+  "symbol": "辛",
+  "meanings": [
+    "spicy",
+    "bitter",
+    "hot",
+    "acrid"
+  ],
+  "onyomi": [
+    "シン"
+  ],
+  "kunyomi": [
+    "から.い",
+    "つら.い",
+    "-づら.い",
+    "かのと"
+  ],
+  "strokeCount": 7,
+  "jlptLevel": "unspecified"
+}

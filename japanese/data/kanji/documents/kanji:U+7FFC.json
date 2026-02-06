@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+7FFC",
+  "unicode": "U+7FFC",
+  "symbol": "翼",
+  "meanings": [
+    "wing",
+    "plane",
+    "flank"
+  ],
+  "onyomi": [
+    "ヨク"
+  ],
+  "kunyomi": [
+    "つばさ"
+  ],
+  "strokeCount": 17,
+  "jlptLevel": "unspecified"
+}

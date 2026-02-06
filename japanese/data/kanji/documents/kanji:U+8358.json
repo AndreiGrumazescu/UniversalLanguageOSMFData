@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+8358",
+  "unicode": "U+8358",
+  "symbol": "荘",
+  "meanings": [
+    "villa",
+    "inn",
+    "cottage",
+    "feudal manor",
+    "solemn",
+    "dignified"
+  ],
+  "onyomi": [
+    "ソウ",
+    "ショウ",
+    "チャン"
+  ],
+  "kunyomi": [
+    "ほうき",
+    "おごそ.か"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

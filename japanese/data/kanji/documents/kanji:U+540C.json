@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+540C",
+  "unicode": "U+540C",
+  "symbol": "同",
+  "meanings": [
+    "same",
+    "agree",
+    "equal"
+  ],
+  "onyomi": [
+    "ドウ"
+  ],
+  "kunyomi": [
+    "おな.じ"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

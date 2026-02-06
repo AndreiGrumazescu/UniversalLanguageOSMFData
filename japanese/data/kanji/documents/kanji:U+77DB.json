@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+77DB",
+  "unicode": "U+77DB",
+  "symbol": "矛",
+  "meanings": [
+    "halberd",
+    "arms",
+    "festival float"
+  ],
+  "onyomi": [
+    "ム",
+    "ボウ"
+  ],
+  "kunyomi": [
+    "ほこ"
+  ],
+  "strokeCount": 5,
+  "jlptLevel": "unspecified"
+}

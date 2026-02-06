@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+54C1",
+  "unicode": "U+54C1",
+  "symbol": "品",
+  "meanings": [
+    "goods",
+    "refinement",
+    "dignity",
+    "article",
+    "counter for meal courses"
+  ],
+  "onyomi": [
+    "ヒン",
+    "ホン"
+  ],
+  "kunyomi": [
+    "しな"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

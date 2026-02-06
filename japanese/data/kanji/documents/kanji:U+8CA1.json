@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+8CA1",
+  "unicode": "U+8CA1",
+  "symbol": "財",
+  "meanings": [
+    "property",
+    "money",
+    "wealth",
+    "assets"
+  ],
+  "onyomi": [
+    "ザイ",
+    "サイ",
+    "ゾク"
+  ],
+  "kunyomi": [
+    "たから"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

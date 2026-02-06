@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+71B1",
+  "unicode": "U+71B1",
+  "symbol": "熱",
+  "meanings": [
+    "heat",
+    "temperature",
+    "fever",
+    "mania",
+    "passion"
+  ],
+  "onyomi": [
+    "ネツ"
+  ],
+  "kunyomi": [
+    "あつ.い"
+  ],
+  "strokeCount": 15,
+  "jlptLevel": "unspecified"
+}

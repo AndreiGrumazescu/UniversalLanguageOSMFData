@@ -1,0 +1,32 @@
+{
+  "$id": "kanji:U+5411",
+  "unicode": "U+5411",
+  "symbol": "向",
+  "meanings": [
+    "yonder",
+    "facing",
+    "beyond",
+    "confront",
+    "defy",
+    "tend toward",
+    "approach"
+  ],
+  "onyomi": [
+    "コウ"
+  ],
+  "kunyomi": [
+    "む.く",
+    "む.い",
+    "-む.き",
+    "む.ける",
+    "-む.け",
+    "む.かう",
+    "む.かい",
+    "む.こう",
+    "む.こう-",
+    "むこ",
+    "むか.い"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

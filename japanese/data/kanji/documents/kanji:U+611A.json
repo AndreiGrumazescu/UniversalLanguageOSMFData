@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+611A",
+  "unicode": "U+611A",
+  "symbol": "愚",
+  "meanings": [
+    "foolish",
+    "folly",
+    "absurdity",
+    "stupid"
+  ],
+  "onyomi": [
+    "グ"
+  ],
+  "kunyomi": [
+    "おろ.か"
+  ],
+  "strokeCount": 13,
+  "jlptLevel": "unspecified"
+}

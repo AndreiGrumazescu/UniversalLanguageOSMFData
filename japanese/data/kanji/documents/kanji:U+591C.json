@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+591C",
+  "unicode": "U+591C",
+  "symbol": "夜",
+  "meanings": [
+    "night",
+    "evening"
+  ],
+  "onyomi": [
+    "ヤ"
+  ],
+  "kunyomi": [
+    "よ",
+    "よる"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

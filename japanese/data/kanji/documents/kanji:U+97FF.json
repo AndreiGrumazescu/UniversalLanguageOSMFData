@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+97FF",
+  "unicode": "U+97FF",
+  "symbol": "響",
+  "meanings": [
+    "echo",
+    "sound",
+    "resound",
+    "ring",
+    "vibrate"
+  ],
+  "onyomi": [
+    "キョウ"
+  ],
+  "kunyomi": [
+    "ひび.く"
+  ],
+  "strokeCount": 20,
+  "jlptLevel": "unspecified"
+}

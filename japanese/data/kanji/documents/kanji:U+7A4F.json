@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+7A4F",
+  "unicode": "U+7A4F",
+  "symbol": "穏",
+  "meanings": [
+    "calm",
+    "quiet",
+    "moderation"
+  ],
+  "onyomi": [
+    "オン"
+  ],
+  "kunyomi": [
+    "おだ.やか"
+  ],
+  "strokeCount": 16,
+  "jlptLevel": "unspecified"
+}

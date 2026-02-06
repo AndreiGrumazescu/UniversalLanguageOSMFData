@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+4EA5",
+  "unicode": "U+4EA5",
+  "symbol": "亥",
+  "meanings": [
+    "sign of the hog",
+    "9-11PM",
+    "twelfth sign of the Chinese zodiac"
+  ],
+  "onyomi": [
+    "ガイ",
+    "カイ"
+  ],
+  "kunyomi": [
+    "い"
+  ],
+  "strokeCount": 6,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,20 @@
+{
+  "$id": "kanji:U+771F",
+  "unicode": "U+771F",
+  "symbol": "真",
+  "meanings": [
+    "true",
+    "reality",
+    "Buddhist sect"
+  ],
+  "onyomi": [
+    "シン"
+  ],
+  "kunyomi": [
+    "ま",
+    "ま-",
+    "まこと"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,27 @@
+{
+  "$id": "kanji:U+767A",
+  "unicode": "U+767A",
+  "symbol": "発",
+  "meanings": [
+    "departure",
+    "discharge",
+    "publish",
+    "emit",
+    "start from",
+    "disclose",
+    "counter for gunshots"
+  ],
+  "onyomi": [
+    "ハツ",
+    "ホツ"
+  ],
+  "kunyomi": [
+    "た.つ",
+    "あば.く",
+    "おこ.る",
+    "つか.わす",
+    "はな.つ"
+  ],
+  "strokeCount": 9,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,18 @@
+{
+  "$id": "kanji:U+708E",
+  "unicode": "U+708E",
+  "symbol": "炎",
+  "meanings": [
+    "inflammation",
+    "flame",
+    "blaze"
+  ],
+  "onyomi": [
+    "エン"
+  ],
+  "kunyomi": [
+    "ほのお"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+5782",
+  "unicode": "U+5782",
+  "symbol": "垂",
+  "meanings": [
+    "droop",
+    "suspend",
+    "hang",
+    "slouch"
+  ],
+  "onyomi": [
+    "スイ"
+  ],
+  "kunyomi": [
+    "た.れる",
+    "た.らす",
+    "た.れ",
+    "-た.れ",
+    "なんなんと.す"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

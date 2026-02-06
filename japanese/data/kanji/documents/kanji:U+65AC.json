@@ -1,0 +1,21 @@
+{
+  "$id": "kanji:U+65AC",
+  "unicode": "U+65AC",
+  "symbol": "斬",
+  "meanings": [
+    "beheading",
+    "kill",
+    "murder"
+  ],
+  "onyomi": [
+    "ザン",
+    "サン",
+    "セン",
+    "ゼン"
+  ],
+  "kunyomi": [
+    "き.る"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+7D1B",
+  "unicode": "U+7D1B",
+  "symbol": "紛",
+  "meanings": [
+    "distract",
+    "be mistaken for",
+    "go astray",
+    "divert"
+  ],
+  "onyomi": [
+    "フン"
+  ],
+  "kunyomi": [
+    "まぎ.れる",
+    "-まぎ.れ",
+    "まぎ.らす",
+    "まぎ.らわす",
+    "まぎ.らわしい"
+  ],
+  "strokeCount": 10,
+  "jlptLevel": "unspecified"
+}

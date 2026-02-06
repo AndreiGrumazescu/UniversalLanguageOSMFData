@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+6CE5",
+  "unicode": "U+6CE5",
+  "symbol": "泥",
+  "meanings": [
+    "mud",
+    "mire",
+    "adhere to",
+    "be attached to"
+  ],
+  "onyomi": [
+    "デイ",
+    "ナイ",
+    "デ",
+    "ニ"
+  ],
+  "kunyomi": [
+    "どろ",
+    "なず.む"
+  ],
+  "strokeCount": 8,
+  "jlptLevel": "unspecified"
+}

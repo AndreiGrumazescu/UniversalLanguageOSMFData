@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+8523",
+  "unicode": "U+8523",
+  "symbol": "蔣",
+  "meanings": [
+    "surname",
+    "hydropyrum latifalium"
+  ],
+  "onyomi": [
+    "ショウ",
+    "ソウ"
+  ],
+  "kunyomi": [
+    "まこも",
+    "はげ.ます"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

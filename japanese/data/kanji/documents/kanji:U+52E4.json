@@ -1,0 +1,22 @@
+{
+  "$id": "kanji:U+52E4",
+  "unicode": "U+52E4",
+  "symbol": "勤",
+  "meanings": [
+    "diligence",
+    "become employed",
+    "serve"
+  ],
+  "onyomi": [
+    "キン",
+    "ゴン"
+  ],
+  "kunyomi": [
+    "つと.める",
+    "-づと.め",
+    "つと.まる",
+    "いそ.しむ"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

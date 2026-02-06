@@ -1,0 +1,27 @@
+{
+  "$id": "kanji:U+7D76",
+  "unicode": "U+7D76",
+  "symbol": "絶",
+  "meanings": [
+    "discontinue",
+    "sever",
+    "cut off",
+    "abstain",
+    "interrupt",
+    "suppress",
+    "be beyond",
+    "without match",
+    "peerless",
+    "unparalleled"
+  ],
+  "onyomi": [
+    "ゼツ"
+  ],
+  "kunyomi": [
+    "た.える",
+    "た.やす",
+    "た.つ"
+  ],
+  "strokeCount": 12,
+  "jlptLevel": "unspecified"
+}

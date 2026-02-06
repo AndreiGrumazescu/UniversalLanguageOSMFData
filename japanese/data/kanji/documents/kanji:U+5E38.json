@@ -1,0 +1,24 @@
+{
+  "$id": "kanji:U+5E38",
+  "unicode": "U+5E38",
+  "symbol": "常",
+  "meanings": [
+    "usual",
+    "ordinary",
+    "normal",
+    "common",
+    "regular",
+    "continually",
+    "always",
+    "long-lasting"
+  ],
+  "onyomi": [
+    "ジョウ"
+  ],
+  "kunyomi": [
+    "つね",
+    "とこ-"
+  ],
+  "strokeCount": 11,
+  "jlptLevel": "unspecified"
+}

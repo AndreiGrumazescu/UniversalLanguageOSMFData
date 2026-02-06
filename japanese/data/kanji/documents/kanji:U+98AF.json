@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+98AF",
+  "unicode": "U+98AF",
+  "symbol": "颯",
+  "meanings": [
+    "sudden",
+    "quick",
+    "sound of the wind"
+  ],
+  "onyomi": [
+    "サツ",
+    "ソウ"
+  ],
+  "kunyomi": [
+    "さっ.と"
+  ],
+  "strokeCount": 14,
+  "jlptLevel": "unspecified"
+}

@@ -1,0 +1,23 @@
+{
+  "$id": "kanji:U+51DD",
+  "unicode": "U+51DD",
+  "symbol": "凝",
+  "meanings": [
+    "congeal",
+    "freeze",
+    "stiff",
+    "be absorbed in"
+  ],
+  "onyomi": [
+    "ギョウ"
+  ],
+  "kunyomi": [
+    "こ.る",
+    "こ.らす",
+    "こご.らす",
+    "こご.らせる",
+    "こご.る"
+  ],
+  "strokeCount": 16,
+  "jlptLevel": "unspecified"
+}

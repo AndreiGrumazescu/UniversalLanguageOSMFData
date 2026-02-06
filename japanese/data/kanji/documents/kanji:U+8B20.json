@@ -1,0 +1,19 @@
+{
+  "$id": "kanji:U+8B20",
+  "unicode": "U+8B20",
+  "symbol": "謠",
+  "meanings": [
+    "chant (esp. Noh)",
+    "folksong",
+    "ballad"
+  ],
+  "onyomi": [
+    "ヨウ"
+  ],
+  "kunyomi": [
+    "うた.う",
+    "うた"
+  ],
+  "strokeCount": 17,
+  "jlptLevel": "unspecified"
+}
