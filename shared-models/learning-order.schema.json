@@ -1,0 +1,76 @@
+{
+  "$schema": "https://raw.githubusercontent.com/AndreiGrumazescu/OpenStudyModelFramework/main/relational-model.schema.json",
+  "$id": "learning-order.schema.json",
+  "name": "Learning Order Model",
+  "description": "Generic ordered curriculum list for sequencing study items across any language or content type.",
+  "version": "1.0.0",
+  "connectors": {
+    "item": {
+      "criteria": {
+        "required": ["$id"],
+        "properties": {
+          "$id": {
+            "type": "string"
+          }
+        }
+      },
+      "description": "An item included in this learning order track."
+    }
+  },
+  "data": {
+    "contentType": {
+      "type": "string",
+      "description": "Content type targeted by this order track (for example grapheme, kanji, vocabulary)."
+    },
+    "trackId": {
+      "type": "string",
+      "pattern": "^[a-z0-9][a-z0-9-]{0,63}$",
+      "description": "Stable identifier for the order track. Use 'default' for the canonical track."
+    },
+    "trackName": {
+      "type": "string",
+      "description": "Optional display name for this track."
+    },
+    "description": {
+      "type": "string",
+      "description": "Optional track-specific notes."
+    },
+    "source": {
+      "type": "string",
+      "description": "Optional source attribution for how this ordering was derived."
+    }
+  },
+  "required": ["contentType", "trackId"],
+  "many": {
+    "type": "array",
+    "minItems": 1,
+    "items": {
+      "$ref": "https://raw.githubusercontent.com/AndreiGrumazescu/OpenStudyModelFramework/main/relational-model.schema.json#/$defs/manyItem"
+    },
+    "itemConnectors": {
+      "$dynamicAnchor": "itemConnectors",
+      "properties": {
+        "item": {
+          "required": ["$id"],
+          "properties": {
+            "$id": {
+              "type": "string"
+            }
+          }
+        }
+      },
+      "required": ["item"]
+    },
+    "itemData": {
+      "$dynamicAnchor": "itemData",
+      "properties": {
+        "position": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "Zero-based position within this track."
+        }
+      },
+      "required": ["position"]
+    }
+  }
+}

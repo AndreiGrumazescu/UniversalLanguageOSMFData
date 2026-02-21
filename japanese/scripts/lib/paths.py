@@ -35,6 +35,10 @@ DEPENDENCY_DOCS = DEPENDENCY_DIR / "documents"
 VARIANT_GROUP_DIR = DATA_DIR / "grapheme-variant-group"
 VARIANT_GROUP_DOCS = VARIANT_GROUP_DIR / "documents"
 
+# Learning order data
+LEARNING_ORDER_DIR = DATA_DIR / "learning-order"
+LEARNING_ORDER_DOCS = LEARNING_ORDER_DIR / "documents"
+
 # Kanji data
 KANJI_DIR = DATA_DIR / "kanji"
 KANJI_DOCS = KANJI_DIR / "documents"
@@ -75,6 +79,7 @@ UNIHAN_IRG_PATH = UNIHAN_DIR / "Unihan_IRGSources.txt"
 
 DOCS_DIR = JAPANESE_ROOT / "docs"
 REPORTS_DIR = DOCS_DIR / "reports"
+POPULARITY_JSON = REPORTS_DIR / "component-popularity.json"
 
 # ---------------------------------------------------------------------------
 # Infrastructure (Turso credentials)

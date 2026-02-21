@@ -26,13 +26,6 @@
           "$id": "grapheme:U+4E36"
         }
       }
-    },
-    {
-      "connectors": {
-        "component": {
-          "$id": "grapheme:U+7389"
-        }
-      }
     }
   ]
 }

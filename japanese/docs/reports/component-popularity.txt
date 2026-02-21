@@ -1,6 +1,6 @@
 Kanji Component Popularity Analysis
 ========================================
-Generated: 2026-02-05 15:33:47 UTC
+Generated: 2026-02-21 13:07:29 UTC
 Total kanji in kanjidic2: 13016
 
 Library Coverage:

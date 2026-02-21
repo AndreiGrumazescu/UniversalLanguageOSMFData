@@ -1,0 +1,4355 @@
+{
+  "$schema": "../../../../shared-models/learning-order.schema.json",
+  "$id": "japanese-grapheme-learning-order-default",
+  "connectors": {
+    "item": {}
+  },
+  "data": {
+    "contentType": "grapheme",
+    "trackId": "default",
+    "trackName": "Default Grapheme Order",
+    "source": "Generated: stroke count ASC, popularity DESC, $id ASC. Variant groups kept together (base first)."
+  },
+  "many": [
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+4E00"
+        }
+      },
+      "data": {
+        "position": 0
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+4E3F"
+        }
+      },
+      "data": {
+        "position": 1
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+4E36"
+        }
+      },
+      "data": {
+        "position": 2
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+4E28"
+        }
+      },
+      "data": {
+        "position": 3
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+4E59"
+        }
+      },
+      "data": {
+        "position": 4
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+4E5A"
+        }
+      },
+      "data": {
+        "position": 5
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+4E85"
+        }
+      },
+      "data": {
+        "position": 6
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+4EBA"
+        }
+      },
+      "data": {
+        "position": 7
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+20089"
+        }
+      },
+      "data": {
+        "position": 8
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+4EBB"
+        }
+      },
+      "data": {
+        "position": 9
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+961D"
+        }
+      },
+      "data": {
+        "position": 10
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+53C8"
+        }
+      },
+      "data": {
+        "position": 11
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+4E42"
+        }
+      },
+      "data": {
+        "position": 12
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+535C"
+        }
+      },
+      "data": {
+        "position": 13
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+529B"
+        }
+      },
+      "data": {
+        "position": 14
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5341"
+        }
+      },
+      "data": {
+        "position": 15
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+516B"
+        }
+      },
+      "data": {
+        "position": 16
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5200"
+        }
+      },
+      "data": {
+        "position": 17
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5202"
+        }
+      },
+      "data": {
+        "position": 18
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5382"
+        }
+      },
+      "data": {
+        "position": 19
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+4EA0"
+        }
+      },
+      "data": {
+        "position": 20
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+52F9"
+        }
+      },
+      "data": {
+        "position": 21
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5196"
+        }
+      },
+      "data": {
+        "position": 22
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5338"
+        }
+      },
+      "data": {
+        "position": 23
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+51AB"
+        }
+      },
+      "data": {
+        "position": 24
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+53B6"
+        }
+      },
+      "data": {
+        "position": 25
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+513F"
+        }
+      },
+      "data": {
+        "position": 26
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5369"
+        }
+      },
+      "data": {
+        "position": 27
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5182"
+        }
+      },
+      "data": {
+        "position": 28
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+4E8C"
+        }
+      },
+      "data": {
+        "position": 29
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5315"
+        }
+      },
+      "data": {
+        "position": 30
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+51E0"
+        }
+      },
+      "data": {
+        "position": 31
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+4E01"
+        }
+      },
+      "data": {
+        "position": 32
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+51F5"
+        }
+      },
+      "data": {
+        "position": 33
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+4E5D"
+        }
+      },
+      "data": {
+        "position": 34
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+4E43"
+        }
+      },
+      "data": {
+        "position": 35
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5165"
+        }
+      },
+      "data": {
+        "position": 36
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+4E02"
+        }
+      },
+      "data": {
+        "position": 37
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+4E03"
+        }
+      },
+      "data": {
+        "position": 38
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+4E29"
+        }
+      },
+      "data": {
+        "position": 39
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+4E86"
+        }
+      },
+      "data": {
+        "position": 40
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+2008A"
+        }
+      },
+      "data": {
+        "position": 41
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+30DE"
+        }
+      },
+      "data": {
+        "position": 42
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+8279"
+        }
+      },
+      "data": {
+        "position": 43
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+53E3"
+        }
+      },
+      "data": {
+        "position": 44
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+624C"
+        }
+      },
+      "data": {
+        "position": 45
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+571F"
+        }
+      },
+      "data": {
+        "position": 46
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5973"
+        }
+      },
+      "data": {
+        "position": 47
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5C71"
+        }
+      },
+      "data": {
+        "position": 48
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+8FB6"
+        }
+      },
+      "data": {
+        "position": 49
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5B80"
+        }
+      },
+      "data": {
+        "position": 50
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5927"
+        }
+      },
+      "data": {
+        "position": 51
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5E7F"
+        }
+      },
+      "data": {
+        "position": 52
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5DFE"
+        }
+      },
+      "data": {
+        "position": 53
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5F73"
+        }
+      },
+      "data": {
+        "position": 54
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5F13"
+        }
+      },
+      "data": {
+        "position": 55
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5C38"
+        }
+      },
+      "data": {
+        "position": 56
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5B50"
+        }
+      },
+      "data": {
+        "position": 57
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5BF8"
+        }
+      },
+      "data": {
+        "position": 58
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5DF1"
+        }
+      },
+      "data": {
+        "position": 59
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5E72"
+        }
+      },
+      "data": {
+        "position": 60
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5DE5"
+        }
+      },
+      "data": {
+        "position": 61
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5902"
+        }
+      },
+      "data": {
+        "position": 62
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5F51"
+        }
+      },
+      "data": {
+        "position": 63
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5F61"
+        }
+      },
+      "data": {
+        "position": 64
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5EFE"
+        }
+      },
+      "data": {
+        "position": 65
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5DDD"
+        }
+      },
+      "data": {
+        "position": 66
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5C0F"
+        }
+      },
+      "data": {
+        "position": 67
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+2E8C"
+        }
+      },
+      "data": {
+        "position": 68
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+58EB"
+        }
+      },
+      "data": {
+        "position": 69
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5915"
+        }
+      },
+      "data": {
+        "position": 70
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+52FA"
+        }
+      },
+      "data": {
+        "position": 71
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+4E5F"
+        }
+      },
+      "data": {
+        "position": 72
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+4E8E"
+        }
+      },
+      "data": {
+        "position": 73
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+4EA1"
+        }
+      },
+      "data": {
+        "position": 74
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5343"
+        }
+      },
+      "data": {
+        "position": 75
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5140"
+        }
+      },
+      "data": {
+        "position": 76
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+53CA"
+        }
+      },
+      "data": {
+        "position": 77
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5F0B"
+        }
+      },
+      "data": {
+        "position": 78
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+2E95"
+        }
+      },
+      "data": {
+        "position": 79
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5C6E"
+        }
+      },
+      "data": {
+        "position": 80
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5E7A"
+        }
+      },
+      "data": {
+        "position": 81
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+4E38"
+        }
+      },
+      "data": {
+        "position": 82
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+4E0B"
+        }
+      },
+      "data": {
+        "position": 83
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+4E47"
+        }
+      },
+      "data": {
+        "position": 84
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+4E45"
+        }
+      },
+      "data": {
+        "position": 85
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5EF4"
+        }
+      },
+      "data": {
+        "position": 86
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+4E09"
+        }
+      },
+      "data": {
+        "position": 87
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5C22"
+        }
+      },
+      "data": {
+        "position": 88
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+624D"
+        }
+      },
+      "data": {
+        "position": 89
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+4E0A"
+        }
+      },
+      "data": {
+        "position": 90
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+4E0C"
+        }
+      },
+      "data": {
+        "position": 91
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+4E07"
+        }
+      },
+      "data": {
+        "position": 92
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+2EA6"
+        }
+      },
+      "data": {
+        "position": 93
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+6728"
+        }
+      },
+      "data": {
+        "position": 94
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+6C34"
+        }
+      },
+      "data": {
+        "position": 95
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+6C35"
+        }
+      },
+      "data": {
+        "position": 96
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5FC3"
+        }
+      },
+      "data": {
+        "position": 97
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5FC4"
+        }
+      },
+      "data": {
+        "position": 98
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+65E5"
+        }
+      },
+      "data": {
+        "position": 99
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+624B"
+        }
+      },
+      "data": {
+        "position": 100
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+706B"
+        }
+      },
+      "data": {
+        "position": 101
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+706C"
+        }
+      },
+      "data": {
+        "position": 102
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+6535"
+        }
+      },
+      "data": {
+        "position": 103
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+6534"
+        }
+      },
+      "data": {
+        "position": 104
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+72AC"
+        }
+      },
+      "data": {
+        "position": 105
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+72AD"
+        }
+      },
+      "data": {
+        "position": 106
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+6B20"
+        }
+      },
+      "data": {
+        "position": 107
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+725B"
+        }
+      },
+      "data": {
+        "position": 108
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+65B9"
+        }
+      },
+      "data": {
+        "position": 109
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+65A4"
+        }
+      },
+      "data": {
+        "position": 110
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+6208"
+        }
+      },
+      "data": {
+        "position": 111
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+6708"
+        }
+      },
+      "data": {
+        "position": 112
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+6B62"
+        }
+      },
+      "data": {
+        "position": 113
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+6BB3"
+        }
+      },
+      "data": {
+        "position": 114
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+6B79"
+        }
+      },
+      "data": {
+        "position": 115
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+6BDB"
+        }
+      },
+      "data": {
+        "position": 116
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5206"
+        }
+      },
+      "data": {
+        "position": 117
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+74E6"
+        }
+      },
+      "data": {
+        "position": 118
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+4ECA"
+        }
+      },
+      "data": {
+        "position": 119
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+6587"
+        }
+      },
+      "data": {
+        "position": 120
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5C11"
+        }
+      },
+      "data": {
+        "position": 121
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+738B"
+        }
+      },
+      "data": {
+        "position": 122
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+6BD4"
+        }
+      },
+      "data": {
+        "position": 123
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5DF4"
+        }
+      },
+      "data": {
+        "position": 124
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+592B"
+        }
+      },
+      "data": {
+        "position": 125
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+652F"
+        }
+      },
+      "data": {
+        "position": 126
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5C6F"
+        }
+      },
+      "data": {
+        "position": 127
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+722A"
+        }
+      },
+      "data": {
+        "position": 128
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+2EA4"
+        }
+      },
+      "data": {
+        "position": 129
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5143"
+        }
+      },
+      "data": {
+        "position": 130
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+6597"
+        }
+      },
+      "data": {
+        "position": 131
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+723F"
+        }
+      },
+      "data": {
+        "position": 132
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+4E2C"
+        }
+      },
+      "data": {
+        "position": 133
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+52FF"
+        }
+      },
+      "data": {
+        "position": 134
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5929"
+        }
+      },
+      "data": {
+        "position": 135
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5DE8"
+        }
+      },
+      "data": {
+        "position": 136
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+4E2D"
+        }
+      },
+      "data": {
+        "position": 137
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+516C"
+        }
+      },
+      "data": {
+        "position": 138
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+53CD"
+        }
+      },
+      "data": {
+        "position": 139
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+4E88"
+        }
+      },
+      "data": {
+        "position": 140
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+4ECB"
+        }
+      },
+      "data": {
+        "position": 141
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5198"
+        }
+      },
+      "data": {
+        "position": 142
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+6C0F"
+        }
+      },
+      "data": {
+        "position": 143
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+7259"
+        }
+      },
+      "data": {
+        "position": 144
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+592C"
+        }
+      },
+      "data": {
+        "position": 145
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5EFF"
+        }
+      },
+      "data": {
+        "position": 146
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+4E0D"
+        }
+      },
+      "data": {
+        "position": 147
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5185"
+        }
+      },
+      "data": {
+        "position": 148
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5F00"
+        }
+      },
+      "data": {
+        "position": 149
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+6C14"
+        }
+      },
+      "data": {
+        "position": 150
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+7247"
+        }
+      },
+      "data": {
+        "position": 151
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5C3A"
+        }
+      },
+      "data": {
+        "position": 152
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+4ECE"
+        }
+      },
+      "data": {
+        "position": 153
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+723B"
+        }
+      },
+      "data": {
+        "position": 154
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+4E11"
+        }
+      },
+      "data": {
+        "position": 155
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+4E95"
+        }
+      },
+      "data": {
+        "position": 156
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+8002"
+        }
+      },
+      "data": {
+        "position": 157
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+4E30"
+        }
+      },
+      "data": {
+        "position": 158
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+533A"
+        }
+      },
+      "data": {
+        "position": 159
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5316"
+        }
+      },
+      "data": {
+        "position": 160
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+7236"
+        }
+      },
+      "data": {
+        "position": 161
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+4E92"
+        }
+      },
+      "data": {
+        "position": 162
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5300"
+        }
+      },
+      "data": {
+        "position": 163
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+6BCB"
+        }
+      },
+      "data": {
+        "position": 164
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+79B8"
+        }
+      },
+      "data": {
+        "position": 165
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+4E39"
+        }
+      },
+      "data": {
+        "position": 166
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5184"
+        }
+      },
+      "data": {
+        "position": 167
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+536C"
+        }
+      },
+      "data": {
+        "position": 168
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+4E0F"
+        }
+      },
+      "data": {
+        "position": 169
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+4E94"
+        }
+      },
+      "data": {
+        "position": 170
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+516D"
+        }
+      },
+      "data": {
+        "position": 171
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+6C36"
+        }
+      },
+      "data": {
+        "position": 172
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+793B"
+        }
+      },
+      "data": {
+        "position": 173
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+77F3"
+        }
+      },
+      "data": {
+        "position": 174
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+76EE"
+        }
+      },
+      "data": {
+        "position": 175
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+79BE"
+        }
+      },
+      "data": {
+        "position": 176
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+7592"
+        }
+      },
+      "data": {
+        "position": 177
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+7530"
+        }
+      },
+      "data": {
+        "position": 178
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+793A"
+        }
+      },
+      "data": {
+        "position": 179
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+7389"
+        }
+      },
+      "data": {
+        "position": 180
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+767D"
+        }
+      },
+      "data": {
+        "position": 181
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+7A74"
+        }
+      },
+      "data": {
+        "position": 182
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+7ACB"
+        }
+      },
+      "data": {
+        "position": 183
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+76BF"
+        }
+      },
+      "data": {
+        "position": 184
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+4E14"
+        }
+      },
+      "data": {
+        "position": 185
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+4EE4"
+        }
+      },
+      "data": {
+        "position": 186
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+7F52"
+        }
+      },
+      "data": {
+        "position": 187
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5360"
+        }
+      },
+      "data": {
+        "position": 188
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+53E4"
+        }
+      },
+      "data": {
+        "position": 189
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5305"
+        }
+      },
+      "data": {
+        "position": 190
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+53E5"
+        }
+      },
+      "data": {
+        "position": 191
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+53F0"
+        }
+      },
+      "data": {
+        "position": 192
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+53EF"
+        }
+      },
+      "data": {
+        "position": 193
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+6C10"
+        }
+      },
+      "data": {
+        "position": 194
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+7531"
+        }
+      },
+      "data": {
+        "position": 195
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+76AE"
+        }
+      },
+      "data": {
+        "position": 196
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+77E2"
+        }
+      },
+      "data": {
+        "position": 197
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+53EC"
+        }
+      },
+      "data": {
+        "position": 198
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+65E6"
+        }
+      },
+      "data": {
+        "position": 199
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+53BB"
+        }
+      },
+      "data": {
+        "position": 200
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+751F"
+        }
+      },
+      "data": {
+        "position": 201
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+4E4D"
+        }
+      },
+      "data": {
+        "position": 202
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+6B63"
+        }
+      },
+      "data": {
+        "position": 203
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+7384"
+        }
+      },
+      "data": {
+        "position": 204
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+7518"
+        }
+      },
+      "data": {
+        "position": 205
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+592E"
+        }
+      },
+      "data": {
+        "position": 206
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+72AE"
+        }
+      },
+      "data": {
+        "position": 207
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+74DC"
+        }
+      },
+      "data": {
+        "position": 208
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+4ED8"
+        }
+      },
+      "data": {
+        "position": 209
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+534A"
+        }
+      },
+      "data": {
+        "position": 210
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5F17"
+        }
+      },
+      "data": {
+        "position": 211
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+77DB"
+        }
+      },
+      "data": {
+        "position": 212
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+4E3B"
+        }
+      },
+      "data": {
+        "position": 213
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+51FA"
+        }
+      },
+      "data": {
+        "position": 214
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+7532"
+        }
+      },
+      "data": {
+        "position": 215
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+7533"
+        }
+      },
+      "data": {
+        "position": 216
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+758B"
+        }
+      },
+      "data": {
+        "position": 217
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+672A"
+        }
+      },
+      "data": {
+        "position": 218
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+6C11"
+        }
+      },
+      "data": {
+        "position": 219
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+4E16"
+        }
+      },
+      "data": {
+        "position": 220
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+518B"
+        }
+      },
+      "data": {
+        "position": 221
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+536F"
+        }
+      },
+      "data": {
+        "position": 222
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+7528"
+        }
+      },
+      "data": {
+        "position": 223
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+215D7"
+        }
+      },
+      "data": {
+        "position": 224
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5E73"
+        }
+      },
+      "data": {
+        "position": 225
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+6BCD"
+        }
+      },
+      "data": {
+        "position": 226
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+620A"
+        }
+      },
+      "data": {
+        "position": 227
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+672B"
+        }
+      },
+      "data": {
+        "position": 228
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+51AC"
+        }
+      },
+      "data": {
+        "position": 229
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+53F8"
+        }
+      },
+      "data": {
+        "position": 230
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+672C"
+        }
+      },
+      "data": {
+        "position": 231
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+3563"
+        }
+      },
+      "data": {
+        "position": 232
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5B81"
+        }
+      },
+      "data": {
+        "position": 233
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5E02"
+        }
+      },
+      "data": {
+        "position": 234
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+7676"
+        }
+      },
+      "data": {
+        "position": 235
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+56DB"
+        }
+      },
+      "data": {
+        "position": 236
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5723"
+        }
+      },
+      "data": {
+        "position": 237
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5142"
+        }
+      },
+      "data": {
+        "position": 238
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+4E1A"
+        }
+      },
+      "data": {
+        "position": 239
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+7CF8"
+        }
+      },
+      "data": {
+        "position": 240
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+866B"
+        }
+      },
+      "data": {
+        "position": 241
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+7AF9"
+        }
+      },
+      "data": {
+        "position": 242
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+8089"
+        }
+      },
+      "data": {
+        "position": 243
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+826E"
+        }
+      },
+      "data": {
+        "position": 244
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+8863"
+        }
+      },
+      "data": {
+        "position": 245
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+8864"
+        }
+      },
+      "data": {
+        "position": 246
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+7C73"
+        }
+      },
+      "data": {
+        "position": 247
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+8033"
+        }
+      },
+      "data": {
+        "position": 248
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+7F8A"
+        }
+      },
+      "data": {
+        "position": 249
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+7FBD"
+        }
+      },
+      "data": {
+        "position": 250
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+821F"
+        }
+      },
+      "data": {
+        "position": 251
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+572D"
+        }
+      },
+      "data": {
+        "position": 252
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5408"
+        }
+      },
+      "data": {
+        "position": 253
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5404"
+        }
+      },
+      "data": {
+        "position": 254
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+81F3"
+        }
+      },
+      "data": {
+        "position": 255
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+884C"
+        }
+      },
+      "data": {
+        "position": 256
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+4EA4"
+        }
+      },
+      "data": {
+        "position": 257
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+81FC"
+        }
+      },
+      "data": {
+        "position": 258
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+820C"
+        }
+      },
+      "data": {
+        "position": 259
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5409"
+        }
+      },
+      "data": {
+        "position": 260
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5171"
+        }
+      },
+      "data": {
+        "position": 261
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+540C"
+        }
+      },
+      "data": {
+        "position": 262
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+864D"
+        }
+      },
+      "data": {
+        "position": 263
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+807F"
+        }
+      },
+      "data": {
+        "position": 264
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5146"
+        }
+      },
+      "data": {
+        "position": 265
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5E76"
+        }
+      },
+      "data": {
+        "position": 266
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5149"
+        }
+      },
+      "data": {
+        "position": 267
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+4EA5"
+        }
+      },
+      "data": {
+        "position": 268
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+7F36"
+        }
+      },
+      "data": {
+        "position": 269
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+81E3"
+        }
+      },
+      "data": {
+        "position": 270
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+6709"
+        }
+      },
+      "data": {
+        "position": 271
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+81EA"
+        }
+      },
+      "data": {
+        "position": 272
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+800C"
+        }
+      },
+      "data": {
+        "position": 273
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5938"
+        }
+      },
+      "data": {
+        "position": 274
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+8840"
+        }
+      },
+      "data": {
+        "position": 275
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+2298F"
+        }
+      },
+      "data": {
+        "position": 276
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5BFA"
+        }
+      },
+      "data": {
+        "position": 277
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+767E"
+        }
+      },
+      "data": {
+        "position": 278
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+897F"
+        }
+      },
+      "data": {
+        "position": 279
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+8980"
+        }
+      },
+      "data": {
+        "position": 280
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+4EA6"
+        }
+      },
+      "data": {
+        "position": 281
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+56DE"
+        }
+      },
+      "data": {
+        "position": 282
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+821B"
+        }
+      },
+      "data": {
+        "position": 283
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+66F2"
+        }
+      },
+      "data": {
+        "position": 284
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+52A6"
+        }
+      },
+      "data": {
+        "position": 285
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+65E9"
+        }
+      },
+      "data": {
+        "position": 286
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+620D"
+        }
+      },
+      "data": {
+        "position": 287
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5C17"
+        }
+      },
+      "data": {
+        "position": 288
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+4E51"
+        }
+      },
+      "data": {
+        "position": 289
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+518E"
+        }
+      },
+      "data": {
+        "position": 290
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5C70"
+        }
+      },
+      "data": {
+        "position": 291
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+8A00"
+        }
+      },
+      "data": {
+        "position": 292
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+8C9D"
+        }
+      },
+      "data": {
+        "position": 293
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+8ECA"
+        }
+      },
+      "data": {
+        "position": 294
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+9149"
+        }
+      },
+      "data": {
+        "position": 295
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+8DB3"
+        }
+      },
+      "data": {
+        "position": 296
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+91CC"
+        }
+      },
+      "data": {
+        "position": 297
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+898B"
+        }
+      },
+      "data": {
+        "position": 298
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+8C55"
+        }
+      },
+      "data": {
+        "position": 299
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+752B"
+        }
+      },
+      "data": {
+        "position": 300
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+89D2"
+        }
+      },
+      "data": {
+        "position": 301
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+826F"
+        }
+      },
+      "data": {
+        "position": 302
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+8D70"
+        }
+      },
+      "data": {
+        "position": 303
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+8C46"
+        }
+      },
+      "data": {
+        "position": 304
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+8F9B"
+        }
+      },
+      "data": {
+        "position": 305
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+8EAB"
+        }
+      },
+      "data": {
+        "position": 306
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+8C78"
+        }
+      },
+      "data": {
+        "position": 307
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+4F59"
+        }
+      },
+      "data": {
+        "position": 308
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+590B"
+        }
+      },
+      "data": {
+        "position": 309
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+675F"
+        }
+      },
+      "data": {
+        "position": 310
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+8FB0"
+        }
+      },
+      "data": {
+        "position": 311
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+8C37"
+        }
+      },
+      "data": {
+        "position": 312
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+544A"
+        }
+      },
+      "data": {
+        "position": 313
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+514D"
+        }
+      },
+      "data": {
+        "position": 314
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+543E"
+        }
+      },
+      "data": {
+        "position": 315
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5DE0"
+        }
+      },
+      "data": {
+        "position": 316
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+541B"
+        }
+      },
+      "data": {
+        "position": 317
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5F1F"
+        }
+      },
+      "data": {
+        "position": 318
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+8099"
+        }
+      },
+      "data": {
+        "position": 319
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5B5B"
+        }
+      },
+      "data": {
+        "position": 320
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+66F4"
+        }
+      },
+      "data": {
+        "position": 321
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+8D64"
+        }
+      },
+      "data": {
+        "position": 322
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5E0C"
+        }
+      },
+      "data": {
+        "position": 323
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+342C"
+        }
+      },
+      "data": {
+        "position": 324
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+7537"
+        }
+      },
+      "data": {
+        "position": 325
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5906"
+        }
+      },
+      "data": {
+        "position": 326
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+91C6"
+        }
+      },
+      "data": {
+        "position": 327
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+7CFB"
+        }
+      },
+      "data": {
+        "position": 328
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5446"
+        }
+      },
+      "data": {
+        "position": 329
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+4E23"
+        }
+      },
+      "data": {
+        "position": 330
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+91D1"
+        }
+      },
+      "data": {
+        "position": 331
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+9580"
+        }
+      },
+      "data": {
+        "position": 332
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+96B9"
+        }
+      },
+      "data": {
+        "position": 333
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+96E8"
+        }
+      },
+      "data": {
+        "position": 334
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+6797"
+        }
+      },
+      "data": {
+        "position": 335
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+975E"
+        }
+      },
+      "data": {
+        "position": 336
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+9752"
+        }
+      },
+      "data": {
+        "position": 337
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5176"
+        }
+      },
+      "data": {
+        "position": 338
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5351"
+        }
+      },
+      "data": {
+        "position": 339
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+9577"
+        }
+      },
+      "data": {
+        "position": 340
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+679C"
+        }
+      },
+      "data": {
+        "position": 341
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5352"
+        }
+      },
+      "data": {
+        "position": 342
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+4EAB"
+        }
+      },
+      "data": {
+        "position": 343
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5485"
+        }
+      },
+      "data": {
+        "position": 344
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+6614"
+        }
+      },
+      "data": {
+        "position": 345
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+4EAC"
+        }
+      },
+      "data": {
+        "position": 346
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+81FD"
+        }
+      },
+      "data": {
+        "position": 347
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+6771"
+        }
+      },
+      "data": {
+        "position": 348
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+2099D"
+        }
+      },
+      "data": {
+        "position": 349
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5B98"
+        }
+      },
+      "data": {
+        "position": 350
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+4F96"
+        }
+      },
+      "data": {
+        "position": 351
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5E78"
+        }
+      },
+      "data": {
+        "position": 352
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+76F4"
+        }
+      },
+      "data": {
+        "position": 353
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+530A"
+        }
+      },
+      "data": {
+        "position": 354
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+758C"
+        }
+      },
+      "data": {
+        "position": 355
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+96B6"
+        }
+      },
+      "data": {
+        "position": 356
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5393"
+        }
+      },
+      "data": {
+        "position": 357
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+3775"
+        }
+      },
+      "data": {
+        "position": 358
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+98DF"
+        }
+      },
+      "data": {
+        "position": 359
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+9801"
+        }
+      },
+      "data": {
+        "position": 360
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+9769"
+        }
+      },
+      "data": {
+        "position": 361
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+9B3C"
+        }
+      },
+      "data": {
+        "position": 362
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+97CB"
+        }
+      },
+      "data": {
+        "position": 363
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+98A8"
+        }
+      },
+      "data": {
+        "position": 364
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+97F3"
+        }
+      },
+      "data": {
+        "position": 365
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+67BC"
+        }
+      },
+      "data": {
+        "position": 366
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+53DA"
+        }
+      },
+      "data": {
+        "position": 367
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+7550"
+        }
+      },
+      "data": {
+        "position": 368
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+8011"
+        }
+      },
+      "data": {
+        "position": 369
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+53DF"
+        }
+      },
+      "data": {
+        "position": 370
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5E1D"
+        }
+      },
+      "data": {
+        "position": 371
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+91CD"
+        }
+      },
+      "data": {
+        "position": 372
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+601D"
+        }
+      },
+      "data": {
+        "position": 373
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+524D"
+        }
+      },
+      "data": {
+        "position": 374
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+54A2"
+        }
+      },
+      "data": {
+        "position": 375
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+67EC"
+        }
+      },
+      "data": {
+        "position": 376
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+58F4"
+        }
+      },
+      "data": {
+        "position": 377
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+9762"
+        }
+      },
+      "data": {
+        "position": 378
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+54A0"
+        }
+      },
+      "data": {
+        "position": 379
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5794"
+        }
+      },
+      "data": {
+        "position": 380
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+9996"
+        }
+      },
+      "data": {
+        "position": 381
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5950"
+        }
+      },
+      "data": {
+        "position": 382
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+97ED"
+        }
+      },
+      "data": {
+        "position": 383
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+80C3"
+        }
+      },
+      "data": {
+        "position": 384
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+81FF"
+        }
+      },
+      "data": {
+        "position": 385
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+99AC"
+        }
+      },
+      "data": {
+        "position": 386
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+9AA8"
+        }
+      },
+      "data": {
+        "position": 387
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+9AD8"
+        }
+      },
+      "data": {
+        "position": 388
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+241FE"
+        }
+      },
+      "data": {
+        "position": 389
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+595A"
+        }
+      },
+      "data": {
+        "position": 390
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+25055"
+        }
+      },
+      "data": {
+        "position": 391
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+4343"
+        }
+      },
+      "data": {
+        "position": 392
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+9B32"
+        }
+      },
+      "data": {
+        "position": 393
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+65C1"
+        }
+      },
+      "data": {
+        "position": 394
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+8200"
+        }
+      },
+      "data": {
+        "position": 395
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+82BB"
+        }
+      },
+      "data": {
+        "position": 396
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+9B25"
+        }
+      },
+      "data": {
+        "position": 397
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+96BA"
+        }
+      },
+      "data": {
+        "position": 398
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+9B5A"
+        }
+      },
+      "data": {
+        "position": 399
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+9CE5"
+        }
+      },
+      "data": {
+        "position": 400
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+9ED2"
+        }
+      },
+      "data": {
+        "position": 401
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+9E7F"
+        }
+      },
+      "data": {
+        "position": 402
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+7FCF"
+        }
+      },
+      "data": {
+        "position": 403
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5A41"
+        }
+      },
+      "data": {
+        "position": 404
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+66FC"
+        }
+      },
+      "data": {
+        "position": 405
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+9EC4"
+        }
+      },
+      "data": {
+        "position": 406
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5547"
+        }
+      },
+      "data": {
+        "position": 407
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5C1E"
+        }
+      },
+      "data": {
+        "position": 408
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+7CA6"
+        }
+      },
+      "data": {
+        "position": 409
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+77DE"
+        }
+      },
+      "data": {
+        "position": 410
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+83D0"
+        }
+      },
+      "data": {
+        "position": 411
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+2696F"
+        }
+      },
+      "data": {
+        "position": 412
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+7571"
+        }
+      },
+      "data": {
+        "position": 413
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+9EC3"
+        }
+      },
+      "data": {
+        "position": 414
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+68E5"
+        }
+      },
+      "data": {
+        "position": 415
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+50C9"
+        }
+      },
+      "data": {
+        "position": 416
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+7758"
+        }
+      },
+      "data": {
+        "position": 417
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+776A"
+        }
+      },
+      "data": {
+        "position": 418
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+6703"
+        }
+      },
+      "data": {
+        "position": 419
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+8A79"
+        }
+      },
+      "data": {
+        "position": 420
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+9F20"
+        }
+      },
+      "data": {
+        "position": 421
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+55BF"
+        }
+      },
+      "data": {
+        "position": 422
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+84A6"
+        }
+      },
+      "data": {
+        "position": 423
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+656B"
+        }
+      },
+      "data": {
+        "position": 424
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+9EFD"
+        }
+      },
+      "data": {
+        "position": 425
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+757A"
+        }
+      },
+      "data": {
+        "position": 426
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+8C66"
+        }
+      },
+      "data": {
+        "position": 427
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+9F4A"
+        }
+      },
+      "data": {
+        "position": 428
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+7FDF"
+        }
+      },
+      "data": {
+        "position": 429
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+9F8D"
+        }
+      },
+      "data": {
+        "position": 430
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+9FA0"
+        }
+      },
+      "data": {
+        "position": 431
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+5B30"
+        }
+      },
+      "data": {
+        "position": 432
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "grapheme:U+470C"
+        }
+      },
+      "data": {
+        "position": 433
+      }
+    }
+  ]
+}

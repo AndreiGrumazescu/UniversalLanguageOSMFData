@@ -1,6 +1,6 @@
 Grapheme Popularity Report
 ========================================
-Generated: 2026-02-05 15:33:47 UTC
+Generated: 2026-02-21 13:07:29 UTC
 
 Total graphemes: 428
 Total popularity (sum): 22,141

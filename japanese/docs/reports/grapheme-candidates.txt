@@ -1,6 +1,6 @@
 Grapheme Candidates Report
 ========================================
-Generated: 2026-02-05 15:33:47 UTC
+Generated: 2026-02-21 13:07:29 UTC
 
 Criteria: is_grapheme=NO AND popularity>0 AND atomic in at least one library
 Total candidates: 78

@@ -21,8 +21,9 @@ Documentation for the Japanese language content in Universal Language, structure
 |-------|--------|-----------|--------|
 | Grapheme Dependency | `data/grapheme-dependency/japanese-grapheme-dependency.schema.json` | `data/grapheme-dependency/documents/` | Populated |
 | Grapheme Variant Group | `data/grapheme-variant-group/japanese-grapheme-variant-group.schema.json` | `data/grapheme-variant-group/documents/` | Populated |
-| Kanji Grapheme Dependency | `data/kanji-grapheme-dependency/japanese-kanji-grapheme-dependency.schema.json` | `data/kanji-grapheme-dependency/documents/` | Schema only |
-| Kanji Dependency | `data/kanji-dependency/japanese-kanji-dependency.schema.json` | `data/kanji-dependency/documents/` | Schema only |
+| Learning Order | `../../shared-models/learning-order.schema.json` | `data/learning-order/documents/` | Populated |
+| Kanji Grapheme Dependency | `data/kanji-grapheme-dependency/japanese-kanji-grapheme-dependency.schema.json` | `data/kanji-grapheme-dependency/documents/` | Populated |
+| Kanji Dependency | `data/kanji-dependency/japanese-kanji-dependency.schema.json` | `data/kanji-dependency/documents/` | Populated |
 
 ---
 
@@ -125,9 +126,116 @@ This is an OSMF Relational Model that groups graphemes using the `many` pattern 
 
 ---
 
+## Kanji Dependencies
+
+### Concept
+
+Kanji-to-kanji dependency relationships express how kanji are composed of other kanji. A parent kanji has prerequisite kanji that should be studied first, based on visual decomposition — the prerequisite kanji physically appears as a component within the parent.
+
+Decomposition uses CHISE IDS (primary) and KanjiVG (fallback) data, iterating on un-normalized kanji from kanjidic2 for better decomposition coverage.
+
+### Model & Document Format
+
+**Model:** `data/kanji-dependency/japanese-kanji-dependency.schema.json`
+
+This is an OSMF Relational Model with:
+- `parent` connector — the kanji being decomposed
+- `prerequisite` connector — a kanji that should be studied before the parent
+
+Uses the `many` pattern to express multiple prerequisites per parent.
+
+**Example document:** 明 (Bright) depends on 日 (Sun) and 月 (Moon)
+```json
+{
+  "$id": "kanji-dep:U+660E",
+  "connectors": { "parent": { "$id": "kanji:U+660E" } },
+  "many": [
+    { "connectors": { "prerequisite": { "$id": "kanji:U+65E5" } } },
+    { "connectors": { "prerequisite": { "$id": "kanji:U+6708" } } }
+  ]
+}
+```
+
+---
+
+## Kanji Grapheme Dependencies
+
+### Concept
+
+Kanji-to-grapheme dependency relationships express which graphemes compose each kanji. This connects the grapheme decomposition system to the kanji content, enabling grapheme readiness scoring — determining which grapheme building blocks a user needs before studying a given kanji.
+
+### Model & Document Format
+
+**Model:** `data/kanji-grapheme-dependency/japanese-kanji-grapheme-dependency.schema.json`
+
+This is an OSMF Relational Model with:
+- `parent` connector — the kanji being decomposed
+- `component` connector — a grapheme that is a component of the parent kanji
+
+Uses the `many` pattern to express multiple grapheme components per kanji.
+
+**Example document:** 七 (Seven) = 一 (One) + 乙 (Second Rank)
+```json
+{
+  "$id": "kanji-grapheme-dep:U+4E03",
+  "connectors": { "parent": { "$id": "kanji:U+4E03" } },
+  "many": [
+    { "connectors": { "component": { "$id": "grapheme:U+4E00" } } },
+    { "connectors": { "component": { "$id": "grapheme:U+4E59" } } }
+  ]
+}
+```
+
+---
+
+## Learning Order
+
+### Concept
+
+Learning order documents define the sequence in which content should be presented to users. Each order is a "track" targeting a specific content type (graphemes, kanji, etc.). Multiple tracks can exist for the same content type (e.g., a default order and an alternative frequency-based order).
+
+The learning order is separate from the dependency graph — the app uses dependencies for gating (what the user *can* study), and the learning order for prioritization (what should be *suggested* next among unlocked content).
+
+### Tracks
+
+**Grapheme default track** (`japanese-grapheme-learning-order-default`):
+- Sort: stroke count ASC, popularity DESC, `$id` ASC
+- Variant groups kept together (base grapheme first, then variants)
+- Validated against grapheme dependencies (0 violations)
+
+**Kanji default track** (`japanese-kanji-learning-order-default`):
+- Sort: stroke count ASC, grapheme readiness ASC, kanjidic grade ASC, popularity DESC, `$id` ASC
+- Grapheme readiness = max position of any grapheme component in the grapheme learning order
+- Validated against kanji dependencies (22 warnings from decomposition artifacts; app gates independently)
+
+### Model & Document Format
+
+**Model:** `../../shared-models/learning-order.schema.json` (shared across languages)
+
+This is an OSMF Relational Model with an `item` connector and `many` pattern. Each item has a `position` (0-indexed).
+
+**Example document (abbreviated):**
+```json
+{
+  "$schema": "../../../../shared-models/learning-order.schema.json",
+  "$id": "japanese-grapheme-learning-order-default",
+  "data": {
+    "contentType": "grapheme",
+    "trackId": "default",
+    "trackName": "Default Grapheme Order"
+  },
+  "many": [
+    { "connectors": { "item": { "$id": "grapheme:U+4E00" } }, "data": { "position": 0 } },
+    { "connectors": { "item": { "$id": "grapheme:U+4E3F" } }, "data": { "position": 1 } }
+  ]
+}
+```
+
+---
+
 ## Scripts
 
-Scripts for generating, analyzing, and maintaining Japanese content are located in `scripts/`. See the repository README for the general script architecture (adapters, analyzers, generators, lib).
+Scripts for generating, analyzing, and maintaining Japanese content are located in `scripts/`. See [README-CONTENT.md](../../README-CONTENT.md) for the general script architecture (adapters, analyzers, generators, lib).
 
 ### Generators
 
@@ -136,6 +244,10 @@ Scripts for generating, analyzing, and maintaining Japanese content are located 
 | `generators/grapheme_dependency_generator.py` | Grapheme dependency relational documents |
 | `generators/grapheme_variant_group_generator.py` | Grapheme variant group relational documents |
 | `generators/kanji_generator.py` | Kanji data documents (generated from kanjidic2) |
+| `generators/kanji_dependency_generator.py` | Kanji-to-kanji dependency relational documents |
+| `generators/kanji_grapheme_dependency_generator.py` | Kanji-to-grapheme dependency relational documents |
+| `generators/learning_order_generator.py` | Grapheme learning order document |
+| `generators/kanji_learning_order_generator.py` | Kanji learning order document |
 
 ### Analyzers
 
@@ -151,8 +263,8 @@ Scripts for generating, analyzing, and maintaining Japanese content are located 
 | Module | Purpose |
 |--------|---------|
 | `lib/normalizers.py` | NFKC_PLUS normalization — extends Unicode NFKC with additional CJK variant mappings |
-| `lib/grapheme_io.py` | OSMF document I/O for grapheme data |
-| `lib/paths.py` | Path configuration |
+| `lib/grapheme_io.py` | OSMF document I/O for grapheme and relational data |
+| `lib/paths.py` | Path configuration for all data, source, and output directories |
 | `adapters/component_analysis.py` | CHISE IDS and KanjiVG decomposition logic |
 | `adapters/kanjidic.py` | kanjidic2 dataset parsing |
 
