@@ -127,7 +127,7 @@ def load_graphemes_from_turso(conn) -> tuple[dict[str, str], dict[str, str], dic
     grapheme_id_to_doc: dict[str, dict] = {}
 
     # Load primary graphemes
-    rows = conn.execute("SELECT id, symbol FROM japanese_grapheme").fetchall()
+    rows = conn.execute("SELECT id, symbol FROM ja_data_grapheme").fetchall()
     for row in rows:
         grapheme_id, symbol = row[0], row[1]
         if symbol:
@@ -136,7 +136,7 @@ def load_graphemes_from_turso(conn) -> tuple[dict[str, str], dict[str, str], dic
             grapheme_id_to_doc[grapheme_id] = {"symbol": symbol, "variants": []}
 
     # Load variants
-    rows = conn.execute("SELECT grapheme_id, symbol FROM japanese_grapheme_variant").fetchall()
+    rows = conn.execute("SELECT grapheme_id, symbol FROM ja_data_grapheme_variant").fetchall()
     for row in rows:
         grapheme_id, symbol = row[0], row[1]
         if symbol:
