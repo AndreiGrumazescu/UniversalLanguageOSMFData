@@ -3,9 +3,11 @@
   "unicode": "U+541F",
   "symbol": "吟",
   "meanings": [
-    "versify",
-    "singing",
     "recital"
+  ],
+  "secondaryMeanings": [
+    "versify",
+    "singing"
   ],
   "onyomi": [
     "ギン"

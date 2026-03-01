@@ -3,7 +3,9 @@
   "unicode": "U+6E34",
   "symbol": "渴",
   "meanings": [
-    "thirsty",
+    "thirsty"
+  ],
+  "secondaryMeanings": [
     "parched",
     "yearn",
     "pine"

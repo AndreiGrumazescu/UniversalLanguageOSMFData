@@ -3,9 +3,11 @@
   "unicode": "U+8D08",
   "symbol": "贈",
   "meanings": [
-    "presents",
-    "send",
     "give to",
+    "send"
+  ],
+  "secondaryMeanings": [
+    "presents",
     "award to",
     "confer on",
     "presenting something"

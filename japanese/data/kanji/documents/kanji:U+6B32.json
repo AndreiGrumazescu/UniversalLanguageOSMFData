@@ -3,11 +3,13 @@
   "unicode": "U+6B32",
   "symbol": "欲",
   "meanings": [
+    "desire",
+    "greed"
+  ],
+  "secondaryMeanings": [
     "longing",
     "covetousness",
-    "greed",
     "passion",
-    "desire",
     "craving"
   ],
   "onyomi": [

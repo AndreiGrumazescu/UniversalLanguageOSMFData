@@ -4,10 +4,12 @@
   "symbol": "衝",
   "meanings": [
     "collide",
+    "thrust"
+  ],
+  "secondaryMeanings": [
     "brunt",
     "highway",
     "opposition (astronomy)",
-    "thrust",
     "pierce",
     "stab",
     "prick"

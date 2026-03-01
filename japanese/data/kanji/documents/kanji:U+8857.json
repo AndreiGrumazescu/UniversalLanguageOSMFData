@@ -3,9 +3,11 @@
   "unicode": "U+8857",
   "symbol": "街",
   "meanings": [
-    "boulevard",
     "street",
     "town"
+  ],
+  "secondaryMeanings": [
+    "boulevard"
   ],
   "onyomi": [
     "ガイ"

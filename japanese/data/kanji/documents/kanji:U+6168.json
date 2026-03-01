@@ -3,10 +3,12 @@
   "unicode": "U+6168",
   "symbol": "慨",
   "meanings": [
+    "lament",
+    "sigh"
+  ],
+  "secondaryMeanings": [
     "rue",
-    "be sad",
-    "sigh",
-    "lament"
+    "be sad"
   ],
   "onyomi": [
     "ガイ"

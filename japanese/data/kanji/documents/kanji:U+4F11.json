@@ -4,7 +4,9 @@
   "symbol": "休",
   "meanings": [
     "rest",
-    "day off",
+    "day off"
+  ],
+  "secondaryMeanings": [
     "retire",
     "sleep"
   ],

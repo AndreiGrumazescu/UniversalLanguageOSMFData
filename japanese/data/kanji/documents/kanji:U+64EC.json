@@ -4,9 +4,11 @@
   "symbol": "擬",
   "meanings": [
     "mimic",
-    "aim (a gun) at",
-    "nominate",
     "imitate"
+  ],
+  "secondaryMeanings": [
+    "aim (a gun) at",
+    "nominate"
   ],
   "onyomi": [
     "ギ"

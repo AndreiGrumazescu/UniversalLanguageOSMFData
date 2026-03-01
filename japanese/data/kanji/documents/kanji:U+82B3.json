@@ -3,10 +3,12 @@
   "unicode": "U+82B3",
   "symbol": "芳",
   "meanings": [
-    "perfume",
+    "fragrant",
+    "perfume"
+  ],
+  "secondaryMeanings": [
     "balmy",
-    "favorable",
-    "fragrant"
+    "favorable"
   ],
   "onyomi": [
     "ホウ"

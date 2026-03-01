@@ -3,8 +3,11 @@
   "unicode": "U+9644",
   "symbol": "附",
   "meanings": [
-    "affixed",
     "attach",
+    "affix"
+  ],
+  "secondaryMeanings": [
+    "affixed",
     "refer to",
     "append"
   ],

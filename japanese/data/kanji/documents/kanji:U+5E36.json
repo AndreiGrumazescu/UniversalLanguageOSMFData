@@ -4,10 +4,12 @@
   "symbol": "帶",
   "meanings": [
     "belt",
-    "girdle",
     "band",
-    "strap",
     "zone"
+  ],
+  "secondaryMeanings": [
+    "girdle",
+    "strap"
   ],
   "onyomi": [
     "タイ"

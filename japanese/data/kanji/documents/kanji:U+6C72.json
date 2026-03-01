@@ -3,7 +3,9 @@
   "unicode": "U+6C72",
   "symbol": "汲",
   "meanings": [
-    "draw (water)",
+    "draw (water)"
+  ],
+  "secondaryMeanings": [
     "ladle",
     "scoop",
     "pump"

@@ -4,9 +4,11 @@
   "symbol": "属",
   "meanings": [
     "belong",
-    "genus",
-    "subordinate official",
     "affiliated"
+  ],
+  "secondaryMeanings": [
+    "genus",
+    "subordinate official"
   ],
   "onyomi": [
     "ゾク"

@@ -3,10 +3,12 @@
   "unicode": "U+5E84",
   "symbol": "庄",
   "meanings": [
+    "manor",
+    "village"
+  ],
+  "secondaryMeanings": [
     "level",
     "in the country",
-    "manor",
-    "village",
     "hamlet"
   ],
   "onyomi": [

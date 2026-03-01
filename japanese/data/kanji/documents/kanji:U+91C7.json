@@ -3,11 +3,13 @@
   "unicode": "U+91C7",
   "symbol": "采",
   "meanings": [
+    "take",
+    "gather"
+  ],
+  "secondaryMeanings": [
     "dice",
     "form",
     "appearance",
-    "take",
-    "gather",
     "coloring"
   ],
   "onyomi": [

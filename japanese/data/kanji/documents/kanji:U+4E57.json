@@ -4,12 +4,14 @@
   "symbol": "乗",
   "meanings": [
     "ride",
+    "board",
+    "mount"
+  ],
+  "secondaryMeanings": [
     "power",
     "multiplication",
     "record",
     "counter for vehicles",
-    "board",
-    "mount",
     "join"
   ],
   "onyomi": [

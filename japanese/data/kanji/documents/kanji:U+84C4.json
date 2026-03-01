@@ -3,10 +3,13 @@
   "unicode": "U+84C4",
   "symbol": "蓄",
   "meanings": [
+    "store",
+    "accumulate"
+  ],
+  "secondaryMeanings": [
     "amass",
     "raise",
-    "hoard",
-    "store"
+    "hoard"
   ],
   "onyomi": [
     "チク"

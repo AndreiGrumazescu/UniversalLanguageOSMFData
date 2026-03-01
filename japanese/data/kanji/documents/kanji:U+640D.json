@@ -4,7 +4,9 @@
   "symbol": "損",
   "meanings": [
     "damage",
-    "loss",
+    "loss"
+  ],
+  "secondaryMeanings": [
     "disadvantage",
     "hurt",
     "injure"

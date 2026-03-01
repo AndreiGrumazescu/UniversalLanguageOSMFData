@@ -3,9 +3,11 @@
   "unicode": "U+7E55",
   "symbol": "繕",
   "meanings": [
-    "darning",
     "repair",
-    "mend",
+    "mend"
+  ],
+  "secondaryMeanings": [
+    "darning",
     "trim",
     "tidy up",
     "adjust"

@@ -4,9 +4,11 @@
   "symbol": "宮",
   "meanings": [
     "Shinto shrine",
-    "constellations",
     "palace",
     "princess"
+  ],
+  "secondaryMeanings": [
+    "constellations"
   ],
   "onyomi": [
     "キュウ"

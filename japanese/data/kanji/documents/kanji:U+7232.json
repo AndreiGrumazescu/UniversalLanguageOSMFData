@@ -3,14 +3,16 @@
   "unicode": "U+7232",
   "symbol": "爲",
   "meanings": [
+    "do",
     "change",
+    "serve as"
+  ],
+  "secondaryMeanings": [
     "be of use",
     "reach to",
-    "do",
     "try",
     "practice",
-    "cost",
-    "serve as"
+    "cost"
   ],
   "onyomi": [
     "イ"

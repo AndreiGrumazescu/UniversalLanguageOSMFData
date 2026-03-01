@@ -3,7 +3,9 @@
   "unicode": "U+5E2D",
   "symbol": "席",
   "meanings": [
-    "seat",
+    "seat"
+  ],
+  "secondaryMeanings": [
     "mat",
     "occasion",
     "place"

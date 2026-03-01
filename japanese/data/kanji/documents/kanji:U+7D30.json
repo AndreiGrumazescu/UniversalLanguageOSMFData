@@ -3,12 +3,15 @@
   "unicode": "U+7D30",
   "symbol": "細",
   "meanings": [
+    "thin",
+    "slender",
+    "narrow",
+    "detailed"
+  ],
+  "secondaryMeanings": [
     "dainty",
     "get thin",
     "taper",
-    "slender",
-    "narrow",
-    "detailed",
     "precise"
   ],
   "onyomi": [

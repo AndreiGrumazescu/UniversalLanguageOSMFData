@@ -3,7 +3,9 @@
   "unicode": "U+9162",
   "symbol": "酢",
   "meanings": [
-    "vinegar",
+    "vinegar"
+  ],
+  "secondaryMeanings": [
     "sour",
     "acid",
     "tart"

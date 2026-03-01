@@ -4,8 +4,10 @@
   "symbol": "租",
   "meanings": [
     "tariff",
-    "crop tax",
     "borrowing"
+  ],
+  "secondaryMeanings": [
+    "crop tax"
   ],
   "onyomi": [
     "ソ"

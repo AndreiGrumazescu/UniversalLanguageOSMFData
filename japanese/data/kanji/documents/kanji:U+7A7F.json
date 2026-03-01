@@ -3,10 +3,12 @@
   "unicode": "U+7A7F",
   "symbol": "穿",
   "meanings": [
-    "put on (to the feet)",
-    "dig",
     "pierce",
+    "dig",
     "drill"
+  ],
+  "secondaryMeanings": [
+    "put on (to the feet)"
   ],
   "onyomi": [
     "セン"

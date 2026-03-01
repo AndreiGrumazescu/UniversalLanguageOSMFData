@@ -4,12 +4,14 @@
   "symbol": "博",
   "meanings": [
     "Dr.",
-    "command",
-    "esteem",
-    "win acclaim",
     "Ph.D.",
     "exposition",
     "fair"
+  ],
+  "secondaryMeanings": [
+    "command",
+    "esteem",
+    "win acclaim"
   ],
   "onyomi": [
     "ハク"

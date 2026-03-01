@@ -3,8 +3,10 @@
   "unicode": "U+89A7",
   "symbol": "覧",
   "meanings": [
-    "perusal",
     "see"
+  ],
+  "secondaryMeanings": [
+    "perusal"
   ],
   "onyomi": [
     "ラン"

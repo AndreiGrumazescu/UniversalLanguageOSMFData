@@ -3,7 +3,9 @@
   "unicode": "U+76F2",
   "symbol": "盲",
   "meanings": [
-    "blind",
+    "blind"
+  ],
+  "secondaryMeanings": [
     "blind man",
     "ignoramus"
   ],

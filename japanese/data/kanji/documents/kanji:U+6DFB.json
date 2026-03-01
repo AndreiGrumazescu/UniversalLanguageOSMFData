@@ -3,14 +3,16 @@
   "unicode": "U+6DFB",
   "symbol": "添",
   "meanings": [
-    "annexed",
-    "accompany",
-    "marry",
-    "suit",
-    "meet",
-    "satisfy",
     "attach",
     "append",
+    "accompany",
+    "suit"
+  ],
+  "secondaryMeanings": [
+    "annexed",
+    "marry",
+    "meet",
+    "satisfy",
     "garnish",
     "imitate"
   ],

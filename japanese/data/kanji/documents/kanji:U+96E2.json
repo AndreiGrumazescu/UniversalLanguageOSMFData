@@ -4,7 +4,9 @@
   "symbol": "離",
   "meanings": [
     "detach",
-    "separation",
+    "separation"
+  ],
+  "secondaryMeanings": [
     "disjoin",
     "digress"
   ],

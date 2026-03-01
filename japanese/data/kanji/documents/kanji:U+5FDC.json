@@ -5,10 +5,12 @@
   "meanings": [
     "apply",
     "answer",
-    "yes",
-    "OK",
     "reply",
     "accept"
+  ],
+  "secondaryMeanings": [
+    "yes",
+    "OK"
   ],
   "onyomi": [
     "オウ"

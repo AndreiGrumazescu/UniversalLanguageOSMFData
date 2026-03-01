@@ -1,11 +1,13 @@
 {
   "$id": "kanji:U+7248",
-  "unicode": "U+7248",
+  "unicode": "U+7298",
   "symbol": "版",
   "meanings": [
-    "printing block",
-    "printing plate",
     "edition",
+    "printing block",
+    "printing plate"
+  ],
+  "secondaryMeanings": [
     "impression",
     "label"
   ],

@@ -4,9 +4,11 @@
   "symbol": "笛",
   "meanings": [
     "flute",
+    "whistle"
+  ],
+  "secondaryMeanings": [
     "clarinet",
     "pipe",
-    "whistle",
     "bagpipe",
     "piccolo"
   ],

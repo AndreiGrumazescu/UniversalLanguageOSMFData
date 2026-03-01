@@ -4,10 +4,12 @@
   "symbol": "別",
   "meanings": [
     "separate",
+    "another"
+  ],
+  "secondaryMeanings": [
     "branch off",
     "diverge",
     "fork",
-    "another",
     "extra",
     "specially"
   ],

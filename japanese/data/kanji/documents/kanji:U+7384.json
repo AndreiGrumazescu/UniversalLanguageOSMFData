@@ -4,10 +4,12 @@
   "symbol": "玄",
   "meanings": [
     "mysterious",
-    "occultness",
     "black",
     "deep",
     "profound"
+  ],
+  "secondaryMeanings": [
+    "occultness"
   ],
   "onyomi": [
     "ゲン"

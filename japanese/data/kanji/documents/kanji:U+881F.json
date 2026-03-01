@@ -3,7 +3,9 @@
   "unicode": "U+881F",
   "symbol": "蠟",
   "meanings": [
-    "wax",
+    "wax"
+  ],
+  "secondaryMeanings": [
     "candle",
     "waxy",
     "glazed"

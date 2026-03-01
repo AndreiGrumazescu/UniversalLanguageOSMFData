@@ -4,10 +4,12 @@
   "symbol": "裏",
   "meanings": [
     "back",
+    "reverse",
+    "inside"
+  ],
+  "secondaryMeanings": [
     "amidst",
     "in",
-    "reverse",
-    "inside",
     "palm",
     "sole",
     "rear",

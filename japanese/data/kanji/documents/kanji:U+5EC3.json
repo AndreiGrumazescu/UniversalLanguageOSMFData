@@ -4,10 +4,12 @@
   "symbol": "廃",
   "meanings": [
     "abolish",
+    "abandon"
+  ],
+  "secondaryMeanings": [
     "obsolete",
     "cessation",
-    "discarding",
-    "abandon"
+    "discarding"
   ],
   "onyomi": [
     "ハイ"

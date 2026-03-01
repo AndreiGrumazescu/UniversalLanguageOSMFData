@@ -3,8 +3,10 @@
   "unicode": "U+88E1",
   "symbol": "裡",
   "meanings": [
-    "reverse",
     "inside",
+    "reverse"
+  ],
+  "secondaryMeanings": [
     "palm",
     "sole",
     "rear",

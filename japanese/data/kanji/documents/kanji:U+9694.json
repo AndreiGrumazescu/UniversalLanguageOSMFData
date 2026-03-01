@@ -4,9 +4,11 @@
   "symbol": "隔",
   "meanings": [
     "isolate",
-    "alternate",
-    "distance",
     "separate",
+    "distance"
+  ],
+  "secondaryMeanings": [
+    "alternate",
     "gulf"
   ],
   "onyomi": [

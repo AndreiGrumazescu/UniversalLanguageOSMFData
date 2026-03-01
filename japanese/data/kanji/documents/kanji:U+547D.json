@@ -3,11 +3,13 @@
   "unicode": "U+547D",
   "symbol": "命",
   "meanings": [
+    "life",
     "fate",
     "command",
+    "destiny"
+  ],
+  "secondaryMeanings": [
     "decree",
-    "destiny",
-    "life",
     "appoint"
   ],
   "onyomi": [

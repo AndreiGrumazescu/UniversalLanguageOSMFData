@@ -3,10 +3,12 @@
   "unicode": "U+5E16",
   "symbol": "帖",
   "meanings": [
+    "notebook"
+  ],
+  "secondaryMeanings": [
     "quire (of paper)",
     "bundle of seaweed",
-    "counter for screens",
-    "notebook"
+    "counter for screens"
   ],
   "onyomi": [
     "チョウ"

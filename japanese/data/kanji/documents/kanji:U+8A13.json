@@ -3,7 +3,9 @@
   "unicode": "U+8A13",
   "symbol": "訓",
   "meanings": [
-    "instruction",
+    "instruction"
+  ],
+  "secondaryMeanings": [
     "Japanese character reading",
     "explanation",
     "read"

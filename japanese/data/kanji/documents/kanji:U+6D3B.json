@@ -4,9 +4,11 @@
   "symbol": "活",
   "meanings": [
     "lively",
-    "resuscitation",
-    "being helped",
     "living"
+  ],
+  "secondaryMeanings": [
+    "resuscitation",
+    "being helped"
   ],
   "onyomi": [
     "カツ"

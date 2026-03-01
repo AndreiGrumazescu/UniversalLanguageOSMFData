@@ -3,10 +3,12 @@
   "unicode": "U+6551",
   "symbol": "救",
   "meanings": [
-    "salvation",
     "save",
     "help",
-    "rescue",
+    "rescue"
+  ],
+  "secondaryMeanings": [
+    "salvation",
     "reclaim"
   ],
   "onyomi": [

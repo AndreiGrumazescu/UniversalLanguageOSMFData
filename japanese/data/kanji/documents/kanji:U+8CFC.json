@@ -3,8 +3,10 @@
   "unicode": "U+8CFC",
   "symbol": "購",
   "meanings": [
-    "subscription",
     "buy"
+  ],
+  "secondaryMeanings": [
+    "subscription"
   ],
   "onyomi": [
     "コウ"

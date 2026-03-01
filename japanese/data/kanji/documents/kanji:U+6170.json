@@ -3,13 +3,15 @@
   "unicode": "U+6170",
   "symbol": "慰",
   "meanings": [
-    "consolation",
+    "comfort",
+    "console",
+    "consolation"
+  ],
+  "secondaryMeanings": [
     "amusement",
     "seduce",
     "cheer",
-    "make sport of",
-    "comfort",
-    "console"
+    "make sport of"
   ],
   "onyomi": [
     "イ"

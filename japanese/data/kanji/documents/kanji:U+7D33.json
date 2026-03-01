@@ -3,9 +3,11 @@
   "unicode": "U+7D33",
   "symbol": "紳",
   "meanings": [
-    "sire",
-    "good belt",
     "gentleman"
+  ],
+  "secondaryMeanings": [
+    "sire",
+    "good belt"
   ],
   "onyomi": [
     "シン"

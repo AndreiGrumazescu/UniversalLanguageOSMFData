@@ -4,9 +4,11 @@
   "symbol": "保",
   "meanings": [
     "protect",
-    "guarantee",
     "keep",
-    "preserve",
+    "preserve"
+  ],
+  "secondaryMeanings": [
+    "guarantee",
     "sustain",
     "support"
   ],

@@ -4,12 +4,14 @@
   "symbol": "丈",
   "meanings": [
     "length",
-    "ten shaku",
     "measure",
+    "height",
+    "stature"
+  ],
+  "secondaryMeanings": [
+    "ten shaku",
     "Mr.",
     "Ms.",
-    "height",
-    "stature",
     "all (one has)",
     "only",
     "that's all",

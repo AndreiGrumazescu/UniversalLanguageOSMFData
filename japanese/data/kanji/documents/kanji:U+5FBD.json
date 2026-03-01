@@ -3,9 +3,11 @@
   "unicode": "U+5FBD",
   "symbol": "徽",
   "meanings": [
-    "good",
-    "beautiful",
     "badge"
+  ],
+  "secondaryMeanings": [
+    "good",
+    "beautiful"
   ],
   "onyomi": [
     "キ"

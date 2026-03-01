@@ -3,8 +3,10 @@
   "unicode": "U+59CB",
   "symbol": "始",
   "meanings": [
-    "commence",
     "begin"
+  ],
+  "secondaryMeanings": [
+    "commence"
   ],
   "onyomi": [
     "シ"

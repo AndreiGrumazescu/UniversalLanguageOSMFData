@@ -3,11 +3,13 @@
   "unicode": "U+539F",
   "symbol": "原",
   "meanings": [
-    "meadow",
     "original",
-    "primitive",
     "field",
-    "plain",
+    "plain"
+  ],
+  "secondaryMeanings": [
+    "meadow",
+    "primitive",
     "prairie",
     "tundra",
     "wilderness"

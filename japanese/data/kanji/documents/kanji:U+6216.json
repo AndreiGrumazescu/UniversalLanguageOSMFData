@@ -4,10 +4,12 @@
   "symbol": "或",
   "meanings": [
     "some",
-    "one",
     "or",
     "possibly",
     "a certain"
+  ],
+  "secondaryMeanings": [
+    "one"
   ],
   "onyomi": [
     "ワク"

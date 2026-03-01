@@ -4,13 +4,15 @@
   "symbol": "伝",
   "meanings": [
     "transmit",
+    "communicate",
+    "tradition"
+  ],
+  "secondaryMeanings": [
     "go along",
     "walk along",
     "follow",
     "report",
-    "communicate",
-    "legend",
-    "tradition"
+    "legend"
   ],
   "onyomi": [
     "デン"

@@ -3,12 +3,14 @@
   "unicode": "U+61F8",
   "symbol": "懸",
   "meanings": [
-    "state of suspension",
     "hang",
     "depend",
     "consult",
     "distant",
     "far apart"
+  ],
+  "secondaryMeanings": [
+    "state of suspension"
   ],
   "onyomi": [
     "ケン"

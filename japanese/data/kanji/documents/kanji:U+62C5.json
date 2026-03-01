@@ -3,10 +3,12 @@
   "unicode": "U+62C5",
   "symbol": "担",
   "meanings": [
-    "shouldering",
     "carry",
-    "raise",
     "bear"
+  ],
+  "secondaryMeanings": [
+    "shouldering",
+    "raise"
   ],
   "onyomi": [
     "タン"

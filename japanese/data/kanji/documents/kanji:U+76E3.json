@@ -4,10 +4,12 @@
   "symbol": "監",
   "meanings": [
     "oversee",
-    "official",
-    "govt office",
     "rule",
     "administer"
+  ],
+  "secondaryMeanings": [
+    "official",
+    "govt office"
   ],
   "onyomi": [
     "カン"

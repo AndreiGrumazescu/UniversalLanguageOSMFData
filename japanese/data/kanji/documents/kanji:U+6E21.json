@@ -3,10 +3,12 @@
   "unicode": "U+6E21",
   "symbol": "渡",
   "meanings": [
-    "transit",
-    "ford",
-    "ferry",
     "cross",
+    "transit",
+    "ferry"
+  ],
+  "secondaryMeanings": [
+    "ford",
     "import",
     "deliver",
     "diameter",

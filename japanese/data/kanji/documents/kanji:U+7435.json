@@ -3,8 +3,10 @@
   "unicode": "U+7435",
   "symbol": "琵",
   "meanings": [
-    "glissando on strings",
     "lute"
+  ],
+  "secondaryMeanings": [
+    "glissando on strings"
   ],
   "onyomi": [
     "ビ"

@@ -3,8 +3,10 @@
   "unicode": "U+80AF",
   "symbol": "肯",
   "meanings": [
-    "agreement",
     "consent",
+    "agreement"
+  ],
+  "secondaryMeanings": [
     "comply with"
   ],
   "onyomi": [

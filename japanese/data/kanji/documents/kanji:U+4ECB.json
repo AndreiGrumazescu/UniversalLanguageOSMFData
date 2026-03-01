@@ -3,10 +3,12 @@
   "unicode": "U+4ECB",
   "symbol": "介",
   "meanings": [
-    "jammed in",
-    "shellfish",
     "mediate",
     "concern oneself with"
+  ],
+  "secondaryMeanings": [
+    "jammed in",
+    "shellfish"
   ],
   "onyomi": [
     "カイ"

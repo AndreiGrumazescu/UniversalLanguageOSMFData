@@ -3,8 +3,10 @@
   "unicode": "U+907F",
   "symbol": "避",
   "meanings": [
-    "evade",
     "avoid",
+    "evade"
+  ],
+  "secondaryMeanings": [
     "avert",
     "ward off",
     "shirk",

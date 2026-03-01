@@ -3,8 +3,10 @@
   "unicode": "U+80AA",
   "symbol": "肪",
   "meanings": [
-    "obese",
     "fat"
+  ],
+  "secondaryMeanings": [
+    "obese"
   ],
   "onyomi": [
     "ボウ"

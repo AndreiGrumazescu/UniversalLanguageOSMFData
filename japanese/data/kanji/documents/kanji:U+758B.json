@@ -3,8 +3,10 @@
   "unicode": "U+758B",
   "symbol": "疋",
   "meanings": [
-    "head",
     "counter for animals"
+  ],
+  "secondaryMeanings": [
+    "head"
   ],
   "onyomi": [
     "ヒキ"

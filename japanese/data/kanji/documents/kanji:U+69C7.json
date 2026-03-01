@@ -3,8 +3,10 @@
   "unicode": "U+69C7",
   "symbol": "槇",
   "meanings": [
-    "twig",
     "Chinese black pine"
+  ],
+  "secondaryMeanings": [
+    "twig"
   ],
   "onyomi": [
     "テン"

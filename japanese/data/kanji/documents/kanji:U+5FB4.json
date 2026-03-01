@@ -3,10 +3,12 @@
   "unicode": "U+5FB4",
   "symbol": "徴",
   "meanings": [
-    "indications",
     "sign",
     "omen",
-    "symptom",
+    "symptom"
+  ],
+  "secondaryMeanings": [
+    "indications",
     "collect",
     "seek",
     "refer to",

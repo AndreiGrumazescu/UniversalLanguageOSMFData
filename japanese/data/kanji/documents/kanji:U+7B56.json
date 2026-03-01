@@ -3,9 +3,11 @@
   "unicode": "U+7B56",
   "symbol": "策",
   "meanings": [
-    "scheme",
     "plan",
     "policy",
+    "scheme"
+  ],
+  "secondaryMeanings": [
     "step",
     "means"
   ],

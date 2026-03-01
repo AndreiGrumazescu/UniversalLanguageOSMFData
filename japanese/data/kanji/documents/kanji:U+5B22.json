@@ -3,10 +3,12 @@
   "unicode": "U+5B22",
   "symbol": "嬢",
   "meanings": [
-    "lass",
     "girl",
     "Miss",
     "daughter"
+  ],
+  "secondaryMeanings": [
+    "lass"
   ],
   "onyomi": [
     "ジョウ"

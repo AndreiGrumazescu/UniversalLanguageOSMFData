@@ -3,10 +3,12 @@
   "unicode": "U+5687",
   "symbol": "嚇",
   "meanings": [
-    "menacing",
+    "threaten",
+    "menacing"
+  ],
+  "secondaryMeanings": [
     "dignity",
-    "majesty",
-    "threaten"
+    "majesty"
   ],
   "onyomi": [
     "カク"

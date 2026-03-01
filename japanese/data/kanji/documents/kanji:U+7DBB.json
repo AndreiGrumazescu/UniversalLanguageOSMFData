@@ -3,12 +3,14 @@
   "unicode": "U+7DBB",
   "symbol": "綻",
   "meanings": [
-    "be rent",
-    "ripped",
     "unravel",
-    "run",
     "begin to open",
     "smile"
+  ],
+  "secondaryMeanings": [
+    "be rent",
+    "ripped",
+    "run"
   ],
   "onyomi": [
     "タン"

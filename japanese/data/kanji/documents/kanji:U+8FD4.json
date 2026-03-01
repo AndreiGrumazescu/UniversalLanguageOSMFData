@@ -3,7 +3,9 @@
   "unicode": "U+8FD4",
   "symbol": "返",
   "meanings": [
-    "return",
+    "return"
+  ],
+  "secondaryMeanings": [
     "answer",
     "fade",
     "repay"

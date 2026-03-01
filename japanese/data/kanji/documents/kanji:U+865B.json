@@ -3,10 +3,12 @@
   "unicode": "U+865B",
   "symbol": "虛",
   "meanings": [
-    "false",
-    "worthless",
     "empty",
     "hollow"
+  ],
+  "secondaryMeanings": [
+    "false",
+    "worthless"
   ],
   "onyomi": [
     "キョ"

@@ -4,8 +4,10 @@
   "symbol": "到",
   "meanings": [
     "arrival",
+    "reach"
+  ],
+  "secondaryMeanings": [
     "proceed",
-    "reach",
     "attain",
     "result in"
   ],

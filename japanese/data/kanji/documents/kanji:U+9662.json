@@ -3,9 +3,11 @@
   "unicode": "U+9662",
   "symbol": "院",
   "meanings": [
-    "Inst.",
     "institution",
-    "temple",
+    "temple"
+  ],
+  "secondaryMeanings": [
+    "Inst.",
     "mansion",
     "school"
   ],

@@ -3,7 +3,9 @@
   "unicode": "U+9396",
   "symbol": "鎖",
   "meanings": [
-    "chain",
+    "chain"
+  ],
+  "secondaryMeanings": [
     "irons",
     "connection"
   ],

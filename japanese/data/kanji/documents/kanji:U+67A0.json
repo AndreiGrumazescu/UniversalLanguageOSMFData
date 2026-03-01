@@ -4,7 +4,9 @@
   "symbol": "枠",
   "meanings": [
     "frame",
-    "framework",
+    "framework"
+  ],
+  "secondaryMeanings": [
     "spindle",
     "spool",
     "bounding-box",

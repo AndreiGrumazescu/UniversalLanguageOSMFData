@@ -3,9 +3,11 @@
   "unicode": "U+6F54",
   "symbol": "潔",
   "meanings": [
-    "undefiled",
     "pure",
-    "clean",
+    "clean"
+  ],
+  "secondaryMeanings": [
+    "undefiled",
     "righteous",
     "gallant"
   ],

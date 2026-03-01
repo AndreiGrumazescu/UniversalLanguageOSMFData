@@ -3,9 +3,11 @@
   "unicode": "U+91CC",
   "symbol": "里",
   "meanings": [
-    "ri",
     "village",
-    "parent's home",
+    "parent's home"
+  ],
+  "secondaryMeanings": [
+    "ri",
     "league"
   ],
   "onyomi": [

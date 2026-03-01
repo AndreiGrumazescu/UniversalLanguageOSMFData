@@ -4,9 +4,11 @@
   "symbol": "井",
   "meanings": [
     "well",
-    "well crib",
     "town",
     "community"
+  ],
+  "secondaryMeanings": [
+    "well crib"
   ],
   "onyomi": [
     "セイ"

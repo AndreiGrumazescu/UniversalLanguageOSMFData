@@ -3,9 +3,11 @@
   "unicode": "U+5C31",
   "symbol": "就",
   "meanings": [
-    "concerning",
     "settle",
     "take position",
+    "concerning"
+  ],
+  "secondaryMeanings": [
     "depart",
     "study",
     "per"

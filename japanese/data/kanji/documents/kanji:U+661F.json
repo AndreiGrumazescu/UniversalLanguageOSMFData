@@ -3,7 +3,9 @@
   "unicode": "U+661F",
   "symbol": "星",
   "meanings": [
-    "star",
+    "star"
+  ],
+  "secondaryMeanings": [
     "spot",
     "dot",
     "mark"

@@ -4,8 +4,10 @@
   "symbol": "畳",
   "meanings": [
     "tatami mat",
+    "fold"
+  ],
+  "secondaryMeanings": [
     "counter for tatami mats",
-    "fold",
     "shut up",
     "do away with"
   ],

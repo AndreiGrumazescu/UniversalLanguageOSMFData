@@ -3,11 +3,13 @@
   "unicode": "U+54C0",
   "symbol": "哀",
   "meanings": [
-    "pathetic",
     "grief",
     "sorrow",
+    "pity"
+  ],
+  "secondaryMeanings": [
+    "pathetic",
     "pathos",
-    "pity",
     "sympathize"
   ],
   "onyomi": [

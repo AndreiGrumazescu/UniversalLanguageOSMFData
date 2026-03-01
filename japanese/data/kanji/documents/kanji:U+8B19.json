@@ -3,10 +3,12 @@
   "unicode": "U+8B19",
   "symbol": "謙",
   "meanings": [
-    "self-effacing",
     "humble oneself",
-    "condescend",
     "be modest"
+  ],
+  "secondaryMeanings": [
+    "self-effacing",
+    "condescend"
   ],
   "onyomi": [
     "ケン"

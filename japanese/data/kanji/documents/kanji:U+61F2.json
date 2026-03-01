@@ -3,10 +3,12 @@
   "unicode": "U+61F2",
   "symbol": "懲",
   "meanings": [
-    "penal",
     "chastise",
     "punish",
     "discipline"
+  ],
+  "secondaryMeanings": [
+    "penal"
   ],
   "onyomi": [
     "チョウ"

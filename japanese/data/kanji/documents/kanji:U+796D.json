@@ -3,9 +3,12 @@
   "unicode": "U+796D",
   "symbol": "祭",
   "meanings": [
+    "festival",
     "ritual",
+    "celebrate"
+  ],
+  "secondaryMeanings": [
     "offer prayers",
-    "celebrate",
     "deify",
     "enshrine",
     "worship"

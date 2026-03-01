@@ -3,7 +3,9 @@
   "unicode": "U+820C",
   "symbol": "舌",
   "meanings": [
-    "tongue",
+    "tongue"
+  ],
+  "secondaryMeanings": [
     "reed",
     "clapper"
   ],

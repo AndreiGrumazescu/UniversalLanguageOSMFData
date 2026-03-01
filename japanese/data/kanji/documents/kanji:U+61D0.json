@@ -4,13 +4,15 @@
   "symbol": "懐",
   "meanings": [
     "feelings",
-    "heart",
     "yearn",
     "miss someone",
+    "pocket"
+  ],
+  "secondaryMeanings": [
+    "heart",
     "become attached to",
     "bosom",
-    "breast",
-    "pocket"
+    "breast"
   ],
   "onyomi": [
     "カイ"

@@ -4,7 +4,9 @@
   "symbol": "域",
   "meanings": [
     "range",
-    "region",
+    "region"
+  ],
+  "secondaryMeanings": [
     "limits",
     "stage",
     "level"

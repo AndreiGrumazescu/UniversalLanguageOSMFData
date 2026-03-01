@@ -3,9 +3,11 @@
   "unicode": "U+80F8",
   "symbol": "胸",
   "meanings": [
-    "bosom",
     "breast",
-    "chest",
+    "chest"
+  ],
+  "secondaryMeanings": [
+    "bosom",
     "heart",
     "feelings"
   ],

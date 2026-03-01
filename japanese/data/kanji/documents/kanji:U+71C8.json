@@ -4,7 +4,9 @@
   "symbol": "燈",
   "meanings": [
     "lamp",
-    "light",
+    "light"
+  ],
+  "secondaryMeanings": [
     "counter for lights"
   ],
   "onyomi": [

@@ -3,9 +3,11 @@
   "unicode": "U+8FEA",
   "symbol": "迪",
   "meanings": [
-    "edify",
     "way",
     "path"
+  ],
+  "secondaryMeanings": [
+    "edify"
   ],
   "onyomi": [
     "テキ"

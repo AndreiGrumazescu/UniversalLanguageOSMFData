@@ -4,10 +4,12 @@
   "symbol": "應",
   "meanings": [
     "answer",
-    "yes",
-    "OK",
     "reply",
     "accept"
+  ],
+  "secondaryMeanings": [
+    "yes",
+    "OK"
   ],
   "onyomi": [
     "オウ"

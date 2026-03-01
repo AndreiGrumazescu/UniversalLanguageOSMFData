@@ -4,8 +4,10 @@
   "symbol": "而",
   "meanings": [
     "and yet",
+    "but"
+  ],
+  "secondaryMeanings": [
     "and then",
-    "but",
     "however",
     "nevertheless"
   ],

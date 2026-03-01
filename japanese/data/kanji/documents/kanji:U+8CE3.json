@@ -3,7 +3,9 @@
   "unicode": "U+8CE3",
   "symbol": "賣",
   "meanings": [
-    "sell",
+    "sell"
+  ],
+  "secondaryMeanings": [
     "betray",
     "show off"
   ],

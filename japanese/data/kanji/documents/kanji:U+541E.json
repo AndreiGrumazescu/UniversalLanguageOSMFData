@@ -3,7 +3,9 @@
   "unicode": "U+541E",
   "symbol": "吞",
   "meanings": [
-    "swallow",
+    "swallow"
+  ],
+  "secondaryMeanings": [
     "absorb",
     "annex",
     "engulf"

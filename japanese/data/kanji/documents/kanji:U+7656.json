@@ -3,10 +3,12 @@
   "unicode": "U+7656",
   "symbol": "癖",
   "meanings": [
-    "mannerism",
     "habit",
+    "mannerism",
+    "trait"
+  ],
+  "secondaryMeanings": [
     "vice",
-    "trait",
     "fault",
     "kink"
   ],

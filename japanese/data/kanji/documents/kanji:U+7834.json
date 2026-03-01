@@ -3,11 +3,13 @@
   "unicode": "U+7834",
   "symbol": "破",
   "meanings": [
-    "rend",
-    "rip",
-    "tear",
     "break",
     "destroy",
+    "tear"
+  ],
+  "secondaryMeanings": [
+    "rend",
+    "rip",
     "defeat",
     "frustrate"
   ],

@@ -3,8 +3,10 @@
   "unicode": "U+80E1",
   "symbol": "胡",
   "meanings": [
-    "barbarian",
     "foreign"
+  ],
+  "secondaryMeanings": [
+    "barbarian"
   ],
   "onyomi": [
     "コ"

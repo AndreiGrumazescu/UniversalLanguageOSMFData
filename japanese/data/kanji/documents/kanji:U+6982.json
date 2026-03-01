@@ -4,9 +4,11 @@
   "symbol": "概",
   "meanings": [
     "outline",
-    "condition",
     "approximation",
     "generally"
+  ],
+  "secondaryMeanings": [
+    "condition"
   ],
   "onyomi": [
     "ガイ"

@@ -3,7 +3,9 @@
   "unicode": "U+7252",
   "symbol": "牒",
   "meanings": [
-    "label",
+    "label"
+  ],
+  "secondaryMeanings": [
     "genealogy",
     "circular"
   ],

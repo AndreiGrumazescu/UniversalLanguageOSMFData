@@ -3,11 +3,13 @@
   "unicode": "U+65E8",
   "symbol": "旨",
   "meanings": [
+    "purport",
+    "will"
+  ],
+  "secondaryMeanings": [
     "delicious",
     "relish",
     "show a liking for",
-    "purport",
-    "will",
     "clever",
     "expert"
   ],

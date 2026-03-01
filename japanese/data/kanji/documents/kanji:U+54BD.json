@@ -3,7 +3,9 @@
   "unicode": "U+54BD",
   "symbol": "咽",
   "meanings": [
-    "throat",
+    "throat"
+  ],
+  "secondaryMeanings": [
     "choked",
     "smothered",
     "stuffy"

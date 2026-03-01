@@ -5,10 +5,12 @@
   "meanings": [
     "negate",
     "no",
-    "noes",
     "refuse",
-    "decline",
     "deny"
+  ],
+  "secondaryMeanings": [
+    "noes",
+    "decline"
   ],
   "onyomi": [
     "ヒ"

@@ -3,9 +3,11 @@
   "unicode": "U+62BD",
   "symbol": "抽",
   "meanings": [
-    "pluck",
     "pull",
-    "extract",
+    "extract"
+  ],
+  "secondaryMeanings": [
+    "pluck",
     "excel"
   ],
   "onyomi": [

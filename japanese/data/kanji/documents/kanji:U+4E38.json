@@ -4,10 +4,12 @@
   "symbol": "丸",
   "meanings": [
     "round",
+    "pills"
+  ],
+  "secondaryMeanings": [
     "full (month)",
     "perfection",
     "-ship",
-    "pills",
     "make round",
     "roll up",
     "curl up",

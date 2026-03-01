@@ -4,9 +4,11 @@
   "symbol": "廻",
   "meanings": [
     "round",
-    "game",
     "revolve",
-    "go around",
+    "go around"
+  ],
+  "secondaryMeanings": [
+    "game",
     "circumference"
   ],
   "onyomi": [

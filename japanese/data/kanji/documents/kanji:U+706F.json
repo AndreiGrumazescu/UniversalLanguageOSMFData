@@ -4,8 +4,10 @@
   "symbol": "灯",
   "meanings": [
     "lamp",
+    "light"
+  ],
+  "secondaryMeanings": [
     "a light",
-    "light",
     "counter for lights"
   ],
   "onyomi": [

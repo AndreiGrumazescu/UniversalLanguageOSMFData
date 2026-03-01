@@ -3,10 +3,12 @@
   "unicode": "U+6469",
   "symbol": "摩",
   "meanings": [
-    "chafe",
     "rub",
     "polish",
-    "grind",
+    "grind"
+  ],
+  "secondaryMeanings": [
+    "chafe",
     "scrape"
   ],
   "onyomi": [

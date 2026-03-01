@@ -3,13 +3,15 @@
   "unicode": "U+7AF6",
   "symbol": "競",
   "meanings": [
-    "emulate",
     "compete with",
+    "race",
+    "contest"
+  ],
+  "secondaryMeanings": [
+    "emulate",
     "bid",
     "sell at auction",
-    "bout",
-    "contest",
-    "race"
+    "bout"
   ],
   "onyomi": [
     "キョウ"

@@ -3,10 +3,12 @@
   "unicode": "U+9A30",
   "symbol": "騰",
   "meanings": [
+    "rising",
     "leaping up",
     "jumping up",
-    "rising",
-    "advancing",
+    "advancing"
+  ],
+  "secondaryMeanings": [
     "going"
   ],
   "onyomi": [

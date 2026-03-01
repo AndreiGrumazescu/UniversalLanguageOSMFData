@@ -3,10 +3,12 @@
   "unicode": "U+55B6",
   "symbol": "営",
   "meanings": [
+    "conduct (business)",
+    "perform"
+  ],
+  "secondaryMeanings": [
     "camp",
-    "perform",
-    "build",
-    "conduct (business)"
+    "build"
   ],
   "onyomi": [
     "エイ"

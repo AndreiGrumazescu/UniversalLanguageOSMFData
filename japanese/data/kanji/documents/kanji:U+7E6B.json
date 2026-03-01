@@ -3,8 +3,10 @@
   "unicode": "U+7E6B",
   "symbol": "繫",
   "meanings": [
-    "attach",
     "connect",
+    "attach"
+  ],
+  "secondaryMeanings": [
     "unite",
     "fasten"
   ],

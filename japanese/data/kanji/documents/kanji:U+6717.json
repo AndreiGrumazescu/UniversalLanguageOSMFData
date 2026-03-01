@@ -3,11 +3,13 @@
   "unicode": "U+6717",
   "symbol": "朗",
   "meanings": [
-    "melodious",
     "clear",
     "bright",
-    "serene",
     "cheerful"
+  ],
+  "secondaryMeanings": [
+    "melodious",
+    "serene"
   ],
   "onyomi": [
     "ロウ"

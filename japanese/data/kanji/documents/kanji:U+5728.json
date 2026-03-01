@@ -4,9 +4,11 @@
   "symbol": "在",
   "meanings": [
     "exist",
-    "outskirts",
-    "suburbs",
     "located in"
+  ],
+  "secondaryMeanings": [
+    "outskirts",
+    "suburbs"
   ],
   "onyomi": [
     "ザイ"

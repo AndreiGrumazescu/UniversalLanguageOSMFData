@@ -3,7 +3,9 @@
   "unicode": "U+8A6E",
   "symbol": "詮",
   "meanings": [
-    "discussion",
+    "discussion"
+  ],
+  "secondaryMeanings": [
     "methods called for",
     "selection",
     "result"

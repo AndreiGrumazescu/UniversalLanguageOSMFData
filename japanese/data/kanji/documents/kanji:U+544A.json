@@ -3,10 +3,12 @@
   "unicode": "U+544A",
   "symbol": "告",
   "meanings": [
-    "revelation",
     "tell",
     "inform",
     "announce"
+  ],
+  "secondaryMeanings": [
+    "revelation"
   ],
   "onyomi": [
     "コク"

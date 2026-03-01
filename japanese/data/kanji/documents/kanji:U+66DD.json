@@ -3,9 +3,11 @@
   "unicode": "U+66DD",
   "symbol": "曝",
   "meanings": [
+    "expose"
+  ],
+  "secondaryMeanings": [
     "bleach",
     "refine",
-    "expose",
     "air"
   ],
   "onyomi": [

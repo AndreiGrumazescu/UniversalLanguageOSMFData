@@ -5,10 +5,12 @@
   "meanings": [
     "how many",
     "how much",
-    "how far",
-    "how long",
     "some",
     "several"
+  ],
+  "secondaryMeanings": [
+    "how far",
+    "how long"
   ],
   "onyomi": [
     "キ"

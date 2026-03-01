@@ -3,7 +3,9 @@
   "unicode": "U+7A84",
   "symbol": "窄",
   "meanings": [
-    "narrow",
+    "narrow"
+  ],
+  "secondaryMeanings": [
     "fold",
     "furl",
     "shrug",

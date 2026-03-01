@@ -3,8 +3,10 @@
   "unicode": "U+808C",
   "symbol": "肌",
   "meanings": [
+    "skin"
+  ],
+  "secondaryMeanings": [
     "texture",
-    "skin",
     "body",
     "grain"
   ],

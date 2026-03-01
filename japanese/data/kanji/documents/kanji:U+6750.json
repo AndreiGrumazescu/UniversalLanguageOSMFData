@@ -3,12 +3,14 @@
   "unicode": "U+6750",
   "symbol": "材",
   "meanings": [
+    "materials",
     "lumber",
+    "wood",
+    "ingredients"
+  ],
+  "secondaryMeanings": [
     "log",
     "timber",
-    "wood",
-    "materials",
-    "ingredients",
     "talent"
   ],
   "onyomi": [

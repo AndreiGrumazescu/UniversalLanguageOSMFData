@@ -3,9 +3,11 @@
   "unicode": "U+7FA4",
   "symbol": "群",
   "meanings": [
-    "flock",
     "group",
     "crowd",
+    "flock"
+  ],
+  "secondaryMeanings": [
     "herd",
     "swarm",
     "cluster"

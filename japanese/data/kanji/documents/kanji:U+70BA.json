@@ -4,9 +4,12 @@
   "symbol": "為",
   "meanings": [
     "do",
-    "change",
     "make",
     "benefit",
+    "for"
+  ],
+  "secondaryMeanings": [
+    "change",
     "welfare",
     "be of use",
     "reach to",

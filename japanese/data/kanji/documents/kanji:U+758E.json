@@ -4,10 +4,12 @@
   "symbol": "疎",
   "meanings": [
     "alienate",
-    "rough",
     "neglect",
+    "sparse"
+  ],
+  "secondaryMeanings": [
+    "rough",
     "shun",
-    "sparse",
     "penetrate"
   ],
   "onyomi": [

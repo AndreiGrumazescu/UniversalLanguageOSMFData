@@ -3,11 +3,13 @@
   "unicode": "U+7984",
   "symbol": "禄",
   "meanings": [
-    "fief",
     "allowance",
     "pension",
     "grant",
     "happiness"
+  ],
+  "secondaryMeanings": [
+    "fief"
   ],
   "onyomi": [
     "ロク"

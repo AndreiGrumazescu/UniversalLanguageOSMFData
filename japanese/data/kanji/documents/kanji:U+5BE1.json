@@ -3,9 +3,11 @@
   "unicode": "U+5BE1",
   "symbol": "寡",
   "meanings": [
-    "widow",
     "minority",
     "few"
+  ],
+  "secondaryMeanings": [
+    "widow"
   ],
   "onyomi": [
     "カ"

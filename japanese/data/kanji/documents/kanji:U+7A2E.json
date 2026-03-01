@@ -5,9 +5,11 @@
   "meanings": [
     "species",
     "kind",
-    "class",
-    "variety",
     "seed"
+  ],
+  "secondaryMeanings": [
+    "class",
+    "variety"
   ],
   "onyomi": [
     "シュ"

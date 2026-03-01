@@ -4,8 +4,10 @@
   "symbol": "気",
   "meanings": [
     "spirit",
+    "air"
+  ],
+  "secondaryMeanings": [
     "mind",
-    "air",
     "atmosphere",
     "mood"
   ],

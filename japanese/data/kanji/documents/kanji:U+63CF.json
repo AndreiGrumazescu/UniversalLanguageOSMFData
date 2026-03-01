@@ -3,11 +3,13 @@
   "unicode": "U+63CF",
   "symbol": "描",
   "meanings": [
-    "sketch",
-    "compose",
-    "write",
     "draw",
+    "sketch",
     "paint"
+  ],
+  "secondaryMeanings": [
+    "compose",
+    "write"
   ],
   "onyomi": [
     "ビョウ"

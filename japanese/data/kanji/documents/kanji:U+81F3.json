@@ -3,11 +3,13 @@
   "unicode": "U+81F3",
   "symbol": "至",
   "meanings": [
-    "climax",
     "arrive",
-    "proceed",
     "reach",
-    "attain",
+    "attain"
+  ],
+  "secondaryMeanings": [
+    "climax",
+    "proceed",
     "result in"
   ],
   "onyomi": [

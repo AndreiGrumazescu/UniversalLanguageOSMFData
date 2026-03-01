@@ -3,9 +3,11 @@
   "unicode": "U+6734",
   "symbol": "朴",
   "meanings": [
-    "crude",
     "simple",
-    "plain",
+    "plain"
+  ],
+  "secondaryMeanings": [
+    "crude",
     "docile"
   ],
   "onyomi": [

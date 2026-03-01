@@ -5,7 +5,9 @@
   "meanings": [
     "faction",
     "group",
-    "party",
+    "party"
+  ],
+  "secondaryMeanings": [
     "clique",
     "sect",
     "school"

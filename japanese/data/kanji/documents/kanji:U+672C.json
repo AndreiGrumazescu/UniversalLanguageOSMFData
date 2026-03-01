@@ -4,11 +4,13 @@
   "symbol": "本",
   "meanings": [
     "book",
-    "present",
     "main",
     "origin",
     "true",
-    "real",
+    "real"
+  ],
+  "secondaryMeanings": [
+    "present",
     "counter for long cylindrical things"
   ],
   "onyomi": [

@@ -3,8 +3,11 @@
   "unicode": "U+7ABA",
   "symbol": "窺",
   "meanings": [
-    "lie in wait",
     "spy on",
+    "peek"
+  ],
+  "secondaryMeanings": [
+    "lie in wait",
     "reconnoiter"
   ],
   "onyomi": [

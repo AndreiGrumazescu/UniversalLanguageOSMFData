@@ -4,10 +4,12 @@
   "symbol": "濁",
   "meanings": [
     "voiced",
+    "impurity"
+  ],
+  "secondaryMeanings": [
     "uncleanness",
     "wrong",
-    "nigori",
-    "impurity"
+    "nigori"
   ],
   "onyomi": [
     "ダク"

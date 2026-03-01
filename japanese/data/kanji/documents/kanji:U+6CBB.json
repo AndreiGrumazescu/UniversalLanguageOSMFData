@@ -3,15 +3,17 @@
   "unicode": "U+6CBB",
   "symbol": "治",
   "meanings": [
-    "reign",
+    "rule",
+    "govern",
+    "cure",
+    "heal",
+    "reign"
+  ],
+  "secondaryMeanings": [
     "be at peace",
     "calm down",
     "subdue",
     "quell",
-    "govt",
-    "cure",
-    "heal",
-    "rule",
     "conserve"
   ],
   "onyomi": [

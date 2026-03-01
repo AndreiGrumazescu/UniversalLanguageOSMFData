@@ -3,9 +3,11 @@
   "unicode": "U+4F4F",
   "symbol": "住",
   "meanings": [
-    "dwell",
-    "reside",
     "live",
+    "reside"
+  ],
+  "secondaryMeanings": [
+    "dwell",
     "inhabit"
   ],
   "onyomi": [

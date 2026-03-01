@@ -3,11 +3,13 @@
   "unicode": "U+7DB1",
   "symbol": "綱",
   "meanings": [
-    "hawser",
-    "class (genus)",
     "rope",
     "cord",
     "cable"
+  ],
+  "secondaryMeanings": [
+    "hawser",
+    "class (genus)"
   ],
   "onyomi": [
     "コウ"

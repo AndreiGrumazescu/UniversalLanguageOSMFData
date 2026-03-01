@@ -3,10 +3,12 @@
   "unicode": "U+8A98",
   "symbol": "誘",
   "meanings": [
+    "invite",
     "entice",
     "lead",
-    "tempt",
-    "invite",
+    "tempt"
+  ],
+  "secondaryMeanings": [
     "ask",
     "call for",
     "seduce",

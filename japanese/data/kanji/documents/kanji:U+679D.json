@@ -3,9 +3,11 @@
   "unicode": "U+679D",
   "symbol": "枝",
   "meanings": [
-    "bough",
     "branch",
-    "twig",
+    "twig"
+  ],
+  "secondaryMeanings": [
+    "bough",
     "limb",
     "counter for branches"
   ],

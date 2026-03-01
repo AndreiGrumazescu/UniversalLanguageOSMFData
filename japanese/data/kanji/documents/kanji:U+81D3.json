@@ -3,8 +3,10 @@
   "unicode": "U+81D3",
   "symbol": "臓",
   "meanings": [
+    "viscera"
+  ],
+  "secondaryMeanings": [
     "entrails",
-    "viscera",
     "bowels"
   ],
   "onyomi": [

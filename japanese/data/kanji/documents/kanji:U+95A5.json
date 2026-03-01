@@ -4,10 +4,12 @@
   "symbol": "閥",
   "meanings": [
     "clique",
-    "lineage",
-    "pedigree",
     "faction",
     "clan"
+  ],
+  "secondaryMeanings": [
+    "lineage",
+    "pedigree"
   ],
   "onyomi": [
     "バツ"

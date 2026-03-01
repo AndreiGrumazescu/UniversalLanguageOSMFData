@@ -4,9 +4,11 @@
   "symbol": "刑",
   "meanings": [
     "punish",
-    "penalty",
-    "sentence",
     "punishment"
+  ],
+  "secondaryMeanings": [
+    "penalty",
+    "sentence"
   ],
   "onyomi": [
     "ケイ"

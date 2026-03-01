@@ -3,9 +3,11 @@
   "unicode": "U+5E9C",
   "symbol": "府",
   "meanings": [
-    "borough",
     "urban prefecture",
-    "govt office",
+    "govt office"
+  ],
+  "secondaryMeanings": [
+    "borough",
     "representative body",
     "storehouse"
   ],

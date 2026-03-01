@@ -3,13 +3,15 @@
   "unicode": "U+7570",
   "symbol": "異",
   "meanings": [
-    "uncommon",
     "different",
+    "unusual"
+  ],
+  "secondaryMeanings": [
+    "uncommon",
     "queerness",
     "strangeness",
     "wonderful",
-    "curious",
-    "unusual"
+    "curious"
   ],
   "onyomi": [
     "イ"

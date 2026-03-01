@@ -3,11 +3,13 @@
   "unicode": "U+7684",
   "symbol": "的",
   "meanings": [
+    "target",
+    "adjective ending"
+  ],
+  "secondaryMeanings": [
     "bull's eye",
     "mark",
-    "target",
-    "object",
-    "adjective ending"
+    "object"
   ],
   "onyomi": [
     "テキ"

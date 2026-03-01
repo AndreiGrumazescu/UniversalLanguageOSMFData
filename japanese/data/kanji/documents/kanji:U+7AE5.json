@@ -3,8 +3,10 @@
   "unicode": "U+7AE5",
   "symbol": "童",
   "meanings": [
-    "juvenile",
     "child"
+  ],
+  "secondaryMeanings": [
+    "juvenile"
   ],
   "onyomi": [
     "ドウ"

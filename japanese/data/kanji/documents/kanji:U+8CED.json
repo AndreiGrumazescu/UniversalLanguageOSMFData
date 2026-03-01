@@ -4,8 +4,10 @@
   "symbol": "賭",
   "meanings": [
     "gamble",
-    "wager",
     "bet"
+  ],
+  "secondaryMeanings": [
+    "wager"
   ],
   "onyomi": [
     "ト"

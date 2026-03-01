@@ -3,7 +3,9 @@
   "unicode": "U+4EAC",
   "symbol": "京",
   "meanings": [
-    "capital",
+    "capital"
+  ],
+  "secondaryMeanings": [
     "10**16"
   ],
   "onyomi": [

@@ -3,12 +3,14 @@
   "unicode": "U+6367",
   "symbol": "捧",
   "meanings": [
-    "lift up",
     "give",
     "offer",
     "consecrate",
-    "sacrifice",
     "dedicate"
+  ],
+  "secondaryMeanings": [
+    "lift up",
+    "sacrifice"
   ],
   "onyomi": [
     "ホウ"

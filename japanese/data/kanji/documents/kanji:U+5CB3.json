@@ -3,9 +3,11 @@
   "unicode": "U+5CB3",
   "symbol": "岳",
   "meanings": [
-    "point",
     "peak",
     "mountain"
+  ],
+  "secondaryMeanings": [
+    "point"
   ],
   "onyomi": [
     "ガク"

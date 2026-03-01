@@ -3,9 +3,11 @@
   "unicode": "U+708E",
   "symbol": "炎",
   "meanings": [
-    "inflammation",
     "flame",
     "blaze"
+  ],
+  "secondaryMeanings": [
+    "inflammation"
   ],
   "onyomi": [
     "エン"

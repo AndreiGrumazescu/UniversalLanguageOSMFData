@@ -3,11 +3,13 @@
   "unicode": "U+5EA7",
   "symbol": "座",
   "meanings": [
-    "squat",
     "seat",
-    "cushion",
-    "gathering",
     "sit"
+  ],
+  "secondaryMeanings": [
+    "squat",
+    "cushion",
+    "gathering"
   ],
   "onyomi": [
     "ザ"

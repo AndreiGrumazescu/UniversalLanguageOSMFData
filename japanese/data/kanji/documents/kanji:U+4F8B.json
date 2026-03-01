@@ -3,7 +3,9 @@
   "unicode": "U+4F8B",
   "symbol": "例",
   "meanings": [
-    "example",
+    "example"
+  ],
+  "secondaryMeanings": [
     "custom",
     "usage",
     "precedent"

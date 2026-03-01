@@ -3,8 +3,10 @@
   "unicode": "U+53A9",
   "symbol": "厩",
   "meanings": [
-    "barn",
     "stable"
+  ],
+  "secondaryMeanings": [
+    "barn"
   ],
   "onyomi": [
     "キュウ"

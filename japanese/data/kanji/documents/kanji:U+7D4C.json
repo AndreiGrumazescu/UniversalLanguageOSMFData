@@ -3,10 +3,12 @@
   "unicode": "U+7D4C",
   "symbol": "経",
   "meanings": [
+    "pass thru",
+    "expire"
+  ],
+  "secondaryMeanings": [
     "sutra",
     "longitude",
-    "pass thru",
-    "expire",
     "warp"
   ],
   "onyomi": [

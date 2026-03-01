@@ -4,11 +4,13 @@
   "symbol": "悪",
   "meanings": [
     "bad",
-    "vice",
-    "rascal",
-    "false",
     "evil",
-    "wrong"
+    "wrong",
+    "vice"
+  ],
+  "secondaryMeanings": [
+    "rascal",
+    "false"
   ],
   "onyomi": [
     "アク"

@@ -4,10 +4,12 @@
   "symbol": "産",
   "meanings": [
     "products",
-    "bear",
     "give birth",
     "yield",
-    "childbirth",
+    "childbirth"
+  ],
+  "secondaryMeanings": [
+    "bear",
     "native",
     "property"
   ],

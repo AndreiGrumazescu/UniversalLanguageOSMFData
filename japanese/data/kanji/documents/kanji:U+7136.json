@@ -3,9 +3,11 @@
   "unicode": "U+7136",
   "symbol": "然",
   "meanings": [
-    "sort of thing",
     "so",
-    "if so",
+    "if so"
+  ],
+  "secondaryMeanings": [
+    "sort of thing",
     "in that case",
     "well"
   ],

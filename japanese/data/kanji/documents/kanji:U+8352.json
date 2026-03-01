@@ -3,10 +3,12 @@
   "unicode": "U+8352",
   "symbol": "荒",
   "meanings": [
-    "laid waste",
     "rough",
-    "rude",
     "wild"
+  ],
+  "secondaryMeanings": [
+    "laid waste",
+    "rude"
   ],
   "onyomi": [
     "コウ"

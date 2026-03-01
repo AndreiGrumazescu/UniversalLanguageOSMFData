@@ -3,7 +3,9 @@
   "unicode": "U+8DDD",
   "symbol": "距",
   "meanings": [
-    "long-distance",
+    "long-distance"
+  ],
+  "secondaryMeanings": [
     "spur",
     "fetlock"
   ],

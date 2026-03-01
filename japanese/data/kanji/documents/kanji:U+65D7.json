@@ -3,8 +3,11 @@
   "unicode": "U+65D7",
   "symbol": "旗",
   "meanings": [
+    "flag",
+    "banner"
+  ],
+  "secondaryMeanings": [
     "national flag",
-    "banner",
     "standard"
   ],
   "onyomi": [

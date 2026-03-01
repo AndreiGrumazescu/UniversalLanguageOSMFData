@@ -4,9 +4,11 @@
   "symbol": "錘",
   "meanings": [
     "weight",
-    "plumb bob",
-    "sinker",
     "spindle"
+  ],
+  "secondaryMeanings": [
+    "plumb bob",
+    "sinker"
   ],
   "onyomi": [
     "スイ"

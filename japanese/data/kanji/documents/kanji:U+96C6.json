@@ -4,7 +4,9 @@
   "symbol": "集",
   "meanings": [
     "gather",
-    "meet",
+    "meet"
+  ],
+  "secondaryMeanings": [
     "congregate",
     "swarm",
     "flock"

@@ -4,11 +4,13 @@
   "symbol": "陰",
   "meanings": [
     "shade",
+    "shadow",
+    "negative"
+  ],
+  "secondaryMeanings": [
     "yin",
-    "negative",
     "sex organs",
-    "secret",
-    "shadow"
+    "secret"
   ],
   "onyomi": [
     "イン"

@@ -4,8 +4,11 @@
   "symbol": "図",
   "meanings": [
     "map",
+    "diagram",
+    "plan"
+  ],
+  "secondaryMeanings": [
     "drawing",
-    "plan",
     "extraordinary",
     "audacious"
   ],

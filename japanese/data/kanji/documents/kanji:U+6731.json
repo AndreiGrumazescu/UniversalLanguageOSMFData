@@ -4,9 +4,11 @@
   "symbol": "朱",
   "meanings": [
     "vermilion",
-    "cinnabar",
     "scarlet",
-    "red",
+    "red"
+  ],
+  "secondaryMeanings": [
+    "cinnabar",
     "bloody"
   ],
   "onyomi": [

@@ -3,10 +3,12 @@
   "unicode": "U+72C2",
   "symbol": "狂",
   "meanings": [
-    "lunatic",
     "insane",
     "crazy",
     "confuse"
+  ],
+  "secondaryMeanings": [
+    "lunatic"
   ],
   "onyomi": [
     "キョウ"

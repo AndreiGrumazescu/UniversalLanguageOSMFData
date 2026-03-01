@@ -3,10 +3,12 @@
   "unicode": "U+8AE6",
   "symbol": "諦",
   "meanings": [
-    "truth",
-    "clarity",
     "abandon",
     "give up"
+  ],
+  "secondaryMeanings": [
+    "truth",
+    "clarity"
   ],
   "onyomi": [
     "テイ"

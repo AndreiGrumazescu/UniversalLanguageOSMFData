@@ -4,7 +4,9 @@
   "symbol": "薬",
   "meanings": [
     "medicine",
-    "chemical",
+    "chemical"
+  ],
+  "secondaryMeanings": [
     "enamel",
     "gunpowder",
     "benefit"

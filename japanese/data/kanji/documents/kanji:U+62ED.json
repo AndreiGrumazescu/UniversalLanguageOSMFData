@@ -3,7 +3,9 @@
   "unicode": "U+62ED",
   "symbol": "拭",
   "meanings": [
-    "wipe",
+    "wipe"
+  ],
+  "secondaryMeanings": [
     "mop",
     "swab"
   ],

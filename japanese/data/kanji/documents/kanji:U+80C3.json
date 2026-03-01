@@ -3,7 +3,9 @@
   "unicode": "U+80C3",
   "symbol": "胃",
   "meanings": [
-    "stomach",
+    "stomach"
+  ],
+  "secondaryMeanings": [
     "paunch",
     "crop",
     "craw"

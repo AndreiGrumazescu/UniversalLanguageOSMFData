@@ -4,10 +4,12 @@
   "symbol": "非",
   "meanings": [
     "un-",
+    "non-",
+    "negative"
+  ],
+  "secondaryMeanings": [
     "mistake",
-    "negative",
-    "injustice",
-    "non-"
+    "injustice"
   ],
   "onyomi": [
     "ヒ"

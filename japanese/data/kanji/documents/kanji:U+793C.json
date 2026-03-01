@@ -3,10 +3,12 @@
   "unicode": "U+793C",
   "symbol": "礼",
   "meanings": [
-    "salute",
     "bow",
     "ceremony",
-    "thanks",
+    "thanks"
+  ],
+  "secondaryMeanings": [
+    "salute",
     "remuneration"
   ],
   "onyomi": [

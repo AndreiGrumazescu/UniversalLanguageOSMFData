@@ -4,9 +4,11 @@
   "symbol": "疑",
   "meanings": [
     "doubt",
-    "distrust",
-    "be suspicious",
     "question"
+  ],
+  "secondaryMeanings": [
+    "distrust",
+    "be suspicious"
   ],
   "onyomi": [
     "ギ"

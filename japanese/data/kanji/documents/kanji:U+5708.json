@@ -4,7 +4,9 @@
   "symbol": "圈",
   "meanings": [
     "sphere",
-    "circle",
+    "circle"
+  ],
+  "secondaryMeanings": [
     "radius",
     "range"
   ],

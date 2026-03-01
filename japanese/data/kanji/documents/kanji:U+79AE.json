@@ -3,9 +3,11 @@
   "unicode": "U+79AE",
   "symbol": "禮",
   "meanings": [
-    "social custom",
-    "manners",
     "courtesy",
+    "manners"
+  ],
+  "secondaryMeanings": [
+    "social custom",
     "rites"
   ],
   "onyomi": [

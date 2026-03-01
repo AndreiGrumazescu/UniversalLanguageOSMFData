@@ -3,14 +3,16 @@
   "unicode": "U+623F",
   "symbol": "房",
   "meanings": [
+    "room",
+    "house"
+  ],
+  "secondaryMeanings": [
     "tassel",
     "tuft",
     "fringe",
     "bunch",
     "lock (hair)",
-    "segment (orange)",
-    "house",
-    "room"
+    "segment (orange)"
   ],
   "onyomi": [
     "ボウ"

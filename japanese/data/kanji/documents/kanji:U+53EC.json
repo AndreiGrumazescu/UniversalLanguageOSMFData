@@ -3,9 +3,11 @@
   "unicode": "U+53EC",
   "symbol": "召",
   "meanings": [
-    "seduce",
     "call",
-    "send for",
+    "send for"
+  ],
+  "secondaryMeanings": [
+    "seduce",
     "wear",
     "put on",
     "ride in",

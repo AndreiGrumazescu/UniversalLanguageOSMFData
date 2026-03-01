@@ -4,10 +4,12 @@
   "symbol": "薦",
   "meanings": [
     "recommend",
-    "mat",
     "advise",
     "encourage",
     "offer"
+  ],
+  "secondaryMeanings": [
+    "mat"
   ],
   "onyomi": [
     "セン"

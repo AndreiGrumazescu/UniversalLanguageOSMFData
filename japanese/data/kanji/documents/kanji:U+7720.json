@@ -4,8 +4,10 @@
   "symbol": "眠",
   "meanings": [
     "sleep",
-    "die",
     "sleepy"
+  ],
+  "secondaryMeanings": [
+    "die"
   ],
   "onyomi": [
     "ミン"

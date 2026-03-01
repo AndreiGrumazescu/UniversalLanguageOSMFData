@@ -3,11 +3,13 @@
   "unicode": "U+508D",
   "symbol": "傍",
   "meanings": [
-    "bystander",
     "side",
+    "nearby"
+  ],
+  "secondaryMeanings": [
+    "bystander",
     "besides",
     "while",
-    "nearby",
     "third person"
   ],
   "onyomi": [

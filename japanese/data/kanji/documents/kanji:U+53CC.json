@@ -4,7 +4,9 @@
   "symbol": "双",
   "meanings": [
     "pair",
-    "set",
+    "set"
+  ],
+  "secondaryMeanings": [
     "comparison",
     "counter for pairs"
   ],

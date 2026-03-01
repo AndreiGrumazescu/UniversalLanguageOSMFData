@@ -4,8 +4,10 @@
   "symbol": "多",
   "meanings": [
     "many",
-    "frequent",
     "much"
+  ],
+  "secondaryMeanings": [
+    "frequent"
   ],
   "onyomi": [
     "タ"

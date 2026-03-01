@@ -3,8 +3,10 @@
   "unicode": "U+753B",
   "symbol": "画",
   "meanings": [
-    "brush-stroke",
     "picture"
+  ],
+  "secondaryMeanings": [
+    "brush-stroke"
   ],
   "onyomi": [
     "ガ"

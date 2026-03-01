@@ -4,16 +4,18 @@
   "symbol": "標",
   "meanings": [
     "signpost",
-    "seal",
     "mark",
+    "symbol",
+    "target"
+  ],
+  "secondaryMeanings": [
+    "seal",
     "stamp",
     "imprint",
-    "symbol",
     "emblem",
     "trademark",
     "evidence",
-    "souvenir",
-    "target"
+    "souvenir"
   ],
   "onyomi": [
     "ヒョウ"

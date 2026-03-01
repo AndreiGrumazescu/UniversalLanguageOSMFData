@@ -3,10 +3,12 @@
   "unicode": "U+4F34",
   "symbol": "伴",
   "meanings": [
-    "consort",
     "accompany",
     "bring with",
     "companion"
+  ],
+  "secondaryMeanings": [
+    "consort"
   ],
   "onyomi": [
     "ハン"

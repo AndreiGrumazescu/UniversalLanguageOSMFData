@@ -3,7 +3,9 @@
   "unicode": "U+5375",
   "symbol": "卵",
   "meanings": [
-    "egg",
+    "egg"
+  ],
+  "secondaryMeanings": [
     "ovum",
     "spawn",
     "roe"

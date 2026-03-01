@@ -3,10 +3,12 @@
   "unicode": "U+676F",
   "symbol": "杯",
   "meanings": [
-    "counter for cupfuls",
     "wine glass",
     "glass",
     "toast"
+  ],
+  "secondaryMeanings": [
+    "counter for cupfuls"
   ],
   "onyomi": [
     "ハイ"

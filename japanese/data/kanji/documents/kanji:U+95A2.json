@@ -4,10 +4,12 @@
   "symbol": "関",
   "meanings": [
     "connection",
-    "barrier",
-    "gateway",
     "involve",
     "concerning"
+  ],
+  "secondaryMeanings": [
+    "barrier",
+    "gateway"
   ],
   "onyomi": [
     "カン"

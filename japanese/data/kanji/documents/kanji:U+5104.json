@@ -3,7 +3,9 @@
   "unicode": "U+5104",
   "symbol": "億",
   "meanings": [
-    "hundred million",
+    "hundred million"
+  ],
+  "secondaryMeanings": [
     "10**8"
   ],
   "onyomi": [

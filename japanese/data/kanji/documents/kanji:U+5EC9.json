@@ -3,6 +3,11 @@
   "unicode": "U+5EC9",
   "symbol": "廉",
   "meanings": [
+    "cheap",
+    "low price",
+    "honest"
+  ],
+  "secondaryMeanings": [
     "bargain",
     "reason",
     "charge",
@@ -10,9 +15,6 @@
     "point",
     "account",
     "purity",
-    "honest",
-    "low price",
-    "cheap",
     "rested",
     "contented",
     "peaceful"

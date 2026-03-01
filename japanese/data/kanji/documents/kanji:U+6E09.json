@@ -3,9 +3,12 @@
   "unicode": "U+6E09",
   "symbol": "渉",
   "meanings": [
+    "cross",
     "ford",
+    "transit"
+  ],
+  "secondaryMeanings": [
     "go cross",
-    "transit",
     "ferry",
     "import",
     "involve"

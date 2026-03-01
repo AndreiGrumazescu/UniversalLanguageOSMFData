@@ -3,9 +3,11 @@
   "unicode": "U+95A3",
   "symbol": "閣",
   "meanings": [
-    "tower",
     "tall building",
     "palace"
+  ],
+  "secondaryMeanings": [
+    "tower"
   ],
   "onyomi": [
     "カク"

@@ -3,10 +3,12 @@
   "unicode": "U+5019",
   "symbol": "候",
   "meanings": [
-    "climate",
     "season",
     "weather",
-    "wait for",
+    "wait for"
+  ],
+  "secondaryMeanings": [
+    "climate",
     "expect"
   ],
   "onyomi": [

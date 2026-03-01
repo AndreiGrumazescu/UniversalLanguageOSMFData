@@ -4,8 +4,10 @@
   "symbol": "銭",
   "meanings": [
     "coin",
-    ".01 yen",
     "money"
+  ],
+  "secondaryMeanings": [
+    ".01 yen"
   ],
   "onyomi": [
     "セン"

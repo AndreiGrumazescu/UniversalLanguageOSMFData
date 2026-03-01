@@ -3,9 +3,11 @@
   "unicode": "U+697C",
   "symbol": "楼",
   "meanings": [
-    "watchtower",
-    "lookout",
     "high building"
+  ],
+  "secondaryMeanings": [
+    "watchtower",
+    "lookout"
   ],
   "onyomi": [
     "ロウ"

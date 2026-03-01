@@ -3,10 +3,12 @@
   "unicode": "U+64C1",
   "symbol": "擁",
   "meanings": [
-    "hug",
     "embrace",
-    "possess",
     "protect",
+    "possess"
+  ],
+  "secondaryMeanings": [
+    "hug",
     "lead"
   ],
   "onyomi": [

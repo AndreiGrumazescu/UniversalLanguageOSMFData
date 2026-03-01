@@ -3,9 +3,11 @@
   "unicode": "U+5937",
   "symbol": "夷",
   "meanings": [
-    "barbarian",
-    "savage",
     "Ainu"
+  ],
+  "secondaryMeanings": [
+    "barbarian",
+    "savage"
   ],
   "onyomi": [
     "イ"

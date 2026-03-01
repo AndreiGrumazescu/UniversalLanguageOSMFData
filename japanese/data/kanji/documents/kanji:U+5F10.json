@@ -3,9 +3,11 @@
   "unicode": "U+5F10",
   "symbol": "弐",
   "meanings": [
-    "II",
     "two",
     "second"
+  ],
+  "secondaryMeanings": [
+    "II"
   ],
   "onyomi": [
     "ニ"

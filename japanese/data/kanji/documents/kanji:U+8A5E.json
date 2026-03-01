@@ -3,9 +3,11 @@
   "unicode": "U+8A5E",
   "symbol": "詞",
   "meanings": [
-    "part of speech",
     "words",
     "poetry"
+  ],
+  "secondaryMeanings": [
+    "part of speech"
   ],
   "onyomi": [
     "シ"

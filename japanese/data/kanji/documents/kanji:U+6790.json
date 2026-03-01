@@ -3,10 +3,12 @@
   "unicode": "U+6790",
   "symbol": "析",
   "meanings": [
+    "analyze"
+  ],
+  "secondaryMeanings": [
     "chop",
     "divide",
-    "tear",
-    "analyze"
+    "tear"
   ],
   "onyomi": [
     "セキ"

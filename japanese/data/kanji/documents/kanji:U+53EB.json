@@ -4,8 +4,10 @@
   "symbol": "叫",
   "meanings": [
     "shout",
-    "exclaim",
     "yell"
+  ],
+  "secondaryMeanings": [
+    "exclaim"
   ],
   "onyomi": [
     "キョウ"

@@ -3,10 +3,12 @@
   "unicode": "U+6652",
   "symbol": "晒",
   "meanings": [
-    "bleach",
-    "refine",
     "expose",
     "air"
+  ],
+  "secondaryMeanings": [
+    "bleach",
+    "refine"
   ],
   "onyomi": [
     "サイ"

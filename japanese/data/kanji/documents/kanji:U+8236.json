@@ -3,8 +3,10 @@
   "unicode": "U+8236",
   "symbol": "舶",
   "meanings": [
-    "liner",
     "ship"
+  ],
+  "secondaryMeanings": [
+    "liner"
   ],
   "onyomi": [
     "ハク"

@@ -3,8 +3,10 @@
   "unicode": "U+4F9D",
   "symbol": "依",
   "meanings": [
-    "reliant",
     "depend on",
+    "reliant"
+  ],
+  "secondaryMeanings": [
     "consequently",
     "therefore",
     "due to"

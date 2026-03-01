@@ -3,13 +3,15 @@
   "unicode": "U+66B4",
   "symbol": "暴",
   "meanings": [
+    "violence",
+    "force",
+    "outrage"
+  ],
+  "secondaryMeanings": [
     "outburst",
     "rave",
     "fret",
-    "force",
-    "violence",
-    "cruelty",
-    "outrage"
+    "cruelty"
   ],
   "onyomi": [
     "ボウ"

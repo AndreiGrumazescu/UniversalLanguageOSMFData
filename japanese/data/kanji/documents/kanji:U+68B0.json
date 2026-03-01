@@ -3,10 +3,12 @@
   "unicode": "U+68B0",
   "symbol": "械",
   "meanings": [
-    "contraption",
-    "fetter",
     "machine",
     "instrument"
+  ],
+  "secondaryMeanings": [
+    "contraption",
+    "fetter"
   ],
   "onyomi": [
     "カイ"

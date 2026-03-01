@@ -3,11 +3,13 @@
   "unicode": "U+653E",
   "symbol": "放",
   "meanings": [
-    "set free",
     "release",
+    "set free",
+    "emit"
+  ],
+  "secondaryMeanings": [
     "fire",
     "shoot",
-    "emit",
     "banish",
     "liberate"
   ],

@@ -3,8 +3,10 @@
   "unicode": "U+932B",
   "symbol": "錫",
   "meanings": [
-    "copper",
     "tin"
+  ],
+  "secondaryMeanings": [
+    "copper"
   ],
   "onyomi": [
     "セキ"

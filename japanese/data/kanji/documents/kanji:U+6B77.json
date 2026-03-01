@@ -3,9 +3,11 @@
   "unicode": "U+6B77",
   "symbol": "歷",
   "meanings": [
-    "take place",
     "past",
     "history"
+  ],
+  "secondaryMeanings": [
+    "take place"
   ],
   "strokeCount": 16,
   "jlptLevel": "unspecified"

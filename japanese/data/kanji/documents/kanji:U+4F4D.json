@@ -5,10 +5,12 @@
   "meanings": [
     "rank",
     "grade",
-    "throne",
-    "crown",
     "about",
     "some"
+  ],
+  "secondaryMeanings": [
+    "throne",
+    "crown"
   ],
   "onyomi": [
     "イ"

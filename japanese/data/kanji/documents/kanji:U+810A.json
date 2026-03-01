@@ -3,9 +3,11 @@
   "unicode": "U+810A",
   "symbol": "脊",
   "meanings": [
-    "stature",
-    "height",
     "spine"
+  ],
+  "secondaryMeanings": [
+    "stature",
+    "height"
   ],
   "onyomi": [
     "セキ"

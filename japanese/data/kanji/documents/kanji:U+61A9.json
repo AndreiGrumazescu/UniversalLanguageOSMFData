@@ -3,9 +3,11 @@
   "unicode": "U+61A9",
   "symbol": "憩",
   "meanings": [
-    "recess",
     "rest",
-    "relax",
+    "relax"
+  ],
+  "secondaryMeanings": [
+    "recess",
     "repose"
   ],
   "onyomi": [

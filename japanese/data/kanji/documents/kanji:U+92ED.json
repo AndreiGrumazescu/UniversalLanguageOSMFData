@@ -3,11 +3,13 @@
   "unicode": "U+92ED",
   "symbol": "鋭",
   "meanings": [
-    "pointed",
-    "sharpness",
-    "edge",
-    "weapon",
     "sharp",
+    "pointed",
+    "edge"
+  ],
+  "secondaryMeanings": [
+    "sharpness",
+    "weapon",
     "violent"
   ],
   "onyomi": [

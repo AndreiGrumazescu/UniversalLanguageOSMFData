@@ -3,8 +3,10 @@
   "unicode": "U+6B73",
   "symbol": "歳",
   "meanings": [
+    "age"
+  ],
+  "secondaryMeanings": [
     "year-end",
-    "age",
     "occasion",
     "opportunity"
   ],

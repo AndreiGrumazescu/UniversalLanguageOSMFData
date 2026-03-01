@@ -4,11 +4,13 @@
   "symbol": "除",
   "meanings": [
     "exclude",
-    "division (x/3)",
     "remove",
-    "abolish",
-    "cancel",
     "except"
+  ],
+  "secondaryMeanings": [
+    "division (x/3)",
+    "abolish",
+    "cancel"
   ],
   "onyomi": [
     "ジョ"

@@ -3,10 +3,12 @@
   "unicode": "U+616E",
   "symbol": "慮",
   "meanings": [
-    "prudence",
-    "thought",
     "concern",
     "consider",
+    "thought"
+  ],
+  "secondaryMeanings": [
+    "prudence",
     "deliberate",
     "fear"
   ],

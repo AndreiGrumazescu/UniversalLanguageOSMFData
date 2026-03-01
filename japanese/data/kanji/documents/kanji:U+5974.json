@@ -4,9 +4,11 @@
   "symbol": "奴",
   "meanings": [
     "guy",
-    "slave",
-    "manservant",
     "fellow"
+  ],
+  "secondaryMeanings": [
+    "slave",
+    "manservant"
   ],
   "onyomi": [
     "ド"

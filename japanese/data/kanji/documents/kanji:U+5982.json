@@ -3,10 +3,12 @@
   "unicode": "U+5982",
   "symbol": "如",
   "meanings": [
-    "likeness",
     "like",
     "such as",
-    "as if",
+    "as if"
+  ],
+  "secondaryMeanings": [
+    "likeness",
     "better",
     "best",
     "equal"

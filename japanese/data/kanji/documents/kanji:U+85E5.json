@@ -3,7 +3,9 @@
   "unicode": "U+85E5",
   "symbol": "藥",
   "meanings": [
-    "medicine",
+    "medicine"
+  ],
+  "secondaryMeanings": [
     "chemical",
     "enamel",
     "gunpowder",

@@ -3,11 +3,13 @@
   "unicode": "U+6442",
   "symbol": "摂",
   "meanings": [
-    "vicarious",
-    "surrogate",
-    "act in addition to",
     "take in",
     "absorb"
+  ],
+  "secondaryMeanings": [
+    "vicarious",
+    "surrogate",
+    "act in addition to"
   ],
   "onyomi": [
     "セツ"

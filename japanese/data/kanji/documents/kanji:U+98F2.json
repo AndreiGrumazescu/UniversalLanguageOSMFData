@@ -3,7 +3,9 @@
   "unicode": "U+98F2",
   "symbol": "飲",
   "meanings": [
-    "drink",
+    "drink"
+  ],
+  "secondaryMeanings": [
     "smoke",
     "take"
   ],

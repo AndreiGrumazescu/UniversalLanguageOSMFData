@@ -3,9 +3,11 @@
   "unicode": "U+5A01",
   "symbol": "威",
   "meanings": [
-    "intimidate",
     "dignity",
-    "majesty",
+    "majesty"
+  ],
+  "secondaryMeanings": [
+    "intimidate",
     "menace",
     "threaten"
   ],

@@ -3,7 +3,9 @@
   "unicode": "U+6D32",
   "symbol": "洲",
   "meanings": [
-    "continent",
+    "continent"
+  ],
+  "secondaryMeanings": [
     "sandbar",
     "island",
     "country"

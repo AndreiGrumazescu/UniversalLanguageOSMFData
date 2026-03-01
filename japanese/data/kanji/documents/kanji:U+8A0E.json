@@ -3,9 +3,11 @@
   "unicode": "U+8A0E",
   "symbol": "討",
   "meanings": [
-    "chastise",
     "attack",
-    "defeat",
+    "defeat"
+  ],
+  "secondaryMeanings": [
+    "chastise",
     "destroy",
     "conquer"
   ],

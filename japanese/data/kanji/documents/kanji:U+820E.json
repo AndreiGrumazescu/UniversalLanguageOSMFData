@@ -3,10 +3,12 @@
   "unicode": "U+820E",
   "symbol": "舎",
   "meanings": [
-    "cottage",
+    "house",
+    "cottage"
+  ],
+  "secondaryMeanings": [
     "inn",
     "hut",
-    "house",
     "mansion"
   ],
   "onyomi": [

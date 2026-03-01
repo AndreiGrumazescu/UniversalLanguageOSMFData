@@ -3,11 +3,13 @@
   "unicode": "U+81E8",
   "symbol": "臨",
   "meanings": [
-    "look to",
     "face",
-    "meet",
     "confront",
-    "attend",
+    "attend"
+  ],
+  "secondaryMeanings": [
+    "look to",
+    "meet",
     "call on"
   ],
   "onyomi": [

@@ -3,12 +3,14 @@
   "unicode": "U+7121",
   "symbol": "無",
   "meanings": [
-    "nothingness",
-    "none",
-    "ain't",
     "nothing",
-    "nil",
+    "none",
     "not"
+  ],
+  "secondaryMeanings": [
+    "nothingness",
+    "ain't",
+    "nil"
   ],
   "onyomi": [
     "ム"

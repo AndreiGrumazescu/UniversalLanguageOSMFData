@@ -3,8 +3,10 @@
   "unicode": "U+5E45",
   "symbol": "幅",
   "meanings": [
-    "hanging scroll",
     "width"
+  ],
+  "secondaryMeanings": [
+    "hanging scroll"
   ],
   "onyomi": [
     "フク"

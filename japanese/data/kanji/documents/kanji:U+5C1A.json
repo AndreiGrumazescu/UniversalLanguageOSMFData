@@ -3,10 +3,12 @@
   "unicode": "U+5C1A",
   "symbol": "尚",
   "meanings": [
-    "esteem",
-    "furthermore",
     "still",
-    "yet"
+    "yet",
+    "furthermore"
+  ],
+  "secondaryMeanings": [
+    "esteem"
   ],
   "onyomi": [
     "ショウ"

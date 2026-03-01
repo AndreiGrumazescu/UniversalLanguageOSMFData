@@ -3,7 +3,9 @@
   "unicode": "U+727D",
   "symbol": "牽",
   "meanings": [
-    "pull",
+    "pull"
+  ],
+  "secondaryMeanings": [
     "tug",
     "drag",
     "lead by hand"

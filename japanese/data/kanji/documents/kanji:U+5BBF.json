@@ -5,9 +5,11 @@
   "meanings": [
     "inn",
     "lodging",
-    "relay station",
     "dwell",
-    "lodge",
+    "lodge"
+  ],
+  "secondaryMeanings": [
+    "relay station",
     "be pregnant",
     "home",
     "dwelling"

@@ -3,8 +3,10 @@
   "unicode": "U+8B04",
   "symbol": "謄",
   "meanings": [
-    "mimeograph",
     "copy"
+  ],
+  "secondaryMeanings": [
+    "mimeograph"
   ],
   "onyomi": [
     "トウ"

@@ -6,9 +6,11 @@
     "degrees",
     "occurrence",
     "time",
-    "counter for occurrences",
-    "consider",
     "attitude"
+  ],
+  "secondaryMeanings": [
+    "counter for occurrences",
+    "consider"
   ],
   "onyomi": [
     "ド"

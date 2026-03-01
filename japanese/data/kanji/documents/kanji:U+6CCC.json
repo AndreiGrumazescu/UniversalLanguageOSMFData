@@ -3,11 +3,13 @@
   "unicode": "U+6CCC",
   "symbol": "泌",
   "meanings": [
+    "secrete"
+  ],
+  "secondaryMeanings": [
     "ooze",
     "flow",
     "soak in",
-    "penetrate",
-    "secrete"
+    "penetrate"
   ],
   "onyomi": [
     "ヒツ"

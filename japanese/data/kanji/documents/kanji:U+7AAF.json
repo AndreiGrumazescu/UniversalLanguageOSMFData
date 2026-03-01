@@ -3,7 +3,9 @@
   "unicode": "U+7AAF",
   "symbol": "窯",
   "meanings": [
-    "kiln",
+    "kiln"
+  ],
+  "secondaryMeanings": [
     "oven",
     "furnace"
   ],

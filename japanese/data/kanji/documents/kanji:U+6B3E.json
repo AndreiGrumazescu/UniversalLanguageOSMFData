@@ -3,9 +3,11 @@
   "unicode": "U+6B3E",
   "symbol": "款",
   "meanings": [
-    "goodwill",
     "article",
-    "section",
+    "section"
+  ],
+  "secondaryMeanings": [
+    "goodwill",
     "friendship",
     "collusion"
   ],

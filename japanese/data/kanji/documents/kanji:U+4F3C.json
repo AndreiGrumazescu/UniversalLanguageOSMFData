@@ -3,10 +3,12 @@
   "unicode": "U+4F3C",
   "symbol": "似",
   "meanings": [
-    "becoming",
     "resemble",
+    "imitate"
+  ],
+  "secondaryMeanings": [
+    "becoming",
     "counterfeit",
-    "imitate",
     "suitable"
   ],
   "onyomi": [

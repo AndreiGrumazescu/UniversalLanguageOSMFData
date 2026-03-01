@@ -3,7 +3,9 @@
   "unicode": "U+6765",
   "symbol": "来",
   "meanings": [
-    "come",
+    "come"
+  ],
+  "secondaryMeanings": [
     "due",
     "next",
     "cause",

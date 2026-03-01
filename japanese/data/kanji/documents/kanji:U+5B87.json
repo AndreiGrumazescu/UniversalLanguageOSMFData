@@ -3,9 +3,11 @@
   "unicode": "U+5B87",
   "symbol": "宇",
   "meanings": [
-    "eaves",
-    "roof",
     "house",
+    "roof"
+  ],
+  "secondaryMeanings": [
+    "eaves",
     "heaven"
   ],
   "onyomi": [

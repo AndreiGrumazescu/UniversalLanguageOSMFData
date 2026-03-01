@@ -3,11 +3,13 @@
   "unicode": "U+8207",
   "symbol": "與",
   "meanings": [
-    "participate in",
     "give",
+    "participate in",
+    "provide"
+  ],
+  "secondaryMeanings": [
     "award",
     "impart",
-    "provide",
     "cause"
   ],
   "onyomi": [

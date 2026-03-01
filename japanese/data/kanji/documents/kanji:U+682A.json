@@ -4,9 +4,11 @@
   "symbol": "株",
   "meanings": [
     "stocks",
-    "stump",
     "shares",
-    "stock",
+    "stock"
+  ],
+  "secondaryMeanings": [
+    "stump",
     "counter for small plants"
   ],
   "onyomi": [

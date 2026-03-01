@@ -3,9 +3,11 @@
   "unicode": "U+4E7E",
   "symbol": "乾",
   "meanings": [
-    "drought",
     "dry",
-    "desiccate",
+    "desiccate"
+  ],
+  "secondaryMeanings": [
+    "drought",
     "drink up",
     "heaven",
     "emperor"

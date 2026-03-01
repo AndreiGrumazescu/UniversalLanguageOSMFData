@@ -3,12 +3,14 @@
   "unicode": "U+96BB",
   "symbol": "隻",
   "meanings": [
-    "vessels",
     "counter for ships",
+    "one of a pair"
+  ],
+  "secondaryMeanings": [
+    "vessels",
     "fish",
     "birds",
-    "arrows",
-    "one of a pair"
+    "arrows"
   ],
   "onyomi": [
     "セキ"

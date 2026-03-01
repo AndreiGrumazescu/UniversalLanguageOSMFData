@@ -3,9 +3,11 @@
   "unicode": "U+84B2",
   "symbol": "蒲",
   "meanings": [
-    "bullrush",
-    "flag",
     "cattail"
+  ],
+  "secondaryMeanings": [
+    "bullrush",
+    "flag"
   ],
   "onyomi": [
     "ホ"

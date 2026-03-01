@@ -4,8 +4,10 @@
   "symbol": "壁",
   "meanings": [
     "wall",
-    "lining (stomach)",
     "fence"
+  ],
+  "secondaryMeanings": [
+    "lining (stomach)"
   ],
   "onyomi": [
     "ヘキ"

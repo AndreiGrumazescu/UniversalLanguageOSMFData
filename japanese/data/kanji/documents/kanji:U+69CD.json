@@ -3,7 +3,9 @@
   "unicode": "U+69CD",
   "symbol": "槍",
   "meanings": [
-    "spear",
+    "spear"
+  ],
+  "secondaryMeanings": [
     "lance",
     "javelin"
   ],

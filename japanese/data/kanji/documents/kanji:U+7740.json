@@ -3,9 +3,11 @@
   "unicode": "U+7740",
   "symbol": "着",
   "meanings": [
-    "don",
-    "arrive",
     "wear",
+    "arrive"
+  ],
+  "secondaryMeanings": [
+    "don",
     "counter for suits of clothing"
   ],
   "onyomi": [

@@ -3,9 +3,11 @@
   "unicode": "U+9310",
   "symbol": "錐",
   "meanings": [
-    "auger",
-    "drill",
     "awl",
+    "drill"
+  ],
+  "secondaryMeanings": [
+    "auger",
     "pyramid",
     "cone"
   ],

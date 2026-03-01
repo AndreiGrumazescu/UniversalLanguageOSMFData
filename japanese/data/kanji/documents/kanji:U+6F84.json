@@ -3,9 +3,12 @@
   "unicode": "U+6F84",
   "symbol": "澄",
   "meanings": [
+    "clear",
+    "lucid"
+  ],
+  "secondaryMeanings": [
     "lucidity",
     "be clear",
-    "clear",
     "clarify",
     "settle",
     "strain",

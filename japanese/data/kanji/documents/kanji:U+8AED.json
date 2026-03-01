@@ -3,11 +3,13 @@
   "unicode": "U+8AED",
   "symbol": "諭",
   "meanings": [
+    "persuade",
+    "admonish"
+  ],
+  "secondaryMeanings": [
     "rebuke",
-    "admonish",
     "charge",
-    "warn",
-    "persuade"
+    "warn"
   ],
   "onyomi": [
     "ユ"

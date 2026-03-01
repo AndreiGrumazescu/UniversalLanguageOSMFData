@@ -4,8 +4,10 @@
   "symbol": "算",
   "meanings": [
     "calculate",
+    "number"
+  ],
+  "secondaryMeanings": [
     "divining",
-    "number",
     "abacus",
     "probability"
   ],

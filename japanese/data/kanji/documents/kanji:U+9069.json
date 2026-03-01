@@ -4,10 +4,12 @@
   "symbol": "適",
   "meanings": [
     "suitable",
-    "occasional",
-    "rare",
     "qualified",
     "capable"
+  ],
+  "secondaryMeanings": [
+    "occasional",
+    "rare"
   ],
   "onyomi": [
     "テキ"

@@ -3,13 +3,15 @@
   "unicode": "U+5E7D",
   "symbol": "幽",
   "meanings": [
+    "secluded",
+    "faint",
+    "dark"
+  ],
+  "secondaryMeanings": [
     "seclude",
     "confine to a room",
     "deep",
     "profound",
-    "secluded",
-    "faint",
-    "dark",
     "tranquil",
     "calm"
   ],

@@ -3,10 +3,12 @@
   "unicode": "U+6392",
   "symbol": "排",
   "meanings": [
-    "repudiate",
     "exclude",
     "expel",
-    "reject",
+    "reject"
+  ],
+  "secondaryMeanings": [
+    "repudiate",
     "line up",
     "arrange"
   ],

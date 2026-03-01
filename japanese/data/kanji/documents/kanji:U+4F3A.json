@@ -3,10 +3,12 @@
   "unicode": "U+4F3A",
   "symbol": "伺",
   "meanings": [
-    "pay respects",
     "visit",
     "ask",
-    "inquire",
+    "inquire"
+  ],
+  "secondaryMeanings": [
+    "pay respects",
     "question",
     "implore"
   ],

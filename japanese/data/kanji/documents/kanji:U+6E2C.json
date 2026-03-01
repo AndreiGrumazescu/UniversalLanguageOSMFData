@@ -3,10 +3,12 @@
   "unicode": "U+6E2C",
   "symbol": "測",
   "meanings": [
+    "measure"
+  ],
+  "secondaryMeanings": [
     "fathom",
     "plan",
-    "scheme",
-    "measure"
+    "scheme"
   ],
   "onyomi": [
     "ソク"

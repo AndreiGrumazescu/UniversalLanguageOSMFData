@@ -3,9 +3,11 @@
   "unicode": "U+72B6",
   "symbol": "状",
   "meanings": [
-    "status quo",
     "conditions",
-    "circumstances",
+    "circumstances"
+  ],
+  "secondaryMeanings": [
+    "status quo",
     "form",
     "appearance"
   ],

@@ -3,7 +3,9 @@
   "unicode": "U+670D",
   "symbol": "服",
   "meanings": [
-    "clothing",
+    "clothing"
+  ],
+  "secondaryMeanings": [
     "admit",
     "obey",
     "discharge"

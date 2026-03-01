@@ -3,9 +3,11 @@
   "unicode": "U+5510",
   "symbol": "唐",
   "meanings": [
-    "T'ang",
     "China",
     "foreign"
+  ],
+  "secondaryMeanings": [
+    "T'ang"
   ],
   "onyomi": [
     "トウ"

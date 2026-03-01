@@ -3,7 +3,9 @@
   "unicode": "U+6B64",
   "symbol": "此",
   "meanings": [
-    "this",
+    "this"
+  ],
+  "secondaryMeanings": [
     "current",
     "next",
     "coming",

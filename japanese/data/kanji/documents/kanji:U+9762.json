@@ -3,10 +3,12 @@
   "unicode": "U+9762",
   "symbol": "面",
   "meanings": [
-    "mask",
     "face",
-    "features",
     "surface"
+  ],
+  "secondaryMeanings": [
+    "mask",
+    "features"
   ],
   "onyomi": [
     "メン"

@@ -6,12 +6,14 @@
     "node",
     "season",
     "period",
-    "occasion",
     "verse",
+    "joint"
+  ],
+  "secondaryMeanings": [
+    "occasion",
     "clause",
     "stanza",
     "honor",
-    "joint",
     "knuckle",
     "knob",
     "knot",

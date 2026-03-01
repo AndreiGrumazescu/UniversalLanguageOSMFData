@@ -3,12 +3,14 @@
   "unicode": "U+4EF0",
   "symbol": "仰",
   "meanings": [
-    "face-up",
     "look up",
+    "respect",
+    "revere"
+  ],
+  "secondaryMeanings": [
+    "face-up",
     "depend",
     "seek",
-    "respect",
-    "revere",
     "drink",
     "take"
   ],

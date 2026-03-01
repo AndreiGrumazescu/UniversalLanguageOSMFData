@@ -4,9 +4,11 @@
   "symbol": "誤",
   "meanings": [
     "mistake",
-    "err",
-    "do wrong",
     "mislead"
+  ],
+  "secondaryMeanings": [
+    "err",
+    "do wrong"
   ],
   "onyomi": [
     "ゴ"

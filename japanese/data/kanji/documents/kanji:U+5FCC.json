@@ -3,9 +3,11 @@
   "unicode": "U+5FCC",
   "symbol": "忌",
   "meanings": [
-    "mourning",
     "abhor",
-    "detestable",
+    "detestable"
+  ],
+  "secondaryMeanings": [
+    "mourning",
     "death anniversary"
   ],
   "onyomi": [

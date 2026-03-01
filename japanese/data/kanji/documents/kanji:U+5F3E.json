@@ -3,7 +3,9 @@
   "unicode": "U+5F3E",
   "symbol": "弾",
   "meanings": [
-    "bullet",
+    "bullet"
+  ],
+  "secondaryMeanings": [
     "twang",
     "flip",
     "snap"

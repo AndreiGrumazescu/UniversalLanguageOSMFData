@@ -3,8 +3,10 @@
   "unicode": "U+7531",
   "symbol": "由",
   "meanings": [
-    "wherefore",
-    "a reason"
+    "reason"
+  ],
+  "secondaryMeanings": [
+    "wherefore"
   ],
   "onyomi": [
     "ユ"

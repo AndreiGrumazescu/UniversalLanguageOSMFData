@@ -3,9 +3,11 @@
   "unicode": "U+578B",
   "symbol": "型",
   "meanings": [
-    "mould",
     "type",
     "model"
+  ],
+  "secondaryMeanings": [
+    "mould"
   ],
   "onyomi": [
     "ケイ"

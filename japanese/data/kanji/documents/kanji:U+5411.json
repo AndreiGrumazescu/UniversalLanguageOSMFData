@@ -3,10 +3,12 @@
   "unicode": "U+5411",
   "symbol": "向",
   "meanings": [
-    "yonder",
     "facing",
+    "confront"
+  ],
+  "secondaryMeanings": [
+    "yonder",
     "beyond",
-    "confront",
     "defy",
     "tend toward",
     "approach"

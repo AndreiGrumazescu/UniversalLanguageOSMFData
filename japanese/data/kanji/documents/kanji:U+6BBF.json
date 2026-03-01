@@ -5,10 +5,12 @@
   "meanings": [
     "Mr.",
     "hall",
-    "mansion",
     "palace",
-    "temple",
     "lord"
+  ],
+  "secondaryMeanings": [
+    "mansion",
+    "temple"
   ],
   "onyomi": [
     "デン"

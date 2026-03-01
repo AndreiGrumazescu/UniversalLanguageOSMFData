@@ -3,9 +3,11 @@
   "unicode": "U+57DC",
   "symbol": "埜",
   "meanings": [
-    "open country",
     "field",
     "wilderness"
+  ],
+  "secondaryMeanings": [
+    "open country"
   ],
   "onyomi": [
     "ヤ"

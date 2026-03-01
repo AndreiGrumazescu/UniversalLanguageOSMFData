@@ -4,11 +4,13 @@
   "symbol": "誠",
   "meanings": [
     "sincerity",
-    "admonish",
-    "warn",
-    "prohibit",
     "truth",
     "fidelity"
+  ],
+  "secondaryMeanings": [
+    "admonish",
+    "warn",
+    "prohibit"
   ],
   "onyomi": [
     "セイ"

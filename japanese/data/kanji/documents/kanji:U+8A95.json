@@ -3,8 +3,10 @@
   "unicode": "U+8A95",
   "symbol": "誕",
   "meanings": [
-    "nativity",
     "be born",
+    "nativity"
+  ],
+  "secondaryMeanings": [
     "declension",
     "lie",
     "be arbitrary"

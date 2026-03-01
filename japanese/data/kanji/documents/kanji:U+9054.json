@@ -3,10 +3,12 @@
   "unicode": "U+9054",
   "symbol": "達",
   "meanings": [
-    "accomplished",
     "reach",
     "arrive",
     "attain"
+  ],
+  "secondaryMeanings": [
+    "accomplished"
   ],
   "onyomi": [
     "タツ"

@@ -4,9 +4,11 @@
   "symbol": "陵",
   "meanings": [
     "mausoleum",
-    "imperial tomb",
-    "mound",
     "hill"
+  ],
+  "secondaryMeanings": [
+    "imperial tomb",
+    "mound"
   ],
   "onyomi": [
     "リョウ"

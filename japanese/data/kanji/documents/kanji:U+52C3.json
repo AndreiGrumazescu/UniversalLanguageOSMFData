@@ -3,8 +3,10 @@
   "unicode": "U+52C3",
   "symbol": "勃",
   "meanings": [
-    "suddenness",
     "rise"
+  ],
+  "secondaryMeanings": [
+    "suddenness"
   ],
   "onyomi": [
     "ボツ"

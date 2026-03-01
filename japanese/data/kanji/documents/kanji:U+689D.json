@@ -4,6 +4,9 @@
   "symbol": "條",
   "meanings": [
     "article",
+    "clause"
+  ],
+  "secondaryMeanings": [
     "counter for articles, clauses, paragraphs, etc.",
     "twig",
     "ray of light"

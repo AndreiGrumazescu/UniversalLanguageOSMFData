@@ -3,9 +3,11 @@
   "unicode": "U+80CC",
   "symbol": "背",
   "meanings": [
-    "stature",
-    "height",
     "back",
+    "height"
+  ],
+  "secondaryMeanings": [
+    "stature",
     "behind",
     "disobey",
     "defy",

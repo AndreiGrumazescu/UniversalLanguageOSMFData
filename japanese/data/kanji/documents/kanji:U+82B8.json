@@ -3,11 +3,13 @@
   "unicode": "U+82B8",
   "symbol": "芸",
   "meanings": [
-    "technique",
     "art",
+    "technique",
     "craft",
     "performance",
-    "acting",
+    "acting"
+  ],
+  "secondaryMeanings": [
     "trick",
     "stunt"
   ],

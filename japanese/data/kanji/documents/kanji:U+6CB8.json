@@ -3,8 +3,10 @@
   "unicode": "U+6CB8",
   "symbol": "沸",
   "meanings": [
+    "boil"
+  ],
+  "secondaryMeanings": [
     "seethe",
-    "boil",
     "ferment",
     "uproar",
     "breed"

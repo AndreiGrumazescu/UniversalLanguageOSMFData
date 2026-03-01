@@ -3,9 +3,11 @@
   "unicode": "U+690E",
   "symbol": "椎",
   "meanings": [
-    "chinquapin",
     "mallet",
     "spine"
+  ],
+  "secondaryMeanings": [
+    "chinquapin"
   ],
   "onyomi": [
     "ツイ"

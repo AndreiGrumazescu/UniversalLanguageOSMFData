@@ -6,10 +6,12 @@
     "plan",
     "suggestion",
     "draft",
+    "idea",
+    "proposition"
+  ],
+  "secondaryMeanings": [
     "ponder",
     "fear",
-    "proposition",
-    "idea",
     "expectation",
     "worry",
     "table",

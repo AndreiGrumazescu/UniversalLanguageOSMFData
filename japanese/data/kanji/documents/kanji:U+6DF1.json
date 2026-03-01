@@ -3,7 +3,9 @@
   "unicode": "U+6DF1",
   "symbol": "深",
   "meanings": [
-    "deep",
+    "deep"
+  ],
+  "secondaryMeanings": [
     "heighten",
     "intensify",
     "strengthen"

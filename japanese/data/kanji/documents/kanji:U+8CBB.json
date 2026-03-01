@@ -4,7 +4,9 @@
   "symbol": "費",
   "meanings": [
     "expense",
-    "cost",
+    "cost"
+  ],
+  "secondaryMeanings": [
     "spend",
     "consume",
     "waste"

@@ -4,10 +4,13 @@
   "symbol": "求",
   "meanings": [
     "request",
+    "seek",
+    "demand"
+  ],
+  "secondaryMeanings": [
     "want",
     "wish for",
-    "require",
-    "demand"
+    "require"
   ],
   "onyomi": [
     "キュウ"

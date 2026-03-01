@@ -3,9 +3,11 @@
   "unicode": "U+887F",
   "symbol": "衿",
   "meanings": [
-    "neck",
     "collar",
     "lapel"
+  ],
+  "secondaryMeanings": [
+    "neck"
   ],
   "onyomi": [
     "キン"

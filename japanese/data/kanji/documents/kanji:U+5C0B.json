@@ -4,8 +4,10 @@
   "symbol": "尋",
   "meanings": [
     "inquire",
-    "fathom",
     "look for"
+  ],
+  "secondaryMeanings": [
+    "fathom"
   ],
   "onyomi": [
     "ジン"

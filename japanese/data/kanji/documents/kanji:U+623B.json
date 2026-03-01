@@ -3,11 +3,13 @@
   "unicode": "U+623B",
   "symbol": "戻",
   "meanings": [
-    "re-",
     "return",
     "revert",
+    "restore"
+  ],
+  "secondaryMeanings": [
+    "re-",
     "resume",
-    "restore",
     "go backwards"
   ],
   "onyomi": [

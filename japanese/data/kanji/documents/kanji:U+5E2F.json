@@ -3,10 +3,12 @@
   "unicode": "U+5E2F",
   "symbol": "帯",
   "meanings": [
-    "sash",
     "belt",
+    "sash",
+    "zone"
+  ],
+  "secondaryMeanings": [
     "obi",
-    "zone",
     "region"
   ],
   "onyomi": [

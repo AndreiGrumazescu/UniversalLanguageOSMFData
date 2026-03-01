@@ -3,9 +3,11 @@
   "unicode": "U+4F0F",
   "symbol": "伏",
   "meanings": [
-    "prostrated",
-    "bend down",
     "bow",
+    "bend down"
+  ],
+  "secondaryMeanings": [
+    "prostrated",
     "cover",
     "lay (pipes)"
   ],

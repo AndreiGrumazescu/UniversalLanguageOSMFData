@@ -4,7 +4,9 @@
   "symbol": "遁",
   "meanings": [
     "flee",
-    "escape",
+    "escape"
+  ],
+  "secondaryMeanings": [
     "shirk",
     "evade",
     "set free"

@@ -3,9 +3,11 @@
   "unicode": "U+4FCA",
   "symbol": "俊",
   "meanings": [
-    "sagacious",
-    "genius",
-    "excellence"
+    "excellence",
+    "genius"
+  ],
+  "secondaryMeanings": [
+    "sagacious"
   ],
   "onyomi": [
     "シュン"

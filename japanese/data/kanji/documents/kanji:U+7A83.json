@@ -3,8 +3,10 @@
   "unicode": "U+7A83",
   "symbol": "窃",
   "meanings": [
-    "stealth",
     "steal",
+    "stealth"
+  ],
+  "secondaryMeanings": [
     "secret",
     "private",
     "hushed"

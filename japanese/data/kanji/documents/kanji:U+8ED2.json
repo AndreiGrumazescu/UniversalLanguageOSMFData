@@ -3,9 +3,11 @@
   "unicode": "U+8ED2",
   "symbol": "軒",
   "meanings": [
-    "flats",
-    "counter for houses",
     "eaves"
+  ],
+  "secondaryMeanings": [
+    "flats",
+    "counter for houses"
   ],
   "onyomi": [
     "ケン"

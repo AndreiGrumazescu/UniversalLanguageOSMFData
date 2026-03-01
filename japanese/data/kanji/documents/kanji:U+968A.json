@@ -3,10 +3,12 @@
   "unicode": "U+968A",
   "symbol": "隊",
   "meanings": [
+    "squad",
+    "company"
+  ],
+  "secondaryMeanings": [
     "regiment",
-    "party",
-    "company",
-    "squad"
+    "party"
   ],
   "onyomi": [
     "タイ"

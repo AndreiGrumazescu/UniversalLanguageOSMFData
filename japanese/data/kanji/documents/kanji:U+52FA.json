@@ -4,8 +4,10 @@
   "symbol": "勺",
   "meanings": [
     "ladle",
-    "one tenth of a go",
     "dip"
+  ],
+  "secondaryMeanings": [
+    "one tenth of a go"
   ],
   "onyomi": [
     "シャク"

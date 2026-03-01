@@ -5,9 +5,11 @@
   "meanings": [
     "road-way",
     "street",
-    "district",
     "journey",
-    "course",
+    "course"
+  ],
+  "secondaryMeanings": [
+    "district",
     "moral",
     "teachings"
   ],

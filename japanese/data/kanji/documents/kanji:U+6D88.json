@@ -4,10 +4,12 @@
   "symbol": "消",
   "meanings": [
     "extinguish",
-    "blow out",
     "turn off",
-    "neutralize",
     "cancel"
+  ],
+  "secondaryMeanings": [
+    "blow out",
+    "neutralize"
   ],
   "onyomi": [
     "ショウ"

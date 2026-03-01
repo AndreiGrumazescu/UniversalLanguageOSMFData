@@ -3,10 +3,12 @@
   "unicode": "U+6176",
   "symbol": "慶",
   "meanings": [
-    "jubilation",
     "congratulate",
     "rejoice",
     "be happy"
+  ],
+  "secondaryMeanings": [
+    "jubilation"
   ],
   "onyomi": [
     "ケイ"

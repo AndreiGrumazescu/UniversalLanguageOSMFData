@@ -3,9 +3,11 @@
   "unicode": "U+63A2",
   "symbol": "探",
   "meanings": [
-    "grope",
     "search",
     "look for"
+  ],
+  "secondaryMeanings": [
+    "grope"
   ],
   "onyomi": [
     "タン"

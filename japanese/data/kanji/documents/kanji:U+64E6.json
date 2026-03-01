@@ -3,10 +3,12 @@
   "unicode": "U+64E6",
   "symbol": "擦",
   "meanings": [
-    "grate",
     "rub",
     "scratch",
-    "scrape",
+    "scrape"
+  ],
+  "secondaryMeanings": [
+    "grate",
     "chafe",
     "scour"
   ],

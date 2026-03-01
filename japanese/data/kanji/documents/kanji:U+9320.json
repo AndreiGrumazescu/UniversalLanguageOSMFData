@@ -3,7 +3,9 @@
   "unicode": "U+9320",
   "symbol": "錠",
   "meanings": [
-    "lock",
+    "lock"
+  ],
+  "secondaryMeanings": [
     "fetters",
     "shackles"
   ],

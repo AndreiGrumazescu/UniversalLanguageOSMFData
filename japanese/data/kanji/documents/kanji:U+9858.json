@@ -3,11 +3,13 @@
   "unicode": "U+9858",
   "symbol": "願",
   "meanings": [
-    "petition",
-    "request",
-    "vow",
     "wish",
-    "hope"
+    "hope",
+    "request"
+  ],
+  "secondaryMeanings": [
+    "petition",
+    "vow"
   ],
   "onyomi": [
     "ガン"

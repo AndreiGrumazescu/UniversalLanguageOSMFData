@@ -3,9 +3,11 @@
   "unicode": "U+8ECC",
   "symbol": "軌",
   "meanings": [
+    "track"
+  ],
+  "secondaryMeanings": [
     "rut",
     "wheel",
-    "track",
     "model",
     "way of doing"
   ],

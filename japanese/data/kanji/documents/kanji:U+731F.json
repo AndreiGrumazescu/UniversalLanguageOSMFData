@@ -3,9 +3,12 @@
   "unicode": "U+731F",
   "symbol": "猟",
   "meanings": [
+    "hunting",
+    "game"
+  ],
+  "secondaryMeanings": [
     "game-hunting",
     "shooting",
-    "game",
     "bag"
   ],
   "onyomi": [

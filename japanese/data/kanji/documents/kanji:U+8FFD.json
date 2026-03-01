@@ -4,9 +4,11 @@
   "symbol": "追",
   "meanings": [
     "chase",
-    "drive away",
     "follow",
-    "pursue",
+    "pursue"
+  ],
+  "secondaryMeanings": [
+    "drive away",
     "meanwhile"
   ],
   "onyomi": [

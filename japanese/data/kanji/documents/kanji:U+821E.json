@@ -3,7 +3,9 @@
   "unicode": "U+821E",
   "symbol": "舞",
   "meanings": [
-    "dance",
+    "dance"
+  ],
+  "secondaryMeanings": [
     "flit",
     "circle",
     "wheel"

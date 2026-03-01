@@ -4,8 +4,10 @@
   "symbol": "端",
   "meanings": [
     "edge",
+    "end"
+  ],
+  "secondaryMeanings": [
     "origin",
-    "end",
     "point",
     "border",
     "verge",

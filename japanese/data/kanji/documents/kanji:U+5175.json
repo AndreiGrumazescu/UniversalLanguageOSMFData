@@ -4,9 +4,11 @@
   "symbol": "兵",
   "meanings": [
     "soldier",
-    "private",
     "troops",
-    "army",
+    "army"
+  ],
+  "secondaryMeanings": [
+    "private",
     "warfare",
     "strategy",
     "tactics"

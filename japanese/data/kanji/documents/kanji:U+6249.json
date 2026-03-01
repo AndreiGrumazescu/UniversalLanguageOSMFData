@@ -3,7 +3,9 @@
   "unicode": "U+6249",
   "symbol": "扉",
   "meanings": [
-    "front door",
+    "front door"
+  ],
+  "secondaryMeanings": [
     "title page",
     "front page"
   ],

@@ -3,10 +3,12 @@
   "unicode": "U+963B",
   "symbol": "阻",
   "meanings": [
+    "obstruct",
+    "prevent"
+  ],
+  "secondaryMeanings": [
     "thwart",
     "separate from",
-    "prevent",
-    "obstruct",
     "deter",
     "impede"
   ],

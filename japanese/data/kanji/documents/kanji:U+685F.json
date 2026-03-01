@@ -4,8 +4,10 @@
   "symbol": "桟",
   "meanings": [
     "scaffold",
+    "frame"
+  ],
+  "secondaryMeanings": [
     "cleat",
-    "frame",
     "jetty",
     "bolt (door)"
   ],

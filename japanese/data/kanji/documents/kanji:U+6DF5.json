@@ -4,9 +4,11 @@
   "symbol": "淵",
   "meanings": [
     "abyss",
-    "edge",
     "deep pool",
     "the depths"
+  ],
+  "secondaryMeanings": [
+    "edge"
   ],
   "onyomi": [
     "エン"

@@ -3,16 +3,18 @@
   "unicode": "U+65AD",
   "symbol": "断",
   "meanings": [
-    "severance",
-    "decline",
+    "decision",
+    "judgement",
     "refuse",
+    "decline",
+    "cutting"
+  ],
+  "secondaryMeanings": [
+    "severance",
     "apologize",
     "warn",
     "dismiss",
-    "prohibit",
-    "decision",
-    "judgement",
-    "cutting"
+    "prohibit"
   ],
   "onyomi": [
     "ダン"

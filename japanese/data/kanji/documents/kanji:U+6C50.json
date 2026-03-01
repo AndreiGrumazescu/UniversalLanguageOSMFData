@@ -3,9 +3,11 @@
   "unicode": "U+6C50",
   "symbol": "汐",
   "meanings": [
-    "eventide",
     "tide",
-    "salt water",
+    "salt water"
+  ],
+  "secondaryMeanings": [
+    "eventide",
     "opportunity"
   ],
   "onyomi": [

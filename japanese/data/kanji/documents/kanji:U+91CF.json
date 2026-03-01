@@ -5,8 +5,10 @@
   "meanings": [
     "quantity",
     "measure",
+    "amount"
+  ],
+  "secondaryMeanings": [
     "weight",
-    "amount",
     "consider",
     "estimate",
     "surmise"

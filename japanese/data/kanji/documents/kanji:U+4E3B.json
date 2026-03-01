@@ -4,10 +4,12 @@
   "symbol": "主",
   "meanings": [
     "lord",
-    "chief",
     "master",
     "main thing",
     "principal"
+  ],
+  "secondaryMeanings": [
+    "chief"
   ],
   "onyomi": [
     "シュ"

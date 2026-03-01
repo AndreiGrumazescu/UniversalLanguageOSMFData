@@ -3,9 +3,11 @@
   "unicode": "U+9AB8",
   "symbol": "骸",
   "meanings": [
-    "bone",
-    "body",
-    "corpse"
+    "corpse",
+    "body"
+  ],
+  "secondaryMeanings": [
+    "bone"
   ],
   "onyomi": [
     "ガイ"

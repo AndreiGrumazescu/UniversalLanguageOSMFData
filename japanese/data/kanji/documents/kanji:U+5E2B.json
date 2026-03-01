@@ -3,9 +3,11 @@
   "unicode": "U+5E2B",
   "symbol": "師",
   "meanings": [
-    "expert",
     "teacher",
-    "master",
+    "master"
+  ],
+  "secondaryMeanings": [
+    "expert",
     "model",
     "exemplar",
     "army (incl. counter)",

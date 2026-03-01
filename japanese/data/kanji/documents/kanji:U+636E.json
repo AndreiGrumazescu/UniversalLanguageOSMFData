@@ -4,9 +4,11 @@
   "symbol": "据",
   "meanings": [
     "set",
-    "lay a foundation",
     "install",
-    "equip",
+    "equip"
+  ],
+  "secondaryMeanings": [
+    "lay a foundation",
     "squat down",
     "sit down"
   ],

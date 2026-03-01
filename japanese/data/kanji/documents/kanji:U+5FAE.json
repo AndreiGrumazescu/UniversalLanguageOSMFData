@@ -3,7 +3,9 @@
   "unicode": "U+5FAE",
   "symbol": "微",
   "meanings": [
-    "delicate",
+    "delicate"
+  ],
+  "secondaryMeanings": [
     "minuteness",
     "insignificance"
   ],

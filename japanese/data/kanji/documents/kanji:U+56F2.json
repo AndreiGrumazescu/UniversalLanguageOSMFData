@@ -4,11 +4,14 @@
   "symbol": "囲",
   "meanings": [
     "surround",
+    "encircle",
+    "enclose"
+  ],
+  "secondaryMeanings": [
     "besiege",
     "store",
     "paling",
     "enclosure",
-    "encircle",
     "preserve",
     "keep"
   ],

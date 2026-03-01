@@ -3,6 +3,10 @@
   "unicode": "U+971E",
   "symbol": "霞",
   "meanings": [
+    "haze",
+    "mist"
+  ],
+  "secondaryMeanings": [
     "be hazy",
     "grow dim",
     "blurred"

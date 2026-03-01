@@ -3,9 +3,11 @@
   "unicode": "U+8B20",
   "symbol": "謠",
   "meanings": [
-    "chant (esp. Noh)",
     "folksong",
     "ballad"
+  ],
+  "secondaryMeanings": [
+    "chant (esp. Noh)"
   ],
   "onyomi": [
     "ヨウ"

@@ -3,9 +3,11 @@
   "unicode": "U+8CA8",
   "symbol": "貨",
   "meanings": [
-    "freight",
     "goods",
     "property"
+  ],
+  "secondaryMeanings": [
+    "freight"
   ],
   "onyomi": [
     "カ"

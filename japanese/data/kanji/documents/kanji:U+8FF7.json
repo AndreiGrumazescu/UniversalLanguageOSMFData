@@ -3,10 +3,12 @@
   "unicode": "U+8FF7",
   "symbol": "迷",
   "meanings": [
-    "astray",
-    "be perplexed",
-    "in doubt",
     "lost",
+    "be perplexed",
+    "astray"
+  ],
+  "secondaryMeanings": [
+    "in doubt",
     "err",
     "illusion"
   ],

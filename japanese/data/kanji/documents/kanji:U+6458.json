@@ -3,12 +3,14 @@
   "unicode": "U+6458",
   "symbol": "摘",
   "meanings": [
-    "pinch",
     "pick",
     "pluck",
-    "trim",
-    "clip",
     "summarize"
+  ],
+  "secondaryMeanings": [
+    "pinch",
+    "trim",
+    "clip"
   ],
   "onyomi": [
     "テキ"

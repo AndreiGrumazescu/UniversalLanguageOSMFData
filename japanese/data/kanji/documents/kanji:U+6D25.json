@@ -3,9 +3,11 @@
   "unicode": "U+6D25",
   "symbol": "津",
   "meanings": [
-    "haven",
     "port",
-    "harbor",
+    "harbor"
+  ],
+  "secondaryMeanings": [
+    "haven",
     "ferry"
   ],
   "onyomi": [

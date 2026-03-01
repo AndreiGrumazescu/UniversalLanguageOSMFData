@@ -3,7 +3,9 @@
   "unicode": "U+9928",
   "symbol": "館",
   "meanings": [
-    "building",
+    "building"
+  ],
+  "secondaryMeanings": [
     "mansion",
     "large building",
     "palace"

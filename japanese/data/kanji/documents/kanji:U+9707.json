@@ -4,7 +4,9 @@
   "symbol": "震",
   "meanings": [
     "quake",
-    "shake",
+    "shake"
+  ],
+  "secondaryMeanings": [
     "tremble",
     "quiver",
     "shiver"

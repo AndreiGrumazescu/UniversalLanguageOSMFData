@@ -4,8 +4,10 @@
   "symbol": "床",
   "meanings": [
     "bed",
+    "floor"
+  ],
+  "secondaryMeanings": [
     "counter for beds",
-    "floor",
     "padding",
     "tatami"
   ],

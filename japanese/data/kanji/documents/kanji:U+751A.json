@@ -3,10 +3,12 @@
   "unicode": "U+751A",
   "symbol": "甚",
   "meanings": [
-    "tremendously",
     "very",
-    "great",
     "exceedingly"
+  ],
+  "secondaryMeanings": [
+    "tremendously",
+    "great"
   ],
   "onyomi": [
     "ジン"

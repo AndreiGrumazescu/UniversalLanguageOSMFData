@@ -3,9 +3,11 @@
   "unicode": "U+5009",
   "symbol": "倉",
   "meanings": [
-    "godown",
     "warehouse",
-    "storehouse",
+    "storehouse"
+  ],
+  "secondaryMeanings": [
+    "godown",
     "cellar",
     "treasury"
   ],

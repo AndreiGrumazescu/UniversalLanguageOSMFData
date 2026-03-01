@@ -3,12 +3,14 @@
   "unicode": "U+671B",
   "symbol": "望",
   "meanings": [
-    "ambition",
-    "full moon",
     "hope",
     "desire",
-    "aspire to",
     "expect"
+  ],
+  "secondaryMeanings": [
+    "ambition",
+    "full moon",
+    "aspire to"
   ],
   "onyomi": [
     "ボウ"

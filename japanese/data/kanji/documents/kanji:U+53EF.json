@@ -4,8 +4,10 @@
   "symbol": "可",
   "meanings": [
     "can",
-    "passable",
     "approval"
+  ],
+  "secondaryMeanings": [
+    "passable"
   ],
   "onyomi": [
     "カ"

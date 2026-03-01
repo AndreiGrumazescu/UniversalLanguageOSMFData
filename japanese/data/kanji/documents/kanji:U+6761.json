@@ -5,9 +5,11 @@
   "meanings": [
     "article",
     "clause",
+    "item"
+  ],
+  "secondaryMeanings": [
     "counter for articles, clauses, paragraphs, etc.",
     "twig",
-    "item",
     "stripe",
     "streak"
   ],

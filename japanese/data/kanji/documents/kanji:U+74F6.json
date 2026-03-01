@@ -4,8 +4,10 @@
   "symbol": "瓶",
   "meanings": [
     "bottle",
+    "jar"
+  ],
+  "secondaryMeanings": [
     "vial",
-    "jar",
     "jug",
     "vat",
     "urn"

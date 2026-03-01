@@ -4,8 +4,10 @@
   "symbol": "幕",
   "meanings": [
     "curtain",
-    "bunting",
     "act of play"
+  ],
+  "secondaryMeanings": [
+    "bunting"
   ],
   "onyomi": [
     "マク"

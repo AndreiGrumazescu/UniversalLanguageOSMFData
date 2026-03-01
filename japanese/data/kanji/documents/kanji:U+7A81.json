@@ -3,13 +3,15 @@
   "unicode": "U+7A81",
   "symbol": "突",
   "meanings": [
-    "stab",
-    "protruding",
+    "sudden",
     "thrust",
+    "protruding"
+  ],
+  "secondaryMeanings": [
+    "stab",
     "pierce",
     "prick",
-    "collision",
-    "sudden"
+    "collision"
   ],
   "onyomi": [
     "トツ"

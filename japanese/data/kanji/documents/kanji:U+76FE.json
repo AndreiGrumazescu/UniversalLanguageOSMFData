@@ -4,8 +4,10 @@
   "symbol": "盾",
   "meanings": [
     "shield",
-    "escutcheon",
     "pretext"
+  ],
+  "secondaryMeanings": [
+    "escutcheon"
   ],
   "onyomi": [
     "ジュン"

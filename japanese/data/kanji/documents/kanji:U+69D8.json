@@ -3,11 +3,13 @@
   "unicode": "U+69D8",
   "symbol": "様",
   "meanings": [
-    "Esq.",
     "way",
     "manner",
-    "situation",
     "polite suffix"
+  ],
+  "secondaryMeanings": [
+    "Esq.",
+    "situation"
   ],
   "onyomi": [
     "ヨウ"

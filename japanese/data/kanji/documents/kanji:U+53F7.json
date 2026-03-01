@@ -3,10 +3,12 @@
   "unicode": "U+53F7",
   "symbol": "号",
   "meanings": [
-    "nickname",
     "number",
+    "title"
+  ],
+  "secondaryMeanings": [
+    "nickname",
     "item",
-    "title",
     "pseudonym",
     "name",
     "call"

@@ -3,10 +3,13 @@
   "unicode": "U+76F4",
   "symbol": "直",
   "meanings": [
-    "straightaway",
+    "straight",
     "honesty",
+    "fix"
+  ],
+  "secondaryMeanings": [
+    "straightaway",
     "frankness",
-    "fix",
     "repair"
   ],
   "onyomi": [

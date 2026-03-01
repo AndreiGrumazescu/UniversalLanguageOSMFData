@@ -3,9 +3,11 @@
   "unicode": "U+8B58",
   "symbol": "識",
   "meanings": [
-    "discriminating",
     "know",
     "write"
+  ],
+  "secondaryMeanings": [
+    "discriminating"
   ],
   "onyomi": [
     "シキ"

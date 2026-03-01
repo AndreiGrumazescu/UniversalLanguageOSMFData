@@ -3,10 +3,13 @@
   "unicode": "U+56DE",
   "symbol": "回",
   "meanings": [
-    "-times",
+    "times",
     "round",
+    "revolve"
+  ],
+  "secondaryMeanings": [
+    "-times",
     "game",
-    "revolve",
     "counter for occurrences"
   ],
   "onyomi": [

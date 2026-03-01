@@ -3,7 +3,9 @@
   "unicode": "U+79BD",
   "symbol": "禽",
   "meanings": [
-    "bird",
+    "bird"
+  ],
+  "secondaryMeanings": [
     "captive",
     "capture"
   ],

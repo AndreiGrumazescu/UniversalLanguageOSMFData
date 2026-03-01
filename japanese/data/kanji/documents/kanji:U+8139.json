@@ -3,11 +3,13 @@
   "unicode": "U+8139",
   "symbol": "脹",
   "meanings": [
+    "swell",
+    "bulge"
+  ],
+  "secondaryMeanings": [
     "dilate",
     "distend",
-    "bulge",
-    "fill out",
-    "swell"
+    "fill out"
   ],
   "onyomi": [
     "チョウ"

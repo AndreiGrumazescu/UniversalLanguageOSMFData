@@ -3,7 +3,9 @@
   "unicode": "U+4F0D",
   "symbol": "伍",
   "meanings": [
-    "five",
+    "five"
+  ],
+  "secondaryMeanings": [
     "five-man squad",
     "file",
     "line"

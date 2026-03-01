@@ -4,10 +4,12 @@
   "symbol": "換",
   "meanings": [
     "interchange",
-    "period",
     "change",
     "convert",
-    "replace",
+    "replace"
+  ],
+  "secondaryMeanings": [
+    "period",
     "renew"
   ],
   "onyomi": [

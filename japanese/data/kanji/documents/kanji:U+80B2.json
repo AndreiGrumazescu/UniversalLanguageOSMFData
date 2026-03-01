@@ -3,9 +3,11 @@
   "unicode": "U+80B2",
   "symbol": "育",
   "meanings": [
-    "bring up",
-    "grow up",
     "raise",
+    "grow up"
+  ],
+  "secondaryMeanings": [
+    "bring up",
     "rear"
   ],
   "onyomi": [

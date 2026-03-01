@@ -3,9 +3,11 @@
   "unicode": "U+9632",
   "symbol": "防",
   "meanings": [
-    "ward off",
     "defend",
-    "protect",
+    "protect"
+  ],
+  "secondaryMeanings": [
+    "ward off",
     "resist"
   ],
   "onyomi": [

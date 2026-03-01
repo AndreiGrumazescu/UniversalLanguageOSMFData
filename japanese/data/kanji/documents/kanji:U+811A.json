@@ -3,8 +3,10 @@
   "unicode": "U+811A",
   "symbol": "脚",
   "meanings": [
+    "leg"
+  ],
+  "secondaryMeanings": [
     "skids",
-    "leg",
     "undercarriage",
     "lower part",
     "base"

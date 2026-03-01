@@ -3,9 +3,11 @@
   "unicode": "U+6606",
   "symbol": "昆",
   "meanings": [
-    "descendants",
-    "elder brother",
     "insect"
+  ],
+  "secondaryMeanings": [
+    "descendants",
+    "elder brother"
   ],
   "onyomi": [
     "コン"

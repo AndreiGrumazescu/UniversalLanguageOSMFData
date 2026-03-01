@@ -3,8 +3,10 @@
   "unicode": "U+8986",
   "symbol": "覆",
   "meanings": [
-    "capsize",
     "cover",
+    "capsize"
+  ],
+  "secondaryMeanings": [
     "shade",
     "mantle",
     "be ruined"

@@ -3,10 +3,14 @@
   "unicode": "U+8499",
   "symbol": "蒙",
   "meanings": [
+    "receive",
+    "suffer",
+    "incur"
+  ],
+  "secondaryMeanings": [
     "ignorance",
     "darkness",
     "get",
-    "receive",
     "be subjected to",
     "sustain",
     "Mongolia"

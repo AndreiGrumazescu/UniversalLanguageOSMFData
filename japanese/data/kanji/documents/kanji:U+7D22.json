@@ -3,10 +3,12 @@
   "unicode": "U+7D22",
   "symbol": "索",
   "meanings": [
-    "cord",
-    "rope",
     "searching",
     "inquiring"
+  ],
+  "secondaryMeanings": [
+    "cord",
+    "rope"
   ],
   "onyomi": [
     "サク"

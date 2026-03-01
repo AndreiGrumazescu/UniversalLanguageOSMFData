@@ -3,13 +3,15 @@
   "unicode": "U+5BFE",
   "symbol": "対",
   "meanings": [
-    "vis-a-vis",
     "opposite",
     "even",
     "equal",
     "versus",
     "anti-",
     "compare"
+  ],
+  "secondaryMeanings": [
+    "vis-a-vis"
   ],
   "onyomi": [
     "タイ"

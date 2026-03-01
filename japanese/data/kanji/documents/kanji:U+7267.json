@@ -3,11 +3,13 @@
   "unicode": "U+7267",
   "symbol": "牧",
   "meanings": [
+    "pasture",
+    "shepherd"
+  ],
+  "secondaryMeanings": [
     "breed",
     "care for",
-    "shepherd",
-    "feed",
-    "pasture"
+    "feed"
   ],
   "onyomi": [
     "ボク"

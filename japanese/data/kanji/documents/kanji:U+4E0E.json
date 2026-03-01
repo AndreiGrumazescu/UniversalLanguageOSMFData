@@ -4,11 +4,13 @@
   "symbol": "与",
   "meanings": [
     "bestow",
-    "participate in",
     "give",
+    "provide"
+  ],
+  "secondaryMeanings": [
+    "participate in",
     "award",
     "impart",
-    "provide",
     "cause",
     "gift",
     "godsend"

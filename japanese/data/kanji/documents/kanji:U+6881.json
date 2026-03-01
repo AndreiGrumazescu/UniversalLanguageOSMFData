@@ -3,10 +3,12 @@
   "unicode": "U+6881",
   "symbol": "梁",
   "meanings": [
-    "weir",
-    "fish trap",
     "beam",
     "girder"
+  ],
+  "secondaryMeanings": [
+    "weir",
+    "fish trap"
   ],
   "onyomi": [
     "リョウ"

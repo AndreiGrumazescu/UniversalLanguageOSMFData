@@ -3,9 +3,11 @@
   "unicode": "U+5DE7",
   "symbol": "巧",
   "meanings": [
-    "adroit",
     "skilled",
     "ingenuity"
+  ],
+  "secondaryMeanings": [
+    "adroit"
   ],
   "onyomi": [
     "コウ"

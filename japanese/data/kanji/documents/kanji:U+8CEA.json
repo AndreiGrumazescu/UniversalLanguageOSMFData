@@ -3,8 +3,10 @@
   "unicode": "U+8CEA",
   "symbol": "質",
   "meanings": [
-    "substance",
     "quality",
+    "substance"
+  ],
+  "secondaryMeanings": [
     "matter",
     "temperament"
   ],

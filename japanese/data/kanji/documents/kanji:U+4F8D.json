@@ -3,8 +3,10 @@
   "unicode": "U+4F8D",
   "symbol": "侍",
   "meanings": [
+    "samurai"
+  ],
+  "secondaryMeanings": [
     "waiter",
-    "samurai",
     "wait upon",
     "serve"
   ],

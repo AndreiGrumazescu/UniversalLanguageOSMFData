@@ -4,11 +4,13 @@
   "symbol": "額",
   "meanings": [
     "forehead",
+    "sum",
+    "amount"
+  ],
+  "secondaryMeanings": [
     "tablet",
     "plaque",
     "framed picture",
-    "sum",
-    "amount",
     "volume"
   ],
   "onyomi": [

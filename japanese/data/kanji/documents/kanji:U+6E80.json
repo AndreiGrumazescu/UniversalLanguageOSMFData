@@ -4,9 +4,11 @@
   "symbol": "満",
   "meanings": [
     "full",
-    "fullness",
-    "enough",
     "satisfy"
+  ],
+  "secondaryMeanings": [
+    "fullness",
+    "enough"
   ],
   "onyomi": [
     "マン"

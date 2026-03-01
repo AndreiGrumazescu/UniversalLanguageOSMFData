@@ -3,10 +3,12 @@
   "unicode": "U+6416",
   "symbol": "搖",
   "meanings": [
-    "wag",
-    "swing",
-    "wave",
     "shake",
+    "swing"
+  ],
+  "secondaryMeanings": [
+    "wag",
+    "wave",
     "scull"
   ],
   "onyomi": [

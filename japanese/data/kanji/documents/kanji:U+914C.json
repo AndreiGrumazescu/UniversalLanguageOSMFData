@@ -3,12 +3,14 @@
   "unicode": "U+914C",
   "symbol": "酌",
   "meanings": [
-    "bar-tending",
-    "serving sake",
-    "the host",
-    "draw (water)",
     "ladle",
     "scoop",
+    "draw (water)"
+  ],
+  "secondaryMeanings": [
+    "serving sake",
+    "bar-tending",
+    "the host",
     "pump"
   ],
   "onyomi": [

@@ -3,11 +3,13 @@
   "unicode": "U+6A5F",
   "symbol": "機",
   "meanings": [
-    "loom",
-    "mechanism",
     "machine",
+    "mechanism",
     "airplane",
-    "opportunity",
+    "opportunity"
+  ],
+  "secondaryMeanings": [
+    "loom",
     "potency",
     "efficacy",
     "occasion"

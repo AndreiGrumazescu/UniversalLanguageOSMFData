@@ -4,10 +4,12 @@
   "symbol": "余",
   "meanings": [
     "too much",
-    "myself",
     "surplus",
-    "other",
     "remainder"
+  ],
+  "secondaryMeanings": [
+    "myself",
+    "other"
   ],
   "onyomi": [
     "ヨ"

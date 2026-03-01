@@ -3,10 +3,12 @@
   "unicode": "U+9023",
   "symbol": "連",
   "meanings": [
-    "take along",
-    "lead",
-    "join",
     "connect",
+    "join",
+    "lead",
+    "take along"
+  ],
+  "secondaryMeanings": [
     "party",
     "gang",
     "clique"

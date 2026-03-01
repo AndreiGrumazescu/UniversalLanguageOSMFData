@@ -3,10 +3,12 @@
   "unicode": "U+5E7B",
   "symbol": "幻",
   "meanings": [
-    "phantasm",
-    "vision",
-    "dream",
     "illusion",
+    "vision",
+    "dream"
+  ],
+  "secondaryMeanings": [
+    "phantasm",
     "apparition"
   ],
   "onyomi": [

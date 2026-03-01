@@ -3,7 +3,9 @@
   "unicode": "U+5371",
   "symbol": "危",
   "meanings": [
-    "dangerous",
+    "dangerous"
+  ],
+  "secondaryMeanings": [
     "fear",
     "uneasy"
   ],

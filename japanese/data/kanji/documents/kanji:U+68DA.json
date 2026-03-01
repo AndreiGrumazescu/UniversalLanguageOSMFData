@@ -4,8 +4,10 @@
   "symbol": "棚",
   "meanings": [
     "shelf",
+    "rack"
+  ],
+  "secondaryMeanings": [
     "ledge",
-    "rack",
     "mount",
     "mantle",
     "trellis"

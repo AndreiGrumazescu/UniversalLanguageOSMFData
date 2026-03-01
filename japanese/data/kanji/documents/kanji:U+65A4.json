@@ -4,9 +4,11 @@
   "symbol": "斤",
   "meanings": [
     "axe",
-    "1.32 lb",
     "catty",
-    "counter for loaves of bread",
+    "counter for loaves of bread"
+  ],
+  "secondaryMeanings": [
+    "1.32 lb",
     "axe radical (no. 69)"
   ],
   "onyomi": [

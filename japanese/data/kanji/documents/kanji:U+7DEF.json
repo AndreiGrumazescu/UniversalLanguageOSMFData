@@ -4,9 +4,11 @@
   "symbol": "緯",
   "meanings": [
     "horizontal",
-    "woof",
     "left & right",
-    "(parallels of) latitude",
+    "(parallels of) latitude"
+  ],
+  "secondaryMeanings": [
+    "woof",
     "prediction"
   ],
   "onyomi": [

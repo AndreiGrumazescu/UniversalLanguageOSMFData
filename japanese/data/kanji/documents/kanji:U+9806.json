@@ -3,9 +3,11 @@
   "unicode": "U+9806",
   "symbol": "順",
   "meanings": [
-    "obey",
     "order",
     "turn",
+    "obey"
+  ],
+  "secondaryMeanings": [
     "right",
     "docility",
     "occasion"

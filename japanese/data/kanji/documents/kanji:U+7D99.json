@@ -6,7 +6,9 @@
     "inherit",
     "succeed",
     "continue",
-    "patch",
+    "patch"
+  ],
+  "secondaryMeanings": [
     "graft (tree)"
   ],
   "onyomi": [

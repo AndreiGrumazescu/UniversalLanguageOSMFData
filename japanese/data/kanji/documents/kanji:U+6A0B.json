@@ -4,7 +4,9 @@
   "symbol": "樋",
   "meanings": [
     "water pipe",
-    "gutter",
+    "gutter"
+  ],
+  "secondaryMeanings": [
     "downspout",
     "conduit"
   ],

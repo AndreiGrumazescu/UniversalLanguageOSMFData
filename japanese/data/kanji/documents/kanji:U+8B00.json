@@ -3,12 +3,14 @@
   "unicode": "U+8B00",
   "symbol": "謀",
   "meanings": [
-    "conspire",
+    "plan",
+    "scheme",
+    "conspire"
+  ],
+  "secondaryMeanings": [
+    "devise",
     "cheat",
     "impose on",
-    "plan",
-    "devise",
-    "scheme",
     "have in mind",
     "deceive"
   ],

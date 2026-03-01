@@ -3,8 +3,10 @@
   "unicode": "U+888B",
   "symbol": "袋",
   "meanings": [
-    "sack",
     "bag",
+    "sack"
+  ],
+  "secondaryMeanings": [
     "pouch"
   ],
   "onyomi": [

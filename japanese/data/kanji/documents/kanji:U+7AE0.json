@@ -3,8 +3,10 @@
   "unicode": "U+7AE0",
   "symbol": "章",
   "meanings": [
-    "badge",
     "chapter",
+    "badge"
+  ],
+  "secondaryMeanings": [
     "composition",
     "poem",
     "design"

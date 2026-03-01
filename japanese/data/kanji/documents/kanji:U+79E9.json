@@ -3,9 +3,11 @@
   "unicode": "U+79E9",
   "symbol": "秩",
   "meanings": [
-    "regularity",
-    "salary",
-    "order"
+    "order",
+    "regularity"
+  ],
+  "secondaryMeanings": [
+    "salary"
   ],
   "onyomi": [
     "チツ"

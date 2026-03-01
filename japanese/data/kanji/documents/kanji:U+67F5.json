@@ -3,8 +3,10 @@
   "unicode": "U+67F5",
   "symbol": "柵",
   "meanings": [
+    "fence"
+  ],
+  "secondaryMeanings": [
     "stockade",
-    "fence",
     "weir",
     "entwine around"
   ],

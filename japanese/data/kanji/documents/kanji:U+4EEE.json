@@ -3,10 +3,12 @@
   "unicode": "U+4EEE",
   "symbol": "仮",
   "meanings": [
-    "sham",
     "temporary",
     "interim",
-    "assumed (name)",
+    "assumed (name)"
+  ],
+  "secondaryMeanings": [
+    "sham",
     "informal"
   ],
   "onyomi": [

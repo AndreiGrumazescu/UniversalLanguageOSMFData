@@ -4,8 +4,6 @@
   "symbol": "解",
   "meanings": [
     "unravel",
-    "notes",
-    "key",
     "explanation",
     "understanding",
     "untie",
@@ -13,8 +11,12 @@
     "solve",
     "answer",
     "cancel",
+    "explain"
+  ],
+  "secondaryMeanings": [
+    "notes",
+    "key",
     "absolve",
-    "explain",
     "minute"
   ],
   "onyomi": [

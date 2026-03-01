@@ -3,9 +3,11 @@
   "unicode": "U+966A",
   "symbol": "陪",
   "meanings": [
-    "obeisance",
     "follow",
-    "accompany",
+    "accompany"
+  ],
+  "secondaryMeanings": [
+    "obeisance",
     "attend on"
   ],
   "onyomi": [

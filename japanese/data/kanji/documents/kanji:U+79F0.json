@@ -3,11 +3,13 @@
   "unicode": "U+79F0",
   "symbol": "称",
   "meanings": [
-    "appellation",
-    "praise",
-    "admire",
     "name",
     "title",
+    "praise"
+  ],
+  "secondaryMeanings": [
+    "appellation",
+    "admire",
     "fame"
   ],
   "onyomi": [

@@ -5,7 +5,9 @@
   "meanings": [
     "room",
     "apartment",
-    "chamber",
+    "chamber"
+  ],
+  "secondaryMeanings": [
     "greenhouse",
     "cellar"
   ],

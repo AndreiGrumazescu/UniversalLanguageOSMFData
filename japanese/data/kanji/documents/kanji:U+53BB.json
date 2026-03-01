@@ -3,10 +3,12 @@
   "unicode": "U+53BB",
   "symbol": "去",
   "meanings": [
-    "gone",
-    "past",
-    "quit",
     "leave",
+    "past",
+    "gone"
+  ],
+  "secondaryMeanings": [
+    "quit",
     "elapse",
     "eliminate",
     "divorce"

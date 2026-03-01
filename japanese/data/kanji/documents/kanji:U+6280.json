@@ -6,7 +6,9 @@
     "skill",
     "art",
     "craft",
-    "ability",
+    "ability"
+  ],
+  "secondaryMeanings": [
     "feat",
     "performance",
     "vocation",

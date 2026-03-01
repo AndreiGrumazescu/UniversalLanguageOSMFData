@@ -4,7 +4,9 @@
   "symbol": "曉",
   "meanings": [
     "dawn",
-    "daybreak",
+    "daybreak"
+  ],
+  "secondaryMeanings": [
     "clear",
     "explicit"
   ],

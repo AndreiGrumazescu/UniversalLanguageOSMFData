@@ -3,11 +3,13 @@
   "unicode": "U+5C3A",
   "symbol": "尺",
   "meanings": [
-    "shaku",
-    "Japanese foot",
     "measure",
     "scale",
     "rule"
+  ],
+  "secondaryMeanings": [
+    "shaku",
+    "Japanese foot"
   ],
   "onyomi": [
     "シャク"

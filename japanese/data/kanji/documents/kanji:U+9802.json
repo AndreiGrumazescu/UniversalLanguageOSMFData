@@ -3,12 +3,14 @@
   "unicode": "U+9802",
   "symbol": "頂",
   "meanings": [
-    "place on the head",
-    "receive",
-    "top of head",
     "top",
     "summit",
-    "peak"
+    "peak",
+    "receive"
+  ],
+  "secondaryMeanings": [
+    "place on the head",
+    "top of head"
   ],
   "onyomi": [
     "チョウ"

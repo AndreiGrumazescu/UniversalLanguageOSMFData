@@ -3,7 +3,9 @@
   "unicode": "U+520A",
   "symbol": "刊",
   "meanings": [
-    "publish",
+    "publish"
+  ],
+  "secondaryMeanings": [
     "carve",
     "engrave"
   ],

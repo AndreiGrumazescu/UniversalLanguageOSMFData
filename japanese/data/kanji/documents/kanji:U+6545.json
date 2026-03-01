@@ -3,14 +3,16 @@
   "unicode": "U+6545",
   "symbol": "故",
   "meanings": [
+    "reason",
+    "cause",
+    "therefore"
+  ],
+  "secondaryMeanings": [
     "happenstance",
     "especially",
     "intentionally",
-    "reason",
-    "cause",
     "circumstances",
     "the late",
-    "therefore",
     "consequently"
   ],
   "onyomi": [

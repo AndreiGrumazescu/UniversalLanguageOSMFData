@@ -3,10 +3,12 @@
   "unicode": "U+6B96",
   "symbol": "殖",
   "meanings": [
-    "augment",
     "increase",
     "multiply",
     "raise"
+  ],
+  "secondaryMeanings": [
+    "augment"
   ],
   "onyomi": [
     "ショク"

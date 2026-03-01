@@ -4,11 +4,13 @@
   "symbol": "駄",
   "meanings": [
     "burdensome",
-    "pack horse",
-    "horse load",
-    "send by horse",
     "trivial",
     "worthless"
+  ],
+  "secondaryMeanings": [
+    "pack horse",
+    "horse load",
+    "send by horse"
   ],
   "onyomi": [
     "ダ"

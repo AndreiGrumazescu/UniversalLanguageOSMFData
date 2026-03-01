@@ -3,8 +3,10 @@
   "unicode": "U+6C7D",
   "symbol": "汽",
   "meanings": [
-    "vapor",
     "steam"
+  ],
+  "secondaryMeanings": [
+    "vapor"
   ],
   "onyomi": [
     "キ"

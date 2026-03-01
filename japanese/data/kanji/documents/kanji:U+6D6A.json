@@ -3,9 +3,11 @@
   "unicode": "U+6D6A",
   "symbol": "浪",
   "meanings": [
-    "wandering",
     "waves",
-    "billows",
+    "billows"
+  ],
+  "secondaryMeanings": [
+    "wandering",
     "reckless",
     "unrestrained"
   ],

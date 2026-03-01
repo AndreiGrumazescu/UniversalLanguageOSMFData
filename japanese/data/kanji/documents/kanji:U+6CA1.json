@@ -3,11 +3,13 @@
   "unicode": "U+6CA1",
   "symbol": "没",
   "meanings": [
-    "drown",
     "sink",
+    "disappear"
+  ],
+  "secondaryMeanings": [
+    "drown",
     "hide",
     "fall into",
-    "disappear",
     "die"
   ],
   "onyomi": [

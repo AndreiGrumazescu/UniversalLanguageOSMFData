@@ -4,10 +4,12 @@
   "symbol": "焦",
   "meanings": [
     "char",
-    "hurry",
-    "impatient",
-    "irritate",
     "burn",
+    "impatient"
+  ],
+  "secondaryMeanings": [
+    "hurry",
+    "irritate",
     "scorch",
     "singe"
   ],

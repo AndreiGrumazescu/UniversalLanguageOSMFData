@@ -3,11 +3,13 @@
   "unicode": "U+524A",
   "symbol": "削",
   "meanings": [
-    "plane",
     "sharpen",
     "whittle",
-    "pare",
     "shave"
+  ],
+  "secondaryMeanings": [
+    "plane",
+    "pare"
   ],
   "onyomi": [
     "サク"

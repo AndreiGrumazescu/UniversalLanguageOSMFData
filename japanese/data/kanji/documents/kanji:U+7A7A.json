@@ -4,7 +4,9 @@
   "symbol": "空",
   "meanings": [
     "empty",
-    "sky",
+    "sky"
+  ],
+  "secondaryMeanings": [
     "void",
     "vacant",
     "vacuum"

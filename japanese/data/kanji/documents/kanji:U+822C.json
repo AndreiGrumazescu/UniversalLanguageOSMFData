@@ -3,10 +3,12 @@
   "unicode": "U+822C",
   "symbol": "般",
   "meanings": [
+    "general",
+    "all"
+  ],
+  "secondaryMeanings": [
     "carrier",
     "carry",
-    "all",
-    "general",
     "sort",
     "kind"
   ],

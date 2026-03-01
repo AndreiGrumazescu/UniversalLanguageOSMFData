@@ -3,7 +3,9 @@
   "unicode": "U+6398",
   "symbol": "掘",
   "meanings": [
-    "dig",
+    "dig"
+  ],
+  "secondaryMeanings": [
     "delve",
     "excavate"
   ],

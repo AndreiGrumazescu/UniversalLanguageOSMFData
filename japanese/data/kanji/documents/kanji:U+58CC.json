@@ -3,9 +3,11 @@
   "unicode": "U+58CC",
   "symbol": "壌",
   "meanings": [
-    "lot",
     "earth",
     "soil"
+  ],
+  "secondaryMeanings": [
+    "lot"
   ],
   "onyomi": [
     "ジョウ"

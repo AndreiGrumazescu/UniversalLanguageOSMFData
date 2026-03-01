@@ -4,10 +4,12 @@
   "symbol": "冒",
   "meanings": [
     "risk",
-    "face",
     "defy",
     "dare",
-    "damage",
+    "damage"
+  ],
+  "secondaryMeanings": [
+    "face",
     "assume (a name)"
   ],
   "onyomi": [

@@ -3,8 +3,10 @@
   "unicode": "U+5C16",
   "symbol": "尖",
   "meanings": [
-    "be pointed",
-    "sharp",
+    "pointed",
+    "sharp"
+  ],
+  "secondaryMeanings": [
     "taper",
     "displeased",
     "angry",

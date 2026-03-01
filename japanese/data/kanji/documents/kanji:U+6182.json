@@ -3,10 +3,12 @@
   "unicode": "U+6182",
   "symbol": "憂",
   "meanings": [
-    "melancholy",
     "grieve",
     "lament",
-    "be anxious",
+    "be anxious"
+  ],
+  "secondaryMeanings": [
+    "melancholy",
     "sad",
     "unhappy"
   ],

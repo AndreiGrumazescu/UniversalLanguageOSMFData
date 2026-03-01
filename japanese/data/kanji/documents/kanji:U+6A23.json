@@ -3,11 +3,13 @@
   "unicode": "U+6A23",
   "symbol": "樣",
   "meanings": [
-    "Esq.",
     "way",
     "manner",
     "situation",
     "polite suffix"
+  ],
+  "secondaryMeanings": [
+    "Esq."
   ],
   "onyomi": [
     "ヨウ"

@@ -4,10 +4,12 @@
   "symbol": "底",
   "meanings": [
     "bottom",
+    "base"
+  ],
+  "secondaryMeanings": [
     "sole",
     "depth",
     "bottom price",
-    "base",
     "kind",
     "sort"
   ],

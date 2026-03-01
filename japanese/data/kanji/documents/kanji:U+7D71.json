@@ -3,10 +3,12 @@
   "unicode": "U+7D71",
   "symbol": "統",
   "meanings": [
-    "overall",
-    "relationship",
     "ruling",
     "governing"
+  ],
+  "secondaryMeanings": [
+    "overall",
+    "relationship"
   ],
   "onyomi": [
     "トウ"

@@ -4,11 +4,13 @@
   "symbol": "兆",
   "meanings": [
     "portent",
-    "10**12",
     "trillion",
     "sign",
     "omen",
     "symptoms"
+  ],
+  "secondaryMeanings": [
+    "10**12"
   ],
   "onyomi": [
     "チョウ"

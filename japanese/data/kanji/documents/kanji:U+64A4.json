@@ -6,7 +6,9 @@
     "remove",
     "withdraw",
     "disarm",
-    "dismantle",
+    "dismantle"
+  ],
+  "secondaryMeanings": [
     "reject",
     "exclude"
   ],

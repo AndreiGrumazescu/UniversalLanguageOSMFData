@@ -4,7 +4,9 @@
   "symbol": "圏",
   "meanings": [
     "sphere",
-    "circle",
+    "circle"
+  ],
+  "secondaryMeanings": [
     "radius",
     "range"
   ],

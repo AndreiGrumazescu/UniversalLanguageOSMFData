@@ -4,9 +4,11 @@
   "symbol": "浦",
   "meanings": [
     "bay",
-    "creek",
     "inlet",
-    "gulf",
+    "gulf"
+  ],
+  "secondaryMeanings": [
+    "creek",
     "beach",
     "seacoast"
   ],

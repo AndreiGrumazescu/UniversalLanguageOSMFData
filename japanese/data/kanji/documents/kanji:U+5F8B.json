@@ -3,9 +3,11 @@
   "unicode": "U+5F8B",
   "symbol": "律",
   "meanings": [
-    "rhythm",
     "law",
-    "regulation",
+    "regulation"
+  ],
+  "secondaryMeanings": [
+    "rhythm",
     "gauge",
     "control"
   ],

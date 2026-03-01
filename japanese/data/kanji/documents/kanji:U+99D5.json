@@ -3,7 +3,9 @@
   "unicode": "U+99D5",
   "symbol": "駕",
   "meanings": [
-    "vehicle",
+    "vehicle"
+  ],
+  "secondaryMeanings": [
     "palanquin",
     "litter",
     "hitch up an animal"

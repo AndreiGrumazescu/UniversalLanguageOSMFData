@@ -3,11 +3,13 @@
   "unicode": "U+7B48",
   "symbol": "筈",
   "meanings": [
-    "notch of an arrow",
     "ought",
     "must",
     "should be",
     "expected"
+  ],
+  "secondaryMeanings": [
+    "notch of an arrow"
   ],
   "onyomi": [
     "カツ"

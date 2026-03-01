@@ -4,7 +4,9 @@
   "symbol": "短",
   "meanings": [
     "short",
-    "brevity",
+    "brevity"
+  ],
+  "secondaryMeanings": [
     "fault",
     "defect",
     "weak point"

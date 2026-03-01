@@ -3,10 +3,12 @@
   "unicode": "U+9D3B",
   "symbol": "鴻",
   "meanings": [
-    "large bird",
     "wild goose",
     "large",
-    "great",
+    "great"
+  ],
+  "secondaryMeanings": [
+    "large bird",
     "powerful",
     "prosperous"
   ],

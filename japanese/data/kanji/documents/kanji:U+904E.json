@@ -3,9 +3,11 @@
   "unicode": "U+904E",
   "symbol": "過",
   "meanings": [
-    "overdo",
     "exceed",
-    "go beyond",
+    "go beyond"
+  ],
+  "secondaryMeanings": [
+    "overdo",
     "error"
   ],
   "onyomi": [

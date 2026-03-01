@@ -3,10 +3,12 @@
   "unicode": "U+5F35",
   "symbol": "張",
   "meanings": [
-    "counter for bows & stringed instruments",
     "stretch",
     "spread",
     "put up (tent)"
+  ],
+  "secondaryMeanings": [
+    "counter for bows & stringed instruments"
   ],
   "onyomi": [
     "チョウ"

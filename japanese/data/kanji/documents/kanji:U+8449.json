@@ -3,7 +3,9 @@
   "unicode": "U+8449",
   "symbol": "葉",
   "meanings": [
-    "leaf",
+    "leaf"
+  ],
+  "secondaryMeanings": [
     "plane",
     "lobe",
     "needle",

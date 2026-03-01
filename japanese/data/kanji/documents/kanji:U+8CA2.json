@@ -3,9 +3,11 @@
   "unicode": "U+8CA2",
   "symbol": "貢",
   "meanings": [
-    "tribute",
     "support",
     "finance"
+  ],
+  "secondaryMeanings": [
+    "tribute"
   ],
   "onyomi": [
     "コウ"

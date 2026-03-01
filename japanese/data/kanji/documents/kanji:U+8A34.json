@@ -3,10 +3,12 @@
   "unicode": "U+8A34",
   "symbol": "訴",
   "meanings": [
-    "accusation",
     "sue",
-    "complain of pain",
     "appeal to"
+  ],
+  "secondaryMeanings": [
+    "accusation",
+    "complain of pain"
   ],
   "onyomi": [
     "ソ"

@@ -3,9 +3,11 @@
   "unicode": "U+5805",
   "symbol": "堅",
   "meanings": [
-    "strict",
     "hard",
-    "solid",
+    "solid"
+  ],
+  "secondaryMeanings": [
+    "strict",
     "tough",
     "tight",
     "reliable"

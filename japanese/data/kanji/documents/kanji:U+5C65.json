@@ -3,10 +3,12 @@
   "unicode": "U+5C65",
   "symbol": "履",
   "meanings": [
+    "footgear",
+    "shoes"
+  ],
+  "secondaryMeanings": [
     "perform",
     "complete",
-    "footgear",
-    "shoes",
     "boots",
     "put on (the feet)"
   ],

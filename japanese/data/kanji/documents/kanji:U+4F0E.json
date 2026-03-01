@@ -3,8 +3,10 @@
   "unicode": "U+4F0E",
   "symbol": "伎",
   "meanings": [
-    "deed",
     "skill"
+  ],
+  "secondaryMeanings": [
+    "deed"
   ],
   "onyomi": [
     "ギ"

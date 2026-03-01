@@ -4,11 +4,13 @@
   "symbol": "練",
   "meanings": [
     "practice",
-    "gloss",
     "train",
     "drill",
     "polish",
     "refine"
+  ],
+  "secondaryMeanings": [
+    "gloss"
   ],
   "onyomi": [
     "レン"

@@ -3,9 +3,11 @@
   "unicode": "U+4FC3",
   "symbol": "促",
   "meanings": [
-    "stimulate",
     "urge",
-    "press",
+    "stimulate",
+    "press"
+  ],
+  "secondaryMeanings": [
     "demand",
     "incite"
   ],

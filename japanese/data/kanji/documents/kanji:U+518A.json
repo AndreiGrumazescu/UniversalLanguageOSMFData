@@ -3,9 +3,11 @@
   "unicode": "U+518A",
   "symbol": "冊",
   "meanings": [
-    "tome",
     "counter for books",
     "volume"
+  ],
+  "secondaryMeanings": [
+    "tome"
   ],
   "onyomi": [
     "サツ"

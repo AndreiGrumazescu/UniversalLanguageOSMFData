@@ -4,9 +4,11 @@
   "symbol": "甲",
   "meanings": [
     "armor",
-    "high (voice)",
     "A grade",
-    "first class",
+    "first class"
+  ],
+  "secondaryMeanings": [
+    "high (voice)",
     "former",
     "instep",
     "carapace"

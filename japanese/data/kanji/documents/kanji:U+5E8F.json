@@ -4,8 +4,10 @@
   "symbol": "序",
   "meanings": [
     "preface",
-    "beginning",
     "order",
+    "beginning"
+  ],
+  "secondaryMeanings": [
     "precedence",
     "occasion",
     "chance",

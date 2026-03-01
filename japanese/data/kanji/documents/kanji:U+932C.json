@@ -3,10 +3,12 @@
   "unicode": "U+932C",
   "symbol": "錬",
   "meanings": [
-    "tempering",
     "refine",
+    "train"
+  ],
+  "secondaryMeanings": [
+    "tempering",
     "drill",
-    "train",
     "polish"
   ],
   "onyomi": [

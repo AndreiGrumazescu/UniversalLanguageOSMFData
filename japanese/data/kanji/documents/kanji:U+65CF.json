@@ -3,8 +3,10 @@
   "unicode": "U+65CF",
   "symbol": "族",
   "meanings": [
-    "tribe",
     "family"
+  ],
+  "secondaryMeanings": [
+    "tribe"
   ],
   "onyomi": [
     "ゾク"

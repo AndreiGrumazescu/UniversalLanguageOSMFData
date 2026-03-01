@@ -4,10 +4,12 @@
   "symbol": "驍",
   "meanings": [
     "strong",
-    "good horse",
     "gallant",
     "brave",
     "ferocious"
+  ],
+  "secondaryMeanings": [
+    "good horse"
   ],
   "onyomi": [
     "ギョウ"

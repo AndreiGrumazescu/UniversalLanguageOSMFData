@@ -3,7 +3,10 @@
   "unicode": "U+56DA",
   "symbol": "囚",
   "meanings": [
-    "captured",
+    "prisoner",
+    "captured"
+  ],
+  "secondaryMeanings": [
     "criminal",
     "arrest",
     "catch"

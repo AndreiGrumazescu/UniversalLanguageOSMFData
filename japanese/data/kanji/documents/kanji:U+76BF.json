@@ -4,8 +4,10 @@
   "symbol": "皿",
   "meanings": [
     "dish",
-    "a helping",
     "plate"
+  ],
+  "secondaryMeanings": [
+    "a helping"
   ],
   "onyomi": [
     "ベイ"

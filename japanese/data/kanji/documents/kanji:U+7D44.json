@@ -4,11 +4,13 @@
   "symbol": "組",
   "meanings": [
     "association",
+    "assemble",
+    "unite"
+  ],
+  "secondaryMeanings": [
     "braid",
     "plait",
     "construct",
-    "assemble",
-    "unite",
     "cooperate",
     "grapple"
   ],

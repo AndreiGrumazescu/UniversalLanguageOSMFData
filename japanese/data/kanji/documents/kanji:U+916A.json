@@ -3,7 +3,9 @@
   "unicode": "U+916A",
   "symbol": "酪",
   "meanings": [
-    "dairy products",
+    "dairy products"
+  ],
+  "secondaryMeanings": [
     "whey",
     "broth",
     "fruit juice"

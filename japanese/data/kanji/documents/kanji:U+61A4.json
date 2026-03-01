@@ -3,10 +3,12 @@
   "unicode": "U+61A4",
   "symbol": "憤",
   "meanings": [
-    "aroused",
-    "resent",
+    "anger",
+    "resent"
+  ],
+  "secondaryMeanings": [
     "be indignant",
-    "anger"
+    "aroused"
   ],
   "onyomi": [
     "フン"

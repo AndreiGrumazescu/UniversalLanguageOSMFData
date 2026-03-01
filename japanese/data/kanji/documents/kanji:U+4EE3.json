@@ -5,15 +5,17 @@
   "meanings": [
     "substitute",
     "change",
-    "convert",
     "replace",
-    "period",
-    "age",
-    "counter for decades of ages, eras, etc.",
     "generation",
-    "charge",
-    "rate",
+    "age",
+    "period",
     "fee"
+  ],
+  "secondaryMeanings": [
+    "convert",
+    "counter for decades of ages, eras, etc.",
+    "charge",
+    "rate"
   ],
   "onyomi": [
     "ダイ"

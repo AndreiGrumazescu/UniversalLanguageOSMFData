@@ -4,7 +4,9 @@
   "symbol": "桁",
   "meanings": [
     "beam",
-    "girder",
+    "girder"
+  ],
+  "secondaryMeanings": [
     "spar",
     "unit or column (accounting)"
   ],

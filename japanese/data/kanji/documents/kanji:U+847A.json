@@ -3,7 +3,9 @@
   "unicode": "U+847A",
   "symbol": "葺",
   "meanings": [
-    "thatch",
+    "thatch"
+  ],
+  "secondaryMeanings": [
     "cover",
     "shingle",
     "tile"

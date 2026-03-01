@@ -4,7 +4,9 @@
   "symbol": "乘",
   "meanings": [
     "power",
-    "multiplication",
+    "multiplication"
+  ],
+  "secondaryMeanings": [
     "record",
     "counter for vehicles"
   ],

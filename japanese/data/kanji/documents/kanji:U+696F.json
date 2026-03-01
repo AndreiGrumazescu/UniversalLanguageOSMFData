@@ -3,7 +3,9 @@
   "unicode": "U+696F",
   "symbol": "楯",
   "meanings": [
-    "shield",
+    "shield"
+  ],
+  "secondaryMeanings": [
     "buckler",
     "pretext"
   ],

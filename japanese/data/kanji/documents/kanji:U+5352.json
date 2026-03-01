@@ -4,7 +4,9 @@
   "symbol": "卒",
   "meanings": [
     "graduate",
-    "soldier",
+    "soldier"
+  ],
+  "secondaryMeanings": [
     "private",
     "die"
   ],

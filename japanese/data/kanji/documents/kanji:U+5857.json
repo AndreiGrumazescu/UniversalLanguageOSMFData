@@ -4,10 +4,12 @@
   "symbol": "塗",
   "meanings": [
     "paint",
-    "plaster",
-    "daub",
     "smear",
     "coating"
+  ],
+  "secondaryMeanings": [
+    "plaster",
+    "daub"
   ],
   "onyomi": [
     "ト"

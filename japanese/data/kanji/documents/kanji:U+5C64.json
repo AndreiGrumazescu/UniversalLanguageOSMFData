@@ -3,9 +3,11 @@
   "unicode": "U+5C64",
   "symbol": "層",
   "meanings": [
-    "stratum",
-    "social class",
     "layer",
+    "stratum"
+  ],
+  "secondaryMeanings": [
+    "social class",
     "story",
     "floor"
   ],

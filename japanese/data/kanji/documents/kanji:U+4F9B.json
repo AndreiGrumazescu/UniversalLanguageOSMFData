@@ -3,8 +3,10 @@
   "unicode": "U+4F9B",
   "symbol": "供",
   "meanings": [
-    "submit",
     "offer",
+    "submit"
+  ],
+  "secondaryMeanings": [
     "present",
     "serve (meal)",
     "accompany"

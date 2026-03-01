@@ -3,11 +3,13 @@
   "unicode": "U+5FF5",
   "symbol": "念",
   "meanings": [
-    "wish",
-    "sense",
-    "idea",
     "thought",
     "feeling",
+    "wish"
+  ],
+  "secondaryMeanings": [
+    "sense",
+    "idea",
     "desire",
     "attention"
   ],

@@ -3,9 +3,11 @@
   "unicode": "U+79FB",
   "symbol": "移",
   "meanings": [
-    "shift",
     "move",
-    "change",
+    "shift",
+    "change"
+  ],
+  "secondaryMeanings": [
     "drift",
     "catch (cold, fire)",
     "pass into"

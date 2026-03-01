@@ -3,11 +3,13 @@
   "unicode": "U+584A",
   "symbol": "塊",
   "meanings": [
-    "clod",
     "lump",
     "chunk",
-    "clot",
     "mass"
+  ],
+  "secondaryMeanings": [
+    "clod",
+    "clot"
   ],
   "onyomi": [
     "カイ"

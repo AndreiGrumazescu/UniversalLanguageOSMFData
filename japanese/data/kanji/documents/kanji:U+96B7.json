@@ -4,7 +4,9 @@
   "symbol": "隷",
   "meanings": [
     "slave",
-    "servant",
+    "servant"
+  ],
+  "secondaryMeanings": [
     "prisoner",
     "criminal",
     "follower"

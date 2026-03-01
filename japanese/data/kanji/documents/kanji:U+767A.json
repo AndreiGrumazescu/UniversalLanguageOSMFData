@@ -4,9 +4,11 @@
   "symbol": "発",
   "meanings": [
     "departure",
-    "discharge",
-    "publish",
     "emit",
+    "discharge",
+    "publish"
+  ],
+  "secondaryMeanings": [
     "start from",
     "disclose",
     "counter for gunshots"

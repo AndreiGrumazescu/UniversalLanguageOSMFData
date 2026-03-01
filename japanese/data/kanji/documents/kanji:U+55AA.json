@@ -3,8 +3,10 @@
   "unicode": "U+55AA",
   "symbol": "喪",
   "meanings": [
-    "miss",
     "mourning"
+  ],
+  "secondaryMeanings": [
+    "miss"
   ],
   "onyomi": [
     "ソウ"

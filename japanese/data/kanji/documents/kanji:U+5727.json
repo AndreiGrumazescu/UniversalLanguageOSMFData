@@ -4,7 +4,9 @@
   "symbol": "圧",
   "meanings": [
     "pressure",
-    "push",
+    "push"
+  ],
+  "secondaryMeanings": [
     "overwhelm",
     "oppress",
     "dominate"

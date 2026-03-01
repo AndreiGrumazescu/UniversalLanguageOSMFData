@@ -3,7 +3,9 @@
   "unicode": "U+7FFC",
   "symbol": "翼",
   "meanings": [
-    "wing",
+    "wing"
+  ],
+  "secondaryMeanings": [
     "plane",
     "flank"
   ],

@@ -3,10 +3,12 @@
   "unicode": "U+8AD2",
   "symbol": "諒",
   "meanings": [
-    "fact",
-    "reality",
     "understand",
     "appreciate"
+  ],
+  "secondaryMeanings": [
+    "fact",
+    "reality"
   ],
   "onyomi": [
     "リョウ"

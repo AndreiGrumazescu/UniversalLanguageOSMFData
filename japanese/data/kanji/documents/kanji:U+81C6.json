@@ -4,10 +4,12 @@
   "symbol": "臆",
   "meanings": [
     "timidity",
-    "heart",
-    "mind",
     "fear",
     "cowardly"
+  ],
+  "secondaryMeanings": [
+    "heart",
+    "mind"
   ],
   "onyomi": [
     "オク"

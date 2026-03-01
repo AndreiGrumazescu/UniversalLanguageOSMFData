@@ -3,10 +3,12 @@
   "unicode": "U+8DE8",
   "symbol": "跨",
   "meanings": [
+    "straddle",
+    "extend over"
+  ],
+  "secondaryMeanings": [
     "be",
-    "sit or stand astride",
-    "extend over",
-    "straddle"
+    "sit or stand astride"
   ],
   "onyomi": [
     "コ"

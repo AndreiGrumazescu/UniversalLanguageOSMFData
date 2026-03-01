@@ -3,10 +3,12 @@
   "unicode": "U+8A3A",
   "symbol": "診",
   "meanings": [
-    "checkup",
-    "seeing",
     "diagnose",
     "examine"
+  ],
+  "secondaryMeanings": [
+    "checkup",
+    "seeing"
   ],
   "onyomi": [
     "シン"

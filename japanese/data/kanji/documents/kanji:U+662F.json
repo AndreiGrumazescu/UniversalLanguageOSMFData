@@ -3,9 +3,11 @@
   "unicode": "U+662F",
   "symbol": "是",
   "meanings": [
-    "just so",
     "this",
-    "right",
+    "right"
+  ],
+  "secondaryMeanings": [
+    "just so",
     "justice"
   ],
   "onyomi": [

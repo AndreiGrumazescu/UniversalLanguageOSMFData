@@ -3,10 +3,12 @@
   "unicode": "U+9AA8",
   "symbol": "骨",
   "meanings": [
-    "skeleton",
     "bone",
-    "remains",
+    "skeleton",
     "frame"
+  ],
+  "secondaryMeanings": [
+    "remains"
   ],
   "onyomi": [
     "コツ"

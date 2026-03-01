@@ -3,12 +3,14 @@
   "unicode": "U+7D0D",
   "symbol": "納",
   "meanings": [
-    "settlement",
-    "obtain",
-    "reap",
     "pay",
     "supply",
     "store"
+  ],
+  "secondaryMeanings": [
+    "settlement",
+    "obtain",
+    "reap"
   ],
   "onyomi": [
     "ノウ"

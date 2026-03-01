@@ -3,10 +3,12 @@
   "unicode": "U+6155",
   "symbol": "慕",
   "meanings": [
-    "pining",
     "yearn for",
     "love dearly",
     "adore"
+  ],
+  "secondaryMeanings": [
+    "pining"
   ],
   "onyomi": [
     "ボ"

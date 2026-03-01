@@ -3,11 +3,13 @@
   "unicode": "U+7E1B",
   "symbol": "縛",
   "meanings": [
-    "truss",
-    "arrest",
     "bind",
     "tie",
     "restrain"
+  ],
+  "secondaryMeanings": [
+    "truss",
+    "arrest"
   ],
   "onyomi": [
     "バク"

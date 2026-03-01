@@ -3,9 +3,11 @@
   "unicode": "U+63F4",
   "symbol": "援",
   "meanings": [
-    "abet",
     "help",
     "save"
+  ],
+  "secondaryMeanings": [
+    "abet"
   ],
   "onyomi": [
     "エン"

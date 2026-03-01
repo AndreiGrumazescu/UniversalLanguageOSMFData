@@ -3,9 +3,11 @@
   "unicode": "U+934A",
   "symbol": "鍊",
   "meanings": [
-    "smelt metals",
     "forge",
     "refine"
+  ],
+  "secondaryMeanings": [
+    "smelt metals"
   ],
   "onyomi": [
     "レン"

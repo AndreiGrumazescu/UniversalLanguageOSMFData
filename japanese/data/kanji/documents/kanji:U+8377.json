@@ -4,12 +4,14 @@
   "symbol": "荷",
   "meanings": [
     "baggage",
-    "shoulder-pole load",
-    "bear (a burden)",
-    "shoulder (a gun)",
     "load",
     "cargo",
     "freight"
+  ],
+  "secondaryMeanings": [
+    "shoulder-pole load",
+    "bear (a burden)",
+    "shoulder (a gun)"
   ],
   "onyomi": [
     "カ"

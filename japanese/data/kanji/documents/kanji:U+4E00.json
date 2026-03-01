@@ -3,8 +3,10 @@
   "unicode": "U+4E00",
   "symbol": "一",
   "meanings": [
-    "one",
-    "one radical (no.1)"
+    "one"
+  ],
+  "secondaryMeanings": [
+    "one radical"
   ],
   "onyomi": [
     "イチ"

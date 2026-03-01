@@ -3,9 +3,11 @@
   "unicode": "U+653B",
   "symbol": "攻",
   "meanings": [
-    "aggression",
     "attack",
-    "criticize",
+    "criticize"
+  ],
+  "secondaryMeanings": [
+    "aggression",
     "polish"
   ],
   "onyomi": [

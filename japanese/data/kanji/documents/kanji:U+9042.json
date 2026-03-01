@@ -3,9 +3,11 @@
   "unicode": "U+9042",
   "symbol": "遂",
   "meanings": [
-    "consummate",
     "accomplish",
-    "attain",
+    "attain"
+  ],
+  "secondaryMeanings": [
+    "consummate",
     "commit (suicide)"
   ],
   "onyomi": [

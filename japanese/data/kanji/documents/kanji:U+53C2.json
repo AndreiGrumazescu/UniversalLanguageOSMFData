@@ -3,17 +3,19 @@
   "unicode": "U+53C2",
   "symbol": "参",
   "meanings": [
-    "nonplussed",
+    "participate",
+    "take part in",
+    "visiting",
+    "visit"
+  ],
+  "secondaryMeanings": [
     "three (in documents)",
     "going",
     "coming",
-    "visiting",
-    "visit",
+    "nonplussed",
     "be defeated",
     "die",
-    "be madly in love",
-    "participate",
-    "take part in"
+    "be madly in love"
   ],
   "onyomi": [
     "サン"

@@ -3,11 +3,13 @@
   "unicode": "U+7AAE",
   "symbol": "窮",
   "meanings": [
-    "hard up",
     "destitute",
-    "suffer",
-    "perplexed",
     "cornered"
+  ],
+  "secondaryMeanings": [
+    "hard up",
+    "suffer",
+    "perplexed"
   ],
   "onyomi": [
     "キュウ"

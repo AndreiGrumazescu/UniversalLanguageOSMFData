@@ -4,12 +4,14 @@
   "symbol": "役",
   "meanings": [
     "duty",
+    "role",
+    "service"
+  ],
+  "secondaryMeanings": [
     "war",
     "campaign",
     "drafted labor",
-    "office",
-    "service",
-    "role"
+    "office"
   ],
   "onyomi": [
     "ヤク"

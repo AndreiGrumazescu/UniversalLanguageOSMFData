@@ -4,7 +4,9 @@
   "symbol": "胴",
   "meanings": [
     "trunk",
-    "torso",
+    "torso"
+  ],
+  "secondaryMeanings": [
     "hull (ship)",
     "hub of wheel"
   ],

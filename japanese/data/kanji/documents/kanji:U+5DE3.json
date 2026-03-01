@@ -4,10 +4,12 @@
   "symbol": "巣",
   "meanings": [
     "nest",
-    "rookery",
     "hive",
-    "cobweb",
     "den"
+  ],
+  "secondaryMeanings": [
+    "rookery",
+    "cobweb"
   ],
   "onyomi": [
     "ソウ"

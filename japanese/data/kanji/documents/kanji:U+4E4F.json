@@ -3,9 +3,11 @@
   "unicode": "U+4E4F",
   "symbol": "乏",
   "meanings": [
-    "destitution",
     "scarce",
     "limited"
+  ],
+  "secondaryMeanings": [
+    "destitution"
   ],
   "onyomi": [
     "ボウ"

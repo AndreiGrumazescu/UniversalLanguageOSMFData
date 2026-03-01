@@ -4,9 +4,11 @@
   "symbol": "寸",
   "meanings": [
     "measurement",
-    "tenth of a shaku",
     "a little",
     "small"
+  ],
+  "secondaryMeanings": [
+    "tenth of a shaku"
   ],
   "onyomi": [
     "スン"

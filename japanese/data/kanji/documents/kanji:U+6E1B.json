@@ -3,10 +3,12 @@
   "unicode": "U+6E1B",
   "symbol": "減",
   "meanings": [
-    "dwindle",
     "decrease",
     "reduce",
-    "decline",
+    "decline"
+  ],
+  "secondaryMeanings": [
+    "dwindle",
     "curtail",
     "get hungry"
   ],

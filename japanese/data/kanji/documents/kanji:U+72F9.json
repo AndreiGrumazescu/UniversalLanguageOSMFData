@@ -3,7 +3,9 @@
   "unicode": "U+72F9",
   "symbol": "狹",
   "meanings": [
-    "narrow",
+    "narrow"
+  ],
+  "secondaryMeanings": [
     "contract",
     "reduce",
     "tight",

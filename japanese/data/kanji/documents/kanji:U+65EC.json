@@ -3,9 +3,11 @@
   "unicode": "U+65EC",
   "symbol": "旬",
   "meanings": [
-    "decameron",
     "ten-day period",
     "season (for specific products)"
+  ],
+  "secondaryMeanings": [
+    "decameron"
   ],
   "onyomi": [
     "ジュン"

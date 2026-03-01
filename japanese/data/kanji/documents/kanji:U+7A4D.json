@@ -4,13 +4,15 @@
   "symbol": "積",
   "meanings": [
     "volume",
-    "product (x*y)",
     "acreage",
     "contents",
     "pile up",
     "stack",
     "load",
     "amass"
+  ],
+  "secondaryMeanings": [
+    "product (x*y)"
   ],
   "onyomi": [
     "セキ"
