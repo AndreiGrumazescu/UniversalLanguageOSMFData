@@ -1,7 +1,7 @@
 {
   "$id": "kanji:U+7955",
   "unicode": "U+7955",
-  "symbol": "祕",
+  "symbol": "祘",
   "meanings": [
     "mysterious",
     "secret",
@@ -11,7 +11,9 @@
     "ヒ"
   ],
   "kunyomi": [
-    "ひ.める",
+    "ひ.める"
+  ],
+  "secondaryKunyomi": [
     "かく.す"
   ],
   "strokeCount": 10,

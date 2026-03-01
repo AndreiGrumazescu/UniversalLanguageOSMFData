@@ -10,12 +10,16 @@
     "divination"
   ],
   "onyomi": [
-    "エキ",
+    "エキ"
+  ],
+  "secondaryOnyomi": [
     "イ"
   ],
   "kunyomi": [
-    "やさ.しい",
     "やす.い"
+  ],
+  "secondaryKunyomi": [
+    "やさ.しい"
   ],
   "strokeCount": 8,
   "jlptLevel": "unspecified"

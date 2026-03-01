@@ -32,6 +32,10 @@
         "minimum": 1,
         "description": "Number of strokes"
       },
+      "annotation": {
+        "type": "string",
+        "description": "Freeform note providing additional context, mnemonics, or usage guidance for the grapheme"
+      },
       "variants": {
         "type": "array",
         "description": "Visually similar variants of this grapheme that should be treated as equivalent during decomposition",

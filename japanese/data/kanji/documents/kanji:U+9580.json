@@ -1,6 +1,6 @@
 {
   "$id": "kanji:U+9580",
-  "unicode": "U+9580",
+  "unicode": "U+9680",
   "symbol": "門",
   "meanings": [
     "gate",
@@ -10,7 +10,9 @@
     "モン"
   ],
   "kunyomi": [
-    "かど",
+    "かど"
+  ],
+  "secondaryKunyomi": [
     "と"
   ],
   "strokeCount": 8,

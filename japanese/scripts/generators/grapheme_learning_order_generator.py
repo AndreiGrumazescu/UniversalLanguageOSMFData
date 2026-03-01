@@ -15,7 +15,7 @@ Validates that the stroke-count ordering satisfies all dependency constraints
 (every component appears before its parent in the final order).
 
 Usage:
-    python generators/learning_order_generator.py [--dry-run]
+    python generators/grapheme_learning_order_generator.py [--dry-run]
 """
 
 import argparse

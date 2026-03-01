@@ -20,17 +20,36 @@
       "meanings": {
         "type": "array",
         "items": { "type": "string" },
-        "description": "English meanings"
+        "description": "Primary English meanings — the most common or representative meaning(s)"
+      },
+      "secondaryMeanings": {
+        "type": "array",
+        "items": { "type": "string" },
+        "description": "Additional English meanings that are less common or context-specific"
       },
       "onyomi": {
         "type": "array",
         "items": { "type": "string" },
-        "description": "On'yomi (Chinese-derived) readings in katakana"
+        "description": "Primary on'yomi (Chinese-derived) reading(s) in katakana — the most common or representative"
+      },
+      "secondaryOnyomi": {
+        "type": "array",
+        "items": { "type": "string" },
+        "description": "Additional on'yomi readings that are less common or context-specific"
       },
       "kunyomi": {
         "type": "array",
         "items": { "type": "string" },
-        "description": "Kun'yomi (native Japanese) readings in hiragana"
+        "description": "Primary kun'yomi (native Japanese) reading(s) in hiragana — the most common or representative"
+      },
+      "secondaryKunyomi": {
+        "type": "array",
+        "items": { "type": "string" },
+        "description": "Additional kun'yomi readings that are less common or context-specific"
+      },
+      "annotation": {
+        "type": "string",
+        "description": "Freeform note providing additional context, mnemonics, or usage guidance for the kanji"
       },
       "strokeCount": {
         "type": "integer",

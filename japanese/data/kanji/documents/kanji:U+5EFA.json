@@ -6,11 +6,15 @@
     "build"
   ],
   "onyomi": [
-    "ケン",
+    "ケン"
+  ],
+  "secondaryOnyomi": [
     "コン"
   ],
   "kunyomi": [
-    "た.てる",
+    "た.てる"
+  ],
+  "secondaryKunyomi": [
     "た.て",
     "-だ.て",
     "た.つ"

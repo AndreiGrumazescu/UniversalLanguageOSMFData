@@ -10,12 +10,16 @@
     "mood"
   ],
   "onyomi": [
-    "キ",
+    "キ"
+  ],
+  "secondaryOnyomi": [
     "ケ"
   ],
   "kunyomi": [
-    "いき",
     "き"
+  ],
+  "secondaryKunyomi": [
+    "いき"
   ],
   "strokeCount": 6,
   "jlptLevel": "unspecified"
