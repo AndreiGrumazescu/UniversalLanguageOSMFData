@@ -1,0 +1,1445 @@
+{
+  "$schema": "../../../../shared-models/learning-order.schema.json",
+  "$id": "japanese-kana-learning-order-default",
+  "connectors": {
+    "item": {}
+  },
+  "data": {
+    "contentType": "kana",
+    "trackId": "default",
+    "trackName": "Default Kana Order",
+    "source": "Generated: hiragana gojuuon order (base, dakuten, handakuten), then katakana in same order, plus katakana extra."
+  },
+  "many": [
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+3042"
+        }
+      },
+      "data": {
+        "position": 0
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+3044"
+        }
+      },
+      "data": {
+        "position": 1
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+3046"
+        }
+      },
+      "data": {
+        "position": 2
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+3048"
+        }
+      },
+      "data": {
+        "position": 3
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+304A"
+        }
+      },
+      "data": {
+        "position": 4
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+304B"
+        }
+      },
+      "data": {
+        "position": 5
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+304D"
+        }
+      },
+      "data": {
+        "position": 6
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+304F"
+        }
+      },
+      "data": {
+        "position": 7
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+3051"
+        }
+      },
+      "data": {
+        "position": 8
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+3053"
+        }
+      },
+      "data": {
+        "position": 9
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+3055"
+        }
+      },
+      "data": {
+        "position": 10
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+3057"
+        }
+      },
+      "data": {
+        "position": 11
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+3059"
+        }
+      },
+      "data": {
+        "position": 12
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+305B"
+        }
+      },
+      "data": {
+        "position": 13
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+305D"
+        }
+      },
+      "data": {
+        "position": 14
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+305F"
+        }
+      },
+      "data": {
+        "position": 15
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+3061"
+        }
+      },
+      "data": {
+        "position": 16
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+3064"
+        }
+      },
+      "data": {
+        "position": 17
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+3066"
+        }
+      },
+      "data": {
+        "position": 18
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+3068"
+        }
+      },
+      "data": {
+        "position": 19
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+306A"
+        }
+      },
+      "data": {
+        "position": 20
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+306B"
+        }
+      },
+      "data": {
+        "position": 21
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+306C"
+        }
+      },
+      "data": {
+        "position": 22
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+306D"
+        }
+      },
+      "data": {
+        "position": 23
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+306E"
+        }
+      },
+      "data": {
+        "position": 24
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+306F"
+        }
+      },
+      "data": {
+        "position": 25
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+3072"
+        }
+      },
+      "data": {
+        "position": 26
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+3075"
+        }
+      },
+      "data": {
+        "position": 27
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+3078"
+        }
+      },
+      "data": {
+        "position": 28
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+307B"
+        }
+      },
+      "data": {
+        "position": 29
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+307E"
+        }
+      },
+      "data": {
+        "position": 30
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+307F"
+        }
+      },
+      "data": {
+        "position": 31
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+3080"
+        }
+      },
+      "data": {
+        "position": 32
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+3081"
+        }
+      },
+      "data": {
+        "position": 33
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+3082"
+        }
+      },
+      "data": {
+        "position": 34
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+3084"
+        }
+      },
+      "data": {
+        "position": 35
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+3086"
+        }
+      },
+      "data": {
+        "position": 36
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+3088"
+        }
+      },
+      "data": {
+        "position": 37
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+3089"
+        }
+      },
+      "data": {
+        "position": 38
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+308A"
+        }
+      },
+      "data": {
+        "position": 39
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+308B"
+        }
+      },
+      "data": {
+        "position": 40
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+308C"
+        }
+      },
+      "data": {
+        "position": 41
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+308D"
+        }
+      },
+      "data": {
+        "position": 42
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+308F"
+        }
+      },
+      "data": {
+        "position": 43
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+3092"
+        }
+      },
+      "data": {
+        "position": 44
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+3093"
+        }
+      },
+      "data": {
+        "position": 45
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+304C"
+        }
+      },
+      "data": {
+        "position": 46
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+304E"
+        }
+      },
+      "data": {
+        "position": 47
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+3050"
+        }
+      },
+      "data": {
+        "position": 48
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+3052"
+        }
+      },
+      "data": {
+        "position": 49
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+3054"
+        }
+      },
+      "data": {
+        "position": 50
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+3056"
+        }
+      },
+      "data": {
+        "position": 51
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+3058"
+        }
+      },
+      "data": {
+        "position": 52
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+305A"
+        }
+      },
+      "data": {
+        "position": 53
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+305C"
+        }
+      },
+      "data": {
+        "position": 54
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+305E"
+        }
+      },
+      "data": {
+        "position": 55
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+3060"
+        }
+      },
+      "data": {
+        "position": 56
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+3062"
+        }
+      },
+      "data": {
+        "position": 57
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+3065"
+        }
+      },
+      "data": {
+        "position": 58
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+3067"
+        }
+      },
+      "data": {
+        "position": 59
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+3069"
+        }
+      },
+      "data": {
+        "position": 60
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+3070"
+        }
+      },
+      "data": {
+        "position": 61
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+3073"
+        }
+      },
+      "data": {
+        "position": 62
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+3076"
+        }
+      },
+      "data": {
+        "position": 63
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+3079"
+        }
+      },
+      "data": {
+        "position": 64
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+307C"
+        }
+      },
+      "data": {
+        "position": 65
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+3071"
+        }
+      },
+      "data": {
+        "position": 66
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+3074"
+        }
+      },
+      "data": {
+        "position": 67
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+3077"
+        }
+      },
+      "data": {
+        "position": 68
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+307A"
+        }
+      },
+      "data": {
+        "position": 69
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+307D"
+        }
+      },
+      "data": {
+        "position": 70
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30A2"
+        }
+      },
+      "data": {
+        "position": 71
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30A4"
+        }
+      },
+      "data": {
+        "position": 72
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30A6"
+        }
+      },
+      "data": {
+        "position": 73
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30A8"
+        }
+      },
+      "data": {
+        "position": 74
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30AA"
+        }
+      },
+      "data": {
+        "position": 75
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30AB"
+        }
+      },
+      "data": {
+        "position": 76
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30AD"
+        }
+      },
+      "data": {
+        "position": 77
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30AF"
+        }
+      },
+      "data": {
+        "position": 78
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30B1"
+        }
+      },
+      "data": {
+        "position": 79
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30B3"
+        }
+      },
+      "data": {
+        "position": 80
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30B5"
+        }
+      },
+      "data": {
+        "position": 81
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30B7"
+        }
+      },
+      "data": {
+        "position": 82
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30B9"
+        }
+      },
+      "data": {
+        "position": 83
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30BB"
+        }
+      },
+      "data": {
+        "position": 84
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30BD"
+        }
+      },
+      "data": {
+        "position": 85
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30BF"
+        }
+      },
+      "data": {
+        "position": 86
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30C1"
+        }
+      },
+      "data": {
+        "position": 87
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30C4"
+        }
+      },
+      "data": {
+        "position": 88
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30C6"
+        }
+      },
+      "data": {
+        "position": 89
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30C8"
+        }
+      },
+      "data": {
+        "position": 90
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30CA"
+        }
+      },
+      "data": {
+        "position": 91
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30CB"
+        }
+      },
+      "data": {
+        "position": 92
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30CC"
+        }
+      },
+      "data": {
+        "position": 93
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30CD"
+        }
+      },
+      "data": {
+        "position": 94
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30CE"
+        }
+      },
+      "data": {
+        "position": 95
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30CF"
+        }
+      },
+      "data": {
+        "position": 96
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30D2"
+        }
+      },
+      "data": {
+        "position": 97
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30D5"
+        }
+      },
+      "data": {
+        "position": 98
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30D8"
+        }
+      },
+      "data": {
+        "position": 99
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30DB"
+        }
+      },
+      "data": {
+        "position": 100
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30DE"
+        }
+      },
+      "data": {
+        "position": 101
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30DF"
+        }
+      },
+      "data": {
+        "position": 102
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30E0"
+        }
+      },
+      "data": {
+        "position": 103
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30E1"
+        }
+      },
+      "data": {
+        "position": 104
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30E2"
+        }
+      },
+      "data": {
+        "position": 105
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30E4"
+        }
+      },
+      "data": {
+        "position": 106
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30E6"
+        }
+      },
+      "data": {
+        "position": 107
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30E8"
+        }
+      },
+      "data": {
+        "position": 108
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30E9"
+        }
+      },
+      "data": {
+        "position": 109
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30EA"
+        }
+      },
+      "data": {
+        "position": 110
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30EB"
+        }
+      },
+      "data": {
+        "position": 111
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30EC"
+        }
+      },
+      "data": {
+        "position": 112
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30ED"
+        }
+      },
+      "data": {
+        "position": 113
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30EF"
+        }
+      },
+      "data": {
+        "position": 114
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30F2"
+        }
+      },
+      "data": {
+        "position": 115
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30F3"
+        }
+      },
+      "data": {
+        "position": 116
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30AC"
+        }
+      },
+      "data": {
+        "position": 117
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30AE"
+        }
+      },
+      "data": {
+        "position": 118
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30B0"
+        }
+      },
+      "data": {
+        "position": 119
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30B2"
+        }
+      },
+      "data": {
+        "position": 120
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30B4"
+        }
+      },
+      "data": {
+        "position": 121
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30B6"
+        }
+      },
+      "data": {
+        "position": 122
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30B8"
+        }
+      },
+      "data": {
+        "position": 123
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30BA"
+        }
+      },
+      "data": {
+        "position": 124
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30BC"
+        }
+      },
+      "data": {
+        "position": 125
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30BE"
+        }
+      },
+      "data": {
+        "position": 126
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30C0"
+        }
+      },
+      "data": {
+        "position": 127
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30C2"
+        }
+      },
+      "data": {
+        "position": 128
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30C5"
+        }
+      },
+      "data": {
+        "position": 129
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30C7"
+        }
+      },
+      "data": {
+        "position": 130
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30C9"
+        }
+      },
+      "data": {
+        "position": 131
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30D0"
+        }
+      },
+      "data": {
+        "position": 132
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30D3"
+        }
+      },
+      "data": {
+        "position": 133
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30D6"
+        }
+      },
+      "data": {
+        "position": 134
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30D9"
+        }
+      },
+      "data": {
+        "position": 135
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30DC"
+        }
+      },
+      "data": {
+        "position": 136
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30D1"
+        }
+      },
+      "data": {
+        "position": 137
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30D4"
+        }
+      },
+      "data": {
+        "position": 138
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30D7"
+        }
+      },
+      "data": {
+        "position": 139
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30DA"
+        }
+      },
+      "data": {
+        "position": 140
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30DD"
+        }
+      },
+      "data": {
+        "position": 141
+      }
+    },
+    {
+      "connectors": {
+        "item": {
+          "$id": "kana:U+30F4"
+        }
+      },
+      "data": {
+        "position": 142
+      }
+    }
+  ]
+}

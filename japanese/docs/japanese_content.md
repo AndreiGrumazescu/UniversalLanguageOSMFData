@@ -10,7 +10,7 @@ Documentation for the Japanese language content in Universal Language, structure
 |-------|--------|-----------|--------|
 | Grapheme | `data/grapheme/japanese-grapheme.schema.json` | `data/grapheme/documents/` | Populated |
 | Kanji | `data/kanji/japanese-kanji.schema.json` | `data/kanji/documents/` | Populated |
-| Kana | `data/kana/japanese-kana.schema.json` | `data/kana/documents/` | Schema only |
+| Kana | `data/kana/japanese-kana.schema.json` | `data/kana/documents/` | Populated |
 | Vocabulary | `data/vocabulary/japanese-vocabulary.schema.json` | `data/vocabulary/documents/` | Schema only |
 | Phrase | `data/phrase/japanese-phrase.schema.json` | `data/phrase/documents/` | Schema only |
 | Grammar | `data/grammar/japanese-grammar.schema.json` | `data/grammar/documents/` | Schema only |
@@ -24,6 +24,34 @@ Documentation for the Japanese language content in Universal Language, structure
 | Learning Order | `../../shared-models/learning-order.schema.json` | `data/learning-order/documents/` | Populated |
 | Kanji Grapheme Dependency | `data/kanji-grapheme-dependency/japanese-kanji-grapheme-dependency.schema.json` | `data/kanji-grapheme-dependency/documents/` | Populated |
 | Kanji Dependency | `data/kanji-dependency/japanese-kanji-dependency.schema.json` | `data/kanji-dependency/documents/` | Populated |
+
+---
+
+## Kana
+
+### Concept
+
+Kana are the two Japanese syllabaries — hiragana and katakana. Each kana character maps to a single mora (syllable). Hiragana is used for native Japanese words and grammatical elements; katakana is used for foreign loanwords, emphasis, and onomatopoeia.
+
+The kana set includes:
+- **Basic characters** — the 46 standard hiragana/katakana (gojuuon)
+- **Dakuten (voiced)** — 20 hiragana/katakana modified with ゛ (e.g., か→が)
+- **Handakuten (half-voiced)** — 5 hiragana/katakana modified with ゜ (e.g., は→ぱ)
+
+### Model & Document Format
+
+**Model:** `data/kana/japanese-kana.schema.json`
+
+**Example document:**
+```json
+{
+  "$id": "kana:U+3042",
+  "symbol": "あ",
+  "unicode": "U+3042",
+  "type": "hiragana",
+  "romaji": "a"
+}
+```
 
 ---
 
@@ -203,6 +231,11 @@ The learning order is separate from the dependency graph — the app uses depend
 - Variant groups kept together (base grapheme first, then variants)
 - Validated against grapheme dependencies (0 violations)
 
+**Kana default track** (`japanese-kana-learning-order-default`):
+- Hiragana first, then katakana
+- Within each system: base (gojuuon order) → dakuten → handakuten
+- No dependencies (all kana are independent)
+
 **Kanji default track** (`japanese-kanji-learning-order-default`):
 - Sort: stroke count ASC, grapheme readiness ASC, kanjidic grade ASC, popularity DESC, `$id` ASC
 - Grapheme readiness = max position of any grapheme component in the grapheme learning order
@@ -241,6 +274,8 @@ Scripts for generating, analyzing, and maintaining Japanese content are located 
 
 | Script | Output |
 |--------|--------|
+| `generators/kana_generator.py` | Kana data documents (hiragana and katakana) |
+| `generators/kana_learning_order_generator.py` | Kana learning order document |
 | `generators/grapheme_dependency_generator.py` | Grapheme dependency relational documents |
 | `generators/grapheme_variant_group_generator.py` | Grapheme variant group relational documents |
 | `generators/kanji_generator.py` | Kanji data documents (generated from kanjidic2) |

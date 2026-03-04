@@ -7,7 +7,15 @@
     "properties": {
       "$id": {
         "type": "string",
-        "description": "The kana symbol itself (e.g., 'あ', 'ア')"
+        "description": "Unique identifier in format 'kana:U+XXXX'"
+      },
+      "symbol": {
+        "type": "string",
+        "description": "The kana character itself (e.g., 'あ', 'ア')"
+      },
+      "unicode": {
+        "type": "string",
+        "description": "Unicode codepoint (e.g., 'U+3042')"
       },
       "type": {
         "type": "string",
@@ -23,6 +31,6 @@
         "description": "Reference to stroke order asset in R2"
       }
     },
-    "required": ["$id", "type", "romaji"]
+    "required": ["$id", "symbol", "unicode", "type", "romaji"]
   }
 }

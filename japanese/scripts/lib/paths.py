@@ -39,6 +39,10 @@ VARIANT_GROUP_DOCS = VARIANT_GROUP_DIR / "documents"
 LEARNING_ORDER_DIR = DATA_DIR / "learning-order"
 LEARNING_ORDER_DOCS = LEARNING_ORDER_DIR / "documents"
 
+# Kana data
+KANA_DIR = DATA_DIR / "kana"
+KANA_DOCS = KANA_DIR / "documents"
+
 # Kanji data
 KANJI_DIR = DATA_DIR / "kanji"
 KANJI_DOCS = KANJI_DIR / "documents"
