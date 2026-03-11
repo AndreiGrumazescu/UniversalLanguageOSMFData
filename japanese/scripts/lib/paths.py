@@ -47,6 +47,10 @@ KANA_DOCS = KANA_DIR / "documents"
 KANJI_DIR = DATA_DIR / "kanji"
 KANJI_DOCS = KANJI_DIR / "documents"
 
+# Vocabulary data
+VOCABULARY_DIR = DATA_DIR / "vocabulary"
+VOCABULARY_DOCS = VOCABULARY_DIR / "documents"
+
 # Kanji dependency data (kanji -> kanji)
 KANJI_DEP_DIR = DATA_DIR / "kanji-dependency"
 KANJI_DEP_DOCS = KANJI_DEP_DIR / "documents"
@@ -76,6 +80,13 @@ KVG_KANJI_DIR = KANJIVG_DIR / "kanji"
 # Unihan
 UNIHAN_DIR = SOURCE_DIR / "unihan"
 UNIHAN_IRG_PATH = UNIHAN_DIR / "Unihan_IRGSources.txt"
+
+# JMdict
+JMDICT_DIR = SOURCE_DIR / "jmdict"
+JMDICT_PATH = JMDICT_DIR / "JMdict_e.xml"
+
+# JLPT word lists
+JLPT_DIR = SOURCE_DIR / "jlpt"
 
 # ---------------------------------------------------------------------------
 # Output Directories

@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1282280",
+  "japanese": "講師",
+  "kana": "こうし",
+  "meanings": [
+    "speaker",
+    "lecturer"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "lecturer (at a university or college)",
+    "instructor",
+    "part-time teacher",
+    "tutor (at a cram school)"
+  ],
+  "category": "noun"
+}

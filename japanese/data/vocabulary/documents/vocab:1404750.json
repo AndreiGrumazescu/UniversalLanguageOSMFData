@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1404750",
+  "japanese": "足る",
+  "kana": "たる",
+  "meanings": [
+    "to be sufficient",
+    "to be enough"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to be worth doing",
+    "to be worthy of",
+    "to deserve",
+    "to do (the job)",
+    "to serve",
+    "to answer"
+  ],
+  "category": "godan verb"
+}

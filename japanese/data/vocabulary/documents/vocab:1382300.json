@@ -1,0 +1,25 @@
+{
+  "$id": "vocab:1382300",
+  "japanese": "惜しむ",
+  "kana": "おしむ",
+  "meanings": [
+    "to spare",
+    "to grudge",
+    "to be sparing (with)",
+    "to be frugal",
+    "to be stingy"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to regret",
+    "to lament",
+    "to be reluctant (to do)",
+    "to be unwilling",
+    "to value",
+    "to prize",
+    "to hold dear",
+    "to love",
+    "to cherish"
+  ],
+  "category": "godan verb"
+}

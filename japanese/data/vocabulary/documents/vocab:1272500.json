@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1272500",
+  "japanese": "交番",
+  "kana": "こうばん",
+  "meanings": [
+    "police box",
+    "koban",
+    "small neighborhood police station"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "alternation",
+    "alternating (current, stress, etc.)"
+  ],
+  "category": "noun"
+}

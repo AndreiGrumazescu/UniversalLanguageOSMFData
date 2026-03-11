@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1155090",
+  "japanese": "以外",
+  "kana": "いがい",
+  "meanings": [
+    "excluding",
+    "except (for)",
+    "apart from",
+    "other than",
+    "besides",
+    "in addition to"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "outside (a boundary, scope, etc.)"
+  ],
+  "category": "noun"
+}

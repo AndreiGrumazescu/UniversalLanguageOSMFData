@@ -1,0 +1,33 @@
+{
+  "$id": "vocab:1501110",
+  "japanese": "腹",
+  "kana": "はら",
+  "meanings": [
+    "abdomen",
+    "belly",
+    "stomach"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "womb",
+    "one's mind",
+    "one's real intentions",
+    "one's true motive",
+    "courage",
+    "nerve",
+    "willpower",
+    "generosity",
+    "magnanimity",
+    "feelings",
+    "emotions",
+    "wide middle part",
+    "bulging part",
+    "inside",
+    "interior",
+    "inner part",
+    "anti-node",
+    "counter for hard roe",
+    "counter for containers with bulging middles (pots, vases, etc.)"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1284600",
+  "japanese": "合格",
+  "kana": "ごうかく",
+  "meanings": [
+    "passing (an exam)",
+    "pass",
+    "success",
+    "passing grade"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "meeting (specifications, standards, etc.)",
+    "passing (inspection)",
+    "qualification",
+    "being found eligible"
+  ],
+  "category": "noun"
+}

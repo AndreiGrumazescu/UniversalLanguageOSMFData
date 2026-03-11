@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1199640",
+  "japanese": "回転",
+  "kana": "かいてん",
+  "meanings": [
+    "rotation",
+    "revolution",
+    "turn",
+    "spin"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "working (e.g. of one's mind)",
+    "function",
+    "turnover (of goods, funds, etc.)",
+    "circulation",
+    "flow (of customers)",
+    "rotation",
+    "curl",
+    "slalom"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,26 @@
+{
+  "$id": "vocab:1386140",
+  "japanese": "節",
+  "kana": "せつ",
+  "meanings": [
+    "occasion",
+    "time"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "section (of a literary work or piece of music)",
+    "passage",
+    "paragraph",
+    "verse",
+    "stanza",
+    "clause",
+    "season",
+    "term",
+    "one's principles",
+    "integrity",
+    "node (of a plant stem)",
+    "section (taxonomic rank)",
+    "knot (nautical mile per hour)"
+  ],
+  "category": "noun"
+}

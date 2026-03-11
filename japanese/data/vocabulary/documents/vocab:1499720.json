@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1499720",
+  "japanese": "風",
+  "kana": "かぜ",
+  "meanings": [
+    "wind",
+    "breeze",
+    "draught",
+    "draft"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "manner",
+    "behaviour",
+    "behavior",
+    "cold",
+    "influenza"
+  ],
+  "category": "noun"
+}

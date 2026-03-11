@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1157640",
+  "japanese": "異見",
+  "kana": "いけん",
+  "meanings": [
+    "different opinion",
+    "different view",
+    "dissenting view",
+    "objection"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "scolding",
+    "reprimand",
+    "rebuke",
+    "admonition",
+    "cautioning",
+    "warning"
+  ],
+  "category": "noun"
+}

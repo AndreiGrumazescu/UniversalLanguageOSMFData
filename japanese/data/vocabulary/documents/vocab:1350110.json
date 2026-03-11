@@ -1,0 +1,33 @@
+{
+  "$id": "vocab:1350110",
+  "japanese": "消す",
+  "kana": "けす",
+  "meanings": [
+    "to erase",
+    "to rub out",
+    "to rub off",
+    "to cross out",
+    "to delete"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "to turn off (a light, TV, heater, etc.)",
+    "to switch off",
+    "to extinguish (a fire, candle, etc.)",
+    "to put out",
+    "to remove (a smell, pain, etc.)",
+    "to eliminate",
+    "to get rid of",
+    "to relieve (pain, anxiety, etc.)",
+    "to neutralize (poison)",
+    "to drown out (a sound)",
+    "to deaden",
+    "to absorb",
+    "to muffle",
+    "to kill",
+    "to murder",
+    "to bump off",
+    "to rub out"
+  ],
+  "category": "godan verb"
+}

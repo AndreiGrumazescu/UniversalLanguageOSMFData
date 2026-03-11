@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1101660",
+  "japanese": "パチンコ",
+  "kana": "パチンコ",
+  "meanings": [
+    "pachinko",
+    "mechanical gambling game superficially resembling pinball"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "slingshot",
+    "catapult",
+    "pistol"
+  ],
+  "category": "noun"
+}

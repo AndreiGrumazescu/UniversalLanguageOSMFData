@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1358280",
+  "japanese": "食べる",
+  "kana": "たべる",
+  "meanings": [
+    "to eat"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "to live on (e.g. a salary)",
+    "to live off",
+    "to subsist on"
+  ],
+  "category": "ichidan verb"
+}

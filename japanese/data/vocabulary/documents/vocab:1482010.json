@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1482010",
+  "japanese": "飯",
+  "kana": "めし",
+  "meanings": [
+    "cooked rice"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "meal",
+    "food",
+    "one's living",
+    "livelihood"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1598960",
+  "japanese": "捉える",
+  "kana": "とらえる",
+  "meanings": [
+    "to catch",
+    "to capture",
+    "to seize",
+    "to arrest",
+    "to grab",
+    "to catch hold of"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to grasp (e.g. meaning)",
+    "to perceive",
+    "to capture (e.g. features)",
+    "to captivate",
+    "to move (one's heart)"
+  ],
+  "category": "ichidan verb"
+}

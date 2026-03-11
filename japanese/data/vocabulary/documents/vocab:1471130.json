@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1471130",
+  "japanese": "派遣",
+  "kana": "はけん",
+  "meanings": [
+    "dispatch",
+    "despatch",
+    "deployment"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "temporary employee (esp. from an agency)",
+    "temporary worker",
+    "agency temp"
+  ],
+  "category": "noun"
+}

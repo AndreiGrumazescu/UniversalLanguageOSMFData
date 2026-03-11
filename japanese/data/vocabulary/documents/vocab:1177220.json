@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1177220",
+  "japanese": "煙る",
+  "kana": "けむる",
+  "meanings": [
+    "to smoke (e.g. fire)",
+    "to billow smoke",
+    "to smoulder",
+    "to smolder"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to be hazy",
+    "to look dim"
+  ],
+  "category": "godan verb"
+}

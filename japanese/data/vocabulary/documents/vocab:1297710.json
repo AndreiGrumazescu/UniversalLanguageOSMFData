@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1297710",
+  "japanese": "作者",
+  "kana": "さくしゃ",
+  "meanings": [
+    "creator (of a work)",
+    "author",
+    "writer",
+    "artist",
+    "composer",
+    "playwright",
+    "dramatist"
+  ],
+  "jlptLevel": "N2",
+  "category": "noun"
+}

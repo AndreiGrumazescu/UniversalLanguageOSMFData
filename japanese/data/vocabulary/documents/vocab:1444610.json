@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1444610",
+  "japanese": "渡す",
+  "kana": "わたす",
+  "meanings": [
+    "to ferry across (e.g. a river)",
+    "to carry across",
+    "to traverse"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "to lay across",
+    "to build across",
+    "to hand over",
+    "to hand in",
+    "to pass",
+    "to give",
+    "to transfer"
+  ],
+  "category": "godan verb"
+}

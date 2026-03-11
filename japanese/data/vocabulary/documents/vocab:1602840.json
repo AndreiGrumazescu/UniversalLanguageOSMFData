@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1602840",
+  "japanese": "踏切",
+  "kana": "ふみきり",
+  "meanings": [
+    "railway crossing",
+    "railroad crossing",
+    "train crossing",
+    "level crossing"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "starting line",
+    "scratch",
+    "determination",
+    "stepping over the edge of the ring"
+  ],
+  "category": "noun"
+}

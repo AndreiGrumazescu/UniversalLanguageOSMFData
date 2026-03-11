@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1017760",
+  "japanese": "アパート",
+  "kana": "アパート",
+  "meanings": [
+    "apartment building",
+    "apartment block",
+    "apartment house"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "apartment"
+  ],
+  "category": "noun"
+}

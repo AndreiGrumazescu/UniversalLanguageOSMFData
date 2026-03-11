@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1441370",
+  "japanese": "転落",
+  "kana": "てんらく",
+  "meanings": [
+    "fall",
+    "tumble",
+    "spill",
+    "plunge",
+    "dive"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "fall (in position, standing, etc.)",
+    "downfall",
+    "descent",
+    "degradation",
+    "comedown",
+    "demotion"
+  ],
+  "category": "noun"
+}

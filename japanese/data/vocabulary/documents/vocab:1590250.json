@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1590250",
+  "japanese": "箇所",
+  "kana": "かしょ",
+  "meanings": [
+    "place",
+    "point",
+    "part",
+    "spot",
+    "area",
+    "passage",
+    "portion"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "counter for places, parts, passages, etc."
+  ],
+  "category": "noun"
+}

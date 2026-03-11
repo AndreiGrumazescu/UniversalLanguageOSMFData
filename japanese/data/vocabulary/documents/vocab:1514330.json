@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1514330",
+  "japanese": "歩み",
+  "kana": "あゆみ",
+  "meanings": [
+    "walking"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "pace",
+    "step",
+    "course (of history, one's life, etc.)",
+    "history",
+    "progress",
+    "advance",
+    "development",
+    "pitch (of a screw, etc.)"
+  ],
+  "category": "noun"
+}

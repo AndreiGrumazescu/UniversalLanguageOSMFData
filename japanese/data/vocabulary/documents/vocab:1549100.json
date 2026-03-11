@@ -1,0 +1,25 @@
+{
+  "$id": "vocab:1549100",
+  "japanese": "乱暴",
+  "kana": "らんぼう",
+  "meanings": [
+    "violence",
+    "assault",
+    "rowdiness",
+    "wildness",
+    "running riot"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "rough (handling, language, etc.)",
+    "reckless",
+    "careless",
+    "coarse",
+    "rude",
+    "unreasonable (e.g. demand)",
+    "wild (e.g. argument)",
+    "rape",
+    "sexual assault"
+  ],
+  "category": "noun"
+}

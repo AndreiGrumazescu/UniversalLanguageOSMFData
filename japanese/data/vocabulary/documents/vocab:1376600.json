@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1376600",
+  "japanese": "正しい",
+  "kana": "ただしい",
+  "meanings": [
+    "right",
+    "correct"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "proper",
+    "righteous",
+    "just",
+    "honest",
+    "truthful",
+    "lawful"
+  ],
+  "category": "i-adjective"
+}

@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1252390",
+  "japanese": "警察",
+  "kana": "けいさつ",
+  "meanings": [
+    "police"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "police officer",
+    "police station",
+    "self-appointed enforcer (of a rule, standard, etc.)",
+    "busybody",
+    "vigilante",
+    "gatekeeper"
+  ],
+  "category": "noun"
+}

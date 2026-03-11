@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1478780",
+  "japanese": "半ば",
+  "kana": "なかば",
+  "meanings": [
+    "middle",
+    "halfway",
+    "midway"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "half (of)",
+    "one half",
+    "half (e.g. done, jokingly)",
+    "partly",
+    "in part",
+    "partially",
+    "mostly",
+    "almost",
+    "nearly"
+  ],
+  "category": "noun"
+}

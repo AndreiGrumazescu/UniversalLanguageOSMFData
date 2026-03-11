@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1547090",
+  "japanese": "養う",
+  "kana": "やしなう",
+  "meanings": [
+    "to support",
+    "to maintain",
+    "to provide for"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to bring up",
+    "to raise",
+    "to rear",
+    "to feed",
+    "to adopt (a child)",
+    "to cultivate (a habit, a quality, etc.)",
+    "to develop",
+    "to build up",
+    "to foster",
+    "to recuperate (from injury, illness, etc.)"
+  ],
+  "category": "godan verb"
+}

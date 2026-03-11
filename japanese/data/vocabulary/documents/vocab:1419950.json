@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1419950",
+  "japanese": "段階",
+  "kana": "だんかい",
+  "meanings": [
+    "stage",
+    "step",
+    "phase"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "level",
+    "rank",
+    "grade",
+    "gradation",
+    "order",
+    "stairs"
+  ],
+  "category": "noun"
+}

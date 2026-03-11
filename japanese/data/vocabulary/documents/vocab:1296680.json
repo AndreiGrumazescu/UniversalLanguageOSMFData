@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1296680",
+  "japanese": "罪",
+  "kana": "つみ",
+  "meanings": [
+    "crime",
+    "sin",
+    "wrongdoing",
+    "indiscretion"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "penalty",
+    "sentence",
+    "punishment",
+    "fault",
+    "responsibility",
+    "culpability",
+    "thoughtlessness",
+    "lack of consideration"
+  ],
+  "category": "noun"
+}

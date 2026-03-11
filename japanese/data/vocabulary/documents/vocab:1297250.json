@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1297250",
+  "japanese": "作り",
+  "kana": "つくり",
+  "meanings": [
+    "making",
+    "producing",
+    "manufacturing",
+    "building",
+    "construction",
+    "make",
+    "structure"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "appearance (attire, make-up, etc.)",
+    "build",
+    "physique",
+    "sashimi",
+    "forced (smile, etc.)"
+  ],
+  "category": "noun"
+}

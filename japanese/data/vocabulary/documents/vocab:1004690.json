@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1004690",
+  "japanese": "この間",
+  "kana": "このあいだ",
+  "meanings": [
+    "the other day",
+    "lately",
+    "recently",
+    "during this period"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "meanwhile",
+    "in the meantime"
+  ],
+  "category": "noun"
+}

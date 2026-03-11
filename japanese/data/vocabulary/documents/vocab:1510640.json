@@ -1,0 +1,28 @@
+{
+  "$id": "vocab:1510640",
+  "japanese": "変",
+  "kana": "へん",
+  "meanings": [
+    "strange",
+    "odd",
+    "peculiar",
+    "weird",
+    "curious",
+    "eccentric",
+    "funny",
+    "suspicious",
+    "fishy"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "unexpected",
+    "change",
+    "incident",
+    "disturbance",
+    "disaster",
+    "accident",
+    "emergency",
+    "flat"
+  ],
+  "category": "na-adjective"
+}

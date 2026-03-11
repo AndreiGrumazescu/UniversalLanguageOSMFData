@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1331400",
+  "japanese": "宗教",
+  "kana": "しゅうきょう",
+  "meanings": [
+    "religion",
+    "religious affiliation",
+    "belief",
+    "faith",
+    "creed"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "religious activity"
+  ],
+  "category": "noun"
+}

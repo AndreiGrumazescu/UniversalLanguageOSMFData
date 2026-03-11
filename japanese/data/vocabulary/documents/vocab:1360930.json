@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1360930",
+  "japanese": "心配",
+  "kana": "しんぱい",
+  "meanings": [
+    "worry",
+    "concern",
+    "anxiety",
+    "uneasiness",
+    "fear"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "care",
+    "help",
+    "aid",
+    "assistance"
+  ],
+  "category": "noun"
+}

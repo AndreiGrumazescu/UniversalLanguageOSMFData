@@ -1,0 +1,27 @@
+{
+  "$id": "vocab:1347750",
+  "japanese": "小さい",
+  "kana": "ちいさい",
+  "meanings": [
+    "small",
+    "little",
+    "tiny"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "slight",
+    "below average (in degree, amount, etc.)",
+    "minor",
+    "small",
+    "low (e.g. sound)",
+    "soft (e.g. voice)",
+    "unimportant",
+    "petty",
+    "insignificant",
+    "trifling",
+    "trivial",
+    "young",
+    "juvenile"
+  ],
+  "category": "i-adjective"
+}

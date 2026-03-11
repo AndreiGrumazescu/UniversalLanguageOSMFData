@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1010050",
+  "japanese": "のんびり",
+  "kana": "のんびり",
+  "meanings": [
+    "at leisure",
+    "in a relaxed manner",
+    "in a carefree manner",
+    "quietly",
+    "peacefully"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to relax",
+    "to take it easy",
+    "to chill"
+  ],
+  "category": "adverb"
+}

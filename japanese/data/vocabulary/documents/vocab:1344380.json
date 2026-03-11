@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1344380",
+  "japanese": "助かる",
+  "kana": "たすかる",
+  "meanings": [
+    "to be saved",
+    "to be rescued",
+    "to survive"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to escape harm",
+    "to be spared damage",
+    "to be helped",
+    "to be saved trouble"
+  ],
+  "category": "godan verb"
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1262160",
+  "japanese": "原点",
+  "kana": "げんてん",
+  "meanings": [
+    "starting point",
+    "origin",
+    "beginning"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "origin (of coordinate axes)",
+    "datum point"
+  ],
+  "category": "noun"
+}

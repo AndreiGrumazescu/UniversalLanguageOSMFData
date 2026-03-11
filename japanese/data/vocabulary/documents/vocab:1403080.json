@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1403080",
+  "japanese": "騒動",
+  "kana": "そうどう",
+  "meanings": [
+    "riot",
+    "rebellion",
+    "turmoil",
+    "strife"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "(media) uproar",
+    "brouhaha",
+    "(public) outcry",
+    "scandal",
+    "controversy",
+    "feud",
+    "tussle",
+    "quarrel",
+    "dispute"
+  ],
+  "category": "noun"
+}

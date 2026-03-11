@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1490740",
+  "japanese": "貧しい",
+  "kana": "まずしい",
+  "meanings": [
+    "poor",
+    "needy"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "lacking (quantity and quality-wise)",
+    "poor",
+    "scanty",
+    "skimpy",
+    "slight",
+    "inadequate"
+  ],
+  "category": "i-adjective"
+}

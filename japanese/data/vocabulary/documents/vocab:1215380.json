@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1215380",
+  "japanese": "間隔",
+  "kana": "かんかく",
+  "meanings": [
+    "space",
+    "interval"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "space character",
+    "whitespace"
+  ],
+  "category": "noun"
+}

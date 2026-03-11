@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1490230",
+  "japanese": "病気",
+  "kana": "びょうき",
+  "meanings": [
+    "illness (usu. excluding minor ailments, e.g. common cold)",
+    "disease",
+    "sickness"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "bad habit",
+    "bad behaviour",
+    "weakness",
+    "failing",
+    "crazy",
+    "insane",
+    "disturbed",
+    "sick in the head"
+  ],
+  "category": "noun"
+}

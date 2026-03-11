@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1453680",
+  "japanese": "導く",
+  "kana": "みちびく",
+  "meanings": [
+    "to guide",
+    "to lead",
+    "to show the way",
+    "to conduct"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to derive",
+    "to deduce"
+  ],
+  "category": "godan verb"
+}

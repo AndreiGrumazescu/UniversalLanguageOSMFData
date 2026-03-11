@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1242850",
+  "japanese": "金庫",
+  "kana": "きんこ",
+  "meanings": [
+    "safe",
+    "strongbox",
+    "cashbox",
+    "vault",
+    "strongroom"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "depository",
+    "cash office",
+    "treasury",
+    "provider of funds"
+  ],
+  "category": "noun"
+}

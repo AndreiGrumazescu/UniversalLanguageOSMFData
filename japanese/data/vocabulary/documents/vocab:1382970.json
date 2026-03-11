@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1382970",
+  "japanese": "積む",
+  "kana": "つむ",
+  "meanings": [
+    "to pile up",
+    "to stack"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to load (car, ship, etc.)",
+    "to pack",
+    "to acquire",
+    "to accumulate"
+  ],
+  "category": "godan verb"
+}

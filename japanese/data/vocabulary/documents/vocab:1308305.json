@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1308305",
+  "japanese": "市場",
+  "kana": "しじょう",
+  "meanings": [
+    "market (financial, stock, domestic, etc.)",
+    "marketplace",
+    "exchange"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "(street) market"
+  ],
+  "category": "noun"
+}

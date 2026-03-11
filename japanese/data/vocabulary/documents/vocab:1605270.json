@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1605270",
+  "japanese": "基づく",
+  "kana": "もとづく",
+  "meanings": [
+    "to be based (on)",
+    "to be founded (on)",
+    "to be grounded (on)",
+    "to be in accordance (with)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to be due to",
+    "to come (from)",
+    "to arise (from)",
+    "to originate (in)"
+  ],
+  "category": "godan verb"
+}

@@ -1,0 +1,29 @@
+{
+  "$id": "vocab:1178940",
+  "japanese": "汚い",
+  "kana": "きたない",
+  "meanings": [
+    "dirty",
+    "filthy",
+    "foul",
+    "unclean"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "disordered",
+    "messy",
+    "untidy",
+    "poor (e.g. handwriting)",
+    "indecent (language, etc.)",
+    "dirty",
+    "vulgar",
+    "coarse",
+    "dastardly",
+    "mean",
+    "base",
+    "underhanded",
+    "stingy",
+    "greedy"
+  ],
+  "category": "i-adjective"
+}

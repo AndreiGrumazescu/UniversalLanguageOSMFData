@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1595920",
+  "japanese": "すれ違う",
+  "kana": "すれちがう",
+  "meanings": [
+    "to pass (by) each other",
+    "to brush past"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to miss (meeting) each other",
+    "to fail to meet",
+    "to be at odds",
+    "to clash",
+    "to be in conflict"
+  ],
+  "category": "godan verb"
+}

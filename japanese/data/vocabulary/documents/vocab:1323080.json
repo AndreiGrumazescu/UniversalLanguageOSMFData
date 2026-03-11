@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1323080",
+  "japanese": "車",
+  "kana": "くるま",
+  "meanings": [
+    "car",
+    "automobile",
+    "vehicle"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "wheel",
+    "castor",
+    "caster"
+  ],
+  "category": "noun"
+}

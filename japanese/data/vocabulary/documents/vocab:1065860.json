@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1065860",
+  "japanese": "ジャンプ",
+  "kana": "ジャンプ",
+  "meanings": [
+    "jump"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "jumping event (skiing, track and field)",
+    "jumping (to another page after clicking a hyperlink)",
+    "jump (in price)",
+    "sudden rise"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,27 @@
+{
+  "$id": "vocab:1209240",
+  "japanese": "噛む",
+  "kana": "かむ",
+  "meanings": [
+    "to bite"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to chew",
+    "to gnaw",
+    "to masticate",
+    "to fumble one's words (esp. during a play, broadcast, etc.)",
+    "to falter with one's words",
+    "to stutter",
+    "to stammer",
+    "to crash against (e.g. of waves)",
+    "to break onto (shore)",
+    "to engage (of cogs, zippers, etc.)",
+    "to mesh",
+    "to fit together",
+    "to be involved in",
+    "to convince",
+    "to persuade"
+  ],
+  "category": "godan verb"
+}

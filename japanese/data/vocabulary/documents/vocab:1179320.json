@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1179320",
+  "japanese": "奥",
+  "kana": "おく",
+  "meanings": [
+    "inner part",
+    "interior",
+    "back (of a drawer, one's throat, etc.)",
+    "depths (e.g. of a forest)",
+    "recesses (e.g. of a cave)",
+    "heart",
+    "end (of a road, garden, etc.)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "living quarters (at the back of a house)",
+    "inner room",
+    "recesses (of one's mind)",
+    "bottom (of one's heart)",
+    "behind (someone's words)",
+    "mysteries (of an art)"
+  ],
+  "category": "noun"
+}

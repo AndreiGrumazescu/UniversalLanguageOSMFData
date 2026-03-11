@@ -1,0 +1,14 @@
+{
+  "$id": "vocab:1609350",
+  "japanese": "生まれ",
+  "kana": "うまれ",
+  "meanings": [
+    "birth",
+    "birthplace"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "born in (country, month, imperial era, zodiac year, etc.)"
+  ],
+  "category": "noun"
+}

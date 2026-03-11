@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1335830",
+  "japanese": "重ねる",
+  "kana": "かさねる",
+  "meanings": [
+    "to pile up",
+    "to heap up",
+    "to stack up",
+    "to put on top of another"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to repeat many times over",
+    "to go through repeatedly",
+    "to accumulate"
+  ],
+  "category": "ichidan verb"
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1359620",
+  "japanese": "信用",
+  "kana": "しんよう",
+  "meanings": [
+    "confidence",
+    "trust",
+    "faith",
+    "reputation"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "credit"
+  ],
+  "category": "noun"
+}

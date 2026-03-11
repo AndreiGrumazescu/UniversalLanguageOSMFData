@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1505260",
+  "japanese": "文句",
+  "kana": "もんく",
+  "meanings": [
+    "complaint",
+    "grumbling",
+    "objection"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "phrase",
+    "words",
+    "expression"
+  ],
+  "category": "noun"
+}

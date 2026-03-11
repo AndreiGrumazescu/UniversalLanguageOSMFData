@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1088560",
+  "japanese": "ドライバー",
+  "kana": "ドライバー",
+  "meanings": [
+    "driver (of a vehicle)",
+    "motorist"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "screwdriver",
+    "driver (club)",
+    "(device) driver"
+  ],
+  "category": "noun"
+}

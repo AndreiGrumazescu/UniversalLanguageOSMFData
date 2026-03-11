@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1514800",
+  "japanese": "募る",
+  "kana": "つのる",
+  "meanings": [
+    "to become stronger",
+    "to grow in intensity",
+    "to grow violent",
+    "to become worse"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to invite contributions, etc.",
+    "to solicit help, participation, etc.",
+    "to recruit (e.g. soldiers)"
+  ],
+  "category": "godan verb"
+}

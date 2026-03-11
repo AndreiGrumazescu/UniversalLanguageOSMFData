@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1546200",
+  "japanese": "用",
+  "kana": "よう",
+  "meanings": [
+    "business",
+    "task",
+    "errand",
+    "engagement"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "use",
+    "purpose",
+    "for the use of ...",
+    "used for ...",
+    "made for ...",
+    "call of nature",
+    "excretion"
+  ],
+  "category": "noun"
+}

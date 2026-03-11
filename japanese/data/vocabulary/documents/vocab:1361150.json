@@ -1,0 +1,11 @@
+{
+  "$id": "vocab:1361150",
+  "japanese": "振り仮名",
+  "kana": "ふりがな",
+  "meanings": [
+    "furigana",
+    "kana printed above or next to kanji to indicate pronunciation"
+  ],
+  "jlptLevel": "N2",
+  "category": "noun"
+}

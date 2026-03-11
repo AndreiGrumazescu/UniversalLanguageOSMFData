@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1351250",
+  "japanese": "称する",
+  "kana": "しょうする",
+  "meanings": [
+    "to call",
+    "to name"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to call oneself ...",
+    "to go by the name of ...",
+    "to purport (to be)",
+    "to profess",
+    "to claim",
+    "to pretend",
+    "to feign",
+    "to praise",
+    "to applaud"
+  ],
+  "category": "suru verb"
+}

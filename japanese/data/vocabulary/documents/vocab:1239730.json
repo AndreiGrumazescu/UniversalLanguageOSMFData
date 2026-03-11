@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1239730",
+  "japanese": "曲がる",
+  "kana": "まがる",
+  "meanings": [
+    "to bend",
+    "to curve",
+    "to warp",
+    "to wind",
+    "to twist"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "to turn",
+    "to be awry",
+    "to be askew",
+    "to be crooked"
+  ],
+  "category": "godan verb"
+}

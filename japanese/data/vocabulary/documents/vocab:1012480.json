@@ -1,0 +1,33 @@
+{
+  "$id": "vocab:1012480",
+  "japanese": "もう",
+  "kana": "もう",
+  "meanings": [
+    "already",
+    "yet",
+    "by now",
+    "now",
+    "(not) any more",
+    "(not) any longer"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "soon",
+    "shortly",
+    "before long",
+    "presently",
+    "further",
+    "more",
+    "again",
+    "another",
+    "the other",
+    "jeez",
+    "geez",
+    "gee",
+    "boy",
+    "come on",
+    "damn",
+    "seriously"
+  ],
+  "category": "adverb"
+}

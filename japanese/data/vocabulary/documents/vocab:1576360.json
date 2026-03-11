@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1576360",
+  "japanese": "逸れる",
+  "kana": "それる",
+  "meanings": [
+    "to turn away",
+    "to bear off",
+    "to veer away",
+    "to swerve from",
+    "to miss (e.g. a target)"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to deviate (e.g. of a conversation)",
+    "to digress",
+    "to go astray",
+    "to wander"
+  ],
+  "category": "ichidan verb"
+}

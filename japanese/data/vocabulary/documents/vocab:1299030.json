@@ -1,0 +1,29 @@
+{
+  "$id": "vocab:1299030",
+  "japanese": "殺す",
+  "kana": "ころす",
+  "meanings": [
+    "to kill",
+    "to slay",
+    "to murder",
+    "to slaughter"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to suppress",
+    "to block",
+    "to hamper",
+    "to destroy (e.g. talent)",
+    "to eliminate (e.g. an odour)",
+    "to spoil (e.g. a flavour)",
+    "to kill (e.g. one's speed)",
+    "to suppress (a voice, feelings, etc.)",
+    "to hold back",
+    "to stifle (a yawn, laugh, etc.)",
+    "to hold (one's breath)",
+    "to put out (a runner)",
+    "to pawn",
+    "to put in hock"
+  ],
+  "category": "godan verb"
+}

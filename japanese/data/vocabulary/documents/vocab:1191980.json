@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1191980",
+  "japanese": "家事",
+  "kana": "かじ",
+  "meanings": [
+    "housework",
+    "domestic chores"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "family affairs",
+    "household matters"
+  ],
+  "category": "noun"
+}

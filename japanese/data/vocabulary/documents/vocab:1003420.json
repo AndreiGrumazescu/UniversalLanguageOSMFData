@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1003420",
+  "japanese": "きっちり",
+  "kana": "きっちり",
+  "meanings": [
+    "exactly",
+    "precisely",
+    "punctually",
+    "on the dot"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "closely",
+    "tightly",
+    "(fitting) perfectly",
+    "properly",
+    "without fail"
+  ],
+  "category": "adverb"
+}

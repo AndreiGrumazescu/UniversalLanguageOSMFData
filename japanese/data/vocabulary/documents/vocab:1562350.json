@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1562350",
+  "japanese": "話す",
+  "kana": "はなす",
+  "meanings": [
+    "to talk",
+    "to speak",
+    "to converse",
+    "to chat"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "to tell",
+    "to explain",
+    "to narrate",
+    "to mention",
+    "to describe",
+    "to discuss",
+    "to speak (a language)"
+  ],
+  "category": "godan verb"
+}

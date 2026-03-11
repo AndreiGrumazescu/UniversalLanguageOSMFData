@@ -1,0 +1,25 @@
+{
+  "$id": "vocab:1413940",
+  "japanese": "大事",
+  "kana": "だいじ",
+  "meanings": [
+    "important",
+    "serious",
+    "crucial"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "valuable",
+    "precious",
+    "serious matter",
+    "major incident",
+    "matter of grave concern",
+    "crisis",
+    "great undertaking",
+    "great enterprise",
+    "great thing",
+    "safe",
+    "OK"
+  ],
+  "category": "na-adjective"
+}

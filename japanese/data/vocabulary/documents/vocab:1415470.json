@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1415470",
+  "japanese": "題",
+  "kana": "だい",
+  "meanings": [
+    "title",
+    "subject",
+    "theme",
+    "topic"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "problem (on a test)",
+    "question",
+    "counter for questions (on a test)"
+  ],
+  "category": "noun"
+}

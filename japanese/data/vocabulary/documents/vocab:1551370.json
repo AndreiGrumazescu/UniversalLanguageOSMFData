@@ -1,0 +1,28 @@
+{
+  "$id": "vocab:1551370",
+  "japanese": "立ち上がる",
+  "kana": "たちあがる",
+  "meanings": [
+    "to stand up",
+    "to get up",
+    "to rise (to one's feet)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to recover",
+    "to regain one's energy",
+    "to rise",
+    "to (stand up and) take action",
+    "to rise up (against)",
+    "to start (doing)",
+    "to rise (from a crouch) and make the initial charge",
+    "to start up",
+    "to boot up",
+    "to be established",
+    "to be set up",
+    "to be formed",
+    "to be created",
+    "to rise (of steam, smoke, etc.)"
+  ],
+  "category": "godan verb"
+}

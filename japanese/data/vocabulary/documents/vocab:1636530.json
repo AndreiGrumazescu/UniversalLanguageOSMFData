@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1636530",
+  "japanese": "掠る",
+  "kana": "かする",
+  "meanings": [
+    "to graze (e.g. bullet)",
+    "to scratch",
+    "to touch lightly"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to take a percentage",
+    "to exploit",
+    "to squeeze"
+  ],
+  "category": "godan verb"
+}

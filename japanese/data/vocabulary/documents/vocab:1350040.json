@@ -1,0 +1,30 @@
+{
+  "$id": "vocab:1350040",
+  "japanese": "消える",
+  "kana": "きえる",
+  "meanings": [
+    "to disappear",
+    "to vanish",
+    "to go out of sight",
+    "to go away",
+    "to become lost"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "to go out (of a fire, light, etc.)",
+    "to die",
+    "to turn off (e.g. of a TV screen)",
+    "to fade (of a feeling, impression, etc.)",
+    "to vanish (e.g. of hope)",
+    "to go away (e.g. of a smell, itchiness, sleepiness)",
+    "to disappear",
+    "to fade away (e.g. of footsteps)",
+    "to wear away (e.g. of an inscription)",
+    "to rub out (of writing)",
+    "to fade (e.g. of ink)",
+    "to be lost (e.g. of a tradition)",
+    "to die out",
+    "to disappear"
+  ],
+  "category": "ichidan verb"
+}

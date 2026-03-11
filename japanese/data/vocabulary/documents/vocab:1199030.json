@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1199030",
+  "japanese": "解除",
+  "kana": "かいじょ",
+  "meanings": [
+    "termination (of a contract)",
+    "cancellation",
+    "rescinding",
+    "rescission"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "lifting (of a ban, sanctions, etc.)",
+    "removal",
+    "release (from obligations)",
+    "cancellation (of a warning, alert, etc.)",
+    "calling off (e.g. a strike)",
+    "releasing (a lock)"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,26 @@
+{
+  "$id": "vocab:1582430",
+  "japanese": "鈍い",
+  "kana": "にぶい",
+  "meanings": [
+    "dull (e.g. a knife)",
+    "blunt"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "thickheaded",
+    "obtuse",
+    "stupid",
+    "dull (sound, color, etc.)",
+    "dim (light)",
+    "slow",
+    "sluggish",
+    "inert",
+    "lethargic",
+    "insensitive",
+    "dull (e.g. reflexes)",
+    "unperceptive",
+    "unfeeling"
+  ],
+  "category": "i-adjective"
+}

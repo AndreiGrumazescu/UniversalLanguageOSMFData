@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1483800",
+  "japanese": "皮",
+  "kana": "かわ",
+  "meanings": [
+    "skin",
+    "hide",
+    "pelt",
+    "fur"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "rind",
+    "peel",
+    "husk",
+    "bark",
+    "shell",
+    "sheath",
+    "wrapping",
+    "mask (hiding one's true nature)",
+    "seeming"
+  ],
+  "category": "noun"
+}

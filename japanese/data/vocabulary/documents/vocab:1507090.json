@@ -1,0 +1,11 @@
+{
+  "$id": "vocab:1507090",
+  "japanese": "平仮名",
+  "kana": "ひらがな",
+  "meanings": [
+    "hiragana",
+    "cursive Japanese syllabary used primarily for native Japanese words (esp. function words, inflections, etc.)"
+  ],
+  "jlptLevel": "N5",
+  "category": "noun"
+}

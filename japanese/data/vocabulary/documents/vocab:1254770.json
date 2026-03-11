@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1254770",
+  "japanese": "結合",
+  "kana": "けつごう",
+  "meanings": [
+    "combination",
+    "union",
+    "joining",
+    "linking",
+    "coupling"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "bond",
+    "join (in relational algebra)"
+  ],
+  "category": "noun"
+}

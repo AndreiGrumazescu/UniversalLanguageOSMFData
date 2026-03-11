@@ -1,0 +1,27 @@
+{
+  "$id": "vocab:1278290",
+  "japanese": "巧み",
+  "kana": "たくみ",
+  "meanings": [
+    "skillful",
+    "adroit",
+    "dexterous",
+    "masterful",
+    "clever",
+    "ingenious",
+    "cunning"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "craft",
+    "craftsmanship",
+    "skill",
+    "dexterity",
+    "design",
+    "plot",
+    "scheme",
+    "artifice",
+    "trick"
+  ],
+  "category": "na-adjective"
+}

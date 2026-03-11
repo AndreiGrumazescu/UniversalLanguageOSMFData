@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1199830",
+  "japanese": "回路",
+  "kana": "かいろ",
+  "meanings": [
+    "circuit"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "cycle (e.g. Krebs cycle)",
+    "cycle",
+    "loop"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1602570",
+  "japanese": "塞がる",
+  "kana": "ふさがる",
+  "meanings": [
+    "to be closed",
+    "to be blocked",
+    "to be healed (e.g. wound)",
+    "to be shut up"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to be clogged",
+    "to be plugged up",
+    "to be occupied",
+    "to be taken (e.g. accommodation)"
+  ],
+  "category": "godan verb"
+}

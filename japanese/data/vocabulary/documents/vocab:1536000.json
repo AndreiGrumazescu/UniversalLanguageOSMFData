@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1536000",
+  "japanese": "問う",
+  "kana": "とう",
+  "meanings": [
+    "to ask",
+    "to inquire"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to blame (someone) for",
+    "to accuse of",
+    "to pursue (question of responsibility)",
+    "to charge with",
+    "to care about",
+    "to regard as important",
+    "to call into question",
+    "to doubt",
+    "to question"
+  ],
+  "category": "Godan verb with 'u' ending (special class)"
+}

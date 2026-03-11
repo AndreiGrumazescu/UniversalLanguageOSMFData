@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1369070",
+  "japanese": "人物",
+  "kana": "じんぶつ",
+  "meanings": [
+    "person",
+    "character",
+    "figure",
+    "personage",
+    "man",
+    "woman"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "one's character",
+    "one's personality",
+    "able person",
+    "talented person"
+  ],
+  "category": "noun"
+}

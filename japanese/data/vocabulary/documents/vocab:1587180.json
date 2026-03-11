@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1587180",
+  "japanese": "生け花",
+  "kana": "いけばな",
+  "meanings": [
+    "ikebana",
+    "Japanese art of flower arrangement"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "fresh flower",
+    "natural flower"
+  ],
+  "category": "noun"
+}

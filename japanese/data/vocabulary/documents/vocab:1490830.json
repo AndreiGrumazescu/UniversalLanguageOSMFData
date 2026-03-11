@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1490830",
+  "japanese": "貧困",
+  "kana": "ひんこん",
+  "meanings": [
+    "poverty",
+    "penury",
+    "need",
+    "destitution"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "shortage",
+    "lack",
+    "want"
+  ],
+  "category": "noun"
+}

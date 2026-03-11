@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1420730",
+  "japanese": "地",
+  "kana": "ち",
+  "meanings": [
+    "earth",
+    "ground",
+    "land",
+    "soil"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "place",
+    "territory",
+    "bottom (of a package, book, etc.)",
+    "earth (one of the five elements)"
+  ],
+  "category": "noun"
+}

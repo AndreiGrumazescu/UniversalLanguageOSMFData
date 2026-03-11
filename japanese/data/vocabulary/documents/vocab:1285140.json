@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1285140",
+  "japanese": "合同",
+  "kana": "ごうどう",
+  "meanings": [
+    "combination",
+    "union",
+    "joining",
+    "incorporation",
+    "amalgamation",
+    "merger",
+    "fusion"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "combined",
+    "joint",
+    "united",
+    "shared",
+    "congruence"
+  ],
+  "category": "noun"
+}

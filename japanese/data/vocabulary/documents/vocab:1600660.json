@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1600660",
+  "japanese": "図る",
+  "kana": "はかる",
+  "meanings": [
+    "to plan",
+    "to attempt",
+    "to devise"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to plot",
+    "to conspire",
+    "to scheme",
+    "to aim for",
+    "to strive for",
+    "to work towards",
+    "to seek",
+    "to deceive",
+    "to trick",
+    "to take in"
+  ],
+  "category": "godan verb"
+}

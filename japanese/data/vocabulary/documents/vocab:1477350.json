@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1477350",
+  "japanese": "発言",
+  "kana": "はつげん",
+  "meanings": [
+    "statement",
+    "remark",
+    "observation",
+    "utterance",
+    "speech",
+    "proposal"
+  ],
+  "jlptLevel": "N1",
+  "category": "noun"
+}

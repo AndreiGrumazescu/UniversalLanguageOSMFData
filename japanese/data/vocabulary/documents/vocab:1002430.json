@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1002430",
+  "japanese": "お茶",
+  "kana": "おちゃ",
+  "meanings": [
+    "tea (esp. green or barley)"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "tea break",
+    "teatime",
+    "tea ceremony"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,30 @@
+{
+  "$id": "vocab:1011180",
+  "japanese": "ぶつかる",
+  "kana": "ぶつかる",
+  "meanings": [
+    "to bump into",
+    "to run into",
+    "to collide with",
+    "to hit",
+    "to strike"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to encounter",
+    "to meet with",
+    "to come upon",
+    "to face",
+    "to run up against",
+    "to be confronted with",
+    "to clash (of opinions, people, etc.)",
+    "to conflict",
+    "to be at odds (with)",
+    "to clash (of events)",
+    "to fall (on)",
+    "to occur at the same time (as)",
+    "to tackle head-on (a difficulty)",
+    "to confront boldly"
+  ],
+  "category": "godan verb"
+}

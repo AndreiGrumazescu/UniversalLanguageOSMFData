@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1277100",
+  "japanese": "向ける",
+  "kana": "むける",
+  "meanings": [
+    "to turn (towards)",
+    "to face",
+    "to point",
+    "to aim",
+    "to direct to"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to head to",
+    "to go towards",
+    "to allot",
+    "to allocate",
+    "to send",
+    "to dispatch (e.g. a person)",
+    "to aim for",
+    "to pursue"
+  ],
+  "category": "ichidan verb"
+}

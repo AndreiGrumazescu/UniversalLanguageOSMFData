@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1433470",
+  "japanese": "通知",
+  "kana": "つうち",
+  "meanings": [
+    "notice",
+    "notification",
+    "report",
+    "posting"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "notification (on a smartphone, PC, etc.)"
+  ],
+  "category": "noun"
+}

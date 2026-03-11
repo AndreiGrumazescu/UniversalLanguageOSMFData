@@ -1,0 +1,13 @@
+{
+  "$id": "vocab:1264600",
+  "japanese": "諺",
+  "kana": "ことわざ",
+  "meanings": [
+    "proverb",
+    "saying",
+    "aphorism",
+    "maxim"
+  ],
+  "jlptLevel": "N3",
+  "category": "noun"
+}

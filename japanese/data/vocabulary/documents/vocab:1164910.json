@@ -1,0 +1,25 @@
+{
+  "$id": "vocab:1164910",
+  "japanese": "一通り",
+  "kana": "ひととおり",
+  "meanings": [
+    "generally",
+    "in the main",
+    "briefly (look over, explain, etc.)",
+    "roughly",
+    "more or less"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "(more or less) everything",
+    "all parts",
+    "bit of everything",
+    "whole process",
+    "ordinary",
+    "usual",
+    "average",
+    "common",
+    "one method"
+  ],
+  "category": "noun"
+}

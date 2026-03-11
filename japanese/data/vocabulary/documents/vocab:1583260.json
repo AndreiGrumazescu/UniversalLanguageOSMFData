@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1583260",
+  "japanese": "避ける",
+  "kana": "さける",
+  "meanings": [
+    "to avoid (physical contact with)"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to avoid (situation)",
+    "to evade (question, subject)",
+    "to shirk (one's responsibilities)",
+    "to ward off",
+    "to avert",
+    "to put aside",
+    "to move out of the way"
+  ],
+  "category": "ichidan verb"
+}

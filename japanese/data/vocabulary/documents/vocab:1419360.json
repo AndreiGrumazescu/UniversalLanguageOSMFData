@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1419360",
+  "japanese": "弾く",
+  "kana": "はじく",
+  "meanings": [
+    "to flip",
+    "to snap",
+    "to flick"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to repel",
+    "to use (an abacus)",
+    "to calculate",
+    "to strum",
+    "to pluck the strings (of a guitar, etc.)"
+  ],
+  "category": "godan verb"
+}

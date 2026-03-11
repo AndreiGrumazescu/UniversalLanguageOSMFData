@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1376240",
+  "japanese": "整備",
+  "kana": "せいび",
+  "meanings": [
+    "maintenance",
+    "servicing"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "putting in place",
+    "development",
+    "improvement",
+    "preparation",
+    "provision",
+    "equipping",
+    "outfitting"
+  ],
+  "category": "noun"
+}

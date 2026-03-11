@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1117080",
+  "japanese": "プログラム",
+  "kana": "プログラム",
+  "meanings": [
+    "program (of events, music, etc.)",
+    "programme"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "program (booklet)",
+    "brochure",
+    "pamphlet",
+    "(computer) program",
+    "programming"
+  ],
+  "category": "noun"
+}

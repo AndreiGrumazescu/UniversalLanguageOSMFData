@@ -1,0 +1,33 @@
+{
+  "$id": "vocab:1335750",
+  "japanese": "重い",
+  "kana": "おもい",
+  "meanings": [
+    "heavy",
+    "weighty"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "heavy (feeling)",
+    "depressed",
+    "gloomy",
+    "blue",
+    "uneasy",
+    "slow",
+    "sluggish",
+    "lumbering",
+    "ponderous",
+    "clumsy",
+    "important (position, responsibility, etc.)",
+    "serious",
+    "grave",
+    "serious (punishment, illness, etc.)",
+    "severe",
+    "critical",
+    "solid",
+    "established",
+    "dignified",
+    "sensible"
+  ],
+  "category": "i-adjective"
+}

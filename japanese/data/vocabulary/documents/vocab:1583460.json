@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1583460",
+  "japanese": "描く",
+  "kana": "えがく",
+  "meanings": [
+    "to draw",
+    "to paint",
+    "to sketch"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to depict",
+    "to describe",
+    "to picture in one's mind",
+    "to imagine",
+    "to form a certain shape (e.g. path of an action, appearance of an object, etc.)"
+  ],
+  "category": "godan verb"
+}

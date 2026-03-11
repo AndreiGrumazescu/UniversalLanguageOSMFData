@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1199720",
+  "japanese": "回復",
+  "kana": "かいふく",
+  "meanings": [
+    "restoration",
+    "recovery",
+    "rehabilitation",
+    "return",
+    "improvement"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "recovery (from an illness)",
+    "recuperation",
+    "convalescence"
+  ],
+  "category": "noun"
+}

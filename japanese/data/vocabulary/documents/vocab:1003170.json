@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1003170",
+  "japanese": "がっかり",
+  "kana": "がっかり",
+  "meanings": [
+    "to be disappointed",
+    "to be dejected",
+    "to be downhearted",
+    "to be discouraged",
+    "to be disheartened",
+    "to lose heart",
+    "to feel let down"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to feel exhausted",
+    "to feel drained"
+  ],
+  "category": "suru verb"
+}

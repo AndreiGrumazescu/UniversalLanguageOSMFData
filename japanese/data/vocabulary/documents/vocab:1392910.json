@@ -1,0 +1,29 @@
+{
+  "$id": "vocab:1392910",
+  "japanese": "前後",
+  "kana": "ぜんご",
+  "meanings": [
+    "front and rear",
+    "front and back",
+    "before and behind",
+    "back and forth"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "before and after",
+    "around",
+    "about",
+    "approximately",
+    "order",
+    "context",
+    "consequences",
+    "just when",
+    "around the time of",
+    "inversion",
+    "reversion",
+    "getting out of order",
+    "co-occurring",
+    "happening at the same time"
+  ],
+  "category": "noun"
+}

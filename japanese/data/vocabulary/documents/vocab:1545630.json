@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1545630",
+  "japanese": "揺らぐ",
+  "kana": "ゆらぐ",
+  "meanings": [
+    "to swing",
+    "to sway",
+    "to shake",
+    "to tremble"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to waver",
+    "to feel shaken",
+    "to become unstable"
+  ],
+  "category": "godan verb"
+}

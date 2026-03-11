@@ -1,0 +1,26 @@
+{
+  "$id": "vocab:1469530",
+  "japanese": "捻る",
+  "kana": "ひねる",
+  "meanings": [
+    "to twist",
+    "to wrench",
+    "to turn (a tap, switch, etc.)"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to twist (a body part)",
+    "to bend",
+    "to sprain",
+    "to strangle (to death)",
+    "to wring (an animal's neck)",
+    "to defeat easily",
+    "to beat",
+    "to make (a problem, design, etc.) intricate",
+    "to make peculiar",
+    "to make complicated",
+    "to manage to compose (a haiku, song, etc.)",
+    "to wrap (a monetary gift) in paper"
+  ],
+  "category": "godan verb"
+}

@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1513250",
+  "japanese": "保つ",
+  "kana": "たもつ",
+  "meanings": [
+    "to keep",
+    "to preserve",
+    "to hold",
+    "to retain",
+    "to maintain",
+    "to sustain"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to last",
+    "to endure",
+    "to keep well (food)",
+    "to wear well",
+    "to be durable"
+  ],
+  "category": "godan verb"
+}

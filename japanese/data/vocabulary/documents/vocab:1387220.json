@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1387220",
+  "japanese": "先",
+  "kana": "せん",
+  "meanings": [
+    "former",
+    "previous",
+    "old"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "first move (in go, shogi, etc.)",
+    "opening move"
+  ],
+  "category": "noun"
+}

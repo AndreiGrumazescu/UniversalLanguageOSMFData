@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1513530",
+  "japanese": "保護",
+  "kana": "ほご",
+  "meanings": [
+    "protection",
+    "safeguard",
+    "guardianship",
+    "custody",
+    "patronage"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "preservation",
+    "conservation"
+  ],
+  "category": "noun"
+}

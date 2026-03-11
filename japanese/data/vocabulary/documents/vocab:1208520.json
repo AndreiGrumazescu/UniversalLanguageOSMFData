@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1208520",
+  "japanese": "渇く",
+  "kana": "かわく",
+  "meanings": [
+    "to be thirsty",
+    "to feel thirsty"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to thirst for",
+    "to crave"
+  ],
+  "category": "godan verb"
+}

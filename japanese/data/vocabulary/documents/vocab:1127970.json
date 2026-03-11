@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1127970",
+  "japanese": "マスター",
+  "kana": "マスター",
+  "meanings": [
+    "to master (a skill)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "proprietor",
+    "manager",
+    "owner",
+    "barkeeper",
+    "leader",
+    "chief",
+    "head",
+    "master (of arts, science, etc.)",
+    "master (recording)",
+    "master (device)",
+    "master (data)"
+  ],
+  "category": "suru verb"
+}

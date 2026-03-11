@@ -1,0 +1,30 @@
+{
+  "$id": "vocab:1169350",
+  "japanese": "引っかかる",
+  "kana": "ひっかかる",
+  "meanings": [
+    "to be caught in",
+    "to be stuck in"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to stop by",
+    "to drop in for a short visit",
+    "to be delayed",
+    "to take time",
+    "to get mixed up in (trouble)",
+    "to get entangled in (a problem)",
+    "to be involved with",
+    "to fall for (a trick)",
+    "to be deceived",
+    "to be cheated",
+    "to be on one's mind",
+    "to worry one",
+    "to be bothered by",
+    "to feel uneasy",
+    "to be obstructed",
+    "to be hindered",
+    "to splash"
+  ],
+  "category": "godan verb"
+}

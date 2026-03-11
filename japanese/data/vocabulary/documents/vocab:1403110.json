@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1403110",
+  "japanese": "像",
+  "kana": "ぞう",
+  "meanings": [
+    "image",
+    "figure",
+    "statue",
+    "picture",
+    "portrait"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "figure",
+    "form",
+    "shape",
+    "appearance",
+    "image"
+  ],
+  "category": "noun"
+}

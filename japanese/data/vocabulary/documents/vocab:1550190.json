@@ -1,0 +1,36 @@
+{
+  "$id": "vocab:1550190",
+  "japanese": "裏",
+  "kana": "うら",
+  "meanings": [
+    "opposite side",
+    "bottom",
+    "other side",
+    "side hidden from view",
+    "undersurface",
+    "reverse side"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "rear",
+    "back",
+    "behind",
+    "lining",
+    "inside",
+    "in the shadows",
+    "behind the scenes",
+    "offstage",
+    "behind (someone's) back",
+    "more (to something than meets the eye)",
+    "hidden side (e.g. of one's personality)",
+    "unknown circumstances",
+    "different side",
+    "proof",
+    "opposite (of a prediction, common sense, etc.)",
+    "contrary",
+    "inverse (of a hypothesis, etc.)",
+    "bottom (of an inning)",
+    "last half (of an inning)"
+  ],
+  "category": "noun"
+}

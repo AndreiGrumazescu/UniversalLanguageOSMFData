@@ -1,0 +1,27 @@
+{
+  "$id": "vocab:1376140",
+  "japanese": "整える",
+  "kana": "ととのえる",
+  "meanings": [
+    "to put in order",
+    "to arrange",
+    "to tidy up",
+    "to fix",
+    "to straighten"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to get ready",
+    "to prepare",
+    "to arrange",
+    "to supply",
+    "to assemble",
+    "to buy",
+    "to adjust",
+    "to regulate (e.g. rhythm, tune, one's breathing)",
+    "to work out (e.g. business deal)",
+    "to arrange (e.g. marriage)",
+    "to settle"
+  ],
+  "category": "ichidan verb"
+}

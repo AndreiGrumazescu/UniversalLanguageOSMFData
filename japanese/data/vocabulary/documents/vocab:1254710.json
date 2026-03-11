@@ -1,0 +1,14 @@
+{
+  "$id": "vocab:1254710",
+  "japanese": "結核",
+  "kana": "けっかく",
+  "meanings": [
+    "tuberculosis",
+    "TB"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "concretion"
+  ],
+  "category": "noun"
+}

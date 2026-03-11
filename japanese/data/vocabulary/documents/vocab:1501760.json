@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1501760",
+  "japanese": "仏",
+  "kana": "ほとけ",
+  "meanings": [
+    "Buddha",
+    "Shakyamuni"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "Buddhist image",
+    "figure of Buddha",
+    "the dead",
+    "dead person",
+    "departed soul",
+    "merciful person"
+  ],
+  "category": "noun"
+}

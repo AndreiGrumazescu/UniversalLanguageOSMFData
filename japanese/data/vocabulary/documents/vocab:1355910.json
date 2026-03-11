@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1355910",
+  "japanese": "場面",
+  "kana": "ばめん",
+  "meanings": [
+    "scene",
+    "setting",
+    "place (where something happens)",
+    "scenario",
+    "case"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "scene (in a movie, play)",
+    "shot",
+    "state of the market"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,25 @@
+{
+  "$id": "vocab:1270670",
+  "japanese": "御免",
+  "kana": "ごめん",
+  "meanings": [
+    "I'm sorry",
+    "my apologies",
+    "excuse me",
+    "pardon me"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "may I come in?",
+    "permission",
+    "leave",
+    "license",
+    "dismissal",
+    "discharge",
+    "not wanting",
+    "objecting to",
+    "being fed up with",
+    "wishing to avoid"
+  ],
+  "category": "interjection"
+}

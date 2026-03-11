@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1519750",
+  "japanese": "棒",
+  "kana": "ぼう",
+  "meanings": [
+    "pole",
+    "rod",
+    "stick",
+    "baton"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "line",
+    "dash",
+    "spoken monotonously"
+  ],
+  "category": "noun"
+}

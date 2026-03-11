@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1481480",
+  "japanese": "版",
+  "kana": "はん",
+  "meanings": [
+    "edition",
+    "version",
+    "printing",
+    "impression",
+    "implementation (of software)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "plate",
+    "block",
+    "cast",
+    "counter for editions of a publication"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1135430",
+  "japanese": "モニター",
+  "kana": "モニター",
+  "meanings": [
+    "monitor (device, software or person)",
+    "monitoring"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "person who gives feedback on products, television programs, etc.",
+    "customer panel participant",
+    "(computer) monitor",
+    "display"
+  ],
+  "category": "noun"
+}

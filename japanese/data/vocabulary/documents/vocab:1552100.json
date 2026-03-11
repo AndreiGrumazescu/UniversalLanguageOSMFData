@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1552100",
+  "japanese": "流し",
+  "kana": "ながし",
+  "meanings": [
+    "sink (e.g. in a kitchen)"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "cruising (e.g. taxi)",
+    "strolling (entertainer, musician, etc.)",
+    "washing area (in a Japanese-style bath)",
+    "back-washing service (in a public bath)",
+    "floating (something on water)",
+    "setting adrift",
+    "washing away"
+  ],
+  "category": "noun"
+}

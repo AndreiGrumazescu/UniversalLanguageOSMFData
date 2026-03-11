@@ -1,0 +1,28 @@
+{
+  "$id": "vocab:1259830",
+  "japanese": "見送る",
+  "kana": "みおくる",
+  "meanings": [
+    "to see (someone) off",
+    "to escort"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to watch (someone or something) go out of sight",
+    "to follow with one's eyes",
+    "to gaze after",
+    "to let (a bus, pitch, etc.) go by",
+    "to let pass",
+    "to pass up (an opportunity)",
+    "to postpone",
+    "to put off",
+    "to shelve",
+    "to leave (as it is)",
+    "to take care of (someone) until death",
+    "to attend (someone's) funeral",
+    "to bury",
+    "to hold off (buying or selling)",
+    "to wait and see"
+  ],
+  "category": "godan verb"
+}

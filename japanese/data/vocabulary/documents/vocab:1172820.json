@@ -1,0 +1,14 @@
+{
+  "$id": "vocab:1172820",
+  "japanese": "運賃",
+  "kana": "うんちん",
+  "meanings": [
+    "(passenger) fare"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "freight rates",
+    "shipping expenses"
+  ],
+  "category": "noun"
+}

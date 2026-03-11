@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1589050",
+  "japanese": "行い",
+  "kana": "おこない",
+  "meanings": [
+    "deed",
+    "act",
+    "action"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "conduct",
+    "behavior",
+    "behaviour",
+    "asceticism"
+  ],
+  "category": "noun"
+}

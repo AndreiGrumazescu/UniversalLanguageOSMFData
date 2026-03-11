@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1328990",
+  "japanese": "趣旨",
+  "kana": "しゅし",
+  "meanings": [
+    "meaning",
+    "point (e.g. of a statement)",
+    "gist",
+    "effect"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "goal",
+    "intent",
+    "object",
+    "aim",
+    "point"
+  ],
+  "category": "noun"
+}

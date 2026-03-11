@@ -1,0 +1,14 @@
+{
+  "$id": "vocab:1513440",
+  "japanese": "保険",
+  "kana": "ほけん",
+  "meanings": [
+    "insurance"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "guarantee",
+    "warranty"
+  ],
+  "category": "noun"
+}

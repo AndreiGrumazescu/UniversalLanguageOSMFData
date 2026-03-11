@@ -1,0 +1,28 @@
+{
+  "$id": "vocab:1401240",
+  "japanese": "相当",
+  "kana": "そうとう",
+  "meanings": [
+    "corresponding to (in meaning, function, etc.)",
+    "being equivalent to"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "appropriate",
+    "suitable",
+    "befitting",
+    "proportionate",
+    "to be proportionate to",
+    "to be in keeping with",
+    "to be deserving of",
+    "to be worthy of",
+    "considerable",
+    "substantial",
+    "considerably",
+    "rather",
+    "quite",
+    "fairly",
+    "pretty"
+  ],
+  "category": "noun"
+}

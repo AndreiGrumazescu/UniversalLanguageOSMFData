@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1489240",
+  "japanese": "漂う",
+  "kana": "ただよう",
+  "meanings": [
+    "to drift",
+    "to float"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to waft (e.g. a scent)",
+    "to hang in the air",
+    "to be in the air (e.g. a feeling or mood)",
+    "to wander",
+    "to walk around aimlessly",
+    "to be unsteady",
+    "to be unstable",
+    "to falter",
+    "to flinch",
+    "to wince",
+    "to live in unreliable circumstances"
+  ],
+  "category": "godan verb"
+}

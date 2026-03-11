@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:2648780",
+  "japanese": "品",
+  "kana": "ひん",
+  "meanings": [
+    "elegance",
+    "grace",
+    "refinement",
+    "class",
+    "dignity"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "article",
+    "item",
+    "counter for items (of food, etc.)",
+    "counter for dishes or courses (at a restaurant)"
+  ],
+  "category": "noun"
+}

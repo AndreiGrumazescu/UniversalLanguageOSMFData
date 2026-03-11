@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1599780",
+  "japanese": "匂う",
+  "kana": "におう",
+  "meanings": [
+    "to be fragrant",
+    "to smell (good)"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to stink",
+    "to smell (bad)",
+    "to glow",
+    "to be bright",
+    "to smack of",
+    "to show hints of"
+  ],
+  "category": "godan verb"
+}

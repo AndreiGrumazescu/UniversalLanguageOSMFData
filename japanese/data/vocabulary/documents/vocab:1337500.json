@@ -1,0 +1,11 @@
+{
+  "$id": "vocab:1337500",
+  "japanese": "祝日",
+  "kana": "しゅくじつ",
+  "meanings": [
+    "national holiday",
+    "public holiday"
+  ],
+  "jlptLevel": "N2",
+  "category": "noun"
+}

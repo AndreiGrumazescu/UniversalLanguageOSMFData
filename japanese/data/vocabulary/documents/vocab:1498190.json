@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1498190",
+  "japanese": "赴く",
+  "kana": "おもむく",
+  "meanings": [
+    "to go in the direction of",
+    "to proceed toward",
+    "to proceed according to",
+    "to repair to",
+    "to betake oneself to"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to become",
+    "to face (facts, circumstances, etc.)",
+    "to abide by",
+    "to agree to",
+    "to consent to",
+    "to obey"
+  ],
+  "category": "godan verb"
+}

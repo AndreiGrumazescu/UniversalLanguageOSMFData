@@ -1,0 +1,26 @@
+{
+  "$id": "vocab:1236680",
+  "japanese": "恐れ入る",
+  "kana": "おそれいる",
+  "meanings": [
+    "to be sorry",
+    "to beg someone's pardon",
+    "to feel small"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to be much obliged",
+    "to be grateful",
+    "to be thankful",
+    "to be amazed",
+    "to be greatly impressed",
+    "to admire",
+    "to be dumbfounded",
+    "to be confounded",
+    "to be stunned",
+    "to be fed up (with)",
+    "to be defeated",
+    "to be beaten"
+  ],
+  "category": "godan verb"
+}

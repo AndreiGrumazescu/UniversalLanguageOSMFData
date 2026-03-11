@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1282470",
+  "japanese": "購買",
+  "kana": "こうばい",
+  "meanings": [
+    "procurement",
+    "purchase",
+    "buying"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "school store",
+    "co-op",
+    "school canteen",
+    "tuck shop"
+  ],
+  "category": "noun"
+}

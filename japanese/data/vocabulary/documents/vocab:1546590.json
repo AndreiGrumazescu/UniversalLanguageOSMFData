@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1546590",
+  "japanese": "葉書",
+  "kana": "はがき",
+  "meanings": [
+    "postcard"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "memo",
+    "note",
+    "card"
+  ],
+  "category": "noun"
+}

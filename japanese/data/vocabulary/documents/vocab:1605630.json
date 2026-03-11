@@ -1,0 +1,26 @@
+{
+  "$id": "vocab:1605630",
+  "japanese": "柔らかい",
+  "kana": "やわらかい",
+  "meanings": [
+    "soft",
+    "tender",
+    "supple",
+    "flexible",
+    "limber",
+    "limp"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "gentle",
+    "mild",
+    "soft",
+    "mellow",
+    "light (topic, book, etc.)",
+    "informal",
+    "flexible (thinking, mind, etc.)",
+    "malleable",
+    "adaptable"
+  ],
+  "category": "i-adjective"
+}

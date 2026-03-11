@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1597120",
+  "japanese": "例え",
+  "kana": "たとえ",
+  "meanings": [
+    "example"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "simile",
+    "metaphor",
+    "allegory",
+    "fable",
+    "parable"
+  ],
+  "category": "noun"
+}

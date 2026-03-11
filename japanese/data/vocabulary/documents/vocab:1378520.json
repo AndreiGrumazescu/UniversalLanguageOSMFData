@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1378520",
+  "japanese": "生きる",
+  "kana": "いきる",
+  "meanings": [
+    "to live",
+    "to exist"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to make a living",
+    "to subsist",
+    "to be in effect",
+    "to be in use",
+    "to function",
+    "to come to life",
+    "to be enlivened",
+    "to be safe (in baseball, go, etc.)"
+  ],
+  "category": "ichidan verb"
+}

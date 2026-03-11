@@ -1,0 +1,29 @@
+{
+  "$id": "vocab:1511790",
+  "japanese": "片付ける",
+  "kana": "かたづける",
+  "meanings": [
+    "to put in order",
+    "to tidy up",
+    "to clean up",
+    "to put away",
+    "to clear away"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to settle (a matter)",
+    "to solve",
+    "to deal with",
+    "to dispose of",
+    "to finish",
+    "to get through",
+    "to complete",
+    "to get (something) done",
+    "to marry off (one's daughter)",
+    "to do away with (someone)",
+    "to bump off",
+    "to kill",
+    "to eliminate"
+  ],
+  "category": "ichidan verb"
+}

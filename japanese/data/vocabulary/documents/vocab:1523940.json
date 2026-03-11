@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1523940",
+  "japanese": "磨く",
+  "kana": "みがく",
+  "meanings": [
+    "to polish",
+    "to shine",
+    "to burnish",
+    "to scour",
+    "to scrub",
+    "to brush (teeth)",
+    "to grind (e.g. a lens)"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "to refine (a skill, etc.)",
+    "to improve",
+    "to hone",
+    "to polish (up)",
+    "to cultivate (one's character)"
+  ],
+  "category": "godan verb"
+}

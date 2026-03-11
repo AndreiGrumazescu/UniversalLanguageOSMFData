@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1347200",
+  "japanese": "商売",
+  "kana": "しょうばい",
+  "meanings": [
+    "trade",
+    "business",
+    "commerce"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "occupation",
+    "calling",
+    "profession",
+    "job"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,33 @@
+{
+  "$id": "vocab:1502860",
+  "japanese": "分",
+  "kana": "ぶん",
+  "meanings": [
+    "part",
+    "portion",
+    "share"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "amount",
+    "worth (as in \"two days' worth\")",
+    "enough (for)",
+    "one's means",
+    "one's place",
+    "one's lot",
+    "one's social position",
+    "one's duty",
+    "one's part",
+    "condition",
+    "state (of affairs)",
+    "extent",
+    "rate (as in \"at this rate\")",
+    "in proportion to",
+    "just as much as",
+    "to the same degree",
+    "content (e.g. alcohol)",
+    "percentage",
+    "equivalent to (e.g. an old brother)"
+  ],
+  "category": "noun"
+}

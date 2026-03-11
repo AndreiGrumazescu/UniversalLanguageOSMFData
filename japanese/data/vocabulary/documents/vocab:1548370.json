@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1548370",
+  "japanese": "頼む",
+  "kana": "たのむ",
+  "meanings": [
+    "to request",
+    "to beg",
+    "to ask"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "to call",
+    "to order",
+    "to reserve",
+    "to entrust to",
+    "to rely on",
+    "please",
+    "please do",
+    "help me out here"
+  ],
+  "category": "godan verb"
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1075990",
+  "japanese": "タイマー",
+  "kana": "タイマー",
+  "meanings": [
+    "timer",
+    "time switch"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "stopwatch",
+    "time keeper",
+    "self-timer",
+    "(delay) timer"
+  ],
+  "category": "noun"
+}

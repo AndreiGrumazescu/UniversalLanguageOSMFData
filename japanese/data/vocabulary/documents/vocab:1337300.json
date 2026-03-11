@@ -1,0 +1,11 @@
+{
+  "$id": "vocab:1337300",
+  "japanese": "宿泊",
+  "kana": "しゅくはく",
+  "meanings": [
+    "accommodation",
+    "lodging"
+  ],
+  "jlptLevel": "N3",
+  "category": "noun"
+}

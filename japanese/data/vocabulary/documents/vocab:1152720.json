@@ -1,0 +1,28 @@
+{
+  "$id": "vocab:1152720",
+  "japanese": "握る",
+  "kana": "にぎる",
+  "meanings": [
+    "to clasp",
+    "to grasp",
+    "to grip",
+    "to clutch"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to hold (the answer)",
+    "to have (e.g. the solution)",
+    "to be the key",
+    "to be the reason",
+    "to seize (power)",
+    "to hold (the reins)",
+    "to dominate",
+    "to control",
+    "to make (nigirizushi, rice ball, etc.)",
+    "to form (with one's hands)",
+    "to press into shape",
+    "to mold",
+    "to mould"
+  ],
+  "category": "godan verb"
+}

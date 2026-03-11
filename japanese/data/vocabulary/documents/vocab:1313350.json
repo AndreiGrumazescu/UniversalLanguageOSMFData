@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1313350",
+  "japanese": "歯車",
+  "kana": "はぐるま",
+  "meanings": [
+    "gear",
+    "cogwheel"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "cog (in an organization, company, etc.)",
+    "cog in the machine"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1519830",
+  "japanese": "冒険",
+  "kana": "ぼうけん",
+  "meanings": [
+    "adventure",
+    "venture"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "venture which is unlikely to succeed",
+    "risky attempt",
+    "danger",
+    "hazard",
+    "risk"
+  ],
+  "category": "noun"
+}

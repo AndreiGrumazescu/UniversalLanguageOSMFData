@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1173800",
+  "japanese": "映像",
+  "kana": "えいぞう",
+  "meanings": [
+    "image (on a screen)",
+    "picture (e.g. on a TV)"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "video",
+    "film",
+    "footage",
+    "reflection",
+    "image (in one's mind)",
+    "mental picture"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1355850",
+  "japanese": "場所",
+  "kana": "ばしょ",
+  "meanings": [
+    "place",
+    "location",
+    "spot",
+    "position",
+    "area"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "room",
+    "space",
+    "sumo tournament"
+  ],
+  "category": "noun"
+}

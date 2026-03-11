@@ -1,0 +1,14 @@
+{
+  "$id": "vocab:1600280",
+  "japanese": "喉",
+  "kana": "のど",
+  "meanings": [
+    "throat"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "singing voice",
+    "gutter (inner margins of a book)"
+  ],
+  "category": "noun"
+}

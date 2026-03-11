@@ -1,0 +1,32 @@
+{
+  "$id": "vocab:1259290",
+  "japanese": "見る",
+  "kana": "みる",
+  "meanings": [
+    "to see",
+    "to look",
+    "to watch",
+    "to view",
+    "to observe"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "to examine",
+    "to look over",
+    "to assess",
+    "to check",
+    "to judge",
+    "to look after",
+    "to attend to",
+    "to take care of",
+    "to keep an eye on",
+    "to experience",
+    "to meet with (misfortune, success, etc.)",
+    "to try ...",
+    "to have a go at ...",
+    "to give ... a try",
+    "to see (that) ...",
+    "to find (that) ..."
+  ],
+  "category": "ichidan verb"
+}

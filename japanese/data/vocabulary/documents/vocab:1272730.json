@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1272730",
+  "japanese": "候補",
+  "kana": "こうほ",
+  "meanings": [
+    "candidate",
+    "contender",
+    "prospect",
+    "pick",
+    "choice",
+    "list"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "candidacy",
+    "candidature",
+    "nomination"
+  ],
+  "category": "noun"
+}

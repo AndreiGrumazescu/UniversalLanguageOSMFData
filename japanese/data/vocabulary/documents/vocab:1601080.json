@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1601080",
+  "japanese": "早める",
+  "kana": "はやめる",
+  "meanings": [
+    "to bring forward (e.g. by 3 hours)",
+    "to advance",
+    "to hasten (e.g. one's death)",
+    "to expedite",
+    "to precipitate"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to quicken (e.g. one's step)",
+    "to speed up",
+    "to accelerate"
+  ],
+  "category": "ichidan verb"
+}

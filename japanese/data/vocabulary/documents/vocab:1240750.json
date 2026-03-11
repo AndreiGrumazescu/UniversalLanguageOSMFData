@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1240750",
+  "japanese": "僅か",
+  "kana": "わずか",
+  "meanings": [
+    "a little",
+    "a few",
+    "small",
+    "slight",
+    "trifling",
+    "meagre",
+    "meager",
+    "narrow (margin)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "only",
+    "just",
+    "merely",
+    "no more than"
+  ],
+  "category": "na-adjective"
+}

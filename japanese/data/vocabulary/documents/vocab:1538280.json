@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1538280",
+  "japanese": "薬品",
+  "kana": "やくひん",
+  "meanings": [
+    "medicine",
+    "drug"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "chemical (agent)",
+    "chemicals"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1289620",
+  "japanese": "困難",
+  "kana": "こんなん",
+  "meanings": [
+    "difficulty",
+    "hardship",
+    "trouble",
+    "distress"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "infeasibility",
+    "inability (to carry out)"
+  ],
+  "category": "noun"
+}

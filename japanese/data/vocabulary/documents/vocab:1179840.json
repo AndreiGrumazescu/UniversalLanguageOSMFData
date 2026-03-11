@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1179840",
+  "japanese": "応援",
+  "kana": "おうえん",
+  "meanings": [
+    "aid",
+    "assistance",
+    "help",
+    "support",
+    "reinforcement"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "cheering",
+    "rooting (for)",
+    "support"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1322320",
+  "japanese": "捨てる",
+  "kana": "すてる",
+  "meanings": [
+    "to throw away",
+    "to cast away",
+    "to dump",
+    "to discard"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to abandon",
+    "to desert",
+    "to leave",
+    "to give up",
+    "to resign",
+    "to sacrifice (stones)"
+  ],
+  "category": "ichidan verb"
+}

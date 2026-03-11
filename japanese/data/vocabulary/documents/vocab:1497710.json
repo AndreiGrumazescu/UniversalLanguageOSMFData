@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1497710",
+  "japanese": "符号",
+  "kana": "ふごう",
+  "meanings": [
+    "sign",
+    "mark",
+    "symbol",
+    "code"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "sign (e.g. positive, negative)"
+  ],
+  "category": "noun"
+}

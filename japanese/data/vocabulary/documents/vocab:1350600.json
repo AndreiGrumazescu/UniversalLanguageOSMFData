@@ -1,0 +1,31 @@
+{
+  "$id": "vocab:1350600",
+  "japanese": "焼く",
+  "kana": "やく",
+  "meanings": [
+    "to burn"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to roast",
+    "to broil",
+    "to grill",
+    "to bake",
+    "to toast",
+    "to barbecue",
+    "to heat",
+    "to heat up",
+    "to make (charcoal, pottery, bricks, etc.)",
+    "to bake",
+    "to fire",
+    "to burn",
+    "to tan (i.e. suntan)",
+    "to burn",
+    "to print (a photo)",
+    "to burn (an optical disc)",
+    "to be jealous of",
+    "to be envious of",
+    "to envy"
+  ],
+  "category": "godan verb"
+}

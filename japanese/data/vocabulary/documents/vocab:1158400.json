@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1158400",
+  "japanese": "移動",
+  "kana": "いどう",
+  "meanings": [
+    "movement",
+    "transfer",
+    "migration",
+    "removal",
+    "travel"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "mobile",
+    "moving",
+    "traveling",
+    "travelling",
+    "roving"
+  ],
+  "category": "noun"
+}

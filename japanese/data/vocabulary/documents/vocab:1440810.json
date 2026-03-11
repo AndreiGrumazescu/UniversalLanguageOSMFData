@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1440810",
+  "japanese": "添う",
+  "kana": "そう",
+  "meanings": [
+    "to meet (wishes, expectations, etc.)",
+    "to satisfy",
+    "to comply with",
+    "to live up to"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to accompany",
+    "to go with",
+    "to stay by one's side",
+    "to associate with (someone)",
+    "to mix with",
+    "to marry",
+    "to wed",
+    "to be added"
+  ],
+  "category": "godan verb"
+}

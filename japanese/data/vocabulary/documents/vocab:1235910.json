@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1235910",
+  "japanese": "叫ぶ",
+  "kana": "さけぶ",
+  "meanings": [
+    "to shout",
+    "to cry (out)",
+    "to scream",
+    "to shriek",
+    "to yell",
+    "to exclaim"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to clamor (for or against)",
+    "to advocate",
+    "to insist",
+    "to protest",
+    "to appeal"
+  ],
+  "category": "godan verb"
+}

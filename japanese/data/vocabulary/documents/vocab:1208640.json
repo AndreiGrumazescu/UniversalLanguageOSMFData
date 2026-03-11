@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1208640",
+  "japanese": "滑る",
+  "kana": "すべる",
+  "meanings": [
+    "to slide",
+    "to glide",
+    "to skate",
+    "to ski"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to slip",
+    "to skid",
+    "to be slippery",
+    "to fail (an examination)",
+    "to lose (a position)",
+    "to be demoted",
+    "to bomb (when telling a joke)",
+    "to fall flat",
+    "to slide (move)"
+  ],
+  "category": "godan verb"
+}

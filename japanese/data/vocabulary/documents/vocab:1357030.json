@@ -1,0 +1,27 @@
+{
+  "$id": "vocab:1357030",
+  "japanese": "譲る",
+  "kana": "ゆずる",
+  "meanings": [
+    "to hand over",
+    "to transfer",
+    "to turn over",
+    "to assign",
+    "to convey",
+    "to bequeath"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to give up (e.g. one's seat)",
+    "to give way",
+    "to yield",
+    "to concede",
+    "to give ground",
+    "to surrender",
+    "to sell",
+    "to postpone",
+    "to put off",
+    "to defer"
+  ],
+  "category": "godan verb"
+}

@@ -1,0 +1,33 @@
+{
+  "$id": "vocab:1346450",
+  "japanese": "召す",
+  "kana": "めす",
+  "meanings": [
+    "to call",
+    "to summon",
+    "to send for",
+    "to invite"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to eat",
+    "to drink",
+    "to put on",
+    "to wear",
+    "to buy",
+    "to purchase",
+    "to take (a bath)",
+    "to ride",
+    "to get in (a vehicle)",
+    "to take",
+    "to catch (a cold)",
+    "to put on (years)",
+    "to get old",
+    "to strike one's fancy",
+    "to please one",
+    "to do",
+    "to commit seppuku",
+    "indicates respect"
+  ],
+  "category": "godan verb"
+}

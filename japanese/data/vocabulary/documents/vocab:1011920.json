@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1011920",
+  "japanese": "ぼんやり",
+  "kana": "ぼんやり",
+  "meanings": [
+    "dimly",
+    "faintly",
+    "indistinctly",
+    "vaguely"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "absentmindedly",
+    "vacantly",
+    "carelessly",
+    "idly",
+    "aimlessly",
+    "absence of mind",
+    "fool",
+    "blockhead",
+    "dunce"
+  ],
+  "category": "adverb"
+}

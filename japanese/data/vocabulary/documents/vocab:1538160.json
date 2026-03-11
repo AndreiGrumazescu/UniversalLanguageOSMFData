@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1538160",
+  "japanese": "薬",
+  "kana": "くすり",
+  "meanings": [
+    "medicine",
+    "pharmaceuticals",
+    "(legal) drugs",
+    "pill",
+    "ointment",
+    "salve"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "efficacious chemical (gunpowder, pesticide, etc.)",
+    "(pottery) glaze",
+    "(illegal) drug",
+    "narcotic",
+    "small bribe"
+  ],
+  "category": "noun"
+}

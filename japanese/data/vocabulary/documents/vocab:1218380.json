@@ -1,0 +1,31 @@
+{
+  "$id": "vocab:1218380",
+  "japanese": "危ない",
+  "kana": "あぶない",
+  "meanings": [
+    "dangerous",
+    "risky",
+    "hazardous",
+    "perilous",
+    "precarious"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "in danger",
+    "in jeopardy",
+    "critical",
+    "grave",
+    "at risk",
+    "uncertain",
+    "unreliable",
+    "insecure",
+    "unsteady",
+    "doubtful",
+    "close (call)",
+    "narrow (escape)",
+    "look out!",
+    "watch out!",
+    "be careful!"
+  ],
+  "category": "i-adjective"
+}

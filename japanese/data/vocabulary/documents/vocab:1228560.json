@@ -1,0 +1,29 @@
+{
+  "$id": "vocab:1228560",
+  "japanese": "急",
+  "kana": "きゅう",
+  "meanings": [
+    "sudden",
+    "abrupt",
+    "unexpected"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "urgent",
+    "pressing",
+    "steep",
+    "sharp",
+    "precipitous",
+    "rapid",
+    "swift",
+    "fast",
+    "emergency",
+    "crisis",
+    "danger",
+    "urgency",
+    "hurrying",
+    "haste",
+    "(in gagaku or noh) end of a song"
+  ],
+  "category": "na-adjective"
+}

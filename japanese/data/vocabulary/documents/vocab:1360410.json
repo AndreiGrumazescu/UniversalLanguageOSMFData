@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1360410",
+  "japanese": "審判",
+  "kana": "しんぱん",
+  "meanings": [
+    "judgement",
+    "judgment",
+    "decision",
+    "verdict",
+    "sentence"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "refereeing",
+    "umpiring",
+    "judging",
+    "judgement (of God)",
+    "referee",
+    "umpire",
+    "judge"
+  ],
+  "category": "noun"
+}

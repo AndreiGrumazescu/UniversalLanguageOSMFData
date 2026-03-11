@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1365850",
+  "japanese": "辛い",
+  "kana": "からい",
+  "meanings": [
+    "spicy",
+    "hot"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "salty",
+    "harsh (criticism)",
+    "severe (punishment)",
+    "strict",
+    "painful",
+    "bitter",
+    "difficult",
+    "tough"
+  ],
+  "category": "i-adjective"
+}

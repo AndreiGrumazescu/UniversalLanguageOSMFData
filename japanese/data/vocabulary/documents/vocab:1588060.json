@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1588060",
+  "japanese": "受付",
+  "kana": "うけつけ",
+  "meanings": [
+    "reception (desk)",
+    "information desk",
+    "receptionist",
+    "information clerk"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "receipt",
+    "acceptance"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,14 @@
+{
+  "$id": "vocab:1505370",
+  "japanese": "文語",
+  "kana": "ぶんご",
+  "meanings": [
+    "written language",
+    "literary language"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "classical (or formal) written style based on Heian-period Japanese"
+  ],
+  "category": "noun"
+}

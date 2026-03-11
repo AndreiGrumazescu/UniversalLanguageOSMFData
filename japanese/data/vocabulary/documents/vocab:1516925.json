@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1516925",
+  "japanese": "方",
+  "kana": "かた",
+  "meanings": [
+    "direction",
+    "way"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "person",
+    "lady",
+    "gentleman",
+    "method of",
+    "manner of",
+    "way of",
+    "care of ...",
+    "person in charge of ...",
+    "side (e.g. \"on my mother's side\")"
+  ],
+  "category": "noun"
+}

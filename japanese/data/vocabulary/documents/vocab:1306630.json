@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1306630",
+  "japanese": "司る",
+  "kana": "つかさどる",
+  "meanings": [
+    "to be in charge of",
+    "to manage",
+    "to direct",
+    "to administer",
+    "to preside over"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to rule",
+    "to govern",
+    "to control"
+  ],
+  "category": "godan verb"
+}

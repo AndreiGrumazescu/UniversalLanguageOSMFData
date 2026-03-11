@@ -1,0 +1,31 @@
+{
+  "$id": "vocab:1501620",
+  "japanese": "払う",
+  "kana": "はらう",
+  "meanings": [
+    "to pay (e.g. money, bill)"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to brush off",
+    "to wipe away",
+    "to clear away",
+    "to dust off",
+    "to cut off (e.g. branches)",
+    "to drive away (e.g. one's competitors)",
+    "to sell off (something unneeded)",
+    "to dispose of",
+    "to pay (e.g. attention)",
+    "to show (e.g. respect, concern)",
+    "to make (e.g. effort, sacrifice)",
+    "to expend",
+    "to exert",
+    "to move out (of one's own place)",
+    "to vacate",
+    "to sweep (e.g. one's legs)",
+    "to knock aside",
+    "to make a sweeping stroke (in Japanese calligraphy)",
+    "to reset (an abacus)"
+  ],
+  "category": "godan verb"
+}

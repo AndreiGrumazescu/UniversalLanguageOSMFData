@@ -1,0 +1,40 @@
+{
+  "$id": "vocab:1433830",
+  "japanese": "潰れる",
+  "kana": "つぶれる",
+  "meanings": [
+    "to be crushed",
+    "to be squashed",
+    "to be smashed",
+    "to be destroyed",
+    "to be broken",
+    "to collapse"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to go bankrupt",
+    "to go under",
+    "to fail",
+    "to collapse",
+    "to be ruined (of a plan)",
+    "to be cancelled",
+    "to collapse (e.g. of a project)",
+    "to fall through",
+    "to blow up",
+    "to be lost (of one's voice, eyesight, sense of smell, etc.)",
+    "to cease functioning",
+    "to be taken up (of one's time)",
+    "to be lost",
+    "to be wasted",
+    "to be missed (of a chance)",
+    "to be lost",
+    "to be lost (of face, composure, etc.)",
+    "to broken down (e.g. of one's courage)",
+    "to be broken (of one's heart)",
+    "to be worn down (of a pen nib, saw teeth, etc.)",
+    "to wear away",
+    "to become dull",
+    "to get dead drunk"
+  ],
+  "category": "ichidan verb"
+}

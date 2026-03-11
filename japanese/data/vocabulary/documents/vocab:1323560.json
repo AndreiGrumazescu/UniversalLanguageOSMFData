@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1323560",
+  "japanese": "借りる",
+  "kana": "かりる",
+  "meanings": [
+    "to borrow"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "to rent",
+    "to hire",
+    "to make use of (another's help, wisdom, etc.)",
+    "to obtain",
+    "to receive",
+    "to use (for another purpose)",
+    "to put to a different use"
+  ],
+  "category": "ichidan verb"
+}

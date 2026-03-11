@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1341000",
+  "japanese": "春",
+  "kana": "はる",
+  "meanings": [
+    "spring",
+    "springtime"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "New Year",
+    "prime (of life)",
+    "height (of one's prosperity)",
+    "heyday",
+    "adolescence",
+    "puberty",
+    "sexuality",
+    "sexual desire"
+  ],
+  "category": "noun"
+}

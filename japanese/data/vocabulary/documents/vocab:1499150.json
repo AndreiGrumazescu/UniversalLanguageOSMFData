@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1499150",
+  "japanese": "舞台",
+  "kana": "ぶたい",
+  "meanings": [
+    "stage (of a theatre, concert hall, etc.)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "stage performance",
+    "stage production",
+    "theatrical production",
+    "play",
+    "show",
+    "setting (of a story)",
+    "scene",
+    "sphere (of activity)",
+    "stage (e.g. political stage)",
+    "scene",
+    "arena",
+    "world"
+  ],
+  "category": "noun"
+}

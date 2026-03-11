@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1305310",
+  "japanese": "仕入れる",
+  "kana": "しいれる",
+  "meanings": [
+    "to buy (stock, materials, etc.)",
+    "to purchase",
+    "to lay in",
+    "to stock",
+    "to procure"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to get",
+    "to obtain"
+  ],
+  "category": "ichidan verb"
+}

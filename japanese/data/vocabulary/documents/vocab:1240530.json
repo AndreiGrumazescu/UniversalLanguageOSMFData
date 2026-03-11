@@ -1,0 +1,39 @@
+{
+  "$id": "vocab:1240530",
+  "japanese": "玉",
+  "kana": "たま",
+  "meanings": [
+    "ball",
+    "sphere",
+    "globe",
+    "orb"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "bead (of sweat, dew, etc.)",
+    "drop",
+    "droplet",
+    "ball (in sports)",
+    "pitch (e.g. in baseball)",
+    "pile (of noodles, etc.)",
+    "bullet",
+    "bulb (i.e. a light bulb)",
+    "lens (of glasses, etc.)",
+    "bead (of an abacus)",
+    "ball (i.e. a testicle)",
+    "gem",
+    "jewel (esp. spherical; sometimes used figuratively)",
+    "pearl",
+    "female entertainer (e.g. a geisha)",
+    "person (when commenting on their nature)",
+    "character",
+    "item, funds or person used as part of a plot",
+    "egg",
+    "okonomiyaki",
+    "coin",
+    "precious",
+    "beautiful",
+    "excellent"
+  ],
+  "category": "noun"
+}

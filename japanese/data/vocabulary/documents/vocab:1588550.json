@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1588550",
+  "japanese": "売り場",
+  "kana": "うりば",
+  "meanings": [
+    "selling area",
+    "counter",
+    "section",
+    "department",
+    "sales floor"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "favorable time to sell",
+    "good time to sell"
+  ],
+  "category": "noun"
+}

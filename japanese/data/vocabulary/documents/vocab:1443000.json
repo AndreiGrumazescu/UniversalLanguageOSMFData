@@ -1,0 +1,13 @@
+{
+  "$id": "vocab:1443000",
+  "japanese": "電気",
+  "kana": "でんき",
+  "meanings": [
+    "electricity"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "(electric) light"
+  ],
+  "category": "noun"
+}

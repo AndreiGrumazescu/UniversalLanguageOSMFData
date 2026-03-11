@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1435740",
+  "japanese": "定年",
+  "kana": "ていねん",
+  "meanings": [
+    "(compulsory) retirement age",
+    "age limit"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "(compulsory) retirement (on reaching retirement age)",
+    "mandatory retirement",
+    "minimum years of service at a particular rank before eligibility for promotion (in the Imperial Japanese Army and Navy)"
+  ],
+  "category": "noun"
+}

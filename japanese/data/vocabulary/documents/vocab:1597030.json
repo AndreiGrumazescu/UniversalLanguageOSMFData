@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1597030",
+  "japanese": "断つ",
+  "kana": "たつ",
+  "meanings": [
+    "to sever",
+    "to cut off"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to suppress",
+    "to eradicate",
+    "to exterminate",
+    "to abstain (from)",
+    "to give up"
+  ],
+  "category": "godan verb"
+}

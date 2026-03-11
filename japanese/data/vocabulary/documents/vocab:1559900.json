@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1559900",
+  "japanese": "連絡",
+  "kana": "れんらく",
+  "meanings": [
+    "contacting",
+    "(making) contact",
+    "getting in touch",
+    "communication",
+    "correspondence",
+    "call",
+    "message"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "connection (with a train, bus, etc.)",
+    "joining (a railway line, etc.)",
+    "meeting",
+    "connection (between matters, incidents, etc.)",
+    "relation",
+    "link"
+  ],
+  "category": "noun"
+}

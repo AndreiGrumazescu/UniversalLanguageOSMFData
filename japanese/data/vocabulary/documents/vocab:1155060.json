@@ -1,0 +1,26 @@
+{
+  "$id": "vocab:1155060",
+  "japanese": "以下",
+  "kana": "いか",
+  "meanings": [
+    "not exceeding ...",
+    "not more than ...",
+    "... and under",
+    "... and below",
+    "... or fewer"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "below (a standard, level, etc.)",
+    "under",
+    "beneath",
+    "less than",
+    "the following",
+    "the below-mentioned",
+    "the rest",
+    "followed by ...",
+    "including ...",
+    "... and other (employees, officials, etc.)"
+  ],
+  "category": "noun"
+}

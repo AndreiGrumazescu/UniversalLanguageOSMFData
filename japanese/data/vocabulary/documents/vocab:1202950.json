@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1202950",
+  "japanese": "開放",
+  "kana": "かいほう",
+  "meanings": [
+    "opening (a door, window, etc.)",
+    "leaving open"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "opening up (e.g. to the public)",
+    "allowing (public) access"
+  ],
+  "category": "noun"
+}

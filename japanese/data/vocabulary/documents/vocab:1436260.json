@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1436260",
+  "japanese": "抵抗",
+  "kana": "ていこう",
+  "meanings": [
+    "resistance",
+    "opposition",
+    "standing up to"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "reluctance",
+    "repulsion",
+    "repugnance",
+    "resistance",
+    "drag",
+    "friction",
+    "electrical resistance",
+    "resistor"
+  ],
+  "category": "noun"
+}

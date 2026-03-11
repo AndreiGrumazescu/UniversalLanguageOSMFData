@@ -1,0 +1,11 @@
+{
+  "$id": "vocab:1590540",
+  "japanese": "仮名",
+  "kana": "かな",
+  "meanings": [
+    "kana",
+    "Japanese syllabaries (i.e. hiragana and katakana)"
+  ],
+  "jlptLevel": "N2",
+  "category": "noun"
+}

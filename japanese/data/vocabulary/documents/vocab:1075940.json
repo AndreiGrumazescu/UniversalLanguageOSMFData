@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1075940",
+  "japanese": "タイプ",
+  "kana": "タイプ",
+  "meanings": [
+    "type",
+    "kind",
+    "sort",
+    "style"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "type (of person)",
+    "(ideal) type",
+    "one's type",
+    "typewriter",
+    "typing (on a typewriter)"
+  ],
+  "category": "noun"
+}

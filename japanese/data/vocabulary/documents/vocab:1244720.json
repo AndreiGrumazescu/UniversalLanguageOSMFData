@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1244720",
+  "japanese": "駆ける",
+  "kana": "かける",
+  "meanings": [
+    "to run",
+    "to dash",
+    "to race"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to gallop (on horseback)",
+    "to canter",
+    "to advance (against one's enemy)",
+    "to charge (on horseback)"
+  ],
+  "category": "ichidan verb"
+}

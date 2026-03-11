@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1611030",
+  "japanese": "何でも",
+  "kana": "なんでも",
+  "meanings": [
+    "any",
+    "anything",
+    "whatever",
+    "whatever one likes",
+    "everything",
+    "all"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "I am told",
+    "I hear",
+    "I understand",
+    "they say"
+  ],
+  "category": "expression"
+}

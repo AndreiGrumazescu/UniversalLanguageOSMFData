@@ -1,0 +1,26 @@
+{
+  "$id": "vocab:1606685",
+  "japanese": "湧く",
+  "kana": "わく",
+  "meanings": [
+    "to well (up)",
+    "to gush out (of water)",
+    "to spring out",
+    "to surge"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to appear (esp. suddenly) (sweat, tears, etc.)",
+    "to sweat",
+    "to cry",
+    "to feel emotions (e.g. joy, bravery, etc.)",
+    "to spring up (e.g. an idea, emotions, clouds)",
+    "to well up",
+    "to arise",
+    "to hatch",
+    "to breed",
+    "to propagate",
+    "to be infested (esp. of parasitic insects, etc.)"
+  ],
+  "category": "godan verb"
+}

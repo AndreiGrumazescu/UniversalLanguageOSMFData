@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1267120",
+  "japanese": "故",
+  "kana": "ゆえ",
+  "meanings": [
+    "reason",
+    "cause",
+    "circumstances",
+    "grounds"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "because of",
+    "as a result of"
+  ],
+  "category": "noun"
+}

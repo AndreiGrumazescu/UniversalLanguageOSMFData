@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1200740",
+  "japanese": "改めて",
+  "kana": "あらためて",
+  "meanings": [
+    "another time",
+    "again",
+    "over again",
+    "once again",
+    "anew"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "formally",
+    "especially",
+    "intentionally",
+    "deliberately"
+  ],
+  "category": "adverb"
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1556740",
+  "japanese": "冷ます",
+  "kana": "さます",
+  "meanings": [
+    "to cool (e.g. from a high temperature to room temperature)",
+    "to let cool"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to dampen",
+    "to throw a damper on",
+    "to spoil"
+  ],
+  "category": "godan verb"
+}

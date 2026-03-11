@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1550270",
+  "japanese": "裏口",
+  "kana": "うらぐち",
+  "meanings": [
+    "backdoor",
+    "rear entrance",
+    "rear exit"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "unauthorized",
+    "illicit",
+    "illegal"
+  ],
+  "category": "noun"
+}

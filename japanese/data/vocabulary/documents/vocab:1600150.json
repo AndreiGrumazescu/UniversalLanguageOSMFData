@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1600150",
+  "japanese": "捩れる",
+  "kana": "ねじれる",
+  "meanings": [
+    "to get twisted",
+    "to get crooked",
+    "to get warped"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to become twisted (of a mind, relationship, etc.)",
+    "to become warped",
+    "to become perverse",
+    "to become contrary",
+    "to become troubled",
+    "to become complicated",
+    "to become strained"
+  ],
+  "category": "ichidan verb"
+}

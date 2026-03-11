@@ -1,0 +1,29 @@
+{
+  "$id": "vocab:1436510",
+  "japanese": "程",
+  "kana": "ほど",
+  "meanings": [
+    "extent",
+    "degree",
+    "measure"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "limit",
+    "bounds",
+    "(span of) time",
+    "(a) distance",
+    "the state of",
+    "the status of",
+    "the condition of",
+    "about",
+    "around",
+    "approximately",
+    "or so",
+    "as much as ...",
+    "to the extent of ...",
+    "like ...",
+    "the more ... the more ..."
+  ],
+  "category": "noun"
+}

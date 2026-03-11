@@ -1,0 +1,31 @@
+{
+  "$id": "vocab:1592100",
+  "japanese": "食う",
+  "kana": "くう",
+  "meanings": [
+    "to eat"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to live",
+    "to make a living",
+    "to survive",
+    "to bite",
+    "to sting (as insects do)",
+    "to tease",
+    "to torment",
+    "to taunt",
+    "to make light of",
+    "to make fun of",
+    "to encroach on",
+    "to eat into",
+    "to consume",
+    "to defeat a superior",
+    "to threaten a position",
+    "to consume time",
+    "to consume resources",
+    "to receive something (usu. an unfavourable event)",
+    "to have sexual relations with a woman, esp. for the first time"
+  ],
+  "category": "godan verb"
+}

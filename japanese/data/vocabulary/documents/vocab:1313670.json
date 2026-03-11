@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1313670",
+  "japanese": "事業",
+  "kana": "じぎょう",
+  "meanings": [
+    "business",
+    "enterprise",
+    "venture",
+    "(commercial) activity",
+    "(business) operation",
+    "industry"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "(social) project",
+    "undertaking",
+    "enterprise",
+    "work",
+    "activity",
+    "program",
+    "service"
+  ],
+  "category": "noun"
+}

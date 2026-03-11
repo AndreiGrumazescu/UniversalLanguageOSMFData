@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1319180",
+  "japanese": "軸",
+  "kana": "じく",
+  "meanings": [
+    "axis",
+    "shaft",
+    "axle"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "center",
+    "centre",
+    "focal point",
+    "key point",
+    "stalk",
+    "stem",
+    "hanging scroll"
+  ],
+  "category": "noun"
+}

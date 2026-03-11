@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1427950",
+  "japanese": "彫る",
+  "kana": "ほる",
+  "meanings": [
+    "to carve",
+    "to engrave",
+    "to sculpt",
+    "to chisel"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to tattoo"
+  ],
+  "category": "godan verb"
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1373060",
+  "japanese": "数字",
+  "kana": "すうじ",
+  "meanings": [
+    "numeral",
+    "digit",
+    "numeric character"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "figure",
+    "number",
+    "a few characters"
+  ],
+  "category": "noun"
+}

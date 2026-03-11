@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1591240",
+  "japanese": "傷つく",
+  "kana": "きずつく",
+  "meanings": [
+    "to be wounded",
+    "to get injured"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to get hurt feelings",
+    "to get damaged",
+    "to get chipped",
+    "to get scratched"
+  ],
+  "category": "godan verb"
+}

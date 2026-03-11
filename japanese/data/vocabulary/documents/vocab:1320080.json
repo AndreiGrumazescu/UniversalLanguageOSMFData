@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1320080",
+  "japanese": "失調",
+  "kana": "しっちょう",
+  "meanings": [
+    "lack of harmony",
+    "lack of balance",
+    "lack of coordination",
+    "malfunction"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "ataxia"
+  ],
+  "category": "noun"
+}

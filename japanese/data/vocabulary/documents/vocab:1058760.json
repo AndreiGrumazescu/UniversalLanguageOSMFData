@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1058760",
+  "japanese": "サンプル",
+  "kana": "サンプル",
+  "meanings": [
+    "sample",
+    "example",
+    "specimen"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "display model (e.g. plastic food models used by restaurants)"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1385900",
+  "japanese": "折り返す",
+  "kana": "おりかえす",
+  "meanings": [
+    "to turn up (hem, sleeves, etc.)",
+    "to fold back (e.g. page)"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to turn back",
+    "to double back",
+    "to return",
+    "to loopback (a signal, message, etc.)"
+  ],
+  "category": "godan verb"
+}

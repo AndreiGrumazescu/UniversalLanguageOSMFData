@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1603510",
+  "japanese": "干す",
+  "kana": "ほす",
+  "meanings": [
+    "to air",
+    "to dry",
+    "to desiccate"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to drain (off)",
+    "to drink up",
+    "to deprive of a role, job, etc."
+  ],
+  "category": "godan verb"
+}

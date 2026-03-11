@@ -1,0 +1,35 @@
+{
+  "$id": "vocab:1166510",
+  "japanese": "一方",
+  "kana": "いっぽう",
+  "meanings": [
+    "one (esp. of two)",
+    "the other",
+    "one way",
+    "the other way",
+    "one direction",
+    "the other direction",
+    "one side",
+    "the other side",
+    "one party",
+    "the other party"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "on the one hand",
+    "on the other hand",
+    "whereas",
+    "although",
+    "but at the same time",
+    "meanwhile",
+    "in turn",
+    "just keeps",
+    "being inclined to ...",
+    "tending to be ...",
+    "tending to do ...",
+    "continuously ...",
+    "just keeps on ...ing",
+    "only"
+  ],
+  "category": "noun"
+}

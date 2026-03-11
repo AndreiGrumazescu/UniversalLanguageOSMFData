@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1085920",
+  "japanese": "トラブル",
+  "kana": "トラブル",
+  "meanings": [
+    "trouble",
+    "difficulty",
+    "problem",
+    "quarrel",
+    "conflict",
+    "dispute",
+    "fight"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "failure (of an engine, machine, computer, etc.)",
+    "breakdown",
+    "malfunction",
+    "(medical) condition",
+    "disorder",
+    "problem"
+  ],
+  "category": "noun"
+}

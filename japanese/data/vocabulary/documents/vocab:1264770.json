@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1264770",
+  "japanese": "個人",
+  "kana": "こじん",
+  "meanings": [
+    "individual",
+    "private person",
+    "personal",
+    "private"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "natural person"
+  ],
+  "category": "noun"
+}

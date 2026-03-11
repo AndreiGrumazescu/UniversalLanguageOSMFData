@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1280990",
+  "japanese": "耕地",
+  "kana": "こうち",
+  "meanings": [
+    "arable land",
+    "plantation",
+    "farmland"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "fazenda",
+    "hacienda",
+    "large estate"
+  ],
+  "category": "noun"
+}

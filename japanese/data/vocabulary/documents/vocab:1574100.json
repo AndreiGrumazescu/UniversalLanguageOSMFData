@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1574100",
+  "japanese": "霰",
+  "kana": "あられ",
+  "meanings": [
+    "hail (esp. hailballs under 5 mm)",
+    "graupel"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "dicing",
+    "small cubes",
+    "roasted mochi pieces (usu. flavoured with soy sauce, etc.)"
+  ],
+  "category": "noun"
+}

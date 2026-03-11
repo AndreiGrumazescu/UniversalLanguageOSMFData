@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1505630",
+  "japanese": "文脈",
+  "kana": "ぶんみゃく",
+  "meanings": [
+    "context (of a passage)",
+    "line of thought"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "context (of a matter, event, etc.)",
+    "circumstances",
+    "background"
+  ],
+  "category": "noun"
+}

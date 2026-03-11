@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1505470",
+  "japanese": "文章",
+  "kana": "ぶんしょう",
+  "meanings": [
+    "writing",
+    "composition",
+    "essay",
+    "article",
+    "passage",
+    "prose",
+    "(writing) style"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "sentence"
+  ],
+  "category": "noun"
+}

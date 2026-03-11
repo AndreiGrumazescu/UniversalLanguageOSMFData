@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1226440",
+  "japanese": "喫茶店",
+  "kana": "きっさてん",
+  "meanings": [
+    "coffee shop",
+    "tearoom",
+    "coffee lounge",
+    "coffeehouse",
+    "cafe"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "kissaten",
+    "traditional type of coffee shop with a retro atmosphere"
+  ],
+  "category": "noun"
+}

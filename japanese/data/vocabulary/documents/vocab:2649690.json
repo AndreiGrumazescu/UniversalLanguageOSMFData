@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:2649690",
+  "japanese": "載る",
+  "kana": "のる",
+  "meanings": [
+    "to be placed on",
+    "to be set on",
+    "to be piled on",
+    "to be loaded on"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to appear (in print)",
+    "to be mentioned",
+    "to be recorded",
+    "to be reported",
+    "to be given"
+  ],
+  "category": "godan verb"
+}

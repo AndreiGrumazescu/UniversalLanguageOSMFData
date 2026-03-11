@@ -1,0 +1,27 @@
+{
+  "$id": "vocab:1208020",
+  "japanese": "割れる",
+  "kana": "われる",
+  "meanings": [
+    "to break",
+    "to be smashed"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to split",
+    "to crack",
+    "to fissure",
+    "to be torn",
+    "to be divided (opinion, vote, etc.)",
+    "to split (e.g. of a party)",
+    "to come to light",
+    "to become clear",
+    "to be identified",
+    "to be revealed",
+    "to become distorted (of sound)",
+    "to clip",
+    "to be divisible (without a remainder)",
+    "to drop below a minimum"
+  ],
+  "category": "ichidan verb"
+}

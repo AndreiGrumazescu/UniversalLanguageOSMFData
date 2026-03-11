@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1509290",
+  "japanese": "壁",
+  "kana": "かべ",
+  "meanings": [
+    "wall",
+    "partition"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "barrier",
+    "obstacle",
+    "hindrance",
+    "difficulty",
+    "Chinese \"Wall\" constellation (one of the 28 mansions)",
+    "wall (of stones)"
+  ],
+  "category": "noun"
+}

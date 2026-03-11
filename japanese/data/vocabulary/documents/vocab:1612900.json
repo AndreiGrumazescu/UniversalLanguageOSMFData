@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1612900",
+  "japanese": "にも関わらず",
+  "kana": "にもかかわらず",
+  "meanings": [
+    "in spite of",
+    "despite",
+    "although"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "nonetheless",
+    "nevertheless",
+    "but",
+    "(and) yet"
+  ],
+  "category": "expression"
+}

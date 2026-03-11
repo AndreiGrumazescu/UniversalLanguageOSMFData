@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1006420",
+  "japanese": "ずらす",
+  "kana": "ずらす",
+  "meanings": [
+    "to shift",
+    "to move",
+    "to slide"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to move (an appointment, meeting, etc.)",
+    "to bring forward",
+    "to put back",
+    "to put off",
+    "to delay",
+    "to postpone",
+    "to stagger (e.g. working hours)"
+  ],
+  "category": "godan verb"
+}

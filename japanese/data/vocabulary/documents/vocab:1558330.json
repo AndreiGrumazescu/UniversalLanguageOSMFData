@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1558330",
+  "japanese": "列",
+  "kana": "れつ",
+  "meanings": [
+    "row",
+    "line",
+    "file",
+    "column",
+    "queue",
+    "rank",
+    "procession"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "group (of peers)",
+    "ranks (of)",
+    "company (of)",
+    "sequence",
+    "series (taxonomic rank)",
+    "counter for rows"
+  ],
+  "category": "noun"
+}

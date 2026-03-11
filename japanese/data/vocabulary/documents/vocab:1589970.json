@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1589970",
+  "japanese": "書き取り",
+  "kana": "かきとり",
+  "meanings": [
+    "writing down from other written material",
+    "writing kanji text from hiragana"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "transcription (of spoken material)",
+    "dictation"
+  ],
+  "category": "noun"
+}

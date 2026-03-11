@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1146810",
+  "japanese": "ローマ字",
+  "kana": "ローマじ",
+  "meanings": [
+    "Latin alphabet",
+    "Roman alphabet"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "romaji",
+    "romanized Japanese",
+    "system of transliterating Japanese into the Latin alphabet"
+  ],
+  "category": "noun"
+}

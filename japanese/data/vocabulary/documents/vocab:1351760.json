@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1351760",
+  "japanese": "詳細",
+  "kana": "しょうさい",
+  "meanings": [
+    "details",
+    "particulars",
+    "specifics"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "detailed",
+    "specific",
+    "minute",
+    "close-up view (of a digitally displayed map)",
+    "zoomed-in view"
+  ],
+  "category": "noun"
+}

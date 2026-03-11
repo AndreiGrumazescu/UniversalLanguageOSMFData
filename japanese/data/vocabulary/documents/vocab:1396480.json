@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1396480",
+  "japanese": "繕う",
+  "kana": "つくろう",
+  "meanings": [
+    "to mend",
+    "to patch up",
+    "to repair",
+    "to fix",
+    "to darn"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to fix (hair, clothes, appearance, etc.)",
+    "to adjust",
+    "to tidy up",
+    "to groom",
+    "to keep up appearances",
+    "to cover up (e.g. a mistake)",
+    "to gloss over",
+    "to treat (illness, injury, etc.)"
+  ],
+  "category": "godan verb"
+}

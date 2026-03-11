@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1212670",
+  "japanese": "慣れる",
+  "kana": "なれる",
+  "meanings": [
+    "to get used to",
+    "to grow accustomed to",
+    "to become familiar with"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to become skilled in",
+    "to become experienced at",
+    "to become tame",
+    "to become domesticated",
+    "to get used to doing"
+  ],
+  "category": "ichidan verb"
+}

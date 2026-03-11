@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1005390",
+  "japanese": "ざっと",
+  "kana": "ざっと",
+  "meanings": [
+    "roughly",
+    "approximately",
+    "round about",
+    "more or less"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "cursorily",
+    "briefly",
+    "quickly",
+    "lightly",
+    "roughly"
+  ],
+  "category": "adverb"
+}

@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1298970",
+  "japanese": "札",
+  "kana": "ふだ",
+  "meanings": [
+    "ticket",
+    "token",
+    "check",
+    "receipt"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "label",
+    "tag",
+    "sign",
+    "card",
+    "plate",
+    "playing card",
+    "charm",
+    "talisman",
+    "slip of paper posted on shrine pillars by pilgrims"
+  ],
+  "category": "noun"
+}

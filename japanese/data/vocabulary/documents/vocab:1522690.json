@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1522690",
+  "japanese": "本場",
+  "kana": "ほんば",
+  "meanings": [
+    "home (of something)",
+    "place famous for its ...",
+    "center (e.g. of manufacture)",
+    "best place (for)"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "place of origin",
+    "birthplace",
+    "cradle",
+    "morning session",
+    "last session in the morning"
+  ],
+  "category": "noun"
+}

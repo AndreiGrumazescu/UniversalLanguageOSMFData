@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1297240",
+  "japanese": "作",
+  "kana": "さく",
+  "meanings": [
+    "work (e.g. of art)",
+    "piece",
+    "production"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "harvest",
+    "crop",
+    "yield",
+    "cultivation",
+    "tillage",
+    "technique"
+  ],
+  "category": "noun"
+}

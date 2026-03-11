@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1421580",
+  "japanese": "弛む",
+  "kana": "たるむ",
+  "meanings": [
+    "to slacken",
+    "to loosen",
+    "to relax",
+    "to droop (e.g. loose or flabby skin)",
+    "to sag (ceiling)"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to slack off (e.g. one's work, attention)",
+    "to not put one's heart in"
+  ],
+  "category": "godan verb"
+}

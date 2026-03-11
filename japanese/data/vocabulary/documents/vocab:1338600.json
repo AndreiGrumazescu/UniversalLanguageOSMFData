@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1338600",
+  "japanese": "出勤",
+  "kana": "しゅっきん",
+  "meanings": [
+    "going to work",
+    "leaving for work",
+    "attendance (at work)",
+    "being at work",
+    "presence (in the office)",
+    "reporting for work"
+  ],
+  "jlptLevel": "N2",
+  "category": "noun"
+}

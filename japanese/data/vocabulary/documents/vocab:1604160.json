@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1604160",
+  "japanese": "麻痺",
+  "kana": "まひ",
+  "meanings": [
+    "paralysis",
+    "palsy",
+    "stupor"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "numbness",
+    "loss of sensation",
+    "standstill",
+    "state of paralysis",
+    "inability to take action"
+  ],
+  "category": "noun"
+}

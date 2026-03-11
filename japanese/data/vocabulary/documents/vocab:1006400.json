@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1006400",
+  "japanese": "ズバリ",
+  "kana": "ズバリ",
+  "meanings": [
+    "decisively",
+    "decidedly",
+    "boldly",
+    "once and for all",
+    "unreservedly",
+    "frankly"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "precisely",
+    "exactly"
+  ],
+  "category": "adverb"
+}

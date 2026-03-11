@@ -1,0 +1,14 @@
+{
+  "$id": "vocab:1378350",
+  "japanese": "清濁",
+  "kana": "せいだく",
+  "meanings": [
+    "good and evil",
+    "purity and impurity"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "voiced and unvoiced consonants"
+  ],
+  "category": "noun"
+}

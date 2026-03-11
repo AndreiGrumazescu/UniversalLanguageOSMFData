@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1251700",
+  "japanese": "経路",
+  "kana": "けいろ",
+  "meanings": [
+    "course",
+    "route",
+    "path",
+    "channel"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "process",
+    "stages"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1480170",
+  "japanese": "反る",
+  "kana": "そる",
+  "meanings": [
+    "to warp",
+    "to curve",
+    "to arch",
+    "to bend"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to bend backward (body or body part, e.g. fingers)"
+  ],
+  "category": "godan verb"
+}

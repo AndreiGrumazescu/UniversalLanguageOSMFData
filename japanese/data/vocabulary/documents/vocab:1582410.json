@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1582410",
+  "japanese": "凸凹",
+  "kana": "でこぼこ",
+  "meanings": [
+    "unevenness",
+    "roughness",
+    "ruggedness",
+    "bumpiness"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "inequality",
+    "imbalance",
+    "unevenness",
+    "difference"
+  ],
+  "category": "noun"
+}

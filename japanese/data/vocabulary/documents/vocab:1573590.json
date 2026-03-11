@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1573590",
+  "japanese": "辟易",
+  "kana": "へきえき",
+  "meanings": [
+    "to be fed up (with)",
+    "to be tired (of)",
+    "to be bored (with)",
+    "to be unable to bear"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to be stumped",
+    "to be nonplussed",
+    "to be disconcerted",
+    "to wince",
+    "to shrink back",
+    "to cringe"
+  ],
+  "category": "suru verb"
+}

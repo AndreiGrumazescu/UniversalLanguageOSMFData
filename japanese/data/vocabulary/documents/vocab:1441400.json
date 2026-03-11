@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1441400",
+  "japanese": "点く",
+  "kana": "つく",
+  "meanings": [
+    "to be lit (of a lamp, burner, etc.)",
+    "to catch fire",
+    "to ignite",
+    "to start burning"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to be turned on (of a light, appliance, etc.)",
+    "to come on"
+  ],
+  "category": "godan verb"
+}

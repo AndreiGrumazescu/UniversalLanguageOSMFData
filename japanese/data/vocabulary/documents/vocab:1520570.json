@@ -1,0 +1,13 @@
+{
+  "$id": "vocab:1520570",
+  "japanese": "防犯",
+  "kana": "ぼうはん",
+  "meanings": [
+    "prevention of crime"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "security (device, camera, etc.)"
+  ],
+  "category": "noun"
+}

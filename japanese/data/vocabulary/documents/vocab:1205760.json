@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1205760",
+  "japanese": "獲物",
+  "kana": "えもの",
+  "meanings": [
+    "prey",
+    "catch",
+    "kill",
+    "game"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "spoils",
+    "trophy",
+    "loot",
+    "plunder"
+  ],
+  "category": "noun"
+}

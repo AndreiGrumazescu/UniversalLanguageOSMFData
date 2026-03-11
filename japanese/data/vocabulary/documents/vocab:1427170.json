@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1427170",
+  "japanese": "貯金",
+  "kana": "ちょきん",
+  "meanings": [
+    "putting money aside",
+    "savings",
+    "deposit (e.g. in a bank)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "accumulated surplus of wins",
+    "wins in the bank"
+  ],
+  "category": "noun"
+}

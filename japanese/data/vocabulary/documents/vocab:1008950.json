@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1008950",
+  "japanese": "どうせ",
+  "kana": "どうせ",
+  "meanings": [
+    "in any case",
+    "regardless",
+    "either way",
+    "after all",
+    "no matter what",
+    "anyway"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "since it makes no difference anyway (you might as well ...)",
+    "since it won't change the outcome",
+    "if you are doing it regardless"
+  ],
+  "category": "adverb"
+}

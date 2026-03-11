@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1549350",
+  "japanese": "欄",
+  "kana": "らん",
+  "meanings": [
+    "section (e.g. in a newspaper)",
+    "column",
+    "page"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "field (in a form, web page, etc.)",
+    "blank",
+    "handrail",
+    "railing",
+    "banister",
+    "balustrade"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1223640",
+  "japanese": "起きる",
+  "kana": "おきる",
+  "meanings": [
+    "to get up",
+    "to rise",
+    "to blaze up (fire)"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "to wake up",
+    "to be awake",
+    "to stay awake",
+    "to occur (usu. of unfavourable incidents)",
+    "to happen",
+    "to take place"
+  ],
+  "category": "ichidan verb"
+}

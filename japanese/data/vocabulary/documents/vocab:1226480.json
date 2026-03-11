@@ -1,0 +1,29 @@
+{
+  "$id": "vocab:1226480",
+  "japanese": "詰まる",
+  "kana": "つまる",
+  "meanings": [
+    "to be packed (with)",
+    "to be filled",
+    "to be full (e.g. of a schedule)"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to be blocked (of a pipe, nose, etc.)",
+    "to be clogged",
+    "to be stopped up",
+    "to be become shorter",
+    "to shrink",
+    "to narrow",
+    "to be at a loss (for)",
+    "to be pressed (for)",
+    "to be stuck (for)",
+    "to come to the end",
+    "to be settled",
+    "to become a geminate consonant",
+    "to hit the bat close to the batter's hands (of a pitch)",
+    "to hit off the fists",
+    "to get jammed"
+  ],
+  "category": "godan verb"
+}

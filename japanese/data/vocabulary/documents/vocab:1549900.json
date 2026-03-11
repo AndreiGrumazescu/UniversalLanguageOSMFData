@@ -1,0 +1,14 @@
+{
+  "$id": "vocab:1549900",
+  "japanese": "理科",
+  "kana": "りか",
+  "meanings": [
+    "science (natural sciences and related fields, incl. mathematics, engineering, medicine, etc.)"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "faculties of science, engineering, medicine, etc. (at a university)",
+    "science (as a school subject)"
+  ],
+  "category": "noun"
+}

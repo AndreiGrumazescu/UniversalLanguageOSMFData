@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1062240",
+  "japanese": "ショー",
+  "kana": "ショー",
+  "meanings": [
+    "show",
+    "performance"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "show",
+    "exhibition",
+    "expo",
+    "fair",
+    "convention",
+    "TV show"
+  ],
+  "category": "noun"
+}

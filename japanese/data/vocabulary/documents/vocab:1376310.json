@@ -1,0 +1,33 @@
+{
+  "$id": "vocab:1376310",
+  "japanese": "星",
+  "kana": "ほし",
+  "meanings": [
+    "star (usu. excluding the Sun)",
+    "planet (usu. excluding Earth)",
+    "heavenly body"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "star (glyph, symbol, shape)",
+    "asterisk",
+    "star (actor, player, etc.)",
+    "dot",
+    "spot",
+    "fleck",
+    "bullseye",
+    "perp",
+    "perpetrator",
+    "culprit",
+    "offender",
+    "suspect",
+    "one's star (that determines one's fate)",
+    "one's fortune",
+    "point",
+    "score",
+    "star point (intersection marked with a dot)",
+    "hoshi",
+    "(pyrotechnic) star"
+  ],
+  "category": "noun"
+}

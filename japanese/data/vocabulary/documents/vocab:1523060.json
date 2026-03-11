@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1523060",
+  "japanese": "本当",
+  "kana": "ほんとう",
+  "meanings": [
+    "truth",
+    "reality",
+    "actuality",
+    "fact"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "proper",
+    "right",
+    "correct",
+    "official",
+    "genuine",
+    "authentic",
+    "real",
+    "natural",
+    "veritable"
+  ],
+  "category": "noun"
+}

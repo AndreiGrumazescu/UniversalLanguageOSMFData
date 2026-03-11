@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1198550",
+  "japanese": "会社",
+  "kana": "かいしゃ",
+  "meanings": [
+    "company",
+    "corporation",
+    "firm"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "one's workplace"
+  ],
+  "category": "noun"
+}

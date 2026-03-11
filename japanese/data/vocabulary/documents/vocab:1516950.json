@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1516950",
+  "japanese": "方角",
+  "kana": "ほうがく",
+  "meanings": [
+    "direction",
+    "way"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "point of the compass",
+    "cardinal direction",
+    "bearing",
+    "method",
+    "means",
+    "approach"
+  ],
+  "category": "noun"
+}

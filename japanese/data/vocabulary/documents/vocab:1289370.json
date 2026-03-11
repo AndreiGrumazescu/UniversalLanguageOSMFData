@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1289370",
+  "japanese": "今度",
+  "kana": "こんど",
+  "meanings": [
+    "this time",
+    "now"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "next time",
+    "another time",
+    "shortly",
+    "soon",
+    "recently",
+    "lately",
+    "the other day"
+  ],
+  "category": "noun"
+}

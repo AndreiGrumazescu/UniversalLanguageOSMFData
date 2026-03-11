@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1316300",
+  "japanese": "時代",
+  "kana": "じだい",
+  "meanings": [
+    "period",
+    "epoch",
+    "era",
+    "age"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "the times",
+    "those days",
+    "oldness",
+    "ancientness",
+    "antiquity",
+    "antique",
+    "period piece"
+  ],
+  "category": "noun"
+}

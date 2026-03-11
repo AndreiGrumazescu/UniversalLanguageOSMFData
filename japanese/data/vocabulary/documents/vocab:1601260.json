@@ -1,0 +1,32 @@
+{
+  "$id": "vocab:1601260",
+  "japanese": "馬鹿",
+  "kana": "ばか",
+  "meanings": [
+    "idiot",
+    "moron",
+    "fool"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "stupid",
+    "foolish",
+    "dull",
+    "absurd",
+    "ridiculous",
+    "trivial",
+    "insignificant",
+    "disappointing",
+    "malfunctioning",
+    "defective",
+    "losing sensation",
+    "incredibly",
+    "unusually",
+    "exceptionally",
+    "fervent enthusiast",
+    "nut",
+    "person singularly obsessed with something",
+    "Mactra chinensis (species of trough shell)"
+  ],
+  "category": "noun"
+}

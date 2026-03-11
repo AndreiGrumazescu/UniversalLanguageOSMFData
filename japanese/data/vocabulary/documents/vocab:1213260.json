@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1213260",
+  "japanese": "漢和",
+  "kana": "かんわ",
+  "meanings": [
+    "China and Japan"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "Chinese and Japanese (languages)",
+    "dictionary with Japanese definitions of kanji and kanji compounds",
+    "kanji dictionary"
+  ],
+  "category": "noun"
+}

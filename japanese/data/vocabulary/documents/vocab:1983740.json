@@ -1,0 +1,27 @@
+{
+  "$id": "vocab:1983740",
+  "japanese": "通ずる",
+  "kana": "つうずる",
+  "meanings": [
+    "to be open (to traffic)",
+    "to lead to",
+    "to communicate (with)"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to flow (liquid, current)",
+    "to pass",
+    "to get through to",
+    "to be understood",
+    "to be comprehended",
+    "to be honored",
+    "to be good",
+    "to be well versed in",
+    "to be well-informed",
+    "to communicate clandestinely",
+    "to keep in touch (e.g. with the enemy)",
+    "to form a liaison",
+    "to be intimate"
+  ],
+  "category": "Ichidan verb - zuru verb (alternative form of -jiru verbs)"
+}

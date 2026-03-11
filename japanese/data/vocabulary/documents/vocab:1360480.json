@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1360480",
+  "japanese": "心",
+  "kana": "こころ",
+  "meanings": [
+    "mind",
+    "heart",
+    "spirit"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "the meaning of a phrase (riddle, etc.)"
+  ],
+  "category": "noun"
+}

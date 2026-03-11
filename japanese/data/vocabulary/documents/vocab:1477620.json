@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1477620",
+  "japanese": "発生",
+  "kana": "はっせい",
+  "meanings": [
+    "occurrence",
+    "incidence",
+    "outbreak",
+    "birth (e.g. of civilization)"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "generation (of power, heat, etc.)",
+    "production",
+    "ontogeny",
+    "development",
+    "growth",
+    "breeding"
+  ],
+  "category": "noun"
+}

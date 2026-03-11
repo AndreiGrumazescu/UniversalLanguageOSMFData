@@ -1,0 +1,26 @@
+{
+  "$id": "vocab:1451150",
+  "japanese": "働く",
+  "kana": "はたらく",
+  "meanings": [
+    "to work",
+    "to labor",
+    "to labour"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "to function",
+    "to operate",
+    "to be effective",
+    "to work (i.e. ... works)",
+    "to come into play",
+    "to commit (e.g. a crime)",
+    "to perpetrate",
+    "to do",
+    "to act",
+    "to practise",
+    "to practice",
+    "to be conjugated"
+  ],
+  "category": "godan verb"
+}

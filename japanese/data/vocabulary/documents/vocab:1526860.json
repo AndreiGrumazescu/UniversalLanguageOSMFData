@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1526860",
+  "japanese": "満足",
+  "kana": "まんぞく",
+  "meanings": [
+    "satisfaction",
+    "contentment",
+    "gratification"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "sufficient",
+    "satisfactory",
+    "enough",
+    "adequate",
+    "proper",
+    "decent",
+    "satisfying (an equation)"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1595750",
+  "japanese": "住まい",
+  "kana": "すまい",
+  "meanings": [
+    "dwelling",
+    "house",
+    "residence",
+    "address"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "living",
+    "life"
+  ],
+  "category": "noun"
+}

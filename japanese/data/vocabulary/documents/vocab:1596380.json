@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1596380",
+  "japanese": "総合",
+  "kana": "そうごう",
+  "meanings": [
+    "synthesis",
+    "combination",
+    "integration",
+    "putting together"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "general",
+    "combined",
+    "composite",
+    "mixed",
+    "integrated",
+    "comprehensive",
+    "synthesis",
+    "colligation"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1385780",
+  "japanese": "折",
+  "kana": "おり",
+  "meanings": [
+    "opportunity",
+    "chance",
+    "occasion",
+    "time"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "folding",
+    "fold",
+    "pleat",
+    "crease",
+    "small food box (wooden or cardboard)",
+    "folding in ... (two, three, etc.)",
+    "counter for folded items",
+    "counter for items (esp. food) packed in an oribako"
+  ],
+  "category": "noun"
+}

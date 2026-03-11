@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1555440",
+  "japanese": "林",
+  "kana": "はやし",
+  "meanings": [
+    "wood",
+    "woods",
+    "forest",
+    "grove",
+    "copse",
+    "thicket"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "bunch (of something)",
+    "cluster",
+    "line",
+    "collection"
+  ],
+  "category": "noun"
+}

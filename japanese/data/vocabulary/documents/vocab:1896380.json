@@ -1,0 +1,31 @@
+{
+  "$id": "vocab:1896380",
+  "japanese": "出",
+  "kana": "で",
+  "meanings": [
+    "coming out",
+    "going out",
+    "outflow",
+    "efflux",
+    "rising (of the Sun or the Moon)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "attending (work)",
+    "appearing (on stage)",
+    "one's turn to go on",
+    "start",
+    "beginning",
+    "origins",
+    "background",
+    "person (or item) originating from ...",
+    "graduate of ...",
+    "native of ...",
+    "member of ... (lineage)",
+    "architectural member that projects outward",
+    "highest point of the stern of a ship",
+    "amount (comprising something)",
+    "amount of time or effort required to do something"
+  ],
+  "category": "noun"
+}

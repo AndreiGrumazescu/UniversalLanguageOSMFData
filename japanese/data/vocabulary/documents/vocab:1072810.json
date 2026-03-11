@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1072810",
+  "japanese": "スペース",
+  "kana": "スペース",
+  "meanings": [
+    "space",
+    "room"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "space (between letters, words, etc.)",
+    "space (piece of type)",
+    "(outer) space"
+  ],
+  "category": "noun"
+}

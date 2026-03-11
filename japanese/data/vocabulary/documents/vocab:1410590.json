@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1410590",
+  "japanese": "待つ",
+  "kana": "まつ",
+  "meanings": [
+    "to wait"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "to await",
+    "to look forward to",
+    "to anticipate",
+    "to depend on",
+    "to need"
+  ],
+  "category": "godan verb"
+}

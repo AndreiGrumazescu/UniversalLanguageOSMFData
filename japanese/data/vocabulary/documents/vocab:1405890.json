@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1405890",
+  "japanese": "卒業",
+  "kana": "そつぎょう",
+  "meanings": [
+    "graduation",
+    "completion (of a course)"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "moving on (from)",
+    "outgrowing (something)",
+    "leaving (a group, company, etc.)",
+    "quitting"
+  ],
+  "category": "noun"
+}

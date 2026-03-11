@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1589960",
+  "japanese": "書留",
+  "kana": "かきとめ",
+  "meanings": [
+    "registered mail",
+    "registered post",
+    "registration (of mail)"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "(putting on) record",
+    "writing down",
+    "noting down",
+    "registry"
+  ],
+  "category": "noun"
+}

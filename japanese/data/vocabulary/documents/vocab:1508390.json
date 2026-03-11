@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1508390",
+  "japanese": "並べる",
+  "kana": "ならべる",
+  "meanings": [
+    "to line up",
+    "to set up",
+    "to arrange in a line"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "to enumerate",
+    "to itemize",
+    "to be equal (to)",
+    "to compare well (with)",
+    "to be as good (as)"
+  ],
+  "category": "ichidan verb"
+}

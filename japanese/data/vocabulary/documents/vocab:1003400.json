@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1003400",
+  "japanese": "きちんと",
+  "kana": "きちんと",
+  "meanings": [
+    "properly",
+    "accurately",
+    "exactly",
+    "precisely",
+    "regularly"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "neatly",
+    "tidily",
+    "orderly"
+  ],
+  "category": "adverb"
+}

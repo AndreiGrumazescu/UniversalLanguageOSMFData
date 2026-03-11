@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1356930",
+  "japanese": "蒸気",
+  "kana": "じょうき",
+  "meanings": [
+    "steam",
+    "vapour",
+    "vapor"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "steamboat",
+    "steam locomotive"
+  ],
+  "category": "noun"
+}

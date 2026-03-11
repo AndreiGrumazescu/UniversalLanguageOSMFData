@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1577040",
+  "japanese": "化粧",
+  "kana": "けしょう",
+  "meanings": [
+    "make-up",
+    "makeup",
+    "cosmetics"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "decoration",
+    "dressing",
+    "veneer"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1305500",
+  "japanese": "仕様",
+  "kana": "しよう",
+  "meanings": [
+    "way",
+    "method",
+    "means",
+    "resource",
+    "remedy"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "(technical) specification"
+  ],
+  "category": "noun"
+}

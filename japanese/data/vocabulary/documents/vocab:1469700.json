@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1469700",
+  "japanese": "粘る",
+  "kana": "ねばる",
+  "meanings": [
+    "to be sticky",
+    "to be adhesive"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to persevere",
+    "to persist",
+    "to stick to",
+    "to hold out",
+    "to linger"
+  ],
+  "category": "godan verb"
+}

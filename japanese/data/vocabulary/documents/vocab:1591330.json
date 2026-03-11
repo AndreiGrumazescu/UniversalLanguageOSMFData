@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1591330",
+  "japanese": "気づく",
+  "kana": "きづく",
+  "meanings": [
+    "to notice",
+    "to realize",
+    "to realise",
+    "to become aware (of)",
+    "to perceive",
+    "to sense",
+    "to suspect"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to regain consciousness",
+    "to come to (one's senses)",
+    "to come round"
+  ],
+  "category": "godan verb"
+}

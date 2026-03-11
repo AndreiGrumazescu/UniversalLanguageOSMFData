@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1596960",
+  "japanese": "戦う",
+  "kana": "たたかう",
+  "meanings": [
+    "to make war (on)",
+    "to wage war (against)",
+    "to go to war (with)",
+    "to fight (with)",
+    "to do battle (against)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to compete (against)",
+    "to struggle (against adversities, etc.)",
+    "to fight",
+    "to contend",
+    "to resist"
+  ],
+  "category": "godan verb"
+}

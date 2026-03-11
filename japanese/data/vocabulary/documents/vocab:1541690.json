@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1541690",
+  "japanese": "有料",
+  "kana": "ゆうりょう",
+  "meanings": [
+    "fee-charging",
+    "paid",
+    "not free"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "toll road"
+  ],
+  "category": "noun"
+}

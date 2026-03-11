@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1383680",
+  "japanese": "跡",
+  "kana": "あと",
+  "meanings": [
+    "trace",
+    "tracks",
+    "mark",
+    "sign"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "site",
+    "remains",
+    "ruins",
+    "scar"
+  ],
+  "category": "noun"
+}

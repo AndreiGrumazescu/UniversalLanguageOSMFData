@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1427340",
+  "japanese": "丁度",
+  "kana": "ちょうど",
+  "meanings": [
+    "exactly",
+    "precisely",
+    "just",
+    "right",
+    "opportunely",
+    "fortunately"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "just (like)",
+    "as if",
+    "as though"
+  ],
+  "category": "adverb"
+}

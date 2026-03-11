@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1544970",
+  "japanese": "預かる",
+  "kana": "あずかる",
+  "meanings": [
+    "to look after",
+    "to take care of",
+    "to keep",
+    "to hold on to",
+    "to keep in custody"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to be put in charge of",
+    "to be given responsibility for",
+    "to be entrusted with",
+    "to withhold (an announcement)",
+    "to reserve (judgment)",
+    "to leave undecided",
+    "to take upon oneself (to do)",
+    "to settle (a matter) oneself"
+  ],
+  "category": "godan verb"
+}

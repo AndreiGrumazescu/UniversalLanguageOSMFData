@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1473220",
+  "japanese": "配列",
+  "kana": "はいれつ",
+  "meanings": [
+    "arranging",
+    "ordering",
+    "sequencing",
+    "lining up",
+    "laying out"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "sequence (e.g. DNA sequence)",
+    "arrangement",
+    "alignment",
+    "layout (e.g. keyboard layout)",
+    "array"
+  ],
+  "category": "noun"
+}

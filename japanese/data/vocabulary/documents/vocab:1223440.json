@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1223440",
+  "japanese": "記録",
+  "kana": "きろく",
+  "meanings": [
+    "record",
+    "document",
+    "minutes",
+    "log",
+    "recording",
+    "putting on record",
+    "keeping a record (of)",
+    "writing down"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "record (e.g. in sports)",
+    "setting (a record)",
+    "recording (a record high, etc.)"
+  ],
+  "category": "noun"
+}

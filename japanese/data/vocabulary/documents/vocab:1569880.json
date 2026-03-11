@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1569880",
+  "japanese": "睨む",
+  "kana": "にらむ",
+  "meanings": [
+    "to glare at",
+    "to scowl at",
+    "to glower at"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to stare intensely at",
+    "to examine carefully",
+    "to estimate",
+    "to guess",
+    "to suspect",
+    "to judge",
+    "to keep an eye on someone (e.g. a suspicious or untrustworthy person)",
+    "to watch",
+    "to take account of",
+    "to take into consideration"
+  ],
+  "category": "godan verb"
+}

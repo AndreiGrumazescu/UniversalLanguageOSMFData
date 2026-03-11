@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1454590",
+  "japanese": "得点",
+  "kana": "とくてん",
+  "meanings": [
+    "scoring",
+    "score",
+    "points made",
+    "marks obtained",
+    "goals",
+    "runs"
+  ],
+  "jlptLevel": "N1",
+  "category": "noun"
+}

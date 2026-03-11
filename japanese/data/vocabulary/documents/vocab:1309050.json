@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1309050",
+  "japanese": "志",
+  "kana": "こころざし",
+  "meanings": [
+    "will",
+    "resolution",
+    "intention",
+    "ambition",
+    "aim",
+    "goal"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "kindness",
+    "goodwill",
+    "kind offer",
+    "gift (as a token of gratitude)"
+  ],
+  "category": "noun"
+}

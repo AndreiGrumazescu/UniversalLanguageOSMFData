@@ -1,0 +1,26 @@
+{
+  "$id": "vocab:1599420",
+  "japanese": "中々",
+  "kana": "なかなか",
+  "meanings": [
+    "very",
+    "considerably",
+    "easily",
+    "readily",
+    "fairly",
+    "quite",
+    "highly",
+    "rather"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "by no means",
+    "not readily",
+    "middle",
+    "half-way point",
+    "excellent",
+    "wonderful",
+    "very good"
+  ],
+  "category": "adverb"
+}

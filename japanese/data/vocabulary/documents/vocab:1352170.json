@@ -1,0 +1,29 @@
+{
+  "$id": "vocab:1352170",
+  "japanese": "上",
+  "kana": "じょう",
+  "meanings": [
+    "from the standpoint of",
+    "from the viewpoint of",
+    "with respect to",
+    "in terms of",
+    "as a matter of",
+    "in view of",
+    "so far as ... is concerned"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "on",
+    "above",
+    "on top of",
+    "aboard (a ship or vehicle)",
+    "the best",
+    "top",
+    "first class",
+    "first grade",
+    "first volume (of a two or three-volume set)",
+    "first book",
+    "with my compliments"
+  ],
+  "category": "suffix"
+}

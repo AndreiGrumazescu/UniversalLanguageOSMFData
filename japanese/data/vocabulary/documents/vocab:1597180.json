@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1597180",
+  "japanese": "偶々",
+  "kana": "たまたま",
+  "meanings": [
+    "by chance",
+    "by accident",
+    "accidentally",
+    "happen to (be, do)",
+    "unexpectedly",
+    "casually"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "occasionally",
+    "once in a while",
+    "now and then"
+  ],
+  "category": "adverb"
+}

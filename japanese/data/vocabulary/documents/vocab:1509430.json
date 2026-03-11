@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1509430",
+  "japanese": "別",
+  "kana": "べつ",
+  "meanings": [
+    "distinction",
+    "difference",
+    "discrimination"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "separate",
+    "different",
+    "another",
+    "extra",
+    "exception",
+    "exclusion",
+    "classified by",
+    "ranked by",
+    "according to"
+  ],
+  "category": "noun"
+}

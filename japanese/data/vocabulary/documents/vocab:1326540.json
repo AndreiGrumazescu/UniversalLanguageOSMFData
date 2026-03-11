@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1326540",
+  "japanese": "取り扱う",
+  "kana": "とりあつかう",
+  "meanings": [
+    "to handle",
+    "to operate (a machine, etc.)",
+    "to use"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to deal with (an issue)",
+    "to manage",
+    "to treat (someone)",
+    "to deal with (someone)",
+    "to deal in",
+    "to carry",
+    "to sell"
+  ],
+  "category": "godan verb"
+}

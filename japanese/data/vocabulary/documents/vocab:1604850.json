@@ -1,0 +1,13 @@
+{
+  "$id": "vocab:1604850",
+  "japanese": "虫歯",
+  "kana": "むしば",
+  "meanings": [
+    "tooth decay",
+    "decayed tooth",
+    "dental cavity",
+    "dental caries"
+  ],
+  "jlptLevel": "N3",
+  "category": "noun"
+}

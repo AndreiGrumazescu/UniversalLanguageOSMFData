@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1146160",
+  "japanese": "レンタカー",
+  "kana": "レンタカー",
+  "meanings": [
+    "rental car",
+    "rent-a-car",
+    "hire car",
+    "hired car"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "car rental agency",
+    "car hire agency",
+    "hire car agency"
+  ],
+  "category": "noun"
+}

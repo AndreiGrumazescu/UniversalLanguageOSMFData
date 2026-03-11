@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1554200",
+  "japanese": "凌ぐ",
+  "kana": "しのぐ",
+  "meanings": [
+    "to endure",
+    "to keep out (e.g. rain)",
+    "to stave off (e.g. starvation)"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to pull through",
+    "to get over",
+    "to survive",
+    "to surpass",
+    "to outdo",
+    "to excel",
+    "to eclipse",
+    "to defy",
+    "to slight"
+  ],
+  "category": "godan verb"
+}

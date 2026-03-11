@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1269880",
+  "japanese": "後退",
+  "kana": "こうたい",
+  "meanings": [
+    "retreat",
+    "falling back",
+    "moving backwards",
+    "reversing",
+    "backing up (of a vehicle)",
+    "retrogression",
+    "retraction"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "recession",
+    "waning",
+    "backspace (key)"
+  ],
+  "category": "noun"
+}

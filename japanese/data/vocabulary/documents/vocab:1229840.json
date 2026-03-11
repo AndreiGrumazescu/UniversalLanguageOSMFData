@@ -1,0 +1,28 @@
+{
+  "$id": "vocab:1229840",
+  "japanese": "泣く",
+  "kana": "なく",
+  "meanings": [
+    "to cry",
+    "to shed tears",
+    "to weep",
+    "to sob"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to suffer (from)",
+    "to be troubled (by)",
+    "to face hardship",
+    "to accept (an unreasonable request, loss, etc.)",
+    "to do reluctantly",
+    "to make sacrifices",
+    "to be not worth the name",
+    "to suffer (of a reputation)",
+    "to be spoiled",
+    "to be put to shame",
+    "to lament",
+    "to bemoan",
+    "to bewail"
+  ],
+  "category": "godan verb"
+}

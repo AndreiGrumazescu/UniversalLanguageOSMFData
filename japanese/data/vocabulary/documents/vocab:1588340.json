@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1588340",
+  "japanese": "虚ろ",
+  "kana": "うつろ",
+  "meanings": [
+    "cavity",
+    "hollow",
+    "void"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "hollow (voice, smile, etc.)",
+    "blank (eyes, look, etc.)",
+    "vacant (expression, stare, etc.)",
+    "empty (words, heart, etc.)"
+  ],
+  "category": "noun"
+}

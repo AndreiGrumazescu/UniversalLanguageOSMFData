@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1602130",
+  "japanese": "響き",
+  "kana": "ひびき",
+  "meanings": [
+    "echo",
+    "reverberation"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "sound (esp. the distinctive sound of an object or activity, e.g. rain, gun, gallop, drum)",
+    "noise",
+    "quality of a sound (e.g. a fine phrase, clear voice, resonant bell)",
+    "feeling of a sound",
+    "emotion or feeling inspired by something heard or read"
+  ],
+  "category": "noun"
+}

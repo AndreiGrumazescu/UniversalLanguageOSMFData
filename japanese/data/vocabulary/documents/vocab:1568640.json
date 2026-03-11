@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1568640",
+  "japanese": "洒落",
+  "kana": "しゃれ",
+  "meanings": [
+    "joke",
+    "pun",
+    "jest",
+    "witticism",
+    "wordplay"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "smartly dressed",
+    "stylish",
+    "fashion-conscious",
+    "refined"
+  ],
+  "category": "noun"
+}

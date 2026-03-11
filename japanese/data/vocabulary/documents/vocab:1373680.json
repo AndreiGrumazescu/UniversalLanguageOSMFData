@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1373680",
+  "japanese": "澄む",
+  "kana": "すむ",
+  "meanings": [
+    "to become clear (water, air, etc.)",
+    "to become transparent"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to resonate clearly (e.g. voice)",
+    "to become serene",
+    "to become tranquil",
+    "to be free of worries",
+    "to pronounce as an unvoiced sound"
+  ],
+  "category": "godan verb"
+}

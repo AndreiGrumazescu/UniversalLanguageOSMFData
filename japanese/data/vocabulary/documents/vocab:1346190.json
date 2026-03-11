@@ -1,0 +1,27 @@
+{
+  "$id": "vocab:1346190",
+  "japanese": "勝手",
+  "kana": "かって",
+  "meanings": [
+    "one's own convenience",
+    "one's way",
+    "selfishness"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "surroundings",
+    "environment",
+    "way of doing things",
+    "convenience",
+    "ease of use",
+    "financial circumstances",
+    "living",
+    "livelihood",
+    "kitchen",
+    "right hand (in archery)",
+    "hand that pulls the bowstring",
+    "unauthorised (e.g. phone app, WWW site)",
+    "unofficial"
+  ],
+  "category": "noun"
+}

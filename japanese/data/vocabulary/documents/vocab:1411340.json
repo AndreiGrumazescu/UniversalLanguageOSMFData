@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1411340",
+  "japanese": "退学",
+  "kana": "たいがく",
+  "meanings": [
+    "dropping out of school",
+    "withdrawal from school"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "expulsion from school",
+    "dismissal",
+    "leaving school (university, etc.) after completing a course"
+  ],
+  "category": "noun"
+}

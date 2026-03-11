@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1606110",
+  "japanese": "寄りかかる",
+  "kana": "よりかかる",
+  "meanings": [
+    "to lean against",
+    "to recline on",
+    "to lean on"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to rely on",
+    "to depend on"
+  ],
+  "category": "godan verb"
+}

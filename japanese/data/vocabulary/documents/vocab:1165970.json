@@ -1,0 +1,26 @@
+{
+  "$id": "vocab:1165970",
+  "japanese": "一番",
+  "kana": "いちばん",
+  "meanings": [
+    "number one",
+    "first",
+    "first place"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "best",
+    "most",
+    "game",
+    "round",
+    "bout",
+    "as a test",
+    "as an experiment",
+    "by way of experiment",
+    "by way of trial",
+    "tentatively",
+    "song (e.g. in noh)",
+    "piece"
+  ],
+  "category": "noun"
+}

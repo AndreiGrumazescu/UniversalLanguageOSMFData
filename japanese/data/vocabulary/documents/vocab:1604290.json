@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1604290",
+  "japanese": "周り",
+  "kana": "まわり",
+  "meanings": [
+    "circumference",
+    "girth"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "surroundings",
+    "neighbourhood",
+    "neighborhood",
+    "vicinity",
+    "people surrounding oneself",
+    "surrounding circumstances"
+  ],
+  "category": "noun"
+}

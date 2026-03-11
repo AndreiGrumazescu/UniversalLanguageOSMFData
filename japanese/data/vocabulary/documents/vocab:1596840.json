@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1596840",
+  "japanese": "焚く",
+  "kana": "たく",
+  "meanings": [
+    "to burn",
+    "to kindle",
+    "to light (a fire)",
+    "to make (a fire)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to heat (a bath)",
+    "to light (a stove)",
+    "to stoke (a boiler)",
+    "to use (a camera flash)"
+  ],
+  "category": "godan verb"
+}

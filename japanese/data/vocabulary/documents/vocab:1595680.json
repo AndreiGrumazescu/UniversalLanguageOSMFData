@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1595680",
+  "japanese": "勧める",
+  "kana": "すすめる",
+  "meanings": [
+    "to recommend (someone to do)",
+    "to advise",
+    "to encourage",
+    "to urge"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to recommend (a book, someone for a position, etc.)",
+    "to suggest",
+    "to offer (a drink, cigarette, seat, etc.)"
+  ],
+  "category": "ichidan verb"
+}

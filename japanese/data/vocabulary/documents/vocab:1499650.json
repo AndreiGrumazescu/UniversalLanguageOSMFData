@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1499650",
+  "japanese": "封鎖",
+  "kana": "ふうさ",
+  "meanings": [
+    "blockade",
+    "lockdown",
+    "sealing off (an area)"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "freezing (funds)"
+  ],
+  "category": "noun"
+}

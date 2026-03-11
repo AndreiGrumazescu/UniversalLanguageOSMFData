@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1229610",
+  "japanese": "汲む",
+  "kana": "くむ",
+  "meanings": [
+    "to draw (water)",
+    "to ladle",
+    "to dip up",
+    "to scoop up",
+    "to pump"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to pour (into a cup)",
+    "to drink (together)",
+    "to consider (feelings, the situation, etc.)",
+    "to sympathize with",
+    "to intuit",
+    "to understand",
+    "to draw upon",
+    "to inherit"
+  ],
+  "category": "godan verb"
+}

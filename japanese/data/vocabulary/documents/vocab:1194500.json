@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1194500",
+  "japanese": "花",
+  "kana": "はな",
+  "meanings": [
+    "flower",
+    "blossom",
+    "bloom",
+    "petal"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "cherry blossom",
+    "beauty",
+    "blooming (esp. of cherry blossoms)",
+    "ikebana",
+    "hanafuda",
+    "(the) best",
+    "glorious",
+    "lovely"
+  ],
+  "category": "noun"
+}

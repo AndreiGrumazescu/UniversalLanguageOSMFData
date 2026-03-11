@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1432330",
+  "japanese": "追い込む",
+  "kana": "おいこむ",
+  "meanings": [
+    "to herd",
+    "to drive",
+    "to chase",
+    "to corral"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to corner",
+    "to force someone into doing",
+    "to go hard",
+    "to push yourself",
+    "to make a last charge",
+    "to run on (e.g. lines in printing)",
+    "to have two strikes"
+  ],
+  "category": "godan verb"
+}

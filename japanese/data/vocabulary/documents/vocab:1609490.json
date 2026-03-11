@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1609490",
+  "japanese": "害する",
+  "kana": "がいする",
+  "meanings": [
+    "to injure",
+    "to damage",
+    "to harm",
+    "to hurt"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to kill",
+    "to hinder",
+    "to obstruct"
+  ],
+  "category": "suru verb"
+}

@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1071600",
+  "japanese": "ストロボ",
+  "kana": "ストロボ",
+  "meanings": [
+    "stroboscope",
+    "strobe lamp",
+    "stroboscopic lamp"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "(camera) flash"
+  ],
+  "category": "noun"
+}

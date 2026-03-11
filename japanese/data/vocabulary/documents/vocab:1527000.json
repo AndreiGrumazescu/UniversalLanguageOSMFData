@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1527000",
+  "japanese": "味わい",
+  "kana": "あじわい",
+  "meanings": [
+    "flavour",
+    "flavor",
+    "taste"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "charm",
+    "appeal",
+    "interest",
+    "meaning",
+    "significance"
+  ],
+  "category": "noun"
+}

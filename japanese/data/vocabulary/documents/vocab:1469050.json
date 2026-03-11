@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1469050",
+  "japanese": "年度",
+  "kana": "ねんど",
+  "meanings": [
+    "fiscal year (usu. April 1 to March 31 in Japan)",
+    "financial year"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "academic year",
+    "school year",
+    "product year"
+  ],
+  "category": "noun"
+}

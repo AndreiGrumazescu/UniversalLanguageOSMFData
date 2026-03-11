@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1290020",
+  "japanese": "根",
+  "kana": "ね",
+  "meanings": [
+    "root (of a plant)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "root (of a tooth, hair, etc.)",
+    "center (of a pimple, etc.)",
+    "root (of all evil, etc.)",
+    "source",
+    "origin",
+    "cause",
+    "basis",
+    "one's true nature",
+    "(fishing) reef"
+  ],
+  "category": "noun"
+}

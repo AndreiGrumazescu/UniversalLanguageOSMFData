@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1371390",
+  "japanese": "水気",
+  "kana": "みずけ",
+  "meanings": [
+    "water content",
+    "moisture",
+    "juiciness",
+    "dampness"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "water vapor (vapour)",
+    "steam",
+    "dropsy",
+    "edema",
+    "oedema"
+  ],
+  "category": "noun"
+}

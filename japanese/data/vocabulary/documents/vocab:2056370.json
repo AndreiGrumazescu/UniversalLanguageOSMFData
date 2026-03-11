@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:2056370",
+  "japanese": "縁",
+  "kana": "へり",
+  "meanings": [
+    "edge (of a river, woods, etc.)",
+    "shoulder (of a road)"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "rim",
+    "brim",
+    "hem",
+    "margin",
+    "fringe",
+    "selvage",
+    "fabric border (of a tatami mat, etc.)",
+    "edging"
+  ],
+  "category": "noun"
+}

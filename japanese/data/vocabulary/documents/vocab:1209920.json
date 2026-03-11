@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1209920",
+  "japanese": "乾燥",
+  "kana": "かんそう",
+  "meanings": [
+    "dryness",
+    "aridity",
+    "drying (e.g. clothes)",
+    "dehydration",
+    "desiccation"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "insipidity"
+  ],
+  "category": "noun"
+}

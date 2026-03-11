@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1260000",
+  "japanese": "見物",
+  "kana": "けんぶつ",
+  "meanings": [
+    "sightseeing",
+    "watching",
+    "viewing"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "sightseer",
+    "spectator",
+    "viewer",
+    "onlooker"
+  ],
+  "category": "noun"
+}

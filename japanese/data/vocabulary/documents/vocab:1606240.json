@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1606240",
+  "japanese": "理屈",
+  "kana": "りくつ",
+  "meanings": [
+    "theory",
+    "reason",
+    "logic"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "(unreasonable) argument",
+    "strained logic",
+    "excuse",
+    "pretext"
+  ],
+  "category": "noun"
+}

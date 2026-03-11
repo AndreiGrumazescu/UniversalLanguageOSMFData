@@ -1,0 +1,29 @@
+{
+  "$id": "vocab:1281000",
+  "japanese": "考え",
+  "kana": "かんがえ",
+  "meanings": [
+    "thinking",
+    "thought",
+    "view",
+    "opinion",
+    "concept"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "idea",
+    "notion",
+    "imagination",
+    "intention",
+    "plan",
+    "design",
+    "consideration",
+    "judgement",
+    "deliberation",
+    "reflection",
+    "wish",
+    "hope",
+    "expectation"
+  ],
+  "category": "noun"
+}

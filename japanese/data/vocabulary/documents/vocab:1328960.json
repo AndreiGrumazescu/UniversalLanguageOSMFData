@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1328960",
+  "japanese": "趣",
+  "kana": "おもむき",
+  "meanings": [
+    "meaning",
+    "tenor",
+    "gist"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "effect",
+    "influence",
+    "appearance",
+    "aspect",
+    "grace",
+    "charm",
+    "refinement",
+    "taste",
+    "elegance"
+  ],
+  "category": "noun"
+}

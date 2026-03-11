@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1400620",
+  "japanese": "争う",
+  "kana": "あらそう",
+  "meanings": [
+    "to compete",
+    "to contest",
+    "to contend"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to quarrel",
+    "to argue",
+    "to dispute",
+    "to be at variance",
+    "to oppose",
+    "to deny (e.g. evidence)"
+  ],
+  "category": "godan verb"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1455500",
+  "japanese": "毒",
+  "kana": "どく",
+  "meanings": [
+    "poison",
+    "toxicant"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "harm",
+    "evil influence",
+    "ill will",
+    "spite",
+    "malice",
+    "abusive language"
+  ],
+  "category": "noun"
+}

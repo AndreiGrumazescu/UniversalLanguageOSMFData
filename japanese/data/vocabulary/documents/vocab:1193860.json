@@ -1,0 +1,14 @@
+{
+  "$id": "vocab:1193860",
+  "japanese": "火口",
+  "kana": "かこう",
+  "meanings": [
+    "(volcanic) crater",
+    "caldera"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "burner (of a boiler)"
+  ],
+  "category": "noun"
+}

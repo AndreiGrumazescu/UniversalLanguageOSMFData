@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1552760",
+  "japanese": "留守",
+  "kana": "るす",
+  "meanings": [
+    "absence",
+    "being away from home"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "house-sitting",
+    "house-sitter",
+    "neglecting (e.g. one's studies)",
+    "leaving unattended"
+  ],
+  "category": "noun"
+}

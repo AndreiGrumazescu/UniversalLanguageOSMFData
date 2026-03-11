@@ -1,0 +1,28 @@
+{
+  "$id": "vocab:1352150",
+  "japanese": "上",
+  "kana": "かみ",
+  "meanings": [
+    "upper reaches (of a river)",
+    "upper stream"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "top",
+    "upper part",
+    "upper half (of the body)",
+    "long ago",
+    "beginning",
+    "first",
+    "person of high rank (e.g. the emperor)",
+    "government",
+    "imperial court",
+    "imperial capital (i.e. Kyoto)",
+    "capital region (i.e. Kansai)",
+    "region (or direction of) the imperial palace",
+    "head (of a table)",
+    "wife",
+    "mistress (of a restaurant)"
+  ],
+  "category": "noun"
+}

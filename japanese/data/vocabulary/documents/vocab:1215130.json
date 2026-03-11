@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1215130",
+  "japanese": "還元",
+  "kana": "かんげん",
+  "meanings": [
+    "restoration",
+    "return"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "reduction",
+    "resolution",
+    "deoxidization",
+    "deoxidation"
+  ],
+  "category": "noun"
+}

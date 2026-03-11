@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1554720",
+  "japanese": "領域",
+  "kana": "りょういき",
+  "meanings": [
+    "territory",
+    "domain"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "field",
+    "area",
+    "domain",
+    "sphere",
+    "realm",
+    "domain",
+    "region"
+  ],
+  "category": "noun"
+}

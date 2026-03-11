@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1598800",
+  "japanese": "整う",
+  "kana": "ととのう",
+  "meanings": [
+    "to be ready",
+    "to be prepared",
+    "to be arranged"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to be in order",
+    "to be put in order",
+    "to be well-ordered",
+    "to be well-proportioned",
+    "to be harmonious",
+    "to be adjusted",
+    "to be regulated",
+    "to be refined (e.g. of a face)",
+    "to be settled (e.g. treaty, contract)",
+    "to be completed"
+  ],
+  "category": "godan verb"
+}

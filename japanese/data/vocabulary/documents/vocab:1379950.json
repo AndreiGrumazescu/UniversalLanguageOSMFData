@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1379950",
+  "japanese": "精神",
+  "kana": "せいしん",
+  "meanings": [
+    "mind",
+    "spirit",
+    "soul",
+    "heart",
+    "ethos"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "attitude",
+    "mentality",
+    "will",
+    "intention",
+    "spirit (of a matter)",
+    "essence",
+    "fundamental significance"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1484600",
+  "japanese": "費やす",
+  "kana": "ついやす",
+  "meanings": [
+    "to spend",
+    "to expend",
+    "to consume"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to waste",
+    "to squander",
+    "to throw away",
+    "to devote"
+  ],
+  "category": "godan verb"
+}

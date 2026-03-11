@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1076460",
+  "japanese": "タレント",
+  "kana": "タレント",
+  "meanings": [
+    "(TV or radio) entertainer",
+    "television personality",
+    "radio personality"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "talent",
+    "skill",
+    "talent (ancient unit of weight and currency)"
+  ],
+  "category": "noun"
+}

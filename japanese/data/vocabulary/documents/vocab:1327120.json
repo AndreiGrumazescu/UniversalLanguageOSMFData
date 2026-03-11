@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1327120",
+  "japanese": "守る",
+  "kana": "まもる",
+  "meanings": [
+    "to protect",
+    "to guard",
+    "to defend"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to keep (i.e. a promise)",
+    "to abide (by the rules)",
+    "to observe",
+    "to obey",
+    "to follow"
+  ],
+  "category": "godan verb"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1270990",
+  "japanese": "語る",
+  "kana": "かたる",
+  "meanings": [
+    "to talk about",
+    "to speak of",
+    "to tell",
+    "to narrate"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to recite",
+    "to chant",
+    "to indicate",
+    "to show"
+  ],
+  "category": "godan verb"
+}

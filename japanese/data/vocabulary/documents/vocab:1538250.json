@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1538250",
+  "japanese": "薬指",
+  "kana": "くすりゆび",
+  "meanings": [
+    "ring finger",
+    "third finger",
+    "fourth finger (esp. in piano-playing)"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "fourth toe"
+  ],
+  "category": "noun"
+}

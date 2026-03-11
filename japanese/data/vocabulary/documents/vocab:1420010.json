@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1420010",
+  "japanese": "男の子",
+  "kana": "おとこのこ",
+  "meanings": [
+    "boy",
+    "son",
+    "baby boy"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "young man"
+  ],
+  "category": "expression"
+}

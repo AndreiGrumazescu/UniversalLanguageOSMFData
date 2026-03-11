@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1500940",
+  "japanese": "服",
+  "kana": "ふく",
+  "meanings": [
+    "clothes (esp. Western clothes)",
+    "clothing",
+    "dress",
+    "costume",
+    "suit",
+    "outfit"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "counter for doses of medicine, gulps of tea, puffs of a cigarette, etc."
+  ],
+  "category": "noun"
+}

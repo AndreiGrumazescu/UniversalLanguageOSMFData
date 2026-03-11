@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1379430",
+  "japanese": "生物",
+  "kana": "せいぶつ",
+  "meanings": [
+    "living thing",
+    "organism",
+    "creature",
+    "life"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "biology"
+  ],
+  "category": "noun"
+}

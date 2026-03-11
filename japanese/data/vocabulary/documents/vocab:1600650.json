@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1600650",
+  "japanese": "計る",
+  "kana": "はかる",
+  "meanings": [
+    "to measure",
+    "to weigh",
+    "to survey",
+    "to time (sound, gauge, estimate)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to conjecture",
+    "to infer",
+    "to surmise"
+  ],
+  "category": "godan verb"
+}

@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1286240",
+  "japanese": "国会",
+  "kana": "こっかい",
+  "meanings": [
+    "National Diet",
+    "legislative assembly of Japan (1947-)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "Imperial Diet",
+    "legislative assembly of Japan (1889-1947)",
+    "legislative assembly",
+    "parliament",
+    "congress"
+  ],
+  "category": "noun"
+}

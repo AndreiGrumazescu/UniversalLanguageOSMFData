@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1606020",
+  "japanese": "蘇る",
+  "kana": "よみがえる",
+  "meanings": [
+    "to be resurrected",
+    "to be resuscitated",
+    "to be rehabilitated",
+    "to be revived",
+    "to be refreshed",
+    "to be restored"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to be recalled (e.g. memories)",
+    "to be brought back"
+  ],
+  "category": "godan verb"
+}

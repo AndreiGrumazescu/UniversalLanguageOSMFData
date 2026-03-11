@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1422990",
+  "japanese": "着せる",
+  "kana": "きせる",
+  "meanings": [
+    "to put clothes on (someone)",
+    "to dress",
+    "to clothe"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to cover",
+    "to coat",
+    "to plate",
+    "to gild",
+    "to veneer",
+    "to pin (e.g. a crime on someone)",
+    "to lay (blame)",
+    "to charge (with an offence)",
+    "to give (a bad name)",
+    "to remind someone of (their indebtedness)"
+  ],
+  "category": "ichidan verb"
+}

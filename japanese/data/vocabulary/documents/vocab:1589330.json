@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1589330",
+  "japanese": "思いつく",
+  "kana": "おもいつく",
+  "meanings": [
+    "to think of",
+    "to hit upon",
+    "to come into one's mind",
+    "to be struck with an idea"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to remember",
+    "to recall"
+  ],
+  "category": "godan verb"
+}

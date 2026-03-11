@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1307250",
+  "japanese": "四捨五入",
+  "kana": "ししゃごにゅう",
+  "meanings": [
+    "rounding (off; a number)",
+    "rounding half away from zero"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "rounding off (views)",
+    "converging to a common opinion"
+  ],
+  "category": "noun"
+}

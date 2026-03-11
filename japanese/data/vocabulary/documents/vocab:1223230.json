@@ -1,0 +1,14 @@
+{
+  "$id": "vocab:1223230",
+  "japanese": "記載",
+  "kana": "きさい",
+  "meanings": [
+    "mention (in a document)",
+    "record",
+    "entry",
+    "statement",
+    "listing"
+  ],
+  "jlptLevel": "N1",
+  "category": "noun"
+}

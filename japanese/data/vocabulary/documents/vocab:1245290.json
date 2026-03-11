@@ -1,0 +1,26 @@
+{
+  "$id": "vocab:1245290",
+  "japanese": "空",
+  "kana": "そら",
+  "meanings": [
+    "sky",
+    "the air",
+    "the heavens"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "weather",
+    "far-off place",
+    "distant place",
+    "state of mind",
+    "feeling",
+    "(from) memory",
+    "(by) heart",
+    "falsehood",
+    "lie",
+    "somehow",
+    "vaguely",
+    "fake"
+  ],
+  "category": "noun"
+}

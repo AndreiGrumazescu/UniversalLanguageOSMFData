@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1483190",
+  "japanese": "悲しい",
+  "kana": "かなしい",
+  "meanings": [
+    "sad",
+    "miserable",
+    "unhappy",
+    "sorrowful"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "sad",
+    "lamentable",
+    "deplorable",
+    "grievous"
+  ],
+  "category": "i-adjective"
+}

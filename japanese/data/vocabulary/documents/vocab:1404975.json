@@ -1,0 +1,31 @@
+{
+  "$id": "vocab:1404975",
+  "japanese": "早い",
+  "kana": "はやい",
+  "meanings": [
+    "fast",
+    "quick",
+    "rapid",
+    "swift",
+    "speedy",
+    "brisk",
+    "prompt"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "early",
+    "soon",
+    "earlier than usual",
+    "premature",
+    "too soon",
+    "too early",
+    "easy",
+    "simple",
+    "quick",
+    "fast",
+    "as soon as ...",
+    "the moment ...",
+    "the instant ..."
+  ],
+  "category": "i-adjective"
+}

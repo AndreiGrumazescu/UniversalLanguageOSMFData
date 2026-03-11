@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1411160",
+  "japanese": "貸す",
+  "kana": "かす",
+  "meanings": [
+    "to lend",
+    "to loan"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "to rent out",
+    "to hire out",
+    "to hand (over)",
+    "to give"
+  ],
+  "category": "godan verb"
+}

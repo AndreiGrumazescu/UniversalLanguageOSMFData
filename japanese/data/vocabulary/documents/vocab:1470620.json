@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1470620",
+  "japanese": "農家",
+  "kana": "のうか",
+  "meanings": [
+    "farmer",
+    "farming family"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "farmhouse",
+    "School of Agrarianism (China)",
+    "School of Agronomists"
+  ],
+  "category": "noun"
+}

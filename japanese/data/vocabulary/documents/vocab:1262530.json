@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1262530",
+  "japanese": "厳しい",
+  "kana": "きびしい",
+  "meanings": [
+    "severe",
+    "strict",
+    "rigid",
+    "unsparing",
+    "relentless"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "hard (to do)",
+    "difficult",
+    "tricky",
+    "intense (e.g. cold)",
+    "harsh (weather)",
+    "inclement"
+  ],
+  "category": "i-adjective"
+}

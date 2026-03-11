@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1213060",
+  "japanese": "汗",
+  "kana": "あせ",
+  "meanings": [
+    "sweat",
+    "perspiration"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "moisture",
+    "condensation",
+    "gulp",
+    "oops"
+  ],
+  "category": "noun"
+}

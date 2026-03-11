@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1199890",
+  "japanese": "壊す",
+  "kana": "こわす",
+  "meanings": [
+    "to break",
+    "to destroy",
+    "to demolish"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to wreck",
+    "to ruin",
+    "to spoil",
+    "to damage",
+    "to break (a bill, etc.)"
+  ],
+  "category": "godan verb"
+}

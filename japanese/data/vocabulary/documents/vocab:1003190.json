@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1003190",
+  "japanese": "がっくり",
+  "kana": "がっくり",
+  "meanings": [
+    "heartbroken",
+    "crestfallen",
+    "dejected",
+    "disappointed"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "feeling exhausted",
+    "feeling drained"
+  ],
+  "category": "adverb"
+}

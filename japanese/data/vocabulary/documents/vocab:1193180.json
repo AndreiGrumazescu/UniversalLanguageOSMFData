@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1193180",
+  "japanese": "歌",
+  "kana": "うた",
+  "meanings": [
+    "song",
+    "singing"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "classical Japanese poem (esp. tanka)",
+    "modern poetry"
+  ],
+  "category": "noun"
+}

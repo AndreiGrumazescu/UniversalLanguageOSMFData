@@ -1,0 +1,13 @@
+{
+  "$id": "vocab:1435020",
+  "japanese": "停電",
+  "kana": "ていでん",
+  "meanings": [
+    "power outage",
+    "power failure",
+    "power cut",
+    "blackout"
+  ],
+  "jlptLevel": "N3",
+  "category": "noun"
+}

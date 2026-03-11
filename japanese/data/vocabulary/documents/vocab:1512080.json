@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1512080",
+  "japanese": "辺り",
+  "kana": "あたり",
+  "meanings": [
+    "(in the) neighbourhood",
+    "neighborhood",
+    "vicinity",
+    "nearby",
+    "surroundings"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "around",
+    "about",
+    "or thereabouts",
+    "for instance",
+    "say",
+    "such as"
+  ],
+  "category": "noun"
+}

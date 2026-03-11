@@ -1,0 +1,41 @@
+{
+  "$id": "vocab:1589090",
+  "japanese": "収める",
+  "kana": "おさめる",
+  "meanings": [
+    "to put (into)",
+    "to put away (in)",
+    "to put back (in)",
+    "to keep (in)",
+    "to store (in)",
+    "to restore (to its place)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to include (in an anthology, catalogue, etc.)",
+    "to contain",
+    "to publish (in)",
+    "to capture (on film)",
+    "to achieve (results, success, etc.)",
+    "to obtain",
+    "to get",
+    "to gain",
+    "to win",
+    "to make (a profit)",
+    "to pay (fees, taxes, etc.)",
+    "to deliver",
+    "to supply",
+    "to accept (a gift or money)",
+    "to keep (within a limit)",
+    "to offer (to a shrine, deity, etc.)",
+    "to dedicate",
+    "to subdue",
+    "to suppress",
+    "to settle",
+    "to finish",
+    "to conclude",
+    "to wind up",
+    "to bring to a close"
+  ],
+  "category": "ichidan verb"
+}

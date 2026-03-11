@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1493840",
+  "japanese": "不調",
+  "kana": "ふちょう",
+  "meanings": [
+    "bad condition",
+    "poor condition",
+    "disorder",
+    "slump",
+    "being out of form"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "failure",
+    "rupture",
+    "breakdown (e.g. of negotiations)"
+  ],
+  "category": "noun"
+}

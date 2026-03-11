@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1531330",
+  "japanese": "名",
+  "kana": "な",
+  "meanings": [
+    "name",
+    "given name"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "title",
+    "fame",
+    "renown",
+    "reputation",
+    "pretext",
+    "pretense",
+    "justification",
+    "appearance"
+  ],
+  "category": "noun"
+}

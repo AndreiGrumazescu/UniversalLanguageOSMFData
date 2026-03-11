@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1505790",
+  "japanese": "聞き取り",
+  "kana": "ききとり",
+  "meanings": [
+    "listening comprehension",
+    "aural comprehension"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "hearing what others say",
+    "gathering information, opinions, etc.",
+    "public hearing"
+  ],
+  "category": "noun"
+}

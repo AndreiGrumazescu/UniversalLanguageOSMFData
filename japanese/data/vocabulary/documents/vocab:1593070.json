@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1593070",
+  "japanese": "越える",
+  "kana": "こえる",
+  "meanings": [
+    "to cross over",
+    "to cross",
+    "to pass through",
+    "to pass over (out of)",
+    "to go beyond",
+    "to go past"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to exceed",
+    "to surpass",
+    "to be more (than)"
+  ],
+  "category": "ichidan verb"
+}

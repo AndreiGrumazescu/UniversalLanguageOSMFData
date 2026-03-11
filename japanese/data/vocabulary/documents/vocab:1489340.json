@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1489340",
+  "japanese": "表",
+  "kana": "おもて",
+  "meanings": [
+    "surface"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "face (i.e. the visible side of an object)",
+    "front (of a building, etc.)",
+    "obverse side (i.e. \"head\") of a coin",
+    "outside",
+    "exterior",
+    "appearance",
+    "public",
+    "first half (of an inning)",
+    "top (of an inning)",
+    "cover (for tatami mats, etc.)",
+    "foreground",
+    "Omotesenke school of tea ceremony"
+  ],
+  "category": "noun"
+}

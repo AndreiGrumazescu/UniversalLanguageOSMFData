@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1538200",
+  "japanese": "薬局",
+  "kana": "やっきょく",
+  "meanings": [
+    "pharmacy",
+    "drugstore",
+    "chemist's (shop)"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "hospital pharmacy",
+    "dispensary"
+  ],
+  "category": "noun"
+}

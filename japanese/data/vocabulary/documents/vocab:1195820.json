@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1195820",
+  "japanese": "課題",
+  "kana": "かだい",
+  "meanings": [
+    "subject",
+    "theme",
+    "issue",
+    "matter"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "homework",
+    "assignment",
+    "problem (that needs solving)",
+    "task",
+    "challenge",
+    "question",
+    "route (in climbing, bouldering, etc.)",
+    "problem"
+  ],
+  "category": "noun"
+}

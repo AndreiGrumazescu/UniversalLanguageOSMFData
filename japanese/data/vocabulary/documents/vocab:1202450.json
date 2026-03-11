@@ -1,0 +1,31 @@
+{
+  "$id": "vocab:1202450",
+  "japanese": "開ける",
+  "kana": "あける",
+  "meanings": [
+    "to open (a door, etc.)",
+    "to unwrap (e.g. parcel, package)",
+    "to unlock"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to open (for business, etc.)",
+    "to empty",
+    "to remove",
+    "to make space",
+    "to make room",
+    "to move out",
+    "to clear out",
+    "to be away from (e.g. one's house)",
+    "to leave (temporarily)",
+    "to dawn",
+    "to grow light",
+    "to end (of a period, season)",
+    "to begin (of the New Year)",
+    "to leave (one's schedule) open",
+    "to make time (for)",
+    "to make (a hole)",
+    "to open up (a hole)"
+  ],
+  "category": "ichidan verb"
+}

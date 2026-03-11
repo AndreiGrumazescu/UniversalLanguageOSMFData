@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1594270",
+  "japanese": "静まる",
+  "kana": "しずまる",
+  "meanings": [
+    "to become quiet",
+    "to quiet down",
+    "to quieten down"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to calm down",
+    "to die down",
+    "to subside",
+    "to abate",
+    "to be suppressed"
+  ],
+  "category": "godan verb"
+}

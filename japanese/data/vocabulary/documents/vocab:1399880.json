@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1399880",
+  "japanese": "かき回す",
+  "kana": "かきまわす",
+  "meanings": [
+    "to stir",
+    "to churn",
+    "to poke (a fire)",
+    "to disturb (water)"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to rummage around",
+    "to throw into confusion",
+    "to throw into chaos",
+    "to disturb"
+  ],
+  "category": "godan verb"
+}

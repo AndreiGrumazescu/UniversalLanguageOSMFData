@@ -1,0 +1,14 @@
+{
+  "$id": "vocab:1144940",
+  "japanese": "レコード",
+  "kana": "レコード",
+  "meanings": [
+    "(phonograph) record"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "record (esp. in sports)",
+    "record (data structure)"
+  ],
+  "category": "noun"
+}

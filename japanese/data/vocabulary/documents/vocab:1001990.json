@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1001990",
+  "japanese": "お姉さん",
+  "kana": "おねえさん",
+  "meanings": [
+    "older sister",
+    "elder sister"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "young lady",
+    "miss",
+    "ma'am",
+    "older girl"
+  ],
+  "category": "noun"
+}

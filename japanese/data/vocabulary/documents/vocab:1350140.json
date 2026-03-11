@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1350140",
+  "japanese": "消化",
+  "kana": "しょうか",
+  "meanings": [
+    "digestion (of food)"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "digestion (of information)",
+    "assimilation",
+    "thorough understanding",
+    "consumption",
+    "absorption",
+    "using up",
+    "meeting (e.g. a quota)",
+    "completion",
+    "losing one's form and turning into something else"
+  ],
+  "category": "noun"
+}

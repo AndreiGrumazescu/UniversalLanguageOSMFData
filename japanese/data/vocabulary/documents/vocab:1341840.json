@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1341840",
+  "japanese": "盾",
+  "kana": "たて",
+  "meanings": [
+    "shield",
+    "buckler",
+    "escutcheon"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "pretext",
+    "excuse",
+    "grounds (for)",
+    "justification"
+  ],
+  "category": "noun"
+}

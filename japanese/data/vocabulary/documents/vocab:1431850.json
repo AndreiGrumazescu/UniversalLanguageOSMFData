@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1431850",
+  "japanese": "珍しい",
+  "kana": "めずらしい",
+  "meanings": [
+    "rare",
+    "uncommon",
+    "unusual",
+    "curious"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "new",
+    "novel",
+    "fine",
+    "nice",
+    "splendid",
+    "precious"
+  ],
+  "category": "i-adjective"
+}

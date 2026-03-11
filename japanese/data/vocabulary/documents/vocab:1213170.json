@@ -1,0 +1,11 @@
+{
+  "$id": "vocab:1213170",
+  "japanese": "漢字",
+  "kana": "かんじ",
+  "meanings": [
+    "kanji",
+    "Chinese character"
+  ],
+  "jlptLevel": "N5",
+  "category": "noun"
+}

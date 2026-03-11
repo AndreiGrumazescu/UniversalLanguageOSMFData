@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1591660",
+  "japanese": "共同",
+  "kana": "きょうどう",
+  "meanings": [
+    "cooperation",
+    "collaboration",
+    "association",
+    "partnership",
+    "(acting in) unison"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "community",
+    "communal use",
+    "common possession",
+    "sharing"
+  ],
+  "category": "noun"
+}

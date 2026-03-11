@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1523270",
+  "japanese": "本来",
+  "kana": "ほんらい",
+  "meanings": [
+    "originally",
+    "primarily"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "essentially",
+    "intrinsically",
+    "naturally",
+    "by nature",
+    "in (and of) itself",
+    "proper",
+    "rightful",
+    "legal",
+    "normal"
+  ],
+  "category": "adverb"
+}

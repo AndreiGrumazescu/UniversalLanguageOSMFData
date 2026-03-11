@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1376470",
+  "japanese": "晴れる",
+  "kana": "はれる",
+  "meanings": [
+    "to clear up",
+    "to clear away",
+    "to be sunny",
+    "to stop raining"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "to refresh (e.g. spirits)",
+    "to be cleared (e.g. of a suspicion)",
+    "to be dispelled",
+    "to be banished"
+  ],
+  "category": "ichidan verb"
+}

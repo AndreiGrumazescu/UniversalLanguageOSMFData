@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1598410",
+  "japanese": "手引き",
+  "kana": "てびき",
+  "meanings": [
+    "guidance",
+    "lead",
+    "acting as guide",
+    "giving assistance"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "introduction",
+    "good offices",
+    "influence",
+    "connections",
+    "guide",
+    "primer",
+    "guidebook",
+    "handbook",
+    "manual"
+  ],
+  "category": "noun"
+}

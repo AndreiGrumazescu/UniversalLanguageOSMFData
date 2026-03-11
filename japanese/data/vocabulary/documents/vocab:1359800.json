@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1359800",
+  "japanese": "侵す",
+  "kana": "おかす",
+  "meanings": [
+    "to invade",
+    "to raid",
+    "to violate (airspace, etc.)",
+    "to intrude",
+    "to trespass"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to infringe",
+    "to encroach",
+    "to harm",
+    "to afflict",
+    "to affect"
+  ],
+  "category": "godan verb"
+}

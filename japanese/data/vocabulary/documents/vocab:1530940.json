@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1530940",
+  "japanese": "無用",
+  "kana": "むよう",
+  "meanings": [
+    "useless",
+    "futile"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "unnecessary",
+    "needless",
+    "not on business",
+    "unrelated",
+    "unauthorised",
+    "unauthorized",
+    "prohibited",
+    "banned",
+    "forbidden"
+  ],
+  "category": "na-adjective"
+}

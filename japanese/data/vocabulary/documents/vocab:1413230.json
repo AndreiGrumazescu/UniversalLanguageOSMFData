@@ -1,0 +1,35 @@
+{
+  "$id": "vocab:1413230",
+  "japanese": "大概",
+  "kana": "たいがい",
+  "meanings": [
+    "generally",
+    "mainly",
+    "usually",
+    "normally",
+    "mostly",
+    "for the most part"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "nearly all",
+    "almost all",
+    "most",
+    "gist",
+    "summary",
+    "outline",
+    "main idea",
+    "staying within bounds",
+    "not overdoing (something)",
+    "not getting carried away",
+    "not going too far",
+    "being moderate",
+    "probably",
+    "perhaps",
+    "in all likelihood",
+    "considerably",
+    "greatly",
+    "really"
+  ],
+  "category": "adverb"
+}

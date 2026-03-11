@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1552440",
+  "japanese": "流通",
+  "kana": "りゅうつう",
+  "meanings": [
+    "circulation (of money, goods, etc.)",
+    "distribution"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "circulation (of air, water, etc.)",
+    "ventilation",
+    "flow"
+  ],
+  "category": "noun"
+}

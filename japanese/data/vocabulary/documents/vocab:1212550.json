@@ -1,0 +1,14 @@
+{
+  "$id": "vocab:1212550",
+  "japanese": "感度",
+  "kana": "かんど",
+  "meanings": [
+    "sensitivity (e.g. of a measuring instrument)",
+    "reception (radio, TV, etc.)"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "sensitivity (of film)"
+  ],
+  "category": "noun"
+}

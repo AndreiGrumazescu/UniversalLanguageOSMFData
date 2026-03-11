@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1218760",
+  "japanese": "喜ぶ",
+  "kana": "よろこぶ",
+  "meanings": [
+    "to be delighted",
+    "to be glad",
+    "to be pleased",
+    "to rejoice"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to congratulate",
+    "to welcome (a proposal, advice, etc.)",
+    "to take kindly to",
+    "to do with pleasure",
+    "to do gladly",
+    "to be happy (to do)"
+  ],
+  "category": "godan verb"
+}

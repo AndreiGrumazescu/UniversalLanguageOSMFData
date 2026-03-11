@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1423680",
+  "japanese": "中間",
+  "kana": "ちゅうかん",
+  "meanings": [
+    "middle",
+    "midway",
+    "halfway",
+    "centre",
+    "center"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "middle position",
+    "moderate position",
+    "neutral position",
+    "middle-of-the-road position",
+    "interim",
+    "intermediary",
+    "intermediate",
+    "midterm"
+  ],
+  "category": "noun"
+}

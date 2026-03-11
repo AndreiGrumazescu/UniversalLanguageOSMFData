@@ -1,0 +1,32 @@
+{
+  "$id": "vocab:1427900",
+  "japanese": "張る",
+  "kana": "はる",
+  "meanings": [
+    "to stick",
+    "to paste",
+    "to affix"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "to stretch",
+    "to spread",
+    "to strain",
+    "to tighten",
+    "to put up (e.g. a tent)",
+    "to form (e.g. ice on a pond)",
+    "to fill",
+    "to swell",
+    "to stick out",
+    "to push out",
+    "to post (a link, etc. online)",
+    "to be expensive",
+    "to keep a watch on",
+    "to be on the lookout",
+    "to slap",
+    "to become one tile away from completion",
+    "to span",
+    "to generate"
+  ],
+  "category": "godan verb"
+}

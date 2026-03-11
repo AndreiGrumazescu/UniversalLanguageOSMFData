@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1421570",
+  "japanese": "弛み",
+  "kana": "たるみ",
+  "meanings": [
+    "slack",
+    "slackening",
+    "sagginess",
+    "flabbiness (skin, etc.)"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "dullness",
+    "letdown",
+    "depression",
+    "ennui"
+  ],
+  "category": "noun"
+}

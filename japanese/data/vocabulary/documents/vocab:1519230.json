@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1519230",
+  "japanese": "忘れ物",
+  "kana": "わすれもの",
+  "meanings": [
+    "lost article",
+    "thing left behind"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "leaving something behind",
+    "forgetting something"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1404700",
+  "japanese": "足す",
+  "kana": "たす",
+  "meanings": [
+    "to add (numbers)"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to add (something)",
+    "to top up (with something)",
+    "to take care of (e.g. one's business)"
+  ],
+  "category": "godan verb"
+}

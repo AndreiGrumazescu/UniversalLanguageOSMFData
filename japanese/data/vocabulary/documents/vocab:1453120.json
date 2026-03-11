@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1453120",
+  "japanese": "同調",
+  "kana": "どうちょう",
+  "meanings": [
+    "conformity",
+    "alignment",
+    "agreement",
+    "sympathy",
+    "following suit"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "tuning",
+    "same tone",
+    "same pitch"
+  ],
+  "category": "noun"
+}

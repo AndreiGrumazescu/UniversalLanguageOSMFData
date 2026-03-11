@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1598300",
+  "japanese": "手がかり",
+  "kana": "てがかり",
+  "meanings": [
+    "clue",
+    "lead",
+    "key",
+    "trail",
+    "scent",
+    "track"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "handhold",
+    "hold"
+  ],
+  "category": "noun"
+}

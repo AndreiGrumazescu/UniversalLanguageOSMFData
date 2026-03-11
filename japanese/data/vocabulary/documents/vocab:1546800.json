@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1546800",
+  "japanese": "要素",
+  "kana": "ようそ",
+  "meanings": [
+    "component",
+    "factor",
+    "item (e.g. in list)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "element (e.g. in array)",
+    "member (e.g. data structure)"
+  ],
+  "category": "noun"
+}

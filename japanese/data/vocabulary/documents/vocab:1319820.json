@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1319820",
+  "japanese": "失格",
+  "kana": "しっかく",
+  "meanings": [
+    "disqualification",
+    "elimination",
+    "incapacity"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "being unfit for one's role",
+    "being a failure"
+  ],
+  "category": "noun"
+}

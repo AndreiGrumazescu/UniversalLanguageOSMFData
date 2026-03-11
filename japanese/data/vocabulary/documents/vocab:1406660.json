@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1406660",
+  "japanese": "損",
+  "kana": "そん",
+  "meanings": [
+    "loss",
+    "damage",
+    "harm",
+    "unprofitable"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "disadvantage",
+    "handicap",
+    "drawback",
+    "unfavorable"
+  ],
+  "category": "noun"
+}

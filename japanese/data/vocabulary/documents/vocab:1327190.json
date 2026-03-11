@@ -1,0 +1,39 @@
+{
+  "$id": "vocab:1327190",
+  "japanese": "手",
+  "kana": "て",
+  "meanings": [
+    "hand",
+    "arm"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "forepaw",
+    "foreleg",
+    "handle",
+    "hand",
+    "worker",
+    "help",
+    "trouble",
+    "care",
+    "effort",
+    "means",
+    "way",
+    "trick",
+    "move",
+    "technique",
+    "workmanship",
+    "hand",
+    "handwriting",
+    "kind",
+    "type",
+    "sort",
+    "one's hands",
+    "one's possession",
+    "ability to cope",
+    "hand (of cards)",
+    "direction",
+    "move (in go, shogi, etc.)"
+  ],
+  "category": "noun"
+}

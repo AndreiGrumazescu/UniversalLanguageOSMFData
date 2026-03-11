@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1601480",
+  "japanese": "引き上げる",
+  "kana": "ひきあげる",
+  "meanings": [
+    "to pull up",
+    "to drag up",
+    "to lift up"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to increase",
+    "to raise (e.g. taxes)",
+    "to withdraw",
+    "to leave",
+    "to pull out",
+    "to retire",
+    "to promote (someone to a higher position)",
+    "to return home",
+    "to expedite the schedule"
+  ],
+  "category": "ichidan verb"
+}

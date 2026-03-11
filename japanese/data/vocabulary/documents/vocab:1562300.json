@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1562300",
+  "japanese": "話しかける",
+  "kana": "はなしかける",
+  "meanings": [
+    "to address (someone)",
+    "to accost a person",
+    "to talk (to someone)"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to begin to talk",
+    "to start a conversation"
+  ],
+  "category": "ichidan verb"
+}

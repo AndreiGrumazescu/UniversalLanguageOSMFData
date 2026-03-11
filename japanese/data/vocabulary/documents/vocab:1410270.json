@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1410270",
+  "japanese": "対面",
+  "kana": "たいめん",
+  "meanings": [
+    "meeting face-to-face",
+    "seeing in person"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "facing (each other)",
+    "opposing (traffic, etc.)",
+    "confronting"
+  ],
+  "category": "noun"
+}

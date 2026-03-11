@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1241490",
+  "japanese": "禁煙",
+  "kana": "きんえん",
+  "meanings": [
+    "abstaining from smoking",
+    "quitting smoking"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "prohibition of smoking",
+    "No Smoking",
+    "Smoking Prohibited"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1472720",
+  "japanese": "背景",
+  "kana": "はいけい",
+  "meanings": [
+    "background",
+    "scenery",
+    "backdrop",
+    "setting"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "background (of an incident, situation, etc.)",
+    "circumstances",
+    "context",
+    "backing",
+    "support (from behind the scenes)"
+  ],
+  "category": "noun"
+}

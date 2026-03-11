@@ -1,0 +1,26 @@
+{
+  "$id": "vocab:1437450",
+  "japanese": "適当",
+  "kana": "てきとう",
+  "meanings": [
+    "suitable",
+    "proper",
+    "appropriate",
+    "adequate",
+    "fit",
+    "fair"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "perfunctory",
+    "half-minded",
+    "sloppy",
+    "lazy",
+    "careless",
+    "noncommittal",
+    "unreliable",
+    "irresponsible",
+    "haphazard"
+  ],
+  "category": "na-adjective"
+}

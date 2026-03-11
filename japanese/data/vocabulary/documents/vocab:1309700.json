@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1309700",
+  "japanese": "指揮",
+  "kana": "しき",
+  "meanings": [
+    "command",
+    "direction",
+    "supervision"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "conducting (an orchestra, choir, etc.)"
+  ],
+  "category": "noun"
+}

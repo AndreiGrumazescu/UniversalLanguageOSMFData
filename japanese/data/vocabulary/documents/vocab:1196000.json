@@ -1,0 +1,25 @@
+{
+  "$id": "vocab:1196000",
+  "japanese": "過ごす",
+  "kana": "すごす",
+  "meanings": [
+    "to spend (time)",
+    "to pass",
+    "to lead (a life)",
+    "to live"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to overdo (esp. alcohol consumption)",
+    "to drink (alcohol)",
+    "to carry too far",
+    "to carry to excess",
+    "to take care of",
+    "to support",
+    "to overdo",
+    "to do too much",
+    "to ... without acting on it",
+    "to ... without getting involved"
+  ],
+  "category": "godan verb"
+}

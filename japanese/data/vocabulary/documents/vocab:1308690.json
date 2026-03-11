@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1308690",
+  "japanese": "市民",
+  "kana": "しみん",
+  "meanings": [
+    "citizen (of a country)",
+    "citizenry"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "citizen (of a city)",
+    "resident",
+    "inhabitant",
+    "townspeople",
+    "bourgeoisie",
+    "middle class"
+  ],
+  "category": "noun"
+}

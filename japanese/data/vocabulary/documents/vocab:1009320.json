@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1009320",
+  "japanese": "どんどん",
+  "kana": "どんどん",
+  "meanings": [
+    "drumming (noise)",
+    "beating",
+    "pounding",
+    "banging",
+    "booming",
+    "stamping"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "rapidly",
+    "quickly",
+    "steadily",
+    "continuously",
+    "one after the other",
+    "in succession"
+  ],
+  "category": "adverb"
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1286160",
+  "japanese": "国王",
+  "kana": "こくおう",
+  "meanings": [
+    "king",
+    "queen",
+    "monarch",
+    "sovereign"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "the Crown (as a focus of authority in the UK, etc.)",
+    "the throne"
+  ],
+  "category": "noun"
+}

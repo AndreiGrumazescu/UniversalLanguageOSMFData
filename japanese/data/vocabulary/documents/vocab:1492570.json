@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1492570",
+  "japanese": "不思議",
+  "kana": "ふしぎ",
+  "meanings": [
+    "wonderful",
+    "marvelous",
+    "strange",
+    "incredible",
+    "amazing",
+    "curious",
+    "miraculous",
+    "mysterious"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "strangely enough",
+    "oddly enough",
+    "for some reason",
+    "curiously"
+  ],
+  "category": "na-adjective"
+}

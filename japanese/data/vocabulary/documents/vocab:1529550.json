@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1529550",
+  "japanese": "無くなる",
+  "kana": "なくなる",
+  "meanings": [
+    "to be lost (e.g. luggage)",
+    "to be missing"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to be used up",
+    "to be run out",
+    "to be exhausted",
+    "to be consumed",
+    "to be reduced to zero",
+    "to not occur any more",
+    "to disappear (e.g. pain)",
+    "to be lost (e.g. a dream, confidence)"
+  ],
+  "category": "godan verb"
+}

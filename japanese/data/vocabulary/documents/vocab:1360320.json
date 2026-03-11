@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1360320",
+  "japanese": "寝坊",
+  "kana": "ねぼう",
+  "meanings": [
+    "sleeping in late",
+    "oversleeping"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "late riser",
+    "sleepyhead"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1473340",
+  "japanese": "倍率",
+  "kana": "ばいりつ",
+  "meanings": [
+    "magnification",
+    "leverage",
+    "amplification",
+    "scaling factor",
+    "scale factor"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "competitiveness rating (e.g. for university entrance)",
+    "applicant-to-acceptance ratio"
+  ],
+  "category": "noun"
+}

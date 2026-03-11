@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1352570",
+  "japanese": "上る",
+  "kana": "のぼる",
+  "meanings": [
+    "to ascend",
+    "to go up",
+    "to climb"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to ascend (as a natural process, e.g. the Sun)",
+    "to rise",
+    "to go to (the capital)",
+    "to be promoted",
+    "to add up to",
+    "to advance (in price)",
+    "to swim up (a river)",
+    "to sail up",
+    "to come up (on the agenda)"
+  ],
+  "category": "godan verb"
+}

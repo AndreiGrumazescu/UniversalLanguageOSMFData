@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1305990",
+  "japanese": "使う",
+  "kana": "つかう",
+  "meanings": [
+    "to use (a tool, method, etc.)",
+    "to make use of",
+    "to put to use"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "to use (a person, animal, puppet, etc.)",
+    "to employ",
+    "to handle",
+    "to manage",
+    "to manipulate",
+    "to use (time, money, etc.)",
+    "to spend",
+    "to consume",
+    "to use (language)",
+    "to speak"
+  ],
+  "category": "godan verb"
+}

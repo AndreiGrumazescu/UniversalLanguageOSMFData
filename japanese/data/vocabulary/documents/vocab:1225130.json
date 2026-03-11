@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1225130",
+  "japanese": "技術",
+  "kana": "ぎじゅつ",
+  "meanings": [
+    "technology",
+    "engineering"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "technique",
+    "skill",
+    "art",
+    "craft"
+  ],
+  "category": "noun"
+}

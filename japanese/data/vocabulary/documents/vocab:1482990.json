@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1482990",
+  "japanese": "否定",
+  "kana": "ひてい",
+  "meanings": [
+    "denial",
+    "negation",
+    "repudiation",
+    "disavowal"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "negation",
+    "NOT operation"
+  ],
+  "category": "noun"
+}

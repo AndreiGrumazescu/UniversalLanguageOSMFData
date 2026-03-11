@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1397830",
+  "japanese": "遡る",
+  "kana": "さかのぼる",
+  "meanings": [
+    "to go upstream",
+    "to go up (a river)"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to go back (to the past or origin)",
+    "to date back (to)",
+    "to trace back (to)",
+    "to be retroactive (to)"
+  ],
+  "category": "godan verb"
+}

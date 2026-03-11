@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1207030",
+  "japanese": "学年",
+  "kana": "がくねん",
+  "meanings": [
+    "academic year",
+    "school year"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "year in school",
+    "grade in school"
+  ],
+  "category": "noun"
+}

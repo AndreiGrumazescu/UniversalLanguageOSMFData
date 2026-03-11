@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1237440",
+  "japanese": "橋渡し",
+  "kana": "はしわたし",
+  "meanings": [
+    "mediation",
+    "good offices",
+    "go-between",
+    "intermediary",
+    "mediator",
+    "bridge (between)"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "building a bridge"
+  ],
+  "category": "noun"
+}

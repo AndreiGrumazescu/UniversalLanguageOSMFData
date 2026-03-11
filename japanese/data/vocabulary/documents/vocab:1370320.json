@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1370320",
+  "japanese": "図",
+  "kana": "ず",
+  "meanings": [
+    "drawing",
+    "picture",
+    "diagram",
+    "figure",
+    "illustration",
+    "chart",
+    "graph",
+    "map"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "sight",
+    "scene"
+  ],
+  "category": "noun"
+}

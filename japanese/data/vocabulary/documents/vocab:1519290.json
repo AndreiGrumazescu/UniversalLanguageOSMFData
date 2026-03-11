@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1519290",
+  "japanese": "忙しい",
+  "kana": "いそがしい",
+  "meanings": [
+    "busy",
+    "occupied",
+    "hectic"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "restless",
+    "hurried",
+    "fidgety"
+  ],
+  "category": "i-adjective"
+}

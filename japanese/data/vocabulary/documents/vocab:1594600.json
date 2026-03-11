@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1594600",
+  "japanese": "締め切る",
+  "kana": "しめきる",
+  "meanings": [
+    "to close up",
+    "to shut up (e.g. behind doors)"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to cut off (e.g. because a deadline has expired)",
+    "to close off (e.g. subscription list)"
+  ],
+  "category": "godan verb"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1372650",
+  "japanese": "酔う",
+  "kana": "よう",
+  "meanings": [
+    "to get drunk",
+    "to become intoxicated"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to feel sick (e.g. in a vehicle)",
+    "to become nauseated",
+    "to be elated",
+    "to be exalted",
+    "to be spellbound",
+    "to be in raptures"
+  ],
+  "category": "godan verb"
+}

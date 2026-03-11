@@ -1,0 +1,37 @@
+{
+  "$id": "vocab:1497800",
+  "japanese": "腐る",
+  "kana": "くさる",
+  "meanings": [
+    "to rot",
+    "to go bad",
+    "to decay",
+    "to spoil",
+    "to fester",
+    "to decompose",
+    "to turn sour (e.g. milk)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to corrode",
+    "to weather",
+    "to crumble",
+    "to become useless",
+    "to blunt",
+    "to weaken (from lack of practice)",
+    "to become depraved",
+    "to be degenerate",
+    "to be morally bankrupt",
+    "to be corrupt",
+    "to be depressed",
+    "to be dispirited",
+    "to feel discouraged",
+    "to feel down",
+    "to have the audacity to",
+    "to be bastard enough to",
+    "to lose a bet",
+    "to be drenched",
+    "to become sopping wet"
+  ],
+  "category": "godan verb"
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1588920",
+  "japanese": "丘",
+  "kana": "おか",
+  "meanings": [
+    "hill",
+    "height",
+    "knoll",
+    "rising ground"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "bonus points awarded to the winner at the end of a game"
+  ],
+  "category": "noun"
+}

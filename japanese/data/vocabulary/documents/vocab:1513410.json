@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1513410",
+  "japanese": "保健",
+  "kana": "ほけん",
+  "meanings": [
+    "preservation of health",
+    "hygiene",
+    "sanitation"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "health education (school subject)"
+  ],
+  "category": "noun"
+}

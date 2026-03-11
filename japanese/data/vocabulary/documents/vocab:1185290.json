@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1185290",
+  "japanese": "下宿",
+  "kana": "げしゅく",
+  "meanings": [
+    "boarding",
+    "lodging",
+    "board and lodging",
+    "room and board"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "boarding house",
+    "lodging house",
+    "lodgings"
+  ],
+  "category": "noun"
+}

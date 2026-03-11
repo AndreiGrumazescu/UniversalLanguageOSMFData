@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1350190",
+  "japanese": "消去",
+  "kana": "しょうきょ",
+  "meanings": [
+    "erasure",
+    "deletion",
+    "elimination",
+    "clearing"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "elimination (of variables)",
+    "extinction"
+  ],
+  "category": "noun"
+}

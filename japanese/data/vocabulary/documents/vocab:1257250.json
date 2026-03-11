@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1257250",
+  "japanese": "嫌う",
+  "kana": "きらう",
+  "meanings": [
+    "to hate",
+    "to dislike",
+    "to loathe",
+    "to abhor"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to avoid",
+    "to disregard",
+    "to act without regard (for)",
+    "to be bad for (e.g. dust in machinery)"
+  ],
+  "category": "godan verb"
+}

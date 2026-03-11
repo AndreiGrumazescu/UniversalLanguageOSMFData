@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1196120",
+  "japanese": "過失",
+  "kana": "かしつ",
+  "meanings": [
+    "accident (caused by negligence)",
+    "error",
+    "blunder"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "fault",
+    "defect"
+  ],
+  "category": "noun"
+}

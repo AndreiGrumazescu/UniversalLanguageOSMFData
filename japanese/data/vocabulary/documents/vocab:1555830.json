@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1555830",
+  "japanese": "隣",
+  "kana": "となり",
+  "meanings": [
+    "next (to)",
+    "adjoining",
+    "adjacent"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "house next door",
+    "neighbouring house",
+    "next-door neighbour",
+    "next-door neighbor"
+  ],
+  "category": "noun"
+}

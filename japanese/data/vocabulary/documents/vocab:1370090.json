@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1370090",
+  "japanese": "尽くす",
+  "kana": "つくす",
+  "meanings": [
+    "to use up",
+    "to exhaust",
+    "to run out of"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to devote oneself (to)",
+    "to do one's utmost (for)",
+    "to serve",
+    "to work (for a cause)",
+    "to do to exhaustion",
+    "to do completely",
+    "to do fully"
+  ],
+  "category": "godan verb"
+}

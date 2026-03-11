@@ -1,0 +1,32 @@
+{
+  "$id": "vocab:1503000",
+  "japanese": "分ける",
+  "kana": "わける",
+  "meanings": [
+    "to divide (into)",
+    "to split (into)",
+    "to part",
+    "to separate",
+    "to divide up",
+    "to classify",
+    "to sort out",
+    "to divide out"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to share",
+    "to distribute",
+    "to deal out",
+    "to dish out",
+    "to distinguish",
+    "to discriminate",
+    "to differentiate (between)",
+    "to break up (a fight)",
+    "to mediate",
+    "to call a draw",
+    "to tie",
+    "to push one's way through (a crowd)",
+    "to sell"
+  ],
+  "category": "ichidan verb"
+}

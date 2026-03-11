@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1448890",
+  "japanese": "当て字",
+  "kana": "あてじ",
+  "meanings": [
+    "kanji used as a phonetic symbol, instead of for the meaning",
+    "phonetic-equivalent character",
+    "substitute character",
+    "ateji"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "kanji used for their meaning, irrespective of reading"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1291690",
+  "japanese": "詐欺",
+  "kana": "さぎ",
+  "meanings": [
+    "fraud",
+    "swindle",
+    "graft",
+    "cheating",
+    "trick",
+    "scam"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "saying you're going to do something but in the end not doing it",
+    "making promises without keeping them",
+    "flaking out"
+  ],
+  "category": "noun"
+}

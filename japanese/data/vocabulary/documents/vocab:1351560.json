@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1351560",
+  "japanese": "衝突",
+  "kana": "しょうとつ",
+  "meanings": [
+    "collision",
+    "crash",
+    "impact",
+    "running into"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "clash",
+    "skirmish",
+    "conflict",
+    "discord",
+    "quarrel",
+    "brush"
+  ],
+  "category": "noun"
+}

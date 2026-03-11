@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1256170",
+  "japanese": "健康",
+  "kana": "けんこう",
+  "meanings": [
+    "health"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "healthy",
+    "sound",
+    "fit",
+    "wholesome"
+  ],
+  "category": "noun"
+}

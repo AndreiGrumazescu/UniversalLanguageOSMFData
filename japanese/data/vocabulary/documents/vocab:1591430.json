@@ -1,0 +1,26 @@
+{
+  "$id": "vocab:1591430",
+  "japanese": "気持ち",
+  "kana": "きもち",
+  "meanings": [
+    "feeling",
+    "sensation",
+    "mood",
+    "state of mind"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "preparedness",
+    "readiness",
+    "attitude",
+    "thought",
+    "sentiment",
+    "consideration",
+    "solicitude",
+    "gratitude",
+    "slightly",
+    "a bit",
+    "a little"
+  ],
+  "category": "noun"
+}

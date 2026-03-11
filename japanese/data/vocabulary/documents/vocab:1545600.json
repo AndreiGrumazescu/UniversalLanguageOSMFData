@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1545600",
+  "japanese": "揺さぶる",
+  "kana": "ゆさぶる",
+  "meanings": [
+    "to shake",
+    "to jolt",
+    "to rock",
+    "to swing",
+    "to sway"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to shake (e.g. the political world)",
+    "to disturb",
+    "to shock",
+    "to upset",
+    "to put off a batter (by varying one's type of pitch)"
+  ],
+  "category": "godan verb"
+}

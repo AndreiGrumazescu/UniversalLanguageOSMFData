@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1195710",
+  "japanese": "課",
+  "kana": "か",
+  "meanings": [
+    "lesson"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "section (in an organization)",
+    "division",
+    "department",
+    "counter for lessons and chapters (of a book)"
+  ],
+  "category": "noun"
+}

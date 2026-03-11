@@ -1,0 +1,25 @@
+{
+  "$id": "vocab:1306470",
+  "japanese": "刺す",
+  "kana": "さす",
+  "meanings": [
+    "to pierce",
+    "to stab",
+    "to prick",
+    "to stick",
+    "to thrust"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to sting",
+    "to bite",
+    "to sew",
+    "to stitch",
+    "to embroider",
+    "to pole (a boat)",
+    "to catch (with a limed pole)",
+    "to put (a runner) out",
+    "to pick off"
+  ],
+  "category": "godan verb"
+}

@@ -1,0 +1,25 @@
+{
+  "$id": "vocab:1011060",
+  "japanese": "ふらふら",
+  "kana": "ふらふら",
+  "meanings": [
+    "unsteadily (e.g. on one's feet)",
+    "shakily",
+    "staggering",
+    "tottering",
+    "reeling",
+    "dizzily",
+    "giddily"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "wavering (in one's mind)",
+    "unsteadily",
+    "indecisively",
+    "aimlessly",
+    "unconsciously",
+    "whimsically",
+    "without thinking"
+  ],
+  "category": "adverb"
+}

@@ -1,0 +1,37 @@
+{
+  "$id": "vocab:1361330",
+  "japanese": "振る",
+  "kana": "ふる",
+  "meanings": [
+    "to wave",
+    "to shake",
+    "to swing"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to sprinkle",
+    "to throw (dice)",
+    "to cast (actor)",
+    "to allocate (work)",
+    "to turn down (someone)",
+    "to reject",
+    "to jilt",
+    "to dump",
+    "to abandon",
+    "to give up",
+    "to ruin",
+    "to add kana indicating a reading of a word",
+    "to slightly change headings",
+    "to change directions",
+    "to extract by broiling",
+    "to prepare an infusion of",
+    "to decoct",
+    "to carry with great vigor (e.g. a portable shrine)",
+    "to bring up a topic",
+    "to lead to a topic",
+    "to replace",
+    "to substitute",
+    "to set up a joke for someone else"
+  ],
+  "category": "godan verb"
+}

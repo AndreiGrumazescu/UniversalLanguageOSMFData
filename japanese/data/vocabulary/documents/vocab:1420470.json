@@ -1,0 +1,37 @@
+{
+  "$id": "vocab:1420470",
+  "japanese": "知る",
+  "kana": "しる",
+  "meanings": [
+    "to know",
+    "to be aware (of)",
+    "to be conscious (of)",
+    "to learn (of)",
+    "to find out",
+    "to discover"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "to sense",
+    "to feel",
+    "to notice",
+    "to realize",
+    "to understand",
+    "to comprehend",
+    "to grasp",
+    "to appreciate",
+    "to remember",
+    "to be familiar with",
+    "to be acquainted with",
+    "to experience",
+    "to go through",
+    "to know (e.g. hardship)",
+    "to get acquainted with (a person)",
+    "to get to know",
+    "to have to do with",
+    "to be concerned with",
+    "to be one's concern",
+    "to be one's responsibility"
+  ],
+  "category": "godan verb"
+}

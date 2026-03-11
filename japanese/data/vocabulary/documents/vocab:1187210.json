@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1187210",
+  "japanese": "化石",
+  "kana": "かせき",
+  "meanings": [
+    "fossil"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "petrifaction",
+    "petrification",
+    "fossilization",
+    "fossilisation"
+  ],
+  "category": "noun"
+}

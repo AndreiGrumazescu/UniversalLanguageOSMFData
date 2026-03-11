@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1213150",
+  "japanese": "漢語",
+  "kana": "かんご",
+  "meanings": [
+    "Japanese word of Chinese origin",
+    "Sino-Japanese word"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "language of the Han people",
+    "Chinese"
+  ],
+  "category": "noun"
+}

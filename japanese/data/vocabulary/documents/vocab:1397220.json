@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1397220",
+  "japanese": "素材",
+  "kana": "そざい",
+  "meanings": [
+    "ingredient",
+    "(raw) material",
+    "resource"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "unprocessed timber",
+    "raw timber",
+    "subject matter",
+    "topic"
+  ],
+  "category": "noun"
+}

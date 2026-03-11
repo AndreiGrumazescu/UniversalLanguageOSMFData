@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1049110",
+  "japanese": "コーナー",
+  "kana": "コーナー",
+  "meanings": [
+    "corner",
+    "bend",
+    "turn"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "segment (within a radio or TV program)",
+    "session",
+    "column (newspaper, etc.)",
+    "area",
+    "department",
+    "section"
+  ],
+  "category": "noun"
+}

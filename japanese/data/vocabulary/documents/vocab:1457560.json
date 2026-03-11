@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1457560",
+  "japanese": "曇る",
+  "kana": "くもる",
+  "meanings": [
+    "to get cloudy",
+    "to cloud over",
+    "to become overcast"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "to cloud up",
+    "to fog up",
+    "to mist up",
+    "to become dim",
+    "to be gloomy",
+    "to be clouded (expression)",
+    "to be downcast",
+    "to look slightly downward (of a noh mask; indicating sadness, grief, etc.)"
+  ],
+  "category": "godan verb"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1381390",
+  "japanese": "青い",
+  "kana": "あおい",
+  "meanings": [
+    "blue",
+    "azure"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "green",
+    "pale (facial color)",
+    "gray",
+    "grey",
+    "unripe",
+    "inexperienced"
+  ],
+  "category": "i-adjective"
+}

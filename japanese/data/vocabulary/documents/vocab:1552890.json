@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1552890",
+  "japanese": "粒",
+  "kana": "つぶ",
+  "meanings": [
+    "grain",
+    "bead",
+    "drop"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "counter for small round objects including grains, seeds, pills, drops"
+  ],
+  "category": "noun"
+}

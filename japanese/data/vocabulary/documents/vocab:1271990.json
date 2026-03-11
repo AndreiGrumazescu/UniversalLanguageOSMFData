@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1271990",
+  "japanese": "交際",
+  "kana": "こうさい",
+  "meanings": [
+    "company",
+    "friendship",
+    "association",
+    "society",
+    "acquaintance"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "(romantic) involvement",
+    "dating"
+  ],
+  "category": "noun"
+}

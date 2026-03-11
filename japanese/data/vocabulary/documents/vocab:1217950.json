@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1217950",
+  "japanese": "願う",
+  "kana": "ねがう",
+  "meanings": [
+    "to desire",
+    "to wish",
+    "to hope"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to beg",
+    "to request",
+    "to implore",
+    "to pray",
+    "to have something done for oneself"
+  ],
+  "category": "godan verb"
+}

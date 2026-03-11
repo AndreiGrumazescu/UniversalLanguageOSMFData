@@ -1,0 +1,39 @@
+{
+  "$id": "vocab:1164510",
+  "japanese": "一体",
+  "kana": "いったい",
+  "meanings": [
+    "(what) the heck",
+    "(why) in the world",
+    "(who) on earth",
+    "(where) the hell",
+    "(how) the hell"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "one object",
+    "one body",
+    "one unit",
+    "one group",
+    "one mass",
+    "one form",
+    "one style",
+    "one format",
+    "one fashion",
+    "one Buddhist image",
+    "one carving",
+    "one sculpture",
+    "one corpse",
+    "one sample (of bones, remains, etc.)",
+    "generally",
+    "in general",
+    "on the whole",
+    "by and large",
+    "for the most part",
+    "strictly speaking",
+    "in the first place",
+    "originally",
+    "to begin with"
+  ],
+  "category": "adverb"
+}

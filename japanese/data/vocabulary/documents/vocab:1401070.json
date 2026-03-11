@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1401070",
+  "japanese": "相場",
+  "kana": "そうば",
+  "meanings": [
+    "market price"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "speculation (e.g. on stocks)",
+    "reputation (according to conventional wisdom)",
+    "estimation",
+    "esteem"
+  ],
+  "category": "noun"
+}

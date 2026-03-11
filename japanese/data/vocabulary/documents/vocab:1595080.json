@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1595080",
+  "japanese": "退く",
+  "kana": "どく",
+  "meanings": [
+    "to step aside",
+    "to move (out of the way)",
+    "to make way"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to resign",
+    "to retire",
+    "to quit",
+    "to secede"
+  ],
+  "category": "godan verb"
+}

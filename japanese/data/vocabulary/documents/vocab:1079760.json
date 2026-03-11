@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1079760",
+  "japanese": "テスト",
+  "kana": "テスト",
+  "meanings": [
+    "test (of ability, knowledge, etc.)",
+    "exam",
+    "examination",
+    "quiz"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "test (of performance, quality, etc.)",
+    "trial",
+    "rehearsal"
+  ],
+  "category": "noun"
+}

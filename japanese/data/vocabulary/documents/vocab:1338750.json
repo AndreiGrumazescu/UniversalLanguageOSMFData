@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1338750",
+  "japanese": "出血",
+  "kana": "しゅっけつ",
+  "meanings": [
+    "bleeding",
+    "haemorrhage",
+    "hemorrhage"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "bleeding money",
+    "red ink",
+    "selling below cost",
+    "casualties",
+    "losses",
+    "sacrifices"
+  ],
+  "category": "noun"
+}

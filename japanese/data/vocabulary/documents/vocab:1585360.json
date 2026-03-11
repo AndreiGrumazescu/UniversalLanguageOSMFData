@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1585360",
+  "japanese": "歪む",
+  "kana": "ゆがむ",
+  "meanings": [
+    "to warp",
+    "to bend",
+    "to contort"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to be perverted",
+    "to be warped (of a view, mind, etc.)",
+    "to be distorted",
+    "to be cross-grained"
+  ],
+  "category": "godan verb"
+}

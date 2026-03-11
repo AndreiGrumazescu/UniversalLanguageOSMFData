@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1337390",
+  "japanese": "祝う",
+  "kana": "いわう",
+  "meanings": [
+    "to celebrate",
+    "to congratulate",
+    "to observe (a festival)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to present (a gift) in celebration",
+    "to drink in celebration",
+    "to wish for (a happy future, good fortune, etc.)",
+    "to pray for"
+  ],
+  "category": "godan verb"
+}

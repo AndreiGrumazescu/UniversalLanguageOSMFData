@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1437310",
+  "japanese": "笛",
+  "kana": "ふえ",
+  "meanings": [
+    "flute",
+    "fife",
+    "pipe",
+    "recorder",
+    "flageolet",
+    "shakuhachi",
+    "clarinet"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "whistle"
+  ],
+  "category": "noun"
+}

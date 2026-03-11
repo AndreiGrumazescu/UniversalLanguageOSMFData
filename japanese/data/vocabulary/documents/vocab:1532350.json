@@ -1,0 +1,31 @@
+{
+  "$id": "vocab:1532350",
+  "japanese": "明るい",
+  "kana": "あかるい",
+  "meanings": [
+    "light",
+    "bright",
+    "well-lit",
+    "well-lighted"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "bright (colour)",
+    "cheerful",
+    "bright",
+    "spirited",
+    "sunny (e.g. disposition)",
+    "bright (future, prospects, etc.)",
+    "rosy",
+    "encouraging",
+    "promising",
+    "knowledgeable (about)",
+    "familiar (with)",
+    "well versed (in)",
+    "well acquainted (with)",
+    "fair (e.g. politics)",
+    "clean",
+    "impartial"
+  ],
+  "category": "i-adjective"
+}

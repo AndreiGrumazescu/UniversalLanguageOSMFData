@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1103110",
+  "japanese": "パンク",
+  "kana": "パンク",
+  "meanings": [
+    "puncture",
+    "flat tyre (tire)",
+    "blowout"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "bursting",
+    "overflowing",
+    "being jammed (e.g. phone lines)",
+    "reaching breaking point",
+    "collapse",
+    "breakdown",
+    "going bankrupt"
+  ],
+  "category": "noun"
+}

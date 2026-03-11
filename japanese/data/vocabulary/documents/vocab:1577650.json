@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1577650",
+  "japanese": "管",
+  "kana": "かん",
+  "meanings": [
+    "pipe",
+    "tube"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "wind instrument",
+    "vessel",
+    "duct",
+    "tract",
+    "canal",
+    "counter for tube-shaped objects"
+  ],
+  "category": "noun"
+}

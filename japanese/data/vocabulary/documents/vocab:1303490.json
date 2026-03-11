@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1303490",
+  "japanese": "散る",
+  "kana": "ちる",
+  "meanings": [
+    "to fall (e.g. blossoms, leaves)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to scatter",
+    "to be dispersed",
+    "to disappear",
+    "to dissolve",
+    "to break up",
+    "to spread",
+    "to run",
+    "to blur",
+    "to die a noble death"
+  ],
+  "category": "godan verb"
+}

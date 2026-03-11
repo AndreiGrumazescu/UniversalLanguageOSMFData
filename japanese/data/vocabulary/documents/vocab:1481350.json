@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1481350",
+  "japanese": "板",
+  "kana": "いた",
+  "meanings": [
+    "board",
+    "plank"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "sheet (of metal)",
+    "plate (of glass)",
+    "pane",
+    "slab",
+    "cutting board",
+    "chopping board",
+    "chef (esp. of high-end Japanese cuisine)",
+    "cook",
+    "stage (i.e. at a theatre)"
+  ],
+  "category": "noun"
+}

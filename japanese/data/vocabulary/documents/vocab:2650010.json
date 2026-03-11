@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:2650010",
+  "japanese": "修行",
+  "kana": "しゅぎょう",
+  "meanings": [
+    "training",
+    "practice",
+    "discipline",
+    "study"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "ascetic practices"
+  ],
+  "category": "noun"
+}

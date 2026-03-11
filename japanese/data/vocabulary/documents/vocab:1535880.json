@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1535880",
+  "japanese": "戻る",
+  "kana": "もどる",
+  "meanings": [
+    "to turn back (e.g. half-way)"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to return",
+    "to go back",
+    "to recover (e.g. something lost)",
+    "to be returned",
+    "to rebound",
+    "to spring back"
+  ],
+  "category": "godan verb"
+}

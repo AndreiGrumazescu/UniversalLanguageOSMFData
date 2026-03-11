@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1327380",
+  "japanese": "手回し",
+  "kana": "てまわし",
+  "meanings": [
+    "turning by hand",
+    "hand-turned",
+    "hand-cranked"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "preparations",
+    "arrangements"
+  ],
+  "category": "noun"
+}

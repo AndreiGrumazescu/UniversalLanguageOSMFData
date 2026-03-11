@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1365810",
+  "japanese": "身分",
+  "kana": "みぶん",
+  "meanings": [
+    "(social) standing",
+    "status",
+    "position",
+    "rank"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "identity",
+    "birth",
+    "origin",
+    "one's circumstances",
+    "one's means"
+  ],
+  "category": "noun"
+}

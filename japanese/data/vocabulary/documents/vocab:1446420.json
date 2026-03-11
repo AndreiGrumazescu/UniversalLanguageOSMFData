@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1446420",
+  "japanese": "刀",
+  "kana": "かたな",
+  "meanings": [
+    "sword (esp. Japanese single-edged)",
+    "katana"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "scalpel",
+    "chisel",
+    "burin",
+    "graver",
+    "knife money (knife-shaped commodity money used in ancient China)"
+  ],
+  "category": "noun"
+}

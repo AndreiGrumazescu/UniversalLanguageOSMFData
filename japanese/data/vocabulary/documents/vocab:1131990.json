@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1131990",
+  "japanese": "ミルク",
+  "kana": "ミルク",
+  "meanings": [
+    "milk"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "infant formula",
+    "formula",
+    "baby milk",
+    "condensed milk"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,35 @@
+{
+  "$id": "vocab:1589350",
+  "japanese": "思う",
+  "kana": "おもう",
+  "meanings": [
+    "to think",
+    "to consider",
+    "to believe",
+    "to reckon"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to think (of doing)",
+    "to plan (to do)",
+    "to judge",
+    "to assess",
+    "to regard",
+    "to imagine",
+    "to suppose",
+    "to dream",
+    "to expect",
+    "to look forward to",
+    "to feel",
+    "to be (in a state of mind)",
+    "to desire",
+    "to want",
+    "to care (deeply) for",
+    "to yearn for",
+    "to worry about",
+    "to love",
+    "to recall",
+    "to remember"
+  ],
+  "category": "godan verb"
+}

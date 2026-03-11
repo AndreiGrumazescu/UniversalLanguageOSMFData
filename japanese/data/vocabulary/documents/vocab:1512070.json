@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1512070",
+  "japanese": "辺",
+  "kana": "へん",
+  "meanings": [
+    "area",
+    "vicinity",
+    "region"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "side",
+    "edge",
+    "circumstances"
+  ],
+  "category": "noun"
+}

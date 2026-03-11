@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1483640",
+  "japanese": "比重",
+  "kana": "ひじゅう",
+  "meanings": [
+    "specific gravity",
+    "relative density"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "relative importance",
+    "weight"
+  ],
+  "category": "noun"
+}

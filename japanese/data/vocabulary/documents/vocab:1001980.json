@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1001980",
+  "japanese": "お使い",
+  "kana": "おつかい",
+  "meanings": [
+    "errand",
+    "mission",
+    "going on an errand"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "messenger",
+    "bearer",
+    "errand boy",
+    "errand girl",
+    "familiar spirit"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1310370",
+  "japanese": "施す",
+  "kana": "ほどこす",
+  "meanings": [
+    "to give (time, money, goods)",
+    "to donate"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to do",
+    "to perform",
+    "to conduct",
+    "to apply (processing, makeup, etc.)",
+    "to add (e.g. ornamentation, annotation)",
+    "to sow",
+    "to seed",
+    "to scatter (e.g. fertilizer)",
+    "to sprinkle",
+    "to spread far and wide"
+  ],
+  "category": "godan verb"
+}

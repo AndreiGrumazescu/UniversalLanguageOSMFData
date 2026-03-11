@@ -1,0 +1,27 @@
+{
+  "$id": "vocab:1600290",
+  "japanese": "伸ばす",
+  "kana": "のばす",
+  "meanings": [
+    "to grow long (e.g. hair, nails)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to lengthen",
+    "to extend",
+    "to stretch",
+    "to reach out",
+    "to hold out",
+    "to straighten",
+    "to smooth out",
+    "to spread evenly (dough, cream, etc.)",
+    "to dilute",
+    "to thin out",
+    "to postpone",
+    "to prolong",
+    "to strengthen",
+    "to develop",
+    "to expand"
+  ],
+  "category": "godan verb"
+}

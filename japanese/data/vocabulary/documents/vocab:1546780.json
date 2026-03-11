@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1546780",
+  "japanese": "要請",
+  "kana": "ようせい",
+  "meanings": [
+    "appeal",
+    "call for something",
+    "request",
+    "claim",
+    "demand"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "axiom"
+  ],
+  "category": "noun"
+}

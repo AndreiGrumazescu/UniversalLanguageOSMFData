@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1472380",
+  "japanese": "排水",
+  "kana": "はいすい",
+  "meanings": [
+    "drainage",
+    "draining",
+    "pumping out (water)",
+    "sewerage"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "displacement"
+  ],
+  "category": "noun"
+}

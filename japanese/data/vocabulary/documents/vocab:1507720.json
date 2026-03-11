@@ -1,0 +1,14 @@
+{
+  "$id": "vocab:1507720",
+  "japanese": "平日",
+  "kana": "へいじつ",
+  "meanings": [
+    "weekday",
+    "ordinary days (i.e. non-holiday)"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "kanji radical 73"
+  ],
+  "category": "adverb"
+}

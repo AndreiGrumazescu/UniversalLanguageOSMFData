@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1220610",
+  "japanese": "期日",
+  "kana": "きじつ",
+  "meanings": [
+    "fixed date",
+    "appointed date",
+    "set date"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "deadline",
+    "due date"
+  ],
+  "category": "noun"
+}

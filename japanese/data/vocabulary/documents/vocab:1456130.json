@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1456130",
+  "japanese": "読み",
+  "kana": "よみ",
+  "meanings": [
+    "reading"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "reading (of a kanji, esp. kun reading)",
+    "reading (e.g. of a situation)",
+    "insight",
+    "judgment",
+    "interpretation",
+    "prediction",
+    "calculation"
+  ],
+  "category": "noun"
+}

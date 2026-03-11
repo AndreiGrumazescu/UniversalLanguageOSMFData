@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1010640",
+  "japanese": "ひょっと",
+  "kana": "ひょっと",
+  "meanings": [
+    "possibly",
+    "perhaps",
+    "perchance"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "unintentionally",
+    "accidentally"
+  ],
+  "category": "adverb"
+}

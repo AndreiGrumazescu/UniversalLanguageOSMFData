@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1379330",
+  "japanese": "生地",
+  "kana": "きじ",
+  "meanings": [
+    "cloth",
+    "fabric",
+    "material",
+    "texture"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "dough",
+    "batter",
+    "inherent quality",
+    "one's true character",
+    "one's true colours",
+    "unglazed pottery",
+    "skin with no make-up",
+    "uncoated metal"
+  ],
+  "category": "noun"
+}

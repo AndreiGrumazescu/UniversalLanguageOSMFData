@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1350250",
+  "japanese": "消息",
+  "kana": "しょうそく",
+  "meanings": [
+    "news (from someone)",
+    "letter",
+    "contact"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "(someone's) whereabouts",
+    "(someone's) movements"
+  ],
+  "category": "noun"
+}

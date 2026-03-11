@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1336570",
+  "japanese": "重点",
+  "kana": "じゅうてん",
+  "meanings": [
+    "important point",
+    "emphasis",
+    "stress",
+    "importance",
+    "priority"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "iteration mark",
+    "colon (punctuation)"
+  ],
+  "category": "noun"
+}

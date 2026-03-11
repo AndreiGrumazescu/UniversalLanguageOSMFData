@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1498130",
+  "japanese": "負担",
+  "kana": "ふたん",
+  "meanings": [
+    "burden",
+    "load",
+    "responsibility"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "bearing (a cost, responsibility, etc.)",
+    "shouldering"
+  ],
+  "category": "noun"
+}

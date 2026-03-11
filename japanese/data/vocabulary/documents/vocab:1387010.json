@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1387010",
+  "japanese": "舌",
+  "kana": "した",
+  "meanings": [
+    "tongue"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "tongue-like object",
+    "clapper (of a bell)",
+    "talon (of a lock)",
+    "reed (of a musical instrument)"
+  ],
+  "category": "noun"
+}

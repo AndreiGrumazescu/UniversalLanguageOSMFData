@@ -1,0 +1,27 @@
+{
+  "$id": "vocab:1440600",
+  "japanese": "展開",
+  "kana": "てんかい",
+  "meanings": [
+    "development",
+    "evolution",
+    "progression",
+    "unfolding",
+    "(plot) twist"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "expansion",
+    "spreading out",
+    "extending",
+    "deployment",
+    "building up",
+    "expansion (of an algebraic expression)",
+    "development (of a three-dimensional shape)",
+    "extraction (of compressed data)",
+    "decompression",
+    "unpacking",
+    "sharing (information)"
+  ],
+  "category": "noun"
+}

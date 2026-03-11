@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1263400",
+  "japanese": "玄関",
+  "kana": "げんかん",
+  "meanings": [
+    "entrance",
+    "front door",
+    "entryway",
+    "entranceway",
+    "entry hall",
+    "vestibule",
+    "porch",
+    "foyer",
+    "mud room"
+  ],
+  "jlptLevel": "N5",
+  "category": "noun"
+}

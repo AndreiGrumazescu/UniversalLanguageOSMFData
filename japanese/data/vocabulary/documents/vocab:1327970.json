@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1327970",
+  "japanese": "手数",
+  "kana": "てすう",
+  "meanings": [
+    "trouble",
+    "bother"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "number of moves (in go, shogi, etc.)",
+    "number of punches"
+  ],
+  "category": "noun"
+}

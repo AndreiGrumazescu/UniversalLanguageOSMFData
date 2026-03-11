@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1245370",
+  "japanese": "虚しい",
+  "kana": "むなしい",
+  "meanings": [
+    "empty",
+    "void",
+    "vacant"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "vain",
+    "fruitless",
+    "futile",
+    "ineffective",
+    "lifeless"
+  ],
+  "category": "i-adjective"
+}

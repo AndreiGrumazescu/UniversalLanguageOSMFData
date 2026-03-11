@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1542910",
+  "japanese": "予感",
+  "kana": "よかん",
+  "meanings": [
+    "presentiment",
+    "premonition",
+    "hunch"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to have a premonition",
+    "to have a hunch"
+  ],
+  "category": "noun"
+}

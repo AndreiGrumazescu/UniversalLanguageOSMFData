@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1315130",
+  "japanese": "字",
+  "kana": "じ",
+  "meanings": [
+    "character (esp. kanji)",
+    "letter",
+    "written text"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "handwriting",
+    "penmanship",
+    "the ... word (e.g. \"the L word\" = \"love\")"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1257810",
+  "japanese": "捲る",
+  "kana": "めくる",
+  "meanings": [
+    "to turn over",
+    "to turn (pages)",
+    "to leaf through (a book, etc.)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to tear off",
+    "to strip off",
+    "to take off",
+    "to pull off (e.g. a blanket)",
+    "to pull up (e.g. floorboards)",
+    "to tear up"
+  ],
+  "category": "godan verb"
+}

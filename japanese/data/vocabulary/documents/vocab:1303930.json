@@ -1,0 +1,13 @@
+{
+  "$id": "vocab:1303930",
+  "japanese": "算数",
+  "kana": "さんすう",
+  "meanings": [
+    "arithmetic"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "calculation"
+  ],
+  "category": "noun"
+}

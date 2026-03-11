@@ -1,0 +1,12 @@
+{
+  "$id": "vocab:1575990",
+  "japanese": "一言",
+  "kana": "ひとこと",
+  "meanings": [
+    "single word",
+    "a few words",
+    "brief comment"
+  ],
+  "jlptLevel": "N3",
+  "category": "noun"
+}

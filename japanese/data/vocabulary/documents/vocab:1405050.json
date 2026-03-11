@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1405050",
+  "japanese": "速度",
+  "kana": "そくど",
+  "meanings": [
+    "speed",
+    "velocity",
+    "pace",
+    "rate"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "velocity"
+  ],
+  "category": "noun"
+}

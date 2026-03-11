@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1495290",
+  "japanese": "不良",
+  "kana": "ふりょう",
+  "meanings": [
+    "bad",
+    "poor",
+    "inferior",
+    "defective"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "delinquent",
+    "hoodlum",
+    "hooligan"
+  ],
+  "category": "na-adjective"
+}

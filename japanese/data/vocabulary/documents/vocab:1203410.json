@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1203410",
+  "japanese": "外貨",
+  "kana": "がいか",
+  "meanings": [
+    "foreign currency",
+    "foreign money",
+    "foreign exchange"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "foreign goods",
+    "imported goods"
+  ],
+  "category": "noun"
+}

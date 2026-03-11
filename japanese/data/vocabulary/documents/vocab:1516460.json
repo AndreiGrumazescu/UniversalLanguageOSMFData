@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1516460",
+  "japanese": "放す",
+  "kana": "はなす",
+  "meanings": [
+    "to release",
+    "to let go",
+    "to free",
+    "to set free",
+    "to let loose",
+    "to turn loose"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to add (pieces of eggplant, potato, etc.) to water, broth, etc."
+  ],
+  "category": "godan verb"
+}

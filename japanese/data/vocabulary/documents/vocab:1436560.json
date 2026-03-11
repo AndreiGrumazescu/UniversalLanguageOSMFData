@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1436560",
+  "japanese": "閉まる",
+  "kana": "しまる",
+  "meanings": [
+    "to be shut",
+    "to close",
+    "to be closed"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "to be firm (of a body, face, etc.)",
+    "to be well-knit",
+    "to be locked",
+    "to tighten",
+    "to be tightened",
+    "to become sober",
+    "to become tense"
+  ],
+  "category": "godan verb"
+}

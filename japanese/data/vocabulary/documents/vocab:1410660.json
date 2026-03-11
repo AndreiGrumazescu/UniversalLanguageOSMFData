@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1410660",
+  "japanese": "怠ける",
+  "kana": "なまける",
+  "meanings": [
+    "to be lazy",
+    "to be idle",
+    "to slack"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to neglect (e.g. one's work)",
+    "to be neglectful of",
+    "to skip (e.g. school)"
+  ],
+  "category": "ichidan verb"
+}

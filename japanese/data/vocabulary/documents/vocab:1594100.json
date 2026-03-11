@@ -1,0 +1,28 @@
+{
+  "$id": "vocab:1594100",
+  "japanese": "仕掛け",
+  "kana": "しかけ",
+  "meanings": [
+    "device",
+    "contrivance",
+    "mechanism",
+    "gadget"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "trick",
+    "trap",
+    "calculated manipulation",
+    "gambit",
+    "(small) scale",
+    "half finished",
+    "commencement",
+    "initiation",
+    "set up",
+    "laying out",
+    "preparation",
+    "challenge",
+    "attack"
+  ],
+  "category": "noun"
+}

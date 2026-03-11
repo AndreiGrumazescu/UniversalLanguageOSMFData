@@ -1,0 +1,33 @@
+{
+  "$id": "vocab:1332570",
+  "japanese": "拾う",
+  "kana": "ひろう",
+  "meanings": [
+    "to pick up",
+    "to gather"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to find (and pick up; something someone has dropped)",
+    "to select",
+    "to choose",
+    "to pick out",
+    "to get (unexpectedly)",
+    "to hit upon (luck, an opportunity, etc.)",
+    "to snatch (an unexpected victory)",
+    "to pull off",
+    "to pick up (someone; in a car, etc.)",
+    "to flag down (a taxi)",
+    "to hail",
+    "to pick up (a signal, sound, interference, etc.)",
+    "to (just manage to) return (the ball)",
+    "to return (a difficult shot)",
+    "to take on (someone in adverse circumstances)",
+    "to employ",
+    "to give a job",
+    "to take in",
+    "to walk",
+    "to go on foot"
+  ],
+  "category": "godan verb"
+}

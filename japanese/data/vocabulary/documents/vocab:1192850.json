@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1192850",
+  "japanese": "果たす",
+  "kana": "はたす",
+  "meanings": [
+    "to accomplish",
+    "to achieve",
+    "to carry out",
+    "to fulfill",
+    "to fulfil",
+    "to realize",
+    "to execute",
+    "to perform",
+    "to do"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to do ... completely",
+    "to do ... entirely"
+  ],
+  "category": "godan verb"
+}

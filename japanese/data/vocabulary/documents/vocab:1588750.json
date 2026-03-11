@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1588750",
+  "japanese": "襟",
+  "kana": "えり",
+  "meanings": [
+    "collar",
+    "lapel",
+    "neckband",
+    "neck"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "nape of the neck",
+    "scruff of the neck"
+  ],
+  "category": "noun"
+}

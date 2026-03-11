@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1225420",
+  "japanese": "欺く",
+  "kana": "あざむく",
+  "meanings": [
+    "to deceive",
+    "to delude",
+    "to trick",
+    "to fool"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to be as ... as ... (e.g. \"as bright as day\", \"as beautiful as a rose\")"
+  ],
+  "category": "godan verb"
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1482110",
+  "japanese": "晩",
+  "kana": "ばん",
+  "meanings": [
+    "evening",
+    "night"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "dinner",
+    "evening meal",
+    "counter for nights"
+  ],
+  "category": "noun"
+}

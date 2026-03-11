@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1552800",
+  "japanese": "留守番",
+  "kana": "るすばん",
+  "meanings": [
+    "care-taking",
+    "house-sitting",
+    "house-watching",
+    "staying at home"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "caretaker",
+    "house-sitter"
+  ],
+  "category": "noun"
+}

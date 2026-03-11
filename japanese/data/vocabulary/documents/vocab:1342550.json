@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1342550",
+  "japanese": "初めて",
+  "kana": "はじめて",
+  "meanings": [
+    "for the first time"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "only after ... is it ...",
+    "only when ... do you ...",
+    "not until ... do you ...",
+    "first time",
+    "(one's) first"
+  ],
+  "category": "adverb"
+}

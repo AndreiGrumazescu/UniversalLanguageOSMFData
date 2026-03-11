@@ -1,0 +1,31 @@
+{
+  "$id": "vocab:1155120",
+  "japanese": "以上",
+  "kana": "いじょう",
+  "meanings": [
+    "not less than ...",
+    "... and over",
+    "... and above",
+    "... and upwards",
+    "... or more"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "beyond (e.g. one's expectations)",
+    "above",
+    "more than",
+    "further than",
+    "the above",
+    "the above-mentioned",
+    "the aforementioned",
+    "the foregoing",
+    "since ...",
+    "seeing that ...",
+    "now that ...",
+    "once ...",
+    "that's all",
+    "that is the end",
+    "the end"
+  ],
+  "category": "noun"
+}

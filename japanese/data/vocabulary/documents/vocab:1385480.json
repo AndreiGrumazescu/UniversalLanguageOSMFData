@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1385480",
+  "japanese": "接続",
+  "kana": "せつぞく",
+  "meanings": [
+    "connection",
+    "attachment",
+    "union",
+    "join",
+    "joint",
+    "link"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "changing trains",
+    "conjunction"
+  ],
+  "category": "noun"
+}

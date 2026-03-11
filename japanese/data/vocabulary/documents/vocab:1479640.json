@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1479640",
+  "japanese": "半端",
+  "kana": "はんぱ",
+  "meanings": [
+    "remnant",
+    "fragment",
+    "incomplete set",
+    "incompleteness"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "fraction",
+    "odd sum",
+    "halfway",
+    "half-hearted",
+    "perfunctory",
+    "irresponsible",
+    "foolish"
+  ],
+  "category": "noun"
+}

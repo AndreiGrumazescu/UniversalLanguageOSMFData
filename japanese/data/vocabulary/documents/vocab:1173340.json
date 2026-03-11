@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1173340",
+  "japanese": "餌",
+  "kana": "えさ",
+  "meanings": [
+    "(animal) feed",
+    "fodder",
+    "pet food"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "bait",
+    "lure",
+    "enticement"
+  ],
+  "category": "noun"
+}

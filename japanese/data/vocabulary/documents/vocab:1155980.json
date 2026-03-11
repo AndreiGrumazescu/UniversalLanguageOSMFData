@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1155980",
+  "japanese": "囲む",
+  "kana": "かこむ",
+  "meanings": [
+    "to surround",
+    "to encircle",
+    "to enclose",
+    "to fence",
+    "to wall in"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to besiege",
+    "to lay siege to",
+    "to play (go, shogi, etc.)"
+  ],
+  "category": "godan verb"
+}

@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1609650",
+  "japanese": "感ずる",
+  "kana": "かんずる",
+  "meanings": [
+    "to feel",
+    "to sense",
+    "to experience"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to be moved (by)",
+    "to be touched (by)",
+    "to be impressed (by)",
+    "to respond (to)",
+    "to become infected with (an illness)",
+    "to catch"
+  ],
+  "category": "Ichidan verb - zuru verb (alternative form of -jiru verbs)"
+}

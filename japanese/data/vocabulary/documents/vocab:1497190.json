@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1497190",
+  "japanese": "普通",
+  "kana": "ふつう",
+  "meanings": [
+    "normal",
+    "ordinary",
+    "regular",
+    "usual",
+    "common",
+    "average"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "normally",
+    "ordinarily",
+    "usually",
+    "generally",
+    "commonly",
+    "local train",
+    "train that stops at every station"
+  ],
+  "category": "na-adjective"
+}

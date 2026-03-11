@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1215320",
+  "japanese": "間違い",
+  "kana": "まちがい",
+  "meanings": [
+    "mistake",
+    "error",
+    "blunder"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "accident",
+    "mishap",
+    "trouble",
+    "improper conduct (e.g. between man and woman)",
+    "indiscretion"
+  ],
+  "category": "noun"
+}

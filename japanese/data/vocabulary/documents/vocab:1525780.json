@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1525780",
+  "japanese": "万一",
+  "kana": "まんいち",
+  "meanings": [
+    "(unlikely event of) emergency",
+    "the worst(-case scenario)",
+    "10000 to 1"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "(if) by some chance",
+    "by some possibility",
+    "in the unlikely event that"
+  ],
+  "category": "noun"
+}

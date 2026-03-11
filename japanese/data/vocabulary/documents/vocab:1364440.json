@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1364440",
+  "japanese": "神",
+  "kana": "かみ",
+  "meanings": [
+    "god",
+    "deity",
+    "divinity",
+    "spirit",
+    "kami"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "god-tier",
+    "incredible",
+    "fantastic",
+    "amazing",
+    "Emperor (of Japan)",
+    "thunder"
+  ],
+  "category": "noun"
+}

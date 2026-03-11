@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1578800",
+  "japanese": "行き違い",
+  "kana": "いきちがい",
+  "meanings": [
+    "crossing without meeting (e.g. letters in the post, people on the road)",
+    "going astray"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "difference of opinion",
+    "misunderstanding",
+    "estrangement",
+    "disagreement"
+  ],
+  "category": "noun"
+}

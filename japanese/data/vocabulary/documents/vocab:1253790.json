@@ -1,0 +1,25 @@
+{
+  "$id": "vocab:1253790",
+  "japanese": "隙間",
+  "kana": "すきま",
+  "meanings": [
+    "gap",
+    "opening",
+    "aperture",
+    "crevice",
+    "crack",
+    "chink",
+    "space"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "spare moment",
+    "interval",
+    "break",
+    "unguarded moment",
+    "carelessness",
+    "chink in one's armor",
+    "weak spot"
+  ],
+  "category": "noun"
+}

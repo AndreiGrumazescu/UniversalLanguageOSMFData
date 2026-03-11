@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1006810",
+  "japanese": "そっと",
+  "kana": "そっと",
+  "meanings": [
+    "softly",
+    "gently",
+    "quietly",
+    "lightly"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "stealthily",
+    "secretly",
+    "in secret",
+    "to leave alone",
+    "to leave as it is"
+  ],
+  "category": "adverb"
+}

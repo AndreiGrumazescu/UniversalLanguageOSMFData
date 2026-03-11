@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1236660",
+  "japanese": "恐れ",
+  "kana": "おそれ",
+  "meanings": [
+    "fear",
+    "horror",
+    "anxiety",
+    "concern",
+    "uneasiness",
+    "reverence"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "risk",
+    "danger",
+    "likelihood",
+    "fear",
+    "awe",
+    "reverence"
+  ],
+  "category": "noun"
+}

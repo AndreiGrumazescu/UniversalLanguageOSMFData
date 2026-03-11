@@ -1,0 +1,37 @@
+{
+  "$id": "vocab:1213400",
+  "japanese": "甘い",
+  "kana": "あまい",
+  "meanings": [
+    "sweet-tasting",
+    "sweet",
+    "sugary",
+    "sugared"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "fragrant (smelling)",
+    "sweet (music)",
+    "lightly salted",
+    "light in salt",
+    "not spicy",
+    "naive",
+    "overly optimistic",
+    "soft on",
+    "generous",
+    "indulgent",
+    "easy-going",
+    "lenient",
+    "half-hearted",
+    "not finished properly",
+    "insufficient",
+    "not satisfactory",
+    "inadequate",
+    "loose",
+    "mild",
+    "tempting",
+    "enticing",
+    "luring"
+  ],
+  "category": "i-adjective"
+}

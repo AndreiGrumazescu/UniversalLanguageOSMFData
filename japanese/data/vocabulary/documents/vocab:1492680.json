@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1492680",
+  "japanese": "不自由",
+  "kana": "ふじゆう",
+  "meanings": [
+    "discomfort",
+    "inconvenience"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "poverty",
+    "want",
+    "destitution",
+    "lack",
+    "inability",
+    "disability",
+    "impairment (physical, mental, etc.)",
+    "nonfluency (in a language)"
+  ],
+  "category": "noun"
+}

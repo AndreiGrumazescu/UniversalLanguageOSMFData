@@ -1,0 +1,14 @@
+{
+  "$id": "vocab:1206590",
+  "japanese": "学科",
+  "kana": "がっか",
+  "meanings": [
+    "subject (of study)",
+    "course of study"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "department (of a university)"
+  ],
+  "category": "noun"
+}

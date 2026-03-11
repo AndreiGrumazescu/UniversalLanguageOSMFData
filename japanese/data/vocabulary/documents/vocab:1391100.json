@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1391100",
+  "japanese": "染まる",
+  "kana": "そまる",
+  "meanings": [
+    "to be dyed"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to be tainted",
+    "to be infected",
+    "to be stained",
+    "to be steeped"
+  ],
+  "category": "godan verb"
+}

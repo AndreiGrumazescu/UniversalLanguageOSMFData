@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1516990",
+  "japanese": "方向",
+  "kana": "ほうこう",
+  "meanings": [
+    "direction",
+    "orientation",
+    "bearing",
+    "way"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "course (e.g. of action)"
+  ],
+  "category": "noun"
+}

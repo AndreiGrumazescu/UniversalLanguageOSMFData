@@ -1,0 +1,14 @@
+{
+  "$id": "vocab:1505390",
+  "japanese": "文字",
+  "kana": "もじ",
+  "meanings": [
+    "letter (of an alphabet)",
+    "character"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "writing"
+  ],
+  "category": "noun"
+}

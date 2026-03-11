@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1240810",
+  "japanese": "勤め",
+  "kana": "つとめ",
+  "meanings": [
+    "service",
+    "duty",
+    "business",
+    "responsibility",
+    "task"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "Buddhist religious services"
+  ],
+  "category": "noun"
+}

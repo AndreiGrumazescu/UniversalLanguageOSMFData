@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1199900",
+  "japanese": "壊れる",
+  "kana": "こわれる",
+  "meanings": [
+    "to be broken",
+    "to break",
+    "to fall apart",
+    "to collapse",
+    "to be destroyed",
+    "to be damaged"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to break (down)",
+    "to stop working",
+    "to fall through (of a plan, deal, etc.)",
+    "to collapse",
+    "to break down (of a relationship, negotiations, etc.)",
+    "to be broken off",
+    "to be ruined (of an atmosphere, one's image, etc.)"
+  ],
+  "category": "ichidan verb"
+}

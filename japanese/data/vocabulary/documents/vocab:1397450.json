@@ -1,0 +1,27 @@
+{
+  "$id": "vocab:1397450",
+  "japanese": "組",
+  "kana": "くみ",
+  "meanings": [
+    "class (of students)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "group (of people)",
+    "party",
+    "team",
+    "crew",
+    "lot",
+    "bunch",
+    "set",
+    "crime family",
+    "organized-crime syndicate",
+    "set (of items)",
+    "assortment",
+    "deck (of cards)",
+    "pack",
+    "typesetting",
+    "composition"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,29 @@
+{
+  "$id": "vocab:1003450",
+  "japanese": "きつい",
+  "kana": "きつい",
+  "meanings": [
+    "tough",
+    "hard",
+    "severe",
+    "demanding",
+    "harsh"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "determined",
+    "strong-minded",
+    "forceful",
+    "formidable",
+    "fierce",
+    "strong (e.g. sunlight, alcohol)",
+    "severe",
+    "intense",
+    "(too) tight",
+    "constricting",
+    "close",
+    "extreme",
+    "unusually strong"
+  ],
+  "category": "i-adjective"
+}

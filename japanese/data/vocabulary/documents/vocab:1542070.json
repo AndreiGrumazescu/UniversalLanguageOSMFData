@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1542070",
+  "japanese": "遊び",
+  "kana": "あそび",
+  "meanings": [
+    "play",
+    "playing",
+    "game"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "pleasure",
+    "amusement",
+    "pastime",
+    "recreation",
+    "diversion",
+    "play (in a mechanism, e.g. a steering wheel)",
+    "flexibility (in a performance, art, etc.)",
+    "freedom",
+    "flyleaf"
+  ],
+  "category": "noun"
+}

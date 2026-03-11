@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1601520",
+  "japanese": "引き受ける",
+  "kana": "ひきうける",
+  "meanings": [
+    "to take on",
+    "to undertake",
+    "to accept",
+    "to take charge of",
+    "to assume responsibility for"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to take over",
+    "to inherit",
+    "to guarantee",
+    "to vouch for",
+    "to contract (a disease)"
+  ],
+  "category": "ichidan verb"
+}

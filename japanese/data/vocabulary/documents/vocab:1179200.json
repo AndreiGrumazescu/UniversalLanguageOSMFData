@@ -1,0 +1,28 @@
+{
+  "$id": "vocab:1179200",
+  "japanese": "凹む",
+  "kana": "へこむ",
+  "meanings": [
+    "to be dented",
+    "to be indented",
+    "to yield",
+    "to give",
+    "to sink",
+    "to collapse",
+    "to cave in"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to be beaten",
+    "to be overwhelmed",
+    "to yield",
+    "to give in",
+    "to give up",
+    "to be disheartened",
+    "to feel down",
+    "to feel depressed",
+    "to suffer a loss",
+    "to lose"
+  ],
+  "category": "godan verb"
+}

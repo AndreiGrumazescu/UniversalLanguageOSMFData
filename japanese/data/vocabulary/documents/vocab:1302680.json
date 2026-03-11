@@ -1,0 +1,40 @@
+{
+  "$id": "vocab:1302680",
+  "japanese": "山",
+  "kana": "やま",
+  "meanings": [
+    "mountain",
+    "hill"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "mine",
+    "(mountain) forest",
+    "heap",
+    "pile",
+    "stack",
+    "mountain",
+    "protruding or high part of an object",
+    "crown (of a hat)",
+    "thread (of a screw)",
+    "tread (of a tire)",
+    "climax",
+    "peak",
+    "critical point",
+    "guess",
+    "speculation",
+    "gamble",
+    "(criminal) case",
+    "crime",
+    "mountain climbing",
+    "mountaineering",
+    "festival float (esp. one mounted with a decorative halberd)",
+    "deck (from which players draw cards)",
+    "draw pile",
+    "stock",
+    "wall",
+    "wall tile",
+    "wild"
+  ],
+  "category": "noun"
+}

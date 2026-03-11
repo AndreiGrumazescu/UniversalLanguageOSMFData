@@ -1,0 +1,14 @@
+{
+  "$id": "vocab:1221880",
+  "japanese": "気圧",
+  "kana": "きあつ",
+  "meanings": [
+    "atmospheric pressure",
+    "air pressure"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "atmosphere (unit of pressure)"
+  ],
+  "category": "noun"
+}

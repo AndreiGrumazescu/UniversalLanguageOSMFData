@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1433880",
+  "japanese": "爪",
+  "kana": "つめ",
+  "meanings": [
+    "nail (e.g. fingernail, toenail)",
+    "claw",
+    "talon",
+    "hoof"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "plectrum",
+    "pick",
+    "hook",
+    "clasp"
+  ],
+  "category": "noun"
+}

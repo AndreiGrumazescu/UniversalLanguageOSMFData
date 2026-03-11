@@ -1,0 +1,27 @@
+{
+  "$id": "vocab:1010080",
+  "japanese": "はい",
+  "kana": "はい",
+  "meanings": [
+    "yes",
+    "that is correct"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "understood",
+    "I see",
+    "OK",
+    "okay",
+    "present",
+    "here",
+    "pardon?",
+    "what's that?",
+    "come again?",
+    "now",
+    "here",
+    "here you go",
+    "giddy-up",
+    "giddap"
+  ],
+  "category": "interjection"
+}

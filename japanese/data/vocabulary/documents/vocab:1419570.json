@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1419570",
+  "japanese": "断る",
+  "kana": "ことわる",
+  "meanings": [
+    "to refuse",
+    "to reject",
+    "to dismiss",
+    "to turn down",
+    "to decline"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to inform",
+    "to give notice",
+    "to ask in advance (and get approval)",
+    "to get permission",
+    "to ask leave",
+    "to excuse oneself (from)"
+  ],
+  "category": "godan verb"
+}

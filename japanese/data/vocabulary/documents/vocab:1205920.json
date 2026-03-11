@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1205920",
+  "japanese": "確保",
+  "kana": "かくほ",
+  "meanings": [
+    "securing",
+    "obtaining",
+    "ensuring",
+    "guarantee",
+    "maintaining"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "belay",
+    "belaying"
+  ],
+  "category": "noun"
+}

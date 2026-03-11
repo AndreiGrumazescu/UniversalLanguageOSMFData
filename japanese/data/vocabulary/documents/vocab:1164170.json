@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1164170",
+  "japanese": "一切",
+  "kana": "いっさい",
+  "meanings": [
+    "all",
+    "everything",
+    "entirety",
+    "the whole"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "absolutely (not)",
+    "(not) at all",
+    "(none) whatsoever",
+    "without exception"
+  ],
+  "category": "noun"
+}

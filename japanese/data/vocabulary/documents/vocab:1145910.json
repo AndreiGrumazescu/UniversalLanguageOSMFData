@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1145910",
+  "japanese": "レベル",
+  "kana": "レベル",
+  "meanings": [
+    "level",
+    "standard",
+    "grade",
+    "class",
+    "rank"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "level (amount or quantity)",
+    "level (plane)",
+    "level (instrument)",
+    "spirit level",
+    "surveyor's level"
+  ],
+  "category": "noun"
+}

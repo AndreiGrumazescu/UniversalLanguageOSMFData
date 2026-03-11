@@ -1,0 +1,25 @@
+{
+  "$id": "vocab:1184140",
+  "japanese": "下",
+  "kana": "した",
+  "meanings": [
+    "below",
+    "down",
+    "under",
+    "younger (e.g. daughter)"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "bottom",
+    "beneath",
+    "underneath",
+    "just after",
+    "right after",
+    "inferiority",
+    "one's inferior (i.e. one's junior)",
+    "trade-in",
+    "preliminary",
+    "preparatory"
+  ],
+  "category": "noun"
+}

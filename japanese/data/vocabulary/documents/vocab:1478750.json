@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1478750",
+  "japanese": "半",
+  "kana": "はん",
+  "meanings": [
+    "half",
+    "semi-",
+    "partial"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "half-past",
+    "odd number",
+    "han (unit of land area, approx. 595.8 m^2)"
+  ],
+  "category": "noun"
+}

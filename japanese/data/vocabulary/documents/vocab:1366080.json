@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1366080",
+  "japanese": "進出",
+  "kana": "しんしゅつ",
+  "meanings": [
+    "advance (into a new market, industry, etc.)",
+    "expansion (into)",
+    "launch (into)",
+    "entering",
+    "making inroads (into)"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "advance (to the next round of a competition)"
+  ],
+  "category": "noun"
+}

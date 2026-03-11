@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1220810",
+  "japanese": "機械",
+  "kana": "きかい",
+  "meanings": [
+    "machine",
+    "mechanism"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "instrument",
+    "appliance",
+    "apparatus"
+  ],
+  "category": "noun"
+}

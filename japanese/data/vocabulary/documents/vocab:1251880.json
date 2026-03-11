@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1251880",
+  "japanese": "繋がる",
+  "kana": "つながる",
+  "meanings": [
+    "to be tied together",
+    "to be connected to",
+    "to be linked to"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to lead to",
+    "to be related to",
+    "to be related (by blood)"
+  ],
+  "category": "godan verb"
+}

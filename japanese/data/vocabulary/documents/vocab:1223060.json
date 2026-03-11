@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1223060",
+  "japanese": "規定",
+  "kana": "きてい",
+  "meanings": [
+    "stipulation",
+    "prescription",
+    "provision",
+    "regulation",
+    "rule"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "normal (unit of normality)",
+    "compulsory exercise (in gymnastics)",
+    "compulsory routine",
+    "compulsory dance (figure skating)",
+    "(a) compulsory"
+  ],
+  "category": "noun"
+}

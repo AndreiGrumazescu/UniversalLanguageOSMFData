@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1220870",
+  "japanese": "機関",
+  "kana": "きかん",
+  "meanings": [
+    "engine"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "agency",
+    "organisation",
+    "organization",
+    "institution",
+    "organ",
+    "body",
+    "system",
+    "facility",
+    "facilities"
+  ],
+  "category": "noun"
+}

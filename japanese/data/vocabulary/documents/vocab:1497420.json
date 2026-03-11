@@ -1,0 +1,25 @@
+{
+  "$id": "vocab:1497420",
+  "japanese": "浮く",
+  "kana": "うく",
+  "meanings": [
+    "to float"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to become merry",
+    "to be cheerful",
+    "to become loose",
+    "to become unsteady",
+    "to feel out of it",
+    "to be cut off (e.g. from those around you)",
+    "to feel out of place",
+    "to be frivolous",
+    "to be uncertain",
+    "to have (time, money, etc.) left over",
+    "to be saved (e.g. money)",
+    "to have no basis",
+    "to be unreliable"
+  ],
+  "category": "godan verb"
+}

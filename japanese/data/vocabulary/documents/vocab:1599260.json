@@ -1,0 +1,30 @@
+{
+  "$id": "vocab:1599260",
+  "japanese": "堂々",
+  "kana": "どうどう",
+  "meanings": [
+    "magnificent",
+    "grand",
+    "impressive",
+    "dignified",
+    "majestic",
+    "imposing",
+    "stately"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "fair",
+    "square",
+    "open",
+    "unashamed",
+    "brazen",
+    "grandly",
+    "boldly",
+    "confidently",
+    "fairly",
+    "squarely",
+    "unreservedly",
+    "brazenly"
+  ],
+  "category": "taru-adjective"
+}

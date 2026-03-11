@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1425960",
+  "japanese": "仲人",
+  "kana": "なこうど",
+  "meanings": [
+    "matchmaker"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "go-between",
+    "intermediary",
+    "middleman",
+    "mediator",
+    "intercessor"
+  ],
+  "category": "noun"
+}

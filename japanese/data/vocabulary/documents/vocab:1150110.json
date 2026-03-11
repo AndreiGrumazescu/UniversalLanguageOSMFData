@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1150110",
+  "japanese": "哀れ",
+  "kana": "あわれ",
+  "meanings": [
+    "pity",
+    "sorrow",
+    "grief",
+    "misery",
+    "compassion",
+    "pathos"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "pitiable",
+    "pitiful",
+    "pathetic",
+    "miserable",
+    "alack",
+    "alas"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1251030",
+  "japanese": "系統",
+  "kana": "けいとう",
+  "meanings": [
+    "system"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "lineage",
+    "ancestry",
+    "family line",
+    "group (e.g. of colors) (colours)",
+    "family (e.g. of languages)",
+    "party",
+    "school (of thought)",
+    "close (evolutionary) relationship",
+    "a population sharing a common ancestor (in genetics)",
+    "strain (e.g. bacterial)"
+  ],
+  "category": "noun"
+}

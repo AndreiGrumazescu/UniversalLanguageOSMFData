@@ -1,0 +1,25 @@
+{
+  "$id": "vocab:1599620",
+  "japanese": "並",
+  "kana": "なみ",
+  "meanings": [
+    "average",
+    "medium",
+    "common",
+    "ordinary"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "mid-grade (item)",
+    "regular grade",
+    "same level as",
+    "equal to",
+    "equivalent to",
+    "on par with",
+    "each (e.g. month)",
+    "every",
+    "row of (teeth, houses, etc.)",
+    "line of"
+  ],
+  "category": "noun"
+}

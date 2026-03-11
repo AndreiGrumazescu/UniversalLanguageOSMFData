@@ -1,0 +1,26 @@
+{
+  "$id": "vocab:1575970",
+  "japanese": "一筋",
+  "kana": "ひとすじ",
+  "meanings": [
+    "one line",
+    "one stretch (e.g. of road)",
+    "one strand (e.g. of hair)",
+    "one beam (e.g. of light)",
+    "one ray",
+    "one length (e.g. of rope)"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "earnest",
+    "resolute",
+    "intent",
+    "devoted",
+    "single-minded",
+    "one bloodline",
+    "one clan",
+    "ordinary",
+    "common"
+  ],
+  "category": "noun"
+}

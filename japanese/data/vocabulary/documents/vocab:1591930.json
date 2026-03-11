@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1591930",
+  "japanese": "切れ目",
+  "kana": "きれめ",
+  "meanings": [
+    "gap",
+    "break",
+    "rift"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "pause",
+    "interval",
+    "interruption",
+    "cut",
+    "incision",
+    "notch",
+    "score",
+    "end"
+  ],
+  "category": "noun"
+}

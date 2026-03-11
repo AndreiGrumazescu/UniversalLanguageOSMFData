@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1037960",
+  "japanese": "カバー",
+  "kana": "カバー",
+  "meanings": [
+    "cover",
+    "covering",
+    "dust jacket",
+    "wrapper"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "covering (a song)",
+    "cover",
+    "cover version",
+    "coverage",
+    "to cover (a loss)",
+    "to offset",
+    "to compensate for (e.g. a weakness)",
+    "to make up for",
+    "to cover for (someone)"
+  ],
+  "category": "noun"
+}

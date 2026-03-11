@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1284940",
+  "japanese": "合成",
+  "kana": "ごうせい",
+  "meanings": [
+    "composition",
+    "synthesis",
+    "compounding",
+    "combining"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "composite photo",
+    "(function) composition"
+  ],
+  "category": "noun"
+}

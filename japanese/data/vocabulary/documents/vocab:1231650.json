@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1231650",
+  "japanese": "去る",
+  "kana": "さる",
+  "meanings": [
+    "to leave",
+    "to go away"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to pass",
+    "to elapse",
+    "to be distant",
+    "to send away",
+    "to drive off",
+    "to divorce",
+    "to (do) completely",
+    "last ... (e.g. \"last April\")"
+  ],
+  "category": "godan verb"
+}

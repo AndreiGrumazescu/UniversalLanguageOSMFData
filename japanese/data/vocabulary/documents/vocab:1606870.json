@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1606870",
+  "japanese": "割り込む",
+  "kana": "わりこむ",
+  "meanings": [
+    "to cut into (a line, conversation, etc.)",
+    "to force oneself into (e.g. a crowd)",
+    "to wedge oneself into",
+    "to squeeze oneself into",
+    "to intrude on",
+    "to interrupt"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to fall below (of stock prices, sales, etc.)",
+    "to drop below",
+    "to wedge",
+    "to play a wedge"
+  ],
+  "category": "godan verb"
+}

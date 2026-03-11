@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1000920",
+  "japanese": "いらっしゃい",
+  "kana": "いらっしゃい",
+  "meanings": [
+    "come",
+    "go",
+    "stay"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "welcome"
+  ],
+  "category": "interjection"
+}

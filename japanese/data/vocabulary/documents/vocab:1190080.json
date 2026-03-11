@@ -1,0 +1,26 @@
+{
+  "$id": "vocab:1190080",
+  "japanese": "加減",
+  "kana": "かげん",
+  "meanings": [
+    "degree",
+    "extent",
+    "amount",
+    "balance",
+    "state",
+    "condition"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "(health) condition",
+    "state of health",
+    "adjustment",
+    "moderation",
+    "regulation",
+    "addition and subtraction",
+    "slight sign of ...",
+    "slight state of ...",
+    "just right for ..."
+  ],
+  "category": "noun"
+}

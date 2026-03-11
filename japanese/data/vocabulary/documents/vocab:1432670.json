@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1432670",
+  "japanese": "追放",
+  "kana": "ついほう",
+  "meanings": [
+    "exile",
+    "banishment",
+    "eviction",
+    "deportation",
+    "purge",
+    "expulsion",
+    "ousting"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "elimination (e.g. of poverty)",
+    "removal"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,33 @@
+{
+  "$id": "vocab:1153440",
+  "japanese": "扱う",
+  "kana": "あつかう",
+  "meanings": [
+    "to deal with (a person)",
+    "to treat",
+    "to handle",
+    "to take care of",
+    "to entertain"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to deal with (a problem)",
+    "to handle",
+    "to manage",
+    "to operate (e.g. a machine)",
+    "to handle",
+    "to work",
+    "to deal in",
+    "to sell",
+    "to cover (a topic)",
+    "to treat",
+    "to discuss",
+    "to take up",
+    "to treat A as B",
+    "to mediate (an argument)",
+    "to be too much for one",
+    "to find unmanageable",
+    "to gossip"
+  ],
+  "category": "godan verb"
+}

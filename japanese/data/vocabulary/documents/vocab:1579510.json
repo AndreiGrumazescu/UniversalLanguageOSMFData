@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1579510",
+  "japanese": "施行",
+  "kana": "しこう",
+  "meanings": [
+    "putting in force (a law)",
+    "putting into operation",
+    "putting into effect",
+    "enforcement"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "carrying out (a plan, policy, etc.)",
+    "execution"
+  ],
+  "category": "noun"
+}

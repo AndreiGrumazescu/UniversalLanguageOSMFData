@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1374400",
+  "japanese": "瀬戸物",
+  "kana": "せともの",
+  "meanings": [
+    "earthenware",
+    "porcelain",
+    "china",
+    "pottery",
+    "crockery"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "Seto ware",
+    "ceramic ware from Seto (Aichi Prefecture)"
+  ],
+  "category": "noun"
+}

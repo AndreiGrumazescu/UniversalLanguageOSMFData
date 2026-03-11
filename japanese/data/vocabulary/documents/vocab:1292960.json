@@ -1,0 +1,29 @@
+{
+  "$id": "vocab:1292960",
+  "japanese": "再生",
+  "kana": "さいせい",
+  "meanings": [
+    "restoration to life",
+    "coming to life again",
+    "resuscitation",
+    "regeneration"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "reformation",
+    "rehabilitation",
+    "recycling",
+    "reclamation",
+    "recovery",
+    "playback",
+    "regeneration (of video or sound)",
+    "views (of an online video)",
+    "regeneration (of lost or damaged tissue)",
+    "regrowth",
+    "rebirth",
+    "reincarnation",
+    "recall (memory)",
+    "retrieval"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1180260",
+  "japanese": "押し込む",
+  "kana": "おしこむ",
+  "meanings": [
+    "to push into",
+    "to cram into",
+    "to stuff into",
+    "to crowd into"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to break in",
+    "to burgle",
+    "to burglarize"
+  ],
+  "category": "godan verb"
+}

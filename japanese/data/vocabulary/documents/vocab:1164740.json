@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1164740",
+  "japanese": "一致",
+  "kana": "いっち",
+  "meanings": [
+    "agreement",
+    "accord",
+    "correspondence",
+    "consistency",
+    "coincidence",
+    "match"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "union",
+    "unity",
+    "cooperation"
+  ],
+  "category": "noun"
+}

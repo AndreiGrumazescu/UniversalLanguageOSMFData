@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1454510",
+  "japanese": "得意",
+  "kana": "とくい",
+  "meanings": [
+    "satisfaction",
+    "pride",
+    "triumph",
+    "elation"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "one's strong point",
+    "one's forte",
+    "one's specialty",
+    "regular customer",
+    "regular client",
+    "patron"
+  ],
+  "category": "noun"
+}

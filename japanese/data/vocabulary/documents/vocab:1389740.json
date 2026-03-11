@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1389740",
+  "japanese": "専ら",
+  "kana": "もっぱら",
+  "meanings": [
+    "wholly",
+    "solely",
+    "entirely",
+    "exclusively",
+    "devotedly",
+    "fixedly"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "principally",
+    "mostly",
+    "chiefly",
+    "mainly"
+  ],
+  "category": "adverb"
+}

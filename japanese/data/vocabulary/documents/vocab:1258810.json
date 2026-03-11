@@ -1,0 +1,13 @@
+{
+  "$id": "vocab:1258810",
+  "japanese": "県",
+  "kana": "けん",
+  "meanings": [
+    "prefecture (of Japan)",
+    "county (of China, Taiwan, Norway, etc.)",
+    "department (of France)",
+    "province (of Italy, Spain, etc.)"
+  ],
+  "jlptLevel": "N3",
+  "category": "noun"
+}

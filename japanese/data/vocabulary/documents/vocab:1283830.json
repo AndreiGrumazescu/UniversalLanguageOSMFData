@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1283830",
+  "japanese": "高度",
+  "kana": "こうど",
+  "meanings": [
+    "altitude",
+    "height",
+    "elevation"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "high-degree",
+    "high-grade",
+    "advanced",
+    "sophisticated",
+    "strong"
+  ],
+  "category": "noun"
+}

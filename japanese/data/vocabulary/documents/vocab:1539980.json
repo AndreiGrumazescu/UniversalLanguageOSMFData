@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1539980",
+  "japanese": "友",
+  "kana": "とも",
+  "meanings": [
+    "friend",
+    "companion",
+    "comrade",
+    "pal"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "accompaniment",
+    "companion (e.g. book)",
+    "complement",
+    "accessory"
+  ],
+  "category": "noun"
+}

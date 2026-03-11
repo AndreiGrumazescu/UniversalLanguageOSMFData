@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1578070",
+  "japanese": "脅かす",
+  "kana": "おどかす",
+  "meanings": [
+    "to threaten",
+    "to menace",
+    "to intimidate"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to startle",
+    "to frighten",
+    "to scare"
+  ],
+  "category": "godan verb"
+}

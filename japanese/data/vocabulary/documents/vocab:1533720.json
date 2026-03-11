@@ -1,0 +1,25 @@
+{
+  "$id": "vocab:1533720",
+  "japanese": "模様",
+  "kana": "もよう",
+  "meanings": [
+    "pattern",
+    "figure",
+    "design"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "state",
+    "condition",
+    "conjecture of the current situation",
+    "the way it seems",
+    "model",
+    "pattern",
+    "example",
+    "indicates that something seems likely (e.g. rain or storm)",
+    "framework",
+    "territorial framework",
+    "moyo"
+  ],
+  "category": "noun"
+}

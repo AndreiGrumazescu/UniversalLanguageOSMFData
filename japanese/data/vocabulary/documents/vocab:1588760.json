@@ -1,0 +1,25 @@
+{
+  "$id": "vocab:1588760",
+  "japanese": "得る",
+  "kana": "える",
+  "meanings": [
+    "to get",
+    "to earn",
+    "to acquire",
+    "to procure",
+    "to gain",
+    "to secure",
+    "to attain",
+    "to obtain",
+    "to win"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to understand",
+    "to comprehend",
+    "to receive something undesirable (e.g. a punishment)",
+    "to get (ill)",
+    "to be able to ..., can ..."
+  ],
+  "category": "ichidan verb"
+}

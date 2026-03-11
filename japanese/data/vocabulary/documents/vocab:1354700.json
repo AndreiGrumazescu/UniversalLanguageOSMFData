@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1354700",
+  "japanese": "乗っ取る",
+  "kana": "のっとる",
+  "meanings": [
+    "to take possession of (forcibly)",
+    "to take over (a company, account, etc.)",
+    "to capture (a castle, enemy position, etc.)",
+    "to seize",
+    "to occupy",
+    "to usurp"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to hijack (a plane, ship, etc.)"
+  ],
+  "category": "godan verb"
+}

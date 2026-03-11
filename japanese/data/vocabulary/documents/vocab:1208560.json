@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1208560",
+  "japanese": "滑らか",
+  "kana": "なめらか",
+  "meanings": [
+    "smooth (of a surface)",
+    "glassy",
+    "velvety",
+    "soft"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "smooth (of an action, proceedings, etc.)",
+    "fluent (speech)",
+    "fluid",
+    "trouble-free",
+    "continuously differentiable"
+  ],
+  "category": "na-adjective"
+}

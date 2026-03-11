@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1526670",
+  "japanese": "満たす",
+  "kana": "みたす",
+  "meanings": [
+    "to satisfy (conditions, one's appetite, etc.)",
+    "to meet (e.g. demands)",
+    "to fulfill",
+    "to gratify"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to fill (e.g. a cup)",
+    "to pack",
+    "to supply"
+  ],
+  "category": "godan verb"
+}

@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1160820",
+  "japanese": "一つ",
+  "kana": "ひとつ",
+  "meanings": [
+    "one"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "for one thing",
+    "only",
+    "(not) even",
+    "just (e.g. \"just try it\")",
+    "some kind of",
+    "one type of"
+  ],
+  "category": "numeric"
+}

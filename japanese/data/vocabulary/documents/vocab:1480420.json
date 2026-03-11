@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1480420",
+  "japanese": "反射",
+  "kana": "はんしゃ",
+  "meanings": [
+    "reflection",
+    "reverberation"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "reflex",
+    "reflexes"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1447270",
+  "japanese": "投書",
+  "kana": "とうしょ",
+  "meanings": [
+    "letter (e.g. of complaint)",
+    "letter to the editor",
+    "letter from a reader"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "contribution (to a newspaper, magazine, etc.)"
+  ],
+  "category": "noun"
+}

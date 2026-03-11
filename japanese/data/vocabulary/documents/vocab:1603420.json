@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1603420",
+  "japanese": "吠える",
+  "kana": "ほえる",
+  "meanings": [
+    "to bark",
+    "to howl",
+    "to bay",
+    "to roar",
+    "to yelp",
+    "to yap"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to howl (of the wind)",
+    "to roar (of the sea)",
+    "to yell",
+    "to shout",
+    "to cry",
+    "to moan"
+  ],
+  "category": "ichidan verb"
+}

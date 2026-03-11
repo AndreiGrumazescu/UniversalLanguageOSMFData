@@ -1,0 +1,27 @@
+{
+  "$id": "vocab:1600270",
+  "japanese": "乗せる",
+  "kana": "のせる",
+  "meanings": [
+    "to place on (something)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to give (someone) a ride",
+    "to give a lift",
+    "to pick up",
+    "to help on board",
+    "to load (luggage)",
+    "to carry",
+    "to take on board",
+    "to send out (on the airwaves, etc.)",
+    "to deceive",
+    "to take for a ride",
+    "to (sing) along with (musical accompaniment)",
+    "to let (someone) take part",
+    "to excite (someone)",
+    "to publish (an article)",
+    "to run (an ad)"
+  ],
+  "category": "ichidan verb"
+}

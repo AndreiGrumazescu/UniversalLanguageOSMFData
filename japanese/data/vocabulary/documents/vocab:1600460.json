@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1600460",
+  "japanese": "乗り換え",
+  "kana": "のりかえ",
+  "meanings": [
+    "transfer (trains, buses, etc.)",
+    "change",
+    "connection"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "switch (to another ideology, party, system, method, etc.)",
+    "change",
+    "conversion",
+    "switching (stock)",
+    "chromosomal crossover",
+    "crossing over"
+  ],
+  "category": "noun"
+}

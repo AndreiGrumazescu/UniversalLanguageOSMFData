@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1286060",
+  "japanese": "告白",
+  "kana": "こくはく",
+  "meanings": [
+    "confession (to a crime, wrongdoing, etc.)",
+    "admission"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "professing one's feelings (to someone one wants to go out with)",
+    "declaration of love",
+    "profession (of faith)",
+    "confession (of sins)"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1207230",
+  "japanese": "楽",
+  "kana": "らく",
+  "meanings": [
+    "comfort",
+    "ease",
+    "relief",
+    "(at) peace",
+    "relaxation"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "easy",
+    "simple",
+    "without trouble",
+    "without hardships",
+    "(economically) comfortable",
+    "raku pottery",
+    "sukha (happiness)"
+  ],
+  "category": "noun"
+}

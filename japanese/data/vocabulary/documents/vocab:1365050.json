@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1365050",
+  "japanese": "親しい",
+  "kana": "したしい",
+  "meanings": [
+    "close (e.g. friend)",
+    "familiar",
+    "friendly",
+    "intimate"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "familiar (e.g. story)",
+    "well-known (to one)",
+    "close (relatives)",
+    "closely related"
+  ],
+  "category": "i-adjective"
+}

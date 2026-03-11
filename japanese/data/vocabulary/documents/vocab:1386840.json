@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1386840",
+  "japanese": "絶対",
+  "kana": "ぜったい",
+  "meanings": [
+    "absolutely",
+    "definitely",
+    "unconditionally"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "absolute",
+    "unconditional",
+    "unmistakable",
+    "absoluteness"
+  ],
+  "category": "adverb"
+}

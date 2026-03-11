@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1366060",
+  "japanese": "進行",
+  "kana": "しんこう",
+  "meanings": [
+    "moving forward (e.g. of a vehicle)",
+    "onward movement"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "progress (of work, activities, etc.)",
+    "advance",
+    "making headway",
+    "progression (of a disease, global warming, etc.)",
+    "progression (e.g. chord progression)"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1492120",
+  "japanese": "不景気",
+  "kana": "ふけいき",
+  "meanings": [
+    "economic slump",
+    "hard times",
+    "depression",
+    "recession"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "poor (business)",
+    "dull",
+    "slack",
+    "inactive",
+    "gloomy",
+    "cheerless",
+    "dismal"
+  ],
+  "category": "noun"
+}

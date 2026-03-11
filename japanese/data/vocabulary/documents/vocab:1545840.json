@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1545840",
+  "japanese": "様相",
+  "kana": "ようそう",
+  "meanings": [
+    "aspect",
+    "phase",
+    "condition"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "modality"
+  ],
+  "category": "noun"
+}

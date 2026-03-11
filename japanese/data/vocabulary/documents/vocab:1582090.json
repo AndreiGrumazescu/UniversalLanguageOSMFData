@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1582090",
+  "japanese": "天地",
+  "kana": "てんち",
+  "meanings": [
+    "heaven and earth",
+    "the universe",
+    "the world",
+    "nature"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "land",
+    "world",
+    "realm",
+    "sphere",
+    "top and bottom",
+    "gods of heaven and earth"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,25 @@
+{
+  "$id": "vocab:1400010",
+  "japanese": "操る",
+  "kana": "あやつる",
+  "meanings": [
+    "to operate (e.g. a machine)",
+    "to handle",
+    "to manage",
+    "to control",
+    "to maneuver",
+    "to steer"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to have a good command of (a language)",
+    "to play proficiently (of a musical instrument)",
+    "to work (a puppet)",
+    "to pull the strings of a puppet",
+    "to manipulate (a person, public opinion, etc.)",
+    "to pull the strings",
+    "to control from the shadows",
+    "to mastermind"
+  ],
+  "category": "godan verb"
+}

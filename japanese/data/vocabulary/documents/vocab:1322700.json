@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1322700",
+  "japanese": "社会",
+  "kana": "しゃかい",
+  "meanings": [
+    "society",
+    "public",
+    "community",
+    "the world"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "social studies"
+  ],
+  "category": "noun"
+}

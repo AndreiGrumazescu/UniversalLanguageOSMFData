@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1489320",
+  "japanese": "票",
+  "kana": "ひょう",
+  "meanings": [
+    "vote",
+    "ballot"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "label",
+    "ticket",
+    "tag",
+    "stub"
+  ],
+  "category": "noun"
+}

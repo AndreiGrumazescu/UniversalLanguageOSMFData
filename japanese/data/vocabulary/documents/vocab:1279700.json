@@ -1,0 +1,33 @@
+{
+  "$id": "vocab:1279700",
+  "japanese": "構える",
+  "kana": "かまえる",
+  "meanings": [
+    "to set up (a house, store, etc.)",
+    "to build",
+    "to establish",
+    "to run",
+    "to maintain"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to have at the ready (e.g. a gun)",
+    "to hold in preparation (e.g. a camera)",
+    "to prepare in advance (e.g. a meal)",
+    "to adopt a posture",
+    "to assume a stance",
+    "to stand ready",
+    "to be poised for",
+    "to put on an air",
+    "to assume an attitude",
+    "to stiffen",
+    "to tense up",
+    "to become formal",
+    "to fabricate in order to deceive",
+    "to make up",
+    "to feign",
+    "to plan",
+    "to scheme"
+  ],
+  "category": "ichidan verb"
+}

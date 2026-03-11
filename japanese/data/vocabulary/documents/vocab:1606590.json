@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1606590",
+  "japanese": "別れる",
+  "kana": "わかれる",
+  "meanings": [
+    "to part (usu. of people)",
+    "to part from",
+    "to part with",
+    "to be apart from"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to separate (of a couple)",
+    "to break up",
+    "to divorce",
+    "to lose (e.g. one's mother)",
+    "to be bereaved"
+  ],
+  "category": "ichidan verb"
+}

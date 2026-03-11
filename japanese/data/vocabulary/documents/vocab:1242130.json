@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1242130",
+  "japanese": "近い",
+  "kana": "ちかい",
+  "meanings": [
+    "near",
+    "close",
+    "short (distance)"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "close (in time)",
+    "soon",
+    "close (relationship)",
+    "friendly",
+    "intimate",
+    "closely related",
+    "similar",
+    "almost the same",
+    "close to",
+    "nearly"
+  ],
+  "category": "i-adjective"
+}

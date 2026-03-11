@@ -1,0 +1,25 @@
+{
+  "$id": "vocab:1532880",
+  "japanese": "鳴らす",
+  "kana": "ならす",
+  "meanings": [
+    "to ring",
+    "to sound",
+    "to chime",
+    "to beat",
+    "to snort (nose)",
+    "to snap (fingers)",
+    "to crack (joints)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to be popular",
+    "to be esteemed",
+    "to be reputed",
+    "to state",
+    "to insist",
+    "to complain",
+    "to fart (loudly)"
+  ],
+  "category": "godan verb"
+}

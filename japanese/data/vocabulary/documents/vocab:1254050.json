@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1254050",
+  "japanese": "欠点",
+  "kana": "けってん",
+  "meanings": [
+    "fault",
+    "defect",
+    "flaw",
+    "weak point",
+    "weakness",
+    "shortcoming",
+    "drawback"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "failure (in an examination)",
+    "failing grade"
+  ],
+  "category": "noun"
+}

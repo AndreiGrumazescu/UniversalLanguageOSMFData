@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1335800",
+  "japanese": "重なる",
+  "kana": "かさなる",
+  "meanings": [
+    "to be piled up",
+    "to lie on top of one another"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to come one after another",
+    "to happen over and over",
+    "to pile up (e.g. stress)",
+    "to accumulate",
+    "to overlap (each other)",
+    "to occur at the same time",
+    "to happen simultaneously"
+  ],
+  "category": "godan verb"
+}

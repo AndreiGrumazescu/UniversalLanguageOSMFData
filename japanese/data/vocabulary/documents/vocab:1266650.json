@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1266650",
+  "japanese": "固定",
+  "kana": "こてい",
+  "meanings": [
+    "fixing (in place)",
+    "being fixed (in place)",
+    "securing",
+    "anchoring",
+    "fastening down"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "fixing (e.g. salary, capital)",
+    "keeping the same",
+    "fixation (histology)",
+    "user name (on an online forum like 2ch where the majority of users post anonymously)",
+    "user of an online handle (instead of posting anonymously)"
+  ],
+  "category": "noun"
+}

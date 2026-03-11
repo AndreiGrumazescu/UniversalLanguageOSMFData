@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1333440",
+  "japanese": "蹴飛ばす",
+  "kana": "けとばす",
+  "meanings": [
+    "to kick (hard)",
+    "to send flying with a kick",
+    "to kick away"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to reject flatly",
+    "to refuse outright",
+    "to turn down"
+  ],
+  "category": "godan verb"
+}

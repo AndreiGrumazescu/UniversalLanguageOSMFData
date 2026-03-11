@@ -1,0 +1,35 @@
+{
+  "$id": "vocab:1460850",
+  "japanese": "難しい",
+  "kana": "むずかしい",
+  "meanings": [
+    "difficult",
+    "hard",
+    "troublesome",
+    "complicated",
+    "serious (disease, problem, etc.)"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "impossible",
+    "unfeasible",
+    "fussy",
+    "particular",
+    "fastidious",
+    "hard to please",
+    "displeased",
+    "gloomy",
+    "glum",
+    "sullen",
+    "serious (look)",
+    "dirty",
+    "unclean",
+    "filthy",
+    "detestable",
+    "unpleasant",
+    "uncomfortable",
+    "creepy",
+    "spooky"
+  ],
+  "category": "i-adjective"
+}

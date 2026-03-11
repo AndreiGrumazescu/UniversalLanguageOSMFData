@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1208000",
+  "japanese": "割る",
+  "kana": "わる",
+  "meanings": [
+    "to divide"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to cut",
+    "to halve",
+    "to separate",
+    "to split",
+    "to rip",
+    "to break",
+    "to crack",
+    "to smash",
+    "to dilute",
+    "to fall below",
+    "to discount",
+    "to step over (a line, etc.)"
+  ],
+  "category": "godan verb"
+}

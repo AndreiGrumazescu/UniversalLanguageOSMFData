@@ -1,0 +1,26 @@
+{
+  "$id": "vocab:1375040",
+  "japanese": "勢い",
+  "kana": "いきおい",
+  "meanings": [
+    "force",
+    "vigor",
+    "vigour",
+    "energy",
+    "spirit",
+    "life"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "influence",
+    "authority",
+    "power",
+    "might",
+    "impetus",
+    "momentum",
+    "course (of events)",
+    "naturally",
+    "necessarily"
+  ],
+  "category": "noun"
+}

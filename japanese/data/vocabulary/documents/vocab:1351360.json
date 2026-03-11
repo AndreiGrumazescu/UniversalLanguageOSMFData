@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1351360",
+  "japanese": "笑う",
+  "kana": "わらう",
+  "meanings": [
+    "to laugh"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to smile",
+    "to sneer",
+    "to ridicule",
+    "to be dumbfounded",
+    "to be flabbergasted"
+  ],
+  "category": "godan verb"
+}

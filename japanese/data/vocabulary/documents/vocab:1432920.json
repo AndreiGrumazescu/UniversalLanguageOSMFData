@@ -1,0 +1,34 @@
+{
+  "$id": "vocab:1432920",
+  "japanese": "通り",
+  "kana": "とおり",
+  "meanings": [
+    "street",
+    "road",
+    "avenue",
+    "thoroughfare"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "traffic",
+    "coming and going",
+    "flow (of water, air, etc.)",
+    "passage",
+    "running",
+    "transmission (of sound)",
+    "reach (of voice)",
+    "reputation",
+    "favor",
+    "favour",
+    "popularity",
+    "understanding",
+    "comprehension",
+    "comprehensibility",
+    "clarity",
+    "the same way (as)",
+    "as (follows, stated, expected, etc.)",
+    "counter for sets of things",
+    "counter for methods, ways, kinds, etc."
+  ],
+  "category": "noun"
+}

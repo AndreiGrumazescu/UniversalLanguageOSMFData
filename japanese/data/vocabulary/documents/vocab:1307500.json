@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1307500",
+  "japanese": "始まる",
+  "kana": "はじまる",
+  "meanings": [
+    "to begin",
+    "to start",
+    "to commence"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "to happen (again)",
+    "to begin (anew)",
+    "to date (from)",
+    "to originate (in)"
+  ],
+  "category": "godan verb"
+}

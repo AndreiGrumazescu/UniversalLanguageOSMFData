@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1454500",
+  "japanese": "得る",
+  "kana": "うる",
+  "meanings": [
+    "to be able to ...",
+    "can ..."
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to get",
+    "to acquire",
+    "to obtain",
+    "to procure",
+    "to earn",
+    "to win",
+    "to gain",
+    "to secure",
+    "to attain"
+  ],
+  "category": "suffix"
+}

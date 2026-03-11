@@ -1,0 +1,26 @@
+{
+  "$id": "vocab:1475480",
+  "japanese": "薄い",
+  "kana": "うすい",
+  "meanings": [
+    "thin (of an object)"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "pale",
+    "light",
+    "faint",
+    "watery",
+    "thin",
+    "diluted",
+    "weak (taste, etc.)",
+    "little (affection, etc.)",
+    "not much (of a presence)",
+    "slim (probability, etc.)",
+    "small",
+    "sparse",
+    "patchy",
+    "scattered"
+  ],
+  "category": "i-adjective"
+}

@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1239440",
+  "japanese": "業者",
+  "kana": "ぎょうしゃ",
+  "meanings": [
+    "trader",
+    "dealer",
+    "businessperson",
+    "company",
+    "vendor",
+    "supplier",
+    "manufacturer",
+    "maker",
+    "contractor"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "fellow trader",
+    "people in the same trade"
+  ],
+  "category": "noun"
+}

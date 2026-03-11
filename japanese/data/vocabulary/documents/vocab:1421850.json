@@ -1,0 +1,28 @@
+{
+  "$id": "vocab:1421850",
+  "japanese": "置く",
+  "kana": "おく",
+  "meanings": [
+    "to put",
+    "to place"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "to leave (behind)",
+    "to establish (an organization, a facility, a position, etc.)",
+    "to set up",
+    "to appoint (someone to a certain position)",
+    "to hire",
+    "to employ",
+    "to place (one's trust, one's faith, etc.)",
+    "to bear (in mind, etc.)",
+    "to put down a tool (e.g. a pen) hence stopping what one is doing with that tool",
+    "to take in (boarders, etc.)",
+    "to provide lodging in one's house",
+    "to separate spatially or temporally",
+    "to do something in advance",
+    "to leave something in a certain state",
+    "to keep something in a certain state"
+  ],
+  "category": "godan verb"
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1328890",
+  "japanese": "種類",
+  "kana": "しゅるい",
+  "meanings": [
+    "variety",
+    "kind",
+    "type",
+    "category"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "counter for kinds, species, etc."
+  ],
+  "category": "noun"
+}

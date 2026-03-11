@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1598820",
+  "japanese": "留める",
+  "kana": "とどめる",
+  "meanings": [
+    "to stop",
+    "to stay (e.g. the night)",
+    "to cease",
+    "to put an end to"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to contain",
+    "to keep (in position, in place)",
+    "to limit",
+    "to record (e.g. a fact)",
+    "to retain"
+  ],
+  "category": "ichidan verb"
+}

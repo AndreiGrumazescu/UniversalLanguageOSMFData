@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1510790",
+  "japanese": "変わる",
+  "kana": "かわる",
+  "meanings": [
+    "to change",
+    "to be transformed",
+    "to be altered",
+    "to vary"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to move to",
+    "to be different",
+    "to be uncommon",
+    "to be unusual"
+  ],
+  "category": "godan verb"
+}

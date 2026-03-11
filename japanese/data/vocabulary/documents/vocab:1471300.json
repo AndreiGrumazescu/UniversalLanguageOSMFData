@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1471300",
+  "japanese": "破棄",
+  "kana": "はき",
+  "meanings": [
+    "tearing up and discarding (e.g. documents)",
+    "destruction"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "annulment",
+    "cancellation",
+    "abrogation",
+    "voiding",
+    "breaking (e.g. a treaty)",
+    "reversal (of an original ruling on appeal)",
+    "quashing"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1310620",
+  "japanese": "止まる",
+  "kana": "とまる",
+  "meanings": [
+    "to stop (moving)",
+    "to come to a stop"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to stop (doing, working, being supplied)",
+    "to come to a halt",
+    "to cease",
+    "to be stopped",
+    "to be suspended",
+    "to alight",
+    "to perch on"
+  ],
+  "category": "godan verb"
+}

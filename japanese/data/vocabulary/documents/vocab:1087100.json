@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1087100",
+  "japanese": "トレーニング",
+  "kana": "トレーニング",
+  "meanings": [
+    "training (for a skill, job, sport, etc.)",
+    "practice"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "working out",
+    "workout",
+    "(strength, weight) training"
+  ],
+  "category": "noun"
+}

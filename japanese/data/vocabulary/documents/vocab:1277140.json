@@ -1,0 +1,27 @@
+{
+  "$id": "vocab:1277140",
+  "japanese": "向こう",
+  "kana": "むこう",
+  "meanings": [
+    "opposite side",
+    "other side"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "over there",
+    "ahead",
+    "beyond",
+    "(in the) distance",
+    "far away",
+    "far off",
+    "destination",
+    "there (somewhere distant, esp. abroad)",
+    "the other party",
+    "the other side",
+    "from now",
+    "next (e.g. two weeks)",
+    "coming ...",
+    "from ... onwards"
+  ],
+  "category": "noun"
+}

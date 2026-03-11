@@ -1,0 +1,25 @@
+{
+  "$id": "vocab:1074600",
+  "japanese": "セット",
+  "kana": "セット",
+  "meanings": [
+    "set (of things)",
+    "combo"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "setting up",
+    "preparing",
+    "arranging",
+    "placing",
+    "positioning",
+    "configuring",
+    "setting (e.g. an alarm)",
+    "setting (hair)",
+    "set (in tennis, volleyball, etc.)",
+    "set (in a play, film, etc.)",
+    "movie set",
+    "(television or radio) receiver"
+  ],
+  "category": "noun"
+}

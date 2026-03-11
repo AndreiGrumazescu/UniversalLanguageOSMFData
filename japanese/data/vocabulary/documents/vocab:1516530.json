@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1516530",
+  "japanese": "放る",
+  "kana": "ほうる",
+  "meanings": [
+    "to throw",
+    "to fling",
+    "to hurl",
+    "to toss"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to neglect",
+    "to abandon",
+    "to leave alone",
+    "to give up on",
+    "to leave undone",
+    "to leave unfinished"
+  ],
+  "category": "godan verb"
+}

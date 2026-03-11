@@ -1,0 +1,32 @@
+{
+  "$id": "vocab:1599390",
+  "japanese": "直す",
+  "kana": "なおす",
+  "meanings": [
+    "to repair",
+    "to mend",
+    "to fix",
+    "to correct (a mistake, bad habit, etc.)",
+    "to put right",
+    "to restore",
+    "to straighten (e.g. a tie)",
+    "to tidy up (one's hair, make-up, etc.)",
+    "to revive (one's spirits)"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to change",
+    "to alter",
+    "to convert",
+    "to translate",
+    "to put back",
+    "to put away",
+    "to cure",
+    "to heal",
+    "to move up",
+    "to promote",
+    "to do over again",
+    "to redo"
+  ],
+  "category": "godan verb"
+}

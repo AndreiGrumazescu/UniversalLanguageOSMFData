@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1322400",
+  "japanese": "斜め",
+  "kana": "ななめ",
+  "meanings": [
+    "slanting",
+    "tilted",
+    "sloping",
+    "diagonal",
+    "oblique"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "distorted (feeling)",
+    "slanted (e.g. view of the world)",
+    "bad (mood)",
+    "amiss",
+    "awry"
+  ],
+  "category": "na-adjective"
+}

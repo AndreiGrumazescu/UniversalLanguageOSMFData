@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1576630",
+  "japanese": "塩",
+  "kana": "しお",
+  "meanings": [
+    "salt",
+    "common salt",
+    "table salt",
+    "sodium chloride"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "hardship",
+    "toil",
+    "trouble",
+    "saltiness",
+    "cold",
+    "unwelcoming",
+    "indifferent"
+  ],
+  "category": "noun"
+}

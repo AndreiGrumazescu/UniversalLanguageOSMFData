@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1337570",
+  "japanese": "縮める",
+  "kana": "ちぢめる",
+  "meanings": [
+    "to shorten",
+    "to reduce",
+    "to condense",
+    "to shrink"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to crumple (fabric)",
+    "to wrinkle",
+    "to make (one's body) smaller",
+    "to draw in (one's legs)",
+    "to duck (one's head)"
+  ],
+  "category": "ichidan verb"
+}

@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1008450",
+  "japanese": "では",
+  "kana": "では",
+  "meanings": [
+    "then",
+    "well",
+    "so",
+    "well then"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "bye then",
+    "at",
+    "in",
+    "by",
+    "with",
+    "using",
+    "if not ...",
+    "unless ..."
+  ],
+  "category": "conjunction"
+}

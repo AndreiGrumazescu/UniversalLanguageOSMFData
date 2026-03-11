@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1598000",
+  "japanese": "慎む",
+  "kana": "つつしむ",
+  "meanings": [
+    "to be careful",
+    "to be discreet"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to do in moderation",
+    "to refrain (from overdoing)",
+    "to abstain",
+    "to be reverent",
+    "to be purified",
+    "to be chaste"
+  ],
+  "category": "godan verb"
+}

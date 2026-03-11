@@ -1,0 +1,14 @@
+{
+  "$id": "vocab:1344750",
+  "japanese": "助動詞",
+  "kana": "じょどうし",
+  "meanings": [
+    "inflecting dependent word (in Japanese)",
+    "bound auxiliary"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "auxiliary verb (in languages other than Japanese)"
+  ],
+  "category": "noun"
+}

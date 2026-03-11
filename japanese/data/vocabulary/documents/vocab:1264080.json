@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1264080",
+  "japanese": "言い出す",
+  "kana": "いいだす",
+  "meanings": [
+    "to begin to say",
+    "to start talking",
+    "to broach (a matter)",
+    "to bring up",
+    "to come out with"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to be the first to say",
+    "to suggest (doing)",
+    "to propose"
+  ],
+  "category": "godan verb"
+}

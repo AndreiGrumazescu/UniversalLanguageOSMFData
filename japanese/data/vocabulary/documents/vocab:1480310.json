@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1480310",
+  "japanese": "反響",
+  "kana": "はんきょう",
+  "meanings": [
+    "echo",
+    "reverberation"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "response",
+    "reaction",
+    "repercussions",
+    "sensation",
+    "influence"
+  ],
+  "category": "noun"
+}

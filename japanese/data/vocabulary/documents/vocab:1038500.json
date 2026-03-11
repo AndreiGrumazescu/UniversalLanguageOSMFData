@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1038500",
+  "japanese": "カラー",
+  "kana": "カラー",
+  "meanings": [
+    "color",
+    "colour"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "color",
+    "character",
+    "characteristics",
+    "atmosphere",
+    "coloring (one's hair)",
+    "dyeing"
+  ],
+  "category": "noun"
+}

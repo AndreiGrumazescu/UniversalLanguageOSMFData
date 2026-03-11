@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1259440",
+  "japanese": "見学",
+  "kana": "けんがく",
+  "meanings": [
+    "inspection",
+    "study by observation",
+    "field trip",
+    "tour",
+    "review"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "sitting out (e.g. PE class)"
+  ],
+  "category": "noun"
+}

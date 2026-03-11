@@ -1,0 +1,30 @@
+{
+  "$id": "vocab:1516260",
+  "japanese": "崩す",
+  "kana": "くずす",
+  "meanings": [
+    "to destroy",
+    "to demolish",
+    "to pull down",
+    "to tear down",
+    "to level"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to disturb",
+    "to put into disorder",
+    "to throw off balance",
+    "to make shaky",
+    "to relax (one's pose)",
+    "to make oneself at ease",
+    "to break (a bill)",
+    "to change",
+    "to make change",
+    "to write in cursive style",
+    "to write in running style",
+    "to break into a smile",
+    "to let off a smile",
+    "to lower (a price)"
+  ],
+  "category": "godan verb"
+}

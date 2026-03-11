@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1449550",
+  "japanese": "答案",
+  "kana": "とうあん",
+  "meanings": [
+    "examination paper",
+    "examination script",
+    "answer sheet"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "answer (to an exam question)"
+  ],
+  "category": "noun"
+}

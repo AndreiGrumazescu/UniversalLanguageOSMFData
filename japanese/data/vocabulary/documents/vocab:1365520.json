@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1365520",
+  "japanese": "身",
+  "kana": "み",
+  "meanings": [
+    "one's body",
+    "one's person"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "oneself",
+    "one's appearance",
+    "one's place (in society, etc.)",
+    "one's position",
+    "main part",
+    "meat (as opposed to bone, skin, etc.)",
+    "wood (as opposed to bark)",
+    "blade (as opposed to its handle)",
+    "container (as opposed to its lid)"
+  ],
+  "category": "noun"
+}

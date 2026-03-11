@@ -1,0 +1,25 @@
+{
+  "$id": "vocab:1463770",
+  "japanese": "日",
+  "kana": "ひ",
+  "meanings": [
+    "day",
+    "days"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "sun",
+    "sunshine",
+    "sunlight",
+    "(the) day",
+    "daytime",
+    "daylight",
+    "date",
+    "deadline",
+    "(past) days",
+    "time (e.g. of one's childhood)",
+    "case (esp. unfortunate)",
+    "event"
+  ],
+  "category": "noun"
+}

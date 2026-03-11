@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1365040",
+  "japanese": "親",
+  "kana": "おや",
+  "meanings": [
+    "parent",
+    "parents",
+    "mother and father"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "dealer",
+    "banker",
+    "founder",
+    "inventor",
+    "(pet) owner",
+    "key",
+    "parent (organization)",
+    "main",
+    "ancestor",
+    "forefather"
+  ],
+  "category": "noun"
+}

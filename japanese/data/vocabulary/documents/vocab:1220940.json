@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1220940",
+  "japanese": "機構",
+  "kana": "きこう",
+  "meanings": [
+    "mechanism",
+    "machinery"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "system",
+    "structure",
+    "organization",
+    "framework"
+  ],
+  "category": "noun"
+}

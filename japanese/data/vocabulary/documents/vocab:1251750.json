@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1251750",
+  "japanese": "継ぐ",
+  "kana": "つぐ",
+  "meanings": [
+    "to succeed (a person, to a position, etc.)",
+    "to inherit",
+    "to take over",
+    "to follow"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to patch (clothes)",
+    "to mend",
+    "to repair",
+    "to add (e.g. charcoal to the fire)",
+    "to replenish with",
+    "to feed with",
+    "to follow up with (e.g. remarks)",
+    "to gather (one's breath)",
+    "to connect (stones)"
+  ],
+  "category": "godan verb"
+}

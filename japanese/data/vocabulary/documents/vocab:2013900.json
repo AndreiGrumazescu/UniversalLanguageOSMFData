@@ -1,0 +1,25 @@
+{
+  "$id": "vocab:2013900",
+  "japanese": "赤",
+  "kana": "あか",
+  "meanings": [
+    "red",
+    "crimson",
+    "scarlet"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "red-containing colour (e.g. brown, pink, orange)",
+    "Red (i.e. communist)",
+    "red light (traffic)",
+    "red ink (i.e. in finance or proof-reading)",
+    "(in) the red",
+    "complete",
+    "total",
+    "perfect",
+    "obvious",
+    "copper",
+    "red 5-point card"
+  ],
+  "category": "noun"
+}

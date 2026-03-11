@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1168660",
+  "japanese": "依る",
+  "kana": "よる",
+  "meanings": [
+    "to be due to",
+    "to be caused by"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to depend on",
+    "to turn on",
+    "to be based on",
+    "to come from",
+    "to be based at (a location, an organization)",
+    "to be headquartered at"
+  ],
+  "category": "godan verb"
+}

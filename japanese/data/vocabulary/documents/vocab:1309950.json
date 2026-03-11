@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1309950",
+  "japanese": "指導",
+  "kana": "しどう",
+  "meanings": [
+    "guidance",
+    "leadership",
+    "instruction",
+    "direction",
+    "coaching"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "shido (minor penalty in judo)"
+  ],
+  "category": "noun"
+}

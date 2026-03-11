@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1600470",
+  "japanese": "乗り換える",
+  "kana": "のりかえる",
+  "meanings": [
+    "to transfer (trains)",
+    "to change (bus, train)"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to change (to another ideology, party, company, etc.)",
+    "to switch (to a different system, method, etc.)",
+    "to move on to (e.g. a new love interest)"
+  ],
+  "category": "ichidan verb"
+}

@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1244230",
+  "japanese": "区分",
+  "kana": "くぶん",
+  "meanings": [
+    "division",
+    "section",
+    "demarcation",
+    "partition",
+    "segmentation",
+    "compartment",
+    "(traffic) lane"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "classification",
+    "sorting",
+    "grouping",
+    "segmentation",
+    "division"
+  ],
+  "category": "noun"
+}

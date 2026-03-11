@@ -1,0 +1,14 @@
+{
+  "$id": "vocab:1249900",
+  "japanese": "兄",
+  "kana": "あに",
+  "meanings": [
+    "older brother",
+    "elder brother"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "brother-in-law (spouse's older brother or older sister's husband)"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1238680",
+  "japanese": "驚く",
+  "kana": "おどろく",
+  "meanings": [
+    "to be surprised",
+    "to be taken aback",
+    "to be amazed",
+    "to be astonished",
+    "to be shocked"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to be frightened",
+    "to be startled",
+    "to be alarmed"
+  ],
+  "category": "godan verb"
+}

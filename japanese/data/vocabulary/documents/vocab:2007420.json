@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:2007420",
+  "japanese": "うんと",
+  "kana": "うんと",
+  "meanings": [
+    "a great deal",
+    "very much",
+    "a lot"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "with a great amount of effort"
+  ],
+  "category": "adverb"
+}

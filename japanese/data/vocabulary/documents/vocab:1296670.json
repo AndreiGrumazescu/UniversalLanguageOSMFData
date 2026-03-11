@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1296670",
+  "japanese": "材料",
+  "kana": "ざいりょう",
+  "meanings": [
+    "materials",
+    "ingredients"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "material (for a novel, experiment, etc.)",
+    "subject matter",
+    "grounds (for a decision, judgement, etc.)",
+    "basis",
+    "evidence",
+    "data",
+    "(market) factor"
+  ],
+  "category": "noun"
+}

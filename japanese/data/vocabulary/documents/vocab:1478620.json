@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1478620",
+  "japanese": "判断",
+  "kana": "はんだん",
+  "meanings": [
+    "judgment",
+    "judgement",
+    "decision",
+    "conclusion",
+    "adjudication"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "divination",
+    "judgement"
+  ],
+  "category": "noun"
+}

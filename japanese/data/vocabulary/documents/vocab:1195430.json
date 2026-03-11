@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1195430",
+  "japanese": "荷物",
+  "kana": "にもつ",
+  "meanings": [
+    "luggage",
+    "baggage",
+    "package"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "burden",
+    "payload (of a packet, cell, etc.)"
+  ],
+  "category": "noun"
+}

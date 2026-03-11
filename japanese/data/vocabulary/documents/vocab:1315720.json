@@ -1,0 +1,30 @@
+{
+  "$id": "vocab:1315720",
+  "japanese": "持つ",
+  "kana": "もつ",
+  "meanings": [
+    "to hold (in one's hand)",
+    "to take",
+    "to carry"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "to possess",
+    "to have",
+    "to own",
+    "to maintain",
+    "to keep",
+    "to last",
+    "to be durable",
+    "to keep",
+    "to survive",
+    "to take charge of",
+    "to be in charge of",
+    "to hold (meeting, etc.)",
+    "to have (opportunity, etc.)",
+    "to have \"it\"",
+    "to have that special something",
+    "to be blessed with good luck"
+  ],
+  "category": "godan verb"
+}

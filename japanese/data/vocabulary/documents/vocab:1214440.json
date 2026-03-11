@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1214440",
+  "japanese": "緩める",
+  "kana": "ゆるめる",
+  "meanings": [
+    "to loosen",
+    "to slacken"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to relax (attention, efforts, etc.)",
+    "to let down (one's guard)",
+    "to relieve (tension)",
+    "to relax (a rule)",
+    "to ease (e.g. restrictions)",
+    "to loosen (control)",
+    "to reduce (speed)",
+    "to slow down",
+    "to ease up",
+    "to make more gradual (of a slope)"
+  ],
+  "category": "ichidan verb"
+}

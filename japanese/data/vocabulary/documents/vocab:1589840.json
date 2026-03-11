@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1589840",
+  "japanese": "係",
+  "kana": "かかり",
+  "meanings": [
+    "charge",
+    "duty",
+    "person in charge",
+    "official",
+    "clerk"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "connection",
+    "linking"
+  ],
+  "category": "noun"
+}

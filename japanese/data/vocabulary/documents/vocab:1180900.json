@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1180900",
+  "japanese": "横断",
+  "kana": "おうだん",
+  "meanings": [
+    "crossing (a road, river, etc.)",
+    "cutting through (e.g. of a river through a town)",
+    "cutting across",
+    "intersecting (e.g. a railway track)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "crossing (east-west)",
+    "traversing",
+    "travelling across",
+    "flying across (e.g. the Pacific)",
+    "sailing across",
+    "cutting horizontally",
+    "sectioning laterally"
+  ],
+  "category": "noun"
+}

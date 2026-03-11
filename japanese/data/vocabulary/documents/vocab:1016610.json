@@ -1,0 +1,28 @@
+{
+  "$id": "vocab:1016610",
+  "japanese": "アップ",
+  "kana": "アップ",
+  "meanings": [
+    "rise",
+    "increase",
+    "raising",
+    "lifting",
+    "going up"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "upload",
+    "posting online",
+    "close-up",
+    "completion of filming",
+    "upswept hairstyle",
+    "being up (in points, games, etc.)",
+    "being ahead",
+    "leading",
+    "warm-up",
+    "finishing",
+    "completion",
+    "being over"
+  ],
+  "category": "noun"
+}

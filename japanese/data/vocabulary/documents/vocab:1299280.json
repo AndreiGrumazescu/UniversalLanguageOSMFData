@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1299280",
+  "japanese": "雑音",
+  "kana": "ざつおん",
+  "meanings": [
+    "noise (usu. unpleasant)"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "interference (e.g. radio)",
+    "static",
+    "noise",
+    "gossip",
+    "irresponsible criticism"
+  ],
+  "category": "noun"
+}

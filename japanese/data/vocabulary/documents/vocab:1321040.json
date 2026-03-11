@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1321040",
+  "japanese": "実行",
+  "kana": "じっこう",
+  "meanings": [
+    "execution (e.g. of a plan)",
+    "carrying out",
+    "(putting into) practice",
+    "action",
+    "implementation",
+    "fulfillment",
+    "realization"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "execution (of a program)",
+    "run"
+  ],
+  "category": "noun"
+}

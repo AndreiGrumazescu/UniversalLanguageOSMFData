@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1400050",
+  "japanese": "操作",
+  "kana": "そうさ",
+  "meanings": [
+    "operation",
+    "management",
+    "handling"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "manipulating (to one's benefit)",
+    "manipulation",
+    "influencing"
+  ],
+  "category": "noun"
+}

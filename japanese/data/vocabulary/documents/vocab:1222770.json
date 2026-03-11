@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1222770",
+  "japanese": "祈る",
+  "kana": "いのる",
+  "meanings": [
+    "to pray",
+    "to say a prayer",
+    "to say grace"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to wish",
+    "to hope"
+  ],
+  "category": "godan verb"
+}

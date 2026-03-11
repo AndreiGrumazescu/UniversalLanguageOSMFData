@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1015310",
+  "japanese": "アクセント",
+  "kana": "アクセント",
+  "meanings": [
+    "accent (on a syllable, word)",
+    "stress",
+    "pitch accent"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "intonation",
+    "inflection",
+    "cadence",
+    "(language) accent (e.g. American, British)",
+    "accent (e.g. in a design)",
+    "highlight",
+    "emphasis",
+    "accent (on a note)"
+  ],
+  "category": "noun"
+}

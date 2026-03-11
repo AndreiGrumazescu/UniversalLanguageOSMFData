@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1606820",
+  "japanese": "割り当て",
+  "kana": "わりあて",
+  "meanings": [
+    "allotment",
+    "assignment",
+    "allocation",
+    "quota",
+    "rationing"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "allocation"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,29 @@
+{
+  "$id": "vocab:1265070",
+  "japanese": "古い",
+  "kana": "ふるい",
+  "meanings": [
+    "old",
+    "aged",
+    "ancient",
+    "antiquated",
+    "antique",
+    "timeworn"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "long",
+    "since long ago",
+    "time-honored",
+    "of the distant past",
+    "long-ago",
+    "stale",
+    "threadbare",
+    "hackneyed",
+    "corny",
+    "old-fashioned",
+    "outmoded",
+    "out-of-date"
+  ],
+  "category": "i-adjective"
+}

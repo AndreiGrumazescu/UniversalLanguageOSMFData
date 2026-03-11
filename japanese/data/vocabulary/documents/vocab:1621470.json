@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1621470",
+  "japanese": "都",
+  "kana": "と",
+  "meanings": [
+    "Metropolis (of Tokyo)",
+    "(Tokyo) Metropolitan District",
+    "metropolitan prefecture"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "counter for cities and towns",
+    "capital"
+  ],
+  "category": "noun"
+}

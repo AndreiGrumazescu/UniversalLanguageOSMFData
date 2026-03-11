@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1596750",
+  "japanese": "退屈",
+  "kana": "たいくつ",
+  "meanings": [
+    "tedious",
+    "boring",
+    "dull",
+    "uninteresting",
+    "tiresome",
+    "monotonous"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to feel bored",
+    "to get bored (with)",
+    "to get tired (of)"
+  ],
+  "category": "na-adjective"
+}

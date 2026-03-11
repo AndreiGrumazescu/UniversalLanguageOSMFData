@@ -1,0 +1,31 @@
+{
+  "$id": "vocab:2082450",
+  "japanese": "大",
+  "kana": "だい",
+  "meanings": [
+    "large",
+    "big",
+    "great",
+    "huge",
+    "vast",
+    "major",
+    "important",
+    "serious",
+    "severe"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "great",
+    "prominent",
+    "eminent",
+    "distinguished",
+    "-sized",
+    "as big as",
+    "the size of",
+    "university",
+    "large (e.g. serving size)",
+    "large option",
+    "long month (i.e. having 31 days)"
+  ],
+  "category": "prefix"
+}

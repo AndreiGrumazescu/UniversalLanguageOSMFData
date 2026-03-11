@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1315920",
+  "japanese": "時間",
+  "kana": "じかん",
+  "meanings": [
+    "time"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "hour",
+    "period",
+    "class",
+    "lesson"
+  ],
+  "category": "noun"
+}

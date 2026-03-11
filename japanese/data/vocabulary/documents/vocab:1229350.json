@@ -1,0 +1,25 @@
+{
+  "$id": "vocab:1229350",
+  "japanese": "求める",
+  "kana": "もとめる",
+  "meanings": [
+    "to want",
+    "to wish for"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to request",
+    "to demand",
+    "to require",
+    "to ask for",
+    "to seek",
+    "to search for",
+    "to look for",
+    "to pursue (pleasure)",
+    "to hunt (a job)",
+    "to find (a solution)",
+    "to purchase",
+    "to buy"
+  ],
+  "category": "ichidan verb"
+}

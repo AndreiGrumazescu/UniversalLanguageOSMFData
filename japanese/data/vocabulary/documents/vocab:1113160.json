@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1113160",
+  "japanese": "ブーム",
+  "kana": "ブーム",
+  "meanings": [
+    "boom",
+    "craze",
+    "fad"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "(economic) boom",
+    "boom (of a boat)",
+    "(microphone) boom"
+  ],
+  "category": "noun"
+}

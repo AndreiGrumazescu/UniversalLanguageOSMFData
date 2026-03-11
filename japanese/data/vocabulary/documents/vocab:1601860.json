@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1601860",
+  "japanese": "左利き",
+  "kana": "ひだりきき",
+  "meanings": [
+    "left-handedness",
+    "left-handed person",
+    "left-hander"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "fondness for alcohol",
+    "person who is fond of alcohol",
+    "drinker"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1591100",
+  "japanese": "効く",
+  "kana": "きく",
+  "meanings": [
+    "to be effective",
+    "to take effect",
+    "to be good (for)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to work",
+    "to function well",
+    "to be possible (to do, use, etc.)",
+    "to be able to",
+    "to taste (alcohol)",
+    "to try"
+  ],
+  "category": "godan verb"
+}

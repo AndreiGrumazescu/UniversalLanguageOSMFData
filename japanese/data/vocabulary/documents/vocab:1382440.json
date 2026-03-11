@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1382440",
+  "japanese": "石",
+  "kana": "いし",
+  "meanings": [
+    "stone",
+    "rock",
+    "pebble"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "jewel",
+    "precious stone",
+    "flint (in a lighter)",
+    "(round) game piece",
+    "stone (in go, etc.)",
+    "disc (in Othello)",
+    "stone (in the bladder, kidney etc.)",
+    "calculus"
+  ],
+  "category": "noun"
+}

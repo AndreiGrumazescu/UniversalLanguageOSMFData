@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1548570",
+  "japanese": "落ち込む",
+  "kana": "おちこむ",
+  "meanings": [
+    "to feel down",
+    "to feel sad",
+    "to be depressed",
+    "to be in low spirits"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to be in a slump (business, economy, etc.)",
+    "to be in an unfavourable condition",
+    "to fall into (e.g. a hole)"
+  ],
+  "category": "godan verb"
+}

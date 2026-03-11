@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1206050",
+  "japanese": "覚える",
+  "kana": "おぼえる",
+  "meanings": [
+    "to memorize",
+    "to memorise",
+    "to commit to memory",
+    "to learn by heart",
+    "to bear in mind",
+    "to remember"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "to learn",
+    "to pick up",
+    "to acquire",
+    "to feel",
+    "to think",
+    "to regard"
+  ],
+  "category": "ichidan verb"
+}

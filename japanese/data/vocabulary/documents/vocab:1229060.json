@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1229060",
+  "japanese": "救う",
+  "kana": "すくう",
+  "meanings": [
+    "to rescue (someone)",
+    "to save",
+    "to help (out of a difficulty)",
+    "to relieve (from)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to save (spiritually)",
+    "to redeem (from sin)",
+    "to deliver (from suffering, distress, etc.)",
+    "to bring to salvation"
+  ],
+  "category": "godan verb"
+}

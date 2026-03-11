@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1490620",
+  "japanese": "品種",
+  "kana": "ひんしゅ",
+  "meanings": [
+    "type (of goods)",
+    "sort"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "(taxonomical) form",
+    "breed",
+    "variety",
+    "kind",
+    "type",
+    "cultivar"
+  ],
+  "category": "noun"
+}

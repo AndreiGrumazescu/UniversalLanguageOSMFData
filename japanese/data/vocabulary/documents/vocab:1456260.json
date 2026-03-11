@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1456260",
+  "japanese": "読み上げる",
+  "kana": "よみあげる",
+  "meanings": [
+    "to read out",
+    "to read aloud",
+    "to call out"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to finish reading",
+    "to read through"
+  ],
+  "category": "ichidan verb"
+}

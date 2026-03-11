@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1352510",
+  "japanese": "上り",
+  "kana": "のぼり",
+  "meanings": [
+    "ascent",
+    "climbing",
+    "ascending (path)",
+    "climb"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "up-train",
+    "train heading toward the starting point of its route",
+    "upbound (esp. toward Tokyo)",
+    "upstream",
+    "uphill"
+  ],
+  "category": "noun"
+}

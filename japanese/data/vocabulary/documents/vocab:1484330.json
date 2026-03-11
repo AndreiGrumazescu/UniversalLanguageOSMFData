@@ -1,0 +1,36 @@
+{
+  "$id": "vocab:1484330",
+  "japanese": "被る",
+  "kana": "かぶる",
+  "meanings": [
+    "to put on (one's head)",
+    "to wear",
+    "to have on",
+    "to pull over (one's head)",
+    "to crown (oneself)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to be covered with (dust, snow, etc.)",
+    "to pour (water, etc.) on oneself",
+    "to dash on oneself",
+    "to ship water",
+    "to bear (e.g. someone's debts, faults, etc.)",
+    "to take (blame)",
+    "to assume (responsibility)",
+    "to shoulder (burden)",
+    "to overlap (e.g. sound or color)",
+    "to be similar",
+    "to be redundant",
+    "to be fogged (due to overexposure, etc.)",
+    "to close",
+    "to come to an end",
+    "to get a full house",
+    "to sell out",
+    "to blunder",
+    "to bungle",
+    "to fail",
+    "to be deceived"
+  ],
+  "category": "godan verb"
+}

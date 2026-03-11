@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1428410",
+  "japanese": "朝寝坊",
+  "kana": "あさねぼう",
+  "meanings": [
+    "sleeping late in the morning",
+    "sleeping in",
+    "lie-in",
+    "oversleeping"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "late riser",
+    "person who is bad at getting up in the morning"
+  ],
+  "category": "noun"
+}

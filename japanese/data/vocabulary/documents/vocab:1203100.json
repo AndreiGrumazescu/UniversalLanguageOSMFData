@@ -1,0 +1,14 @@
+{
+  "$id": "vocab:1203100",
+  "japanese": "貝",
+  "kana": "かい",
+  "meanings": [
+    "shellfish"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "seashell",
+    "shell"
+  ],
+  "category": "noun"
+}

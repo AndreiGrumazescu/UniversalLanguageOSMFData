@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1501660",
+  "japanese": "沸かす",
+  "kana": "わかす",
+  "meanings": [
+    "to boil",
+    "to heat (a liquid)",
+    "to prepare (a bath, hot drink)"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to excite",
+    "to rouse",
+    "to stir"
+  ],
+  "category": "godan verb"
+}

@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1180570",
+  "japanese": "横",
+  "kana": "よこ",
+  "meanings": [
+    "horizontal (as opposed to vertical)"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "side-to-side (as opposed to front-to-back)",
+    "width",
+    "breadth",
+    "side (of a box, etc.)",
+    "beside",
+    "aside",
+    "next to",
+    "unconnected"
+  ],
+  "category": "noun"
+}

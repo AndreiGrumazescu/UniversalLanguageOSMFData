@@ -1,0 +1,25 @@
+{
+  "$id": "vocab:1415050",
+  "japanese": "大凡",
+  "kana": "おおよそ",
+  "meanings": [
+    "about",
+    "roughly",
+    "approximately"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "generally",
+    "on the whole",
+    "as a rule",
+    "completely",
+    "quite",
+    "entirely",
+    "altogether",
+    "totally",
+    "not at all (with neg. verb)",
+    "outline",
+    "gist"
+  ],
+  "category": "adverb"
+}

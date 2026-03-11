@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1499540",
+  "japanese": "部門",
+  "kana": "ぶもん",
+  "meanings": [
+    "division (of a larger group)",
+    "branch",
+    "field",
+    "class (subclass)",
+    "group",
+    "category",
+    "department"
+  ],
+  "jlptLevel": "N1",
+  "category": "noun"
+}

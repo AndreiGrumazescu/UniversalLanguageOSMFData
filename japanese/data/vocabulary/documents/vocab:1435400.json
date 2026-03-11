@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1435400",
+  "japanese": "定員",
+  "kana": "ていいん",
+  "meanings": [
+    "fixed number (of people)",
+    "prescribed number (of regular personnel, students, etc.)",
+    "quota",
+    "numerical limit",
+    "complement"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "capacity (of a bus, boat, theatre, etc.)",
+    "seating capacity"
+  ],
+  "category": "noun"
+}

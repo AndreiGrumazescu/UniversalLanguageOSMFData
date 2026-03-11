@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1514940",
+  "japanese": "暮らす",
+  "kana": "くらす",
+  "meanings": [
+    "to live (on, by, etc.)",
+    "to lead a life",
+    "to get along",
+    "to get by"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to make a living",
+    "to earn a livelihood",
+    "to spend one's time (doing)",
+    "to pass one's days (doing)",
+    "to live",
+    "to get on (doing)",
+    "to do daily",
+    "to do all day long",
+    "to continue doing"
+  ],
+  "category": "godan verb"
+}

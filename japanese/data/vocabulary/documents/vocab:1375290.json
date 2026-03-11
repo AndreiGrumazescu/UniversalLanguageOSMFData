@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1375290",
+  "japanese": "性格",
+  "kana": "せいかく",
+  "meanings": [
+    "character (of a person)",
+    "personality",
+    "disposition",
+    "nature"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "characteristics",
+    "nature (of a thing, event, etc.)"
+  ],
+  "category": "noun"
+}

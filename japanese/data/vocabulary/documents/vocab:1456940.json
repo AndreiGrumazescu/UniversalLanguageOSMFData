@@ -1,0 +1,33 @@
+{
+  "$id": "vocab:1456940",
+  "japanese": "突っ込む",
+  "kana": "つっこむ",
+  "meanings": [
+    "to thrust (something) into (something)",
+    "to cram",
+    "to stuff",
+    "to shove"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to plunge into",
+    "to charge into",
+    "to rush into",
+    "to ram into",
+    "to crash into",
+    "to delve into (a matter)",
+    "to go into depth",
+    "to get to the heart (of something)",
+    "to press (someone) about",
+    "to point out (e.g. an inconsistency)",
+    "to question sharply",
+    "to grill",
+    "to get involved with",
+    "to meddle in",
+    "to poke one's nose into",
+    "to riposte",
+    "to retort",
+    "to quip"
+  ],
+  "category": "godan verb"
+}

@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1200750",
+  "japanese": "改める",
+  "kana": "あらためる",
+  "meanings": [
+    "to change",
+    "to alter",
+    "to revise",
+    "to replace"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to reform",
+    "to correct",
+    "to mend",
+    "to improve",
+    "to examine",
+    "to check",
+    "to inspect",
+    "to do properly",
+    "to do formally"
+  ],
+  "category": "ichidan verb"
+}

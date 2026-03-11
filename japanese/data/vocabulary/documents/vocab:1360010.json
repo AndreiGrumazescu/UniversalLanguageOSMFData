@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1360010",
+  "japanese": "寝る",
+  "kana": "ねる",
+  "meanings": [
+    "to sleep (lying down)"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "to go to bed",
+    "to lie in bed",
+    "to lie down",
+    "to sleep (with someone, i.e. have intercourse)",
+    "to lie flat (e.g. of hair)",
+    "to lie idle (of funds, stock, etc.)",
+    "to ferment (of soy sauce, miso, etc.)"
+  ],
+  "category": "ichidan verb"
+}

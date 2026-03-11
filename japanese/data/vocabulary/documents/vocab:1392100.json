@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1392100",
+  "japanese": "船便",
+  "kana": "ふなびん",
+  "meanings": [
+    "surface mail (by ship)",
+    "sea mail"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "ferry service",
+    "steamer service"
+  ],
+  "category": "noun"
+}

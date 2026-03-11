@@ -1,0 +1,25 @@
+{
+  "$id": "vocab:1013190",
+  "japanese": "より",
+  "kana": "より",
+  "meanings": [
+    "than"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "rather than",
+    "instead of",
+    "over",
+    "above",
+    "from",
+    "out of",
+    "since",
+    "at",
+    "on (and after)",
+    "except",
+    "but",
+    "other than",
+    "more"
+  ],
+  "category": "particle"
+}

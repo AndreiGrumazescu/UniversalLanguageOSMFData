@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1408815",
+  "japanese": "打つ",
+  "kana": "ぶつ",
+  "meanings": [
+    "to hit (someone)",
+    "to strike",
+    "to beat"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to make (a speech)",
+    "to give (an address)",
+    "to gamble"
+  ],
+  "category": "godan verb"
+}

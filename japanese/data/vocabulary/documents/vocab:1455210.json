@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1455210",
+  "japanese": "特定",
+  "kana": "とくてい",
+  "meanings": [
+    "specific",
+    "particular",
+    "designated",
+    "special"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "specifying",
+    "designating",
+    "identifying",
+    "pinpointing"
+  ],
+  "category": "noun"
+}

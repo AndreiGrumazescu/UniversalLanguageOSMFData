@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1476520",
+  "japanese": "畑",
+  "kana": "はたけ",
+  "meanings": [
+    "field (for growing wheat, fruit, vegetables, etc.)",
+    "cultivated land",
+    "vegetable plot",
+    "kitchen garden",
+    "plantation"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "field (of specialization)",
+    "sphere",
+    "area",
+    "line",
+    "womb",
+    "birth",
+    "birthplace"
+  ],
+  "category": "noun"
+}

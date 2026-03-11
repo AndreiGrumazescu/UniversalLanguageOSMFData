@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1376740",
+  "japanese": "正解",
+  "kana": "せいかい",
+  "meanings": [
+    "correct answer",
+    "right solution",
+    "correct interpretation"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "right decision",
+    "right choice",
+    "appropriate judgement"
+  ],
+  "category": "noun"
+}

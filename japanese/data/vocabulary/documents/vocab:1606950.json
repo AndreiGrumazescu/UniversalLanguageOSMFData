@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1606950",
+  "japanese": "割引",
+  "kana": "わりびき",
+  "meanings": [
+    "discount",
+    "reduction",
+    "rebate"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "tenths discounted",
+    "tenths reduced"
+  ],
+  "category": "noun"
+}

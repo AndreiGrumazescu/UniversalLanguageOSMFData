@@ -1,0 +1,27 @@
+{
+  "$id": "vocab:1253780",
+  "japanese": "隙",
+  "kana": "すき",
+  "meanings": [
+    "gap",
+    "opening",
+    "room",
+    "space"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "break",
+    "interval",
+    "spare moment",
+    "spare time",
+    "unguarded moment",
+    "carelessness",
+    "weak spot",
+    "chink in one's armor",
+    "flaw",
+    "fault",
+    "chance",
+    "opportunity"
+  ],
+  "category": "noun"
+}

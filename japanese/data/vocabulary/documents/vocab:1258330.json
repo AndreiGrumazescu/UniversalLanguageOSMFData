@@ -1,0 +1,25 @@
+{
+  "$id": "vocab:1258330",
+  "japanese": "犬",
+  "kana": "いぬ",
+  "meanings": [
+    "dog (Canis (lupus) familiaris)",
+    "canine"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "squealer",
+    "rat",
+    "snitch",
+    "informer",
+    "informant",
+    "spy",
+    "loser",
+    "asshole",
+    "counterfeit",
+    "inferior",
+    "useless",
+    "wasteful"
+  ],
+  "category": "noun"
+}

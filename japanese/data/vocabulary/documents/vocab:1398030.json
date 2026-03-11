@@ -1,0 +1,14 @@
+{
+  "$id": "vocab:1398030",
+  "japanese": "僧",
+  "kana": "そう",
+  "meanings": [
+    "monk",
+    "priest"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "sangha (the Buddhist community)"
+  ],
+  "category": "noun"
+}

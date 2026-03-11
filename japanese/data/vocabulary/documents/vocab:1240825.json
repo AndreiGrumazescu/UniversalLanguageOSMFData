@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1240825",
+  "japanese": "勤める",
+  "kana": "つとめる",
+  "meanings": [
+    "to work (for)",
+    "to be employed (at)",
+    "to serve (in)"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to serve (as)",
+    "to act (as)",
+    "to fill (the position of)",
+    "to play the role (of)",
+    "to conduct a religious service"
+  ],
+  "category": "ichidan verb"
+}

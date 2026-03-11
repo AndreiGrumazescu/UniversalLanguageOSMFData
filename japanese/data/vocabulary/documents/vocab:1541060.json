@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1541060",
+  "japanese": "有様",
+  "kana": "ありさま",
+  "meanings": [
+    "state",
+    "condition",
+    "circumstances",
+    "sight",
+    "spectacle"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "the way things should be",
+    "ideal state",
+    "truth"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1228170",
+  "japanese": "及ぶ",
+  "kana": "およぶ",
+  "meanings": [
+    "to reach",
+    "to amount to",
+    "to befall",
+    "to happen to",
+    "to extend",
+    "to go on (for, until)"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to be up to the task",
+    "to come up to",
+    "to compare with",
+    "to be a match (for)",
+    "to commit (a crime)",
+    "to require (to do)"
+  ],
+  "category": "godan verb"
+}

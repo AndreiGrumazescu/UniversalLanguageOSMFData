@@ -1,0 +1,14 @@
+{
+  "$id": "vocab:1454750",
+  "japanese": "特急",
+  "kana": "とっきゅう",
+  "meanings": [
+    "limited express (train for which a limited-express ticket is required)"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "limited express (train making a limited no. of stops)",
+    "great hurry"
+  ],
+  "category": "noun"
+}

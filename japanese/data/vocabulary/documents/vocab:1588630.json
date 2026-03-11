@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1588630",
+  "japanese": "云々",
+  "kana": "うんぬん",
+  "meanings": [
+    "and so on",
+    "and so forth",
+    "et cetera",
+    "and such",
+    "and the like"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "comment",
+    "criticism"
+  ],
+  "category": "expression"
+}

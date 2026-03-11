@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1365330",
+  "japanese": "親父",
+  "kana": "おやじ",
+  "meanings": [
+    "one's father",
+    "one's old man",
+    "dad",
+    "pops"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "middle-aged (or older) man",
+    "old man",
+    "geezer",
+    "one's boss",
+    "proprietor (of a restaurant, store, etc.)",
+    "landlord",
+    "grizzly bear"
+  ],
+  "category": "noun"
+}

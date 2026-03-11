@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1582990",
+  "japanese": "剥ぐ",
+  "kana": "はぐ",
+  "meanings": [
+    "to tear off",
+    "to peel off",
+    "to rip off",
+    "to strip off",
+    "to skin",
+    "to flay",
+    "to bark"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to strip of (clothes, rank, etc.)",
+    "to deprive of",
+    "to divest of"
+  ],
+  "category": "godan verb"
+}

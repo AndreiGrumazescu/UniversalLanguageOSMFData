@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1386420",
+  "japanese": "説く",
+  "kana": "とく",
+  "meanings": [
+    "to explain",
+    "to preach",
+    "to advocate"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to persuade",
+    "to prevail upon",
+    "to reason with",
+    "to urge (someone to do)"
+  ],
+  "category": "godan verb"
+}

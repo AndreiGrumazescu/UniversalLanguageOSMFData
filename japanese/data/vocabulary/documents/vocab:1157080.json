@@ -1,0 +1,25 @@
+{
+  "$id": "vocab:1157080",
+  "japanese": "為",
+  "kana": "ため",
+  "meanings": [
+    "good",
+    "advantage",
+    "benefit",
+    "welfare"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "sake",
+    "purpose",
+    "objective",
+    "aim",
+    "consequence",
+    "result",
+    "effect",
+    "affecting",
+    "regarding",
+    "concerning"
+  ],
+  "category": "noun"
+}

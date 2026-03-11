@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1457100",
+  "japanese": "突破",
+  "kana": "とっぱ",
+  "meanings": [
+    "breaking through",
+    "breakthrough",
+    "penetration"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "surmounting (a difficulty)",
+    "overcoming",
+    "getting over",
+    "accomplishing (an aim)",
+    "reaching (a goal)",
+    "exceeding",
+    "passing",
+    "rising above"
+  ],
+  "category": "noun"
+}

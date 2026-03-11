@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1223140",
+  "japanese": "記す",
+  "kana": "しるす",
+  "meanings": [
+    "to write down",
+    "to note down",
+    "to jot down",
+    "to take a note of"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to mention",
+    "to describe",
+    "to give an account of",
+    "to inscribe",
+    "to mark",
+    "to brand",
+    "to remember",
+    "to engrave (in one's mind)"
+  ],
+  "category": "godan verb"
+}

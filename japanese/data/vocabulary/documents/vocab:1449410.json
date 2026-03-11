@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1449410",
+  "japanese": "等級",
+  "kana": "とうきゅう",
+  "meanings": [
+    "grade",
+    "class",
+    "degree",
+    "rank",
+    "rating",
+    "order",
+    "points"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "magnitude"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1517060",
+  "japanese": "方程式",
+  "kana": "ほうていしき",
+  "meanings": [
+    "equation",
+    "formula"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "method for solving a problem",
+    "set way of achieving a particular result"
+  ],
+  "category": "noun"
+}

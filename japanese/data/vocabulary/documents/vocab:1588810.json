@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1588810",
+  "japanese": "追いつく",
+  "kana": "おいつく",
+  "meanings": [
+    "to catch up (with)",
+    "to draw level",
+    "to pull even",
+    "to reach"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to be compensated",
+    "to make up for one's losses"
+  ],
+  "category": "godan verb"
+}

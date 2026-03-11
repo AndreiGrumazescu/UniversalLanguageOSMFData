@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1312130",
+  "japanese": "視点",
+  "kana": "してん",
+  "meanings": [
+    "point of view",
+    "viewpoint",
+    "angle",
+    "perspective"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "visual point (position of the eye in calculations of optical instruments)"
+  ],
+  "category": "noun"
+}

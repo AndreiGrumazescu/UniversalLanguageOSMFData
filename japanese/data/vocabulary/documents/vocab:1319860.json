@@ -1,0 +1,14 @@
+{
+  "$id": "vocab:1319860",
+  "japanese": "失業",
+  "kana": "しつぎょう",
+  "meanings": [
+    "unemployment"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "losing one's job",
+    "becoming unemployed"
+  ],
+  "category": "noun"
+}

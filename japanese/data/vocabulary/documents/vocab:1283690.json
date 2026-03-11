@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1283690",
+  "japanese": "高層",
+  "kana": "こうそう",
+  "meanings": [
+    "high-rise (building)",
+    "multistory",
+    "multistoried",
+    "tall"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "high (altitude)",
+    "upper (atmosphere, air current, etc.)"
+  ],
+  "category": "noun"
+}

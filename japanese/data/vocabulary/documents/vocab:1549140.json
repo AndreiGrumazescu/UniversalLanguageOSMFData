@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1549140",
+  "japanese": "卵",
+  "kana": "たまご",
+  "meanings": [
+    "eggs",
+    "egg",
+    "spawn",
+    "roe"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "(hen's) egg",
+    "a ... in the making",
+    "future (lawyer, doctor, etc.)",
+    "budding ...",
+    "beginning",
+    "origin",
+    "infancy"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1454420",
+  "japanese": "峠",
+  "kana": "とうげ",
+  "meanings": [
+    "(mountain) pass",
+    "highest point on a mountain road",
+    "ridge"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "peak (e.g. of summer)",
+    "worst (e.g. of an illness)",
+    "crisis",
+    "critical point",
+    "most difficult part"
+  ],
+  "category": "noun"
+}

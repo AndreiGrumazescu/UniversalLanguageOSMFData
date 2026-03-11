@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1413180",
+  "japanese": "大会",
+  "kana": "たいかい",
+  "meanings": [
+    "mass meeting",
+    "convention",
+    "rally",
+    "conference",
+    "assembly",
+    "gathering"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "tournament",
+    "competition",
+    "contest",
+    "meet",
+    "grand event"
+  ],
+  "category": "noun"
+}

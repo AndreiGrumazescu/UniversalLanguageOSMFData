@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1598330",
+  "japanese": "手帳",
+  "kana": "てちょう",
+  "meanings": [
+    "notebook",
+    "memo pad",
+    "(pocket) diary"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "certificate",
+    "identification card"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1357250",
+  "japanese": "植える",
+  "kana": "うえる",
+  "meanings": [
+    "to plant",
+    "to grow",
+    "to raise"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to insert",
+    "to transplant",
+    "to implant",
+    "to set (type)",
+    "to inoculate (e.g. an infectious agent)",
+    "to instill (idea, value, etc.)",
+    "to inculcate"
+  ],
+  "category": "ichidan verb"
+}

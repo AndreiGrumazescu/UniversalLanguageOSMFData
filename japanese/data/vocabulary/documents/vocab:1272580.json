@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1272580",
+  "japanese": "交流",
+  "kana": "こうりゅう",
+  "meanings": [
+    "exchange (e.g. cultural)",
+    "interchange",
+    "interaction",
+    "mingling",
+    "mixing",
+    "coming together"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "alternating current",
+    "AC"
+  ],
+  "category": "noun"
+}

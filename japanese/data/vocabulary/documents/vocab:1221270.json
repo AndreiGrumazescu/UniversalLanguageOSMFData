@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1221270",
+  "japanese": "帰る",
+  "kana": "かえる",
+  "meanings": [
+    "to return",
+    "to come home",
+    "to go home",
+    "to go back"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "to leave (of a guest, customer, etc.)",
+    "to get home",
+    "to get to home plate"
+  ],
+  "category": "godan verb"
+}

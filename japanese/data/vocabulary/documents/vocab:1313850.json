@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1313850",
+  "japanese": "事故",
+  "kana": "じこ",
+  "meanings": [
+    "accident",
+    "incident",
+    "trouble"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "circumstances",
+    "reasons"
+  ],
+  "category": "noun"
+}

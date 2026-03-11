@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1397630",
+  "japanese": "組織",
+  "kana": "そしき",
+  "meanings": [
+    "organization",
+    "organisation",
+    "formation"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "structure",
+    "construction",
+    "setup",
+    "constitution",
+    "system (e.g. railroad, transport, party, etc.)",
+    "tissue",
+    "texture (of a rock)",
+    "weave (of a fabric)"
+  ],
+  "category": "noun"
+}

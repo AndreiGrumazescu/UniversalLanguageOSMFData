@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1602990",
+  "japanese": "振り出し",
+  "kana": "ふりだし",
+  "meanings": [
+    "shaking (something) out"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "starting point",
+    "beginning",
+    "outset",
+    "drawing (e.g. of a bill)",
+    "issue",
+    "draft",
+    "throw (of dice)",
+    "infusion (remedy)",
+    "shaker (e.g. saltshaker)"
+  ],
+  "category": "noun"
+}

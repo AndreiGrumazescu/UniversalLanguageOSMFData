@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1548520",
+  "japanese": "絡む",
+  "kana": "からむ",
+  "meanings": [
+    "to twine",
+    "to get tangled",
+    "to get entangled",
+    "to get caught (in)"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to be involved (e.g. of money in a matter)",
+    "to get involved (in)",
+    "to be a factor (in)",
+    "to have an influence",
+    "to pick a quarrel (with)",
+    "to find fault (with)",
+    "to pester",
+    "to hassle"
+  ],
+  "category": "godan verb"
+}

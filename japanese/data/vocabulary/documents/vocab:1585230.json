@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1585230",
+  "japanese": "例",
+  "kana": "れい",
+  "meanings": [
+    "example",
+    "instance",
+    "illustration",
+    "case"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "precedent",
+    "custom",
+    "habit",
+    "practice",
+    "usage"
+  ],
+  "category": "noun"
+}

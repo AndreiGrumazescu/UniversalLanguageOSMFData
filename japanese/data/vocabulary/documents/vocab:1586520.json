@@ -1,0 +1,12 @@
+{
+  "$id": "vocab:1586520",
+  "japanese": "宛名",
+  "kana": "あてな",
+  "meanings": [
+    "name and address (on an envelope, etc.)",
+    "(addressee's) name",
+    "addressee"
+  ],
+  "jlptLevel": "N2",
+  "category": "noun"
+}

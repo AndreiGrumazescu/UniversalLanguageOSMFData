@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1251900",
+  "japanese": "繋ぐ",
+  "kana": "つなぐ",
+  "meanings": [
+    "to connect",
+    "to link together"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to tie",
+    "to fasten",
+    "to restrain",
+    "to maintain",
+    "to preserve",
+    "to keep",
+    "to transfer (phone call)",
+    "to put a person through",
+    "to hedge",
+    "to buy or sell forward",
+    "to connect (stones)"
+  ],
+  "category": "godan verb"
+}

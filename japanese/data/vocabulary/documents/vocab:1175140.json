@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1175140",
+  "japanese": "駅",
+  "kana": "えき",
+  "meanings": [
+    "railway station",
+    "train station"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "staging post on a highway (in pre-modern Japan)",
+    "counter for railway stations and bus stations"
+  ],
+  "category": "noun"
+}

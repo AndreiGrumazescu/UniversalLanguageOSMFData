@@ -1,0 +1,30 @@
+{
+  "$id": "vocab:1605320",
+  "japanese": "漏らす",
+  "kana": "もらす",
+  "meanings": [
+    "to let leak",
+    "to let out (e.g. light)"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to let out (a secret)",
+    "to leak (information)",
+    "to divulge",
+    "to disclose",
+    "to let slip",
+    "to give utterance to (e.g. one's dissatisfaction)",
+    "to vent",
+    "to express",
+    "to reveal (e.g. one's true intentions)",
+    "to let out (a sigh, etc.)",
+    "to wet one's pants",
+    "to omit",
+    "to leave out",
+    "to fail to do",
+    "to miss",
+    "to omit (by mistake)",
+    "to forget to do"
+  ],
+  "category": "godan verb"
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1557710",
+  "japanese": "零点",
+  "kana": "れいてん",
+  "meanings": [
+    "zero (points, marks)",
+    "no marks"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "zero (of a function)",
+    "root",
+    "zero degrees (Celsius)",
+    "freezing point"
+  ],
+  "category": "noun"
+}

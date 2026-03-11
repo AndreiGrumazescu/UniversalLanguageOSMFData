@@ -1,0 +1,27 @@
+{
+  "$id": "vocab:1208920",
+  "japanese": "株",
+  "kana": "かぶ",
+  "meanings": [
+    "stock",
+    "share"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "stump",
+    "(clump of) roots",
+    "plant with attached roots or stem",
+    "strain (of bacteria, etc.)",
+    "stock company",
+    "corporation",
+    "kabushiki kaisha",
+    "KK",
+    "goodwill (of a business)",
+    "privilege (that comes with a role)",
+    "reputation",
+    "standing",
+    "popularity",
+    "one's forte"
+  ],
+  "category": "noun"
+}

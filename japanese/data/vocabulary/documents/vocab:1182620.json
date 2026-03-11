@@ -1,0 +1,12 @@
+{
+  "$id": "vocab:1182620",
+  "japanese": "億",
+  "kana": "おく",
+  "meanings": [
+    "hundred million",
+    "100,000,000",
+    "10^8"
+  ],
+  "jlptLevel": "N4",
+  "category": "numeric"
+}

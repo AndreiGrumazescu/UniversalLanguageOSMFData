@@ -1,0 +1,27 @@
+{
+  "$id": "vocab:1433870",
+  "japanese": "壺",
+  "kana": "つぼ",
+  "meanings": [
+    "pot",
+    "jar",
+    "vase"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "dice cup",
+    "depression",
+    "basin (e.g. of a waterfall)",
+    "aim",
+    "what one wants",
+    "the mark",
+    "key point (of a conversation, etc.)",
+    "essence",
+    "acupuncture point",
+    "moxibustion point",
+    "pressure point",
+    "position on the fingerboard (of a shamisen, koto, etc.)",
+    "target (when aiming an arrow)"
+  ],
+  "category": "noun"
+}

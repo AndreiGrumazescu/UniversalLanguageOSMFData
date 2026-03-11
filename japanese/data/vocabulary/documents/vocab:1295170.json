@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1295170",
+  "japanese": "砕く",
+  "kana": "くだく",
+  "meanings": [
+    "to break (into pieces)",
+    "to smash",
+    "to crush",
+    "to shatter",
+    "to grind (into powder)",
+    "to pound"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to shatter (someone's hopes, confidence, etc.)",
+    "to crush",
+    "to frustrate",
+    "to simplify",
+    "to make easy to understand"
+  ],
+  "category": "godan verb"
+}

@@ -1,0 +1,14 @@
+{
+  "$id": "vocab:1601420",
+  "japanese": "日当たり",
+  "kana": "ひあたり",
+  "meanings": [
+    "exposure to the sun",
+    "sunny place"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "per day"
+  ],
+  "category": "noun"
+}

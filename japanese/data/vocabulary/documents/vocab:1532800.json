@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1532800",
+  "japanese": "迷惑",
+  "kana": "めいわく",
+  "meanings": [
+    "trouble",
+    "bother",
+    "annoyance",
+    "nuisance",
+    "inconvenience"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to be troubled (by)",
+    "to be bothered (by)",
+    "to be inconvenienced (by)"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1189130",
+  "japanese": "どうぞ",
+  "kana": "どうぞ",
+  "meanings": [
+    "please",
+    "kindly",
+    "pray",
+    "I beg (of you)"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "by all means",
+    "certainly",
+    "of course",
+    "(go) ahead",
+    "(feel) free (to)",
+    "(you are) welcome (to)",
+    "please (help yourself to)",
+    "here you are",
+    "to give"
+  ],
+  "category": "adverb"
+}

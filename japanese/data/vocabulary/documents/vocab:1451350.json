@@ -1,0 +1,25 @@
+{
+  "$id": "vocab:1451350",
+  "japanese": "動作",
+  "kana": "どうさ",
+  "meanings": [
+    "movement (of the body)",
+    "action",
+    "motion",
+    "gesture"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "bearing",
+    "carriage",
+    "behaviour",
+    "behavior",
+    "demeanour",
+    "demeanor",
+    "operation (of a machine, software, etc.)",
+    "running",
+    "working",
+    "functioning"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,41 @@
+{
+  "$id": "vocab:1221520",
+  "japanese": "気",
+  "kana": "き",
+  "meanings": [
+    "spirit",
+    "mind",
+    "heart"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "nature",
+    "disposition",
+    "intention",
+    "mind",
+    "will",
+    "motivation",
+    "mood",
+    "feelings",
+    "consciousness",
+    "care",
+    "attention",
+    "consideration",
+    "worry",
+    "interest",
+    "(the) air",
+    "atmosphere",
+    "ambience",
+    "atmosphere (of)",
+    "air (of)",
+    "mood",
+    "fragrance",
+    "aroma",
+    "flavour",
+    "taste",
+    "qi (in traditional Chinese philosophy and medicine)",
+    "chi",
+    "ki"
+  ],
+  "category": "noun"
+}

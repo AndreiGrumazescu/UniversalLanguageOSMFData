@@ -1,0 +1,26 @@
+{
+  "$id": "vocab:1264540",
+  "japanese": "言葉",
+  "kana": "ことば",
+  "meanings": [
+    "language",
+    "dialect"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "word",
+    "phrase",
+    "expression",
+    "term",
+    "speech",
+    "(manner of) speaking",
+    "(use of) language",
+    "words",
+    "remark",
+    "statement",
+    "comment",
+    "learning to speak",
+    "language acquisition"
+  ],
+  "category": "noun"
+}

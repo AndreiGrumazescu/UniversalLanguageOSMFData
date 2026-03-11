@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1325680",
+  "japanese": "主人公",
+  "kana": "しゅじんこう",
+  "meanings": [
+    "protagonist",
+    "main character",
+    "hero",
+    "heroine"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "head (of a household)",
+    "proprietor (of a store)"
+  ],
+  "category": "noun"
+}

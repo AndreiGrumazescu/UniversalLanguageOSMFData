@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1362560",
+  "japanese": "浸す",
+  "kana": "ひたす",
+  "meanings": [
+    "to soak",
+    "to dip",
+    "to steep",
+    "to immerse"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to moisten",
+    "to wet"
+  ],
+  "category": "godan verb"
+}

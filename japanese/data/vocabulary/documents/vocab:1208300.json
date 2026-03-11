@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1208300",
+  "japanese": "活字",
+  "kana": "かつじ",
+  "meanings": [
+    "(piece of) type",
+    "movable type",
+    "moveable type",
+    "printing type"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "printed word",
+    "printed matter",
+    "print"
+  ],
+  "category": "noun"
+}

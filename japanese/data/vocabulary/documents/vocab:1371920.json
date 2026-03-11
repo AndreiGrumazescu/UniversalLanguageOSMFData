@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1371920",
+  "japanese": "水道",
+  "kana": "すいどう",
+  "meanings": [
+    "water supply",
+    "water service",
+    "waterworks",
+    "tap water"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "channel",
+    "strait",
+    "water course",
+    "waterway"
+  ],
+  "category": "noun"
+}

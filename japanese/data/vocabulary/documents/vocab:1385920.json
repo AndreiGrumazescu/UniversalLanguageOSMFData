@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1385920",
+  "japanese": "折れる",
+  "kana": "おれる",
+  "meanings": [
+    "to break",
+    "to be broken",
+    "to snap",
+    "to fracture"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to be folded",
+    "to give in",
+    "to back down",
+    "to yield",
+    "to submit",
+    "to turn (a corner)"
+  ],
+  "category": "ichidan verb"
+}

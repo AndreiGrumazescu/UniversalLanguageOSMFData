@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1496740",
+  "japanese": "富む",
+  "kana": "とむ",
+  "meanings": [
+    "to be rich (in)",
+    "to abound (in)",
+    "to be abundant (in)",
+    "to be full (of)"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to be rich",
+    "to be wealthy"
+  ],
+  "category": "godan verb"
+}

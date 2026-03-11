@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1320230",
+  "japanese": "失礼",
+  "kana": "しつれい",
+  "meanings": [
+    "discourtesy",
+    "impoliteness"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "excuse me",
+    "goodbye",
+    "to leave",
+    "to be rude"
+  ],
+  "category": "noun"
+}

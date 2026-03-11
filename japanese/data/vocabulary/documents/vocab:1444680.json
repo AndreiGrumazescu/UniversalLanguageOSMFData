@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1444680",
+  "japanese": "渡る",
+  "kana": "わたる",
+  "meanings": [
+    "to cross over",
+    "to go across"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "to extend",
+    "to cover",
+    "to range",
+    "to span"
+  ],
+  "category": "godan verb"
+}

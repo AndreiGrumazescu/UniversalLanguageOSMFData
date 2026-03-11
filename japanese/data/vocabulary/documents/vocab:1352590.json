@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1352590",
+  "japanese": "上位",
+  "kana": "じょうい",
+  "meanings": [
+    "superior (in rank)",
+    "top",
+    "ranking"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "higher order (e.g. byte)",
+    "host computer (of connected device)"
+  ],
+  "category": "noun"
+}

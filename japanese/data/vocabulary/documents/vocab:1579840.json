@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1579840",
+  "japanese": "十",
+  "kana": "じゅう",
+  "meanings": [
+    "ten",
+    "10"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "ten years of age",
+    "book containing a collection of poems"
+  ],
+  "category": "numeric"
+}

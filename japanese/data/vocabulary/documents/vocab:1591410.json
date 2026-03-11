@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1591410",
+  "japanese": "気まぐれ",
+  "kana": "きまぐれ",
+  "meanings": [
+    "whim",
+    "caprice",
+    "fancy"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "capricious",
+    "fickle",
+    "whimsical",
+    "impulsive",
+    "changeable",
+    "temperamental"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1103270",
+  "japanese": "パンツ",
+  "kana": "パンツ",
+  "meanings": [
+    "underpants",
+    "pants",
+    "briefs",
+    "panties",
+    "shorts",
+    "knickers"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "trousers (esp. women's)",
+    "jodhpurs",
+    "breeches",
+    "pants",
+    "trunks (e.g. swimming)"
+  ],
+  "category": "noun"
+}

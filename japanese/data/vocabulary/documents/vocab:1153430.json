@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1153430",
+  "japanese": "扱い",
+  "kana": "あつかい",
+  "meanings": [
+    "treatment",
+    "service",
+    "dealing (with)",
+    "handling",
+    "management"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "handling (of a machine, tool, etc.)",
+    "operation",
+    "use",
+    "treating as",
+    "treating like"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1366210",
+  "japanese": "針",
+  "kana": "はり",
+  "meanings": [
+    "needle",
+    "pin"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "hook",
+    "stinger",
+    "thorn",
+    "hand (e.g. clock, etc.)",
+    "pointer",
+    "staple (for a stapler)",
+    "needlework",
+    "sewing",
+    "malice",
+    "counter for stitches"
+  ],
+  "category": "noun"
+}

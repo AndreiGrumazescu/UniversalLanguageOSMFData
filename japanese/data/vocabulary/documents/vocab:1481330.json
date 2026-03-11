@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1481330",
+  "japanese": "斑",
+  "kana": "むら",
+  "meanings": [
+    "unevenness (of colour, paint, etc.)",
+    "irregularity",
+    "nonuniformity",
+    "blotchiness"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "unevenness (of quality, results, behaviour, etc.)",
+    "inconsistency",
+    "instability",
+    "fickleness",
+    "capriciousness",
+    "fitfulness"
+  ],
+  "category": "noun"
+}

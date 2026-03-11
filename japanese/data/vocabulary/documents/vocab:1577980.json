@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1577980",
+  "japanese": "居る",
+  "kana": "いる",
+  "meanings": [
+    "to be (of animate objects)",
+    "to exist"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "to stay",
+    "to be ...-ing",
+    "to have ...-ed",
+    "to be ...-ed"
+  ],
+  "category": "ichidan verb"
+}

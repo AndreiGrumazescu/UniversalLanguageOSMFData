@@ -1,0 +1,25 @@
+{
+  "$id": "vocab:1414380",
+  "japanese": "大層",
+  "kana": "たいそう",
+  "meanings": [
+    "very",
+    "extremely",
+    "exceedingly",
+    "greatly",
+    "terribly"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "extreme",
+    "excessive",
+    "great many",
+    "large number of",
+    "splendid",
+    "impressive",
+    "tremendous",
+    "immense",
+    "exaggerated"
+  ],
+  "category": "adverb"
+}

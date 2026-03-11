@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1422140",
+  "japanese": "築く",
+  "kana": "きずく",
+  "meanings": [
+    "to build",
+    "to construct",
+    "to erect"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to build up (a reputation, position, fortune, etc.)",
+    "to establish (a relationship, household, tradition, etc.)",
+    "to lay (a foundation)"
+  ],
+  "category": "godan verb"
+}

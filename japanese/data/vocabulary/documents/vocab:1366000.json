@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1366000",
+  "japanese": "進化",
+  "kana": "しんか",
+  "meanings": [
+    "evolution"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "evolution",
+    "becoming more advanced",
+    "progress",
+    "development",
+    "improvement"
+  ],
+  "category": "noun"
+}

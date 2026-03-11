@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1359340",
+  "japanese": "信者",
+  "kana": "しんじゃ",
+  "meanings": [
+    "believer",
+    "adherent",
+    "devotee",
+    "follower"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "fanboy",
+    "fanatic",
+    "superfan"
+  ],
+  "category": "noun"
+}

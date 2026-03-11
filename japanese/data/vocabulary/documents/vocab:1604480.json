@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1604480",
+  "japanese": "見込み",
+  "kana": "みこみ",
+  "meanings": [
+    "hope",
+    "promise",
+    "possibility",
+    "chance",
+    "probability",
+    "likelihood"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "expectation",
+    "anticipation",
+    "forecast",
+    "estimate",
+    "side of a structural member"
+  ],
+  "category": "noun"
+}

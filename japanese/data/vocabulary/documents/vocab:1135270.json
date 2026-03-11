@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1135270",
+  "japanese": "モデル",
+  "kana": "モデル",
+  "meanings": [
+    "model",
+    "dummy",
+    "mock-up"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "model (profession)",
+    "fashion model",
+    "model (of a vehicle, machine, etc.)",
+    "version",
+    "model (e.g. mathematical)",
+    "model (for a fictional character, place, etc.)",
+    "inspiration",
+    "model (in model theory)"
+  ],
+  "category": "noun"
+}

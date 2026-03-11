@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1230240",
+  "japanese": "給仕",
+  "kana": "きゅうじ",
+  "meanings": [
+    "waiting on a table",
+    "serving (at dinner)"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "waiter",
+    "waitress",
+    "waitperson",
+    "server",
+    "cabin boy",
+    "bellboy",
+    "page",
+    "pageboy",
+    "office boy",
+    "office girl"
+  ],
+  "category": "noun"
+}

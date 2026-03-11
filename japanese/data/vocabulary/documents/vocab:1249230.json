@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1249230",
+  "japanese": "郡",
+  "kana": "ぐん",
+  "meanings": [
+    "district",
+    "county"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "district (of 2-20 50-home neighbourhoods or townships, in the ritsuryō period)",
+    "commandery (in China)"
+  ],
+  "category": "noun"
+}

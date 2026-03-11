@@ -1,0 +1,27 @@
+{
+  "$id": "vocab:1405790",
+  "japanese": "続く",
+  "kana": "つづく",
+  "meanings": [
+    "to continue",
+    "to last",
+    "to go on"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to continue (without a break)",
+    "to be unbroken",
+    "to occur again and again",
+    "to lead to",
+    "to connect to",
+    "to adjoin",
+    "to come after",
+    "to follow",
+    "to succeed",
+    "to rank next to",
+    "to hold out",
+    "to keep",
+    "to last"
+  ],
+  "category": "godan verb"
+}

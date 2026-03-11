@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1125150",
+  "japanese": "ポスト",
+  "kana": "ポスト",
+  "meanings": [
+    "postbox",
+    "mailbox",
+    "mail box",
+    "pillar box"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "post",
+    "position",
+    "post (e.g. goalpost)",
+    "post (on a blog, social media, etc.)",
+    "post- (e.g. post-Cold War)"
+  ],
+  "category": "noun"
+}

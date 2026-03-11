@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1568800",
+  "japanese": "滲む",
+  "kana": "にじむ",
+  "meanings": [
+    "to run (of liquid)",
+    "to spread",
+    "to bleed",
+    "to blot"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to blur",
+    "to blot",
+    "to be blurred",
+    "to ooze",
+    "to well up (of tears, etc.)",
+    "to show through (of feelings, emotions, etc.)",
+    "to reveal itself"
+  ],
+  "category": "godan verb"
+}

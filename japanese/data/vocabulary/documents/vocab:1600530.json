@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1600530",
+  "japanese": "乗り物",
+  "kana": "のりもの",
+  "meanings": [
+    "vehicle",
+    "conveyance",
+    "(means of) transport"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "ride (at a fair, amusement park, etc.)",
+    "attraction"
+  ],
+  "category": "noun"
+}

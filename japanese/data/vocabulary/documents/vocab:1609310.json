@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1609310",
+  "japanese": "打ち消す",
+  "kana": "うちけす",
+  "meanings": [
+    "to deny",
+    "to contradict"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to negate (esp. a sound)",
+    "to drown out"
+  ],
+  "category": "godan verb"
+}

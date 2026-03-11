@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1307550",
+  "japanese": "始める",
+  "kana": "はじめる",
+  "meanings": [
+    "to start",
+    "to begin",
+    "to commence",
+    "to initiate",
+    "to originate"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to start up (a business, society, etc.)",
+    "to open (e.g. a store)",
+    "to establish",
+    "to start ...",
+    "to begin to ..."
+  ],
+  "category": "ichidan verb"
+}

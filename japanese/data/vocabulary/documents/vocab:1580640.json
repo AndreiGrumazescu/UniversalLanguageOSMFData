@@ -1,0 +1,34 @@
+{
+  "$id": "vocab:1580640",
+  "japanese": "人",
+  "kana": "ひと",
+  "meanings": [
+    "person",
+    "someone",
+    "somebody"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "human beings",
+    "mankind",
+    "man",
+    "people",
+    "humans",
+    "human (Homo sapiens)",
+    "(other) people",
+    "others",
+    "character",
+    "personality",
+    "nature",
+    "capable person",
+    "competent person",
+    "suitable person",
+    "right person",
+    "adult",
+    "grown-up",
+    "I",
+    "me",
+    "one"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1604130",
+  "japanese": "祭り",
+  "kana": "まつり",
+  "meanings": [
+    "festival",
+    "feast",
+    "matsuri"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "harassment by an Internet pitchfork mob",
+    "online shaming",
+    "flaming",
+    "galore (as in \"goals galore\")",
+    "frenzy",
+    "mania"
+  ],
+  "category": "noun"
+}

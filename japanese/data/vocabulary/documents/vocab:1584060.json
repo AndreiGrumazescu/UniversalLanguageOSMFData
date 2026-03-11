@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1584060",
+  "japanese": "包む",
+  "kana": "つつむ",
+  "meanings": [
+    "to wrap up",
+    "to pack",
+    "to bundle",
+    "to do up"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to cover",
+    "to envelop",
+    "to shroud",
+    "to engulf",
+    "to conceal (a feeling)",
+    "to hide",
+    "to give (money in an envelope; as a wedding gift, funeral offering, etc.)"
+  ],
+  "category": "godan verb"
+}

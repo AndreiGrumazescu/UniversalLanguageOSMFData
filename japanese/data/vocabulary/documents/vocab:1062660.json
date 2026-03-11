@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1062660",
+  "japanese": "ショック",
+  "kana": "ショック",
+  "meanings": [
+    "shock (emotional)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "shock (physical)",
+    "impact",
+    "jolt",
+    "crisis (esp. financial)",
+    "event that rattles the markets",
+    "(circulatory) shock"
+  ],
+  "category": "noun"
+}

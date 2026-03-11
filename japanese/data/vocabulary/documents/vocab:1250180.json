@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1250180",
+  "japanese": "契機",
+  "kana": "けいき",
+  "meanings": [
+    "opportunity",
+    "chance"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "trigger",
+    "cause"
+  ],
+  "category": "noun"
+}

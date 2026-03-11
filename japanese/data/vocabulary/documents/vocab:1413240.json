@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1413240",
+  "japanese": "大学",
+  "kana": "だいがく",
+  "meanings": [
+    "university",
+    "college"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "former imperial university of Japan (established under the ritsuryō system for the training of government administrators)",
+    "the Great Learning (one of the Four Books)"
+  ],
+  "category": "noun"
+}

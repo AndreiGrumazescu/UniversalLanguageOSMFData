@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1309230",
+  "japanese": "思い込む",
+  "kana": "おもいこむ",
+  "meanings": [
+    "to be convinced (that)",
+    "to be under the impression (that)",
+    "to feel sure (that)",
+    "to assume (that)"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to make up one's mind",
+    "to set one's heart on",
+    "to be determined (to do)",
+    "to be bent on",
+    "to be obsessed (with a thought, idea, etc.)",
+    "to think about obsessively"
+  ],
+  "category": "godan verb"
+}

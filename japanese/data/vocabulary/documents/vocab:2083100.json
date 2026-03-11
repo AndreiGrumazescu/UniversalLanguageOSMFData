@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:2083100",
+  "japanese": "日",
+  "kana": "にち",
+  "meanings": [
+    "Sunday"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "nth day (of the month)",
+    "counter for days",
+    "Japan"
+  ],
+  "category": "noun"
+}

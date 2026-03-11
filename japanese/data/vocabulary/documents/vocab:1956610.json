@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1956610",
+  "japanese": "隊",
+  "kana": "たい",
+  "meanings": [
+    "party",
+    "group",
+    "crew",
+    "team",
+    "body"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "company (of troops)",
+    "corps",
+    "unit",
+    "squad"
+  ],
+  "category": "noun"
+}

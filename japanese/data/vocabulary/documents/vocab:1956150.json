@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1956150",
+  "japanese": "訓",
+  "kana": "くん",
+  "meanings": [
+    "native Japanese reading of a Chinese character"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "precept",
+    "lesson",
+    "one's teachings"
+  ],
+  "category": "noun"
+}

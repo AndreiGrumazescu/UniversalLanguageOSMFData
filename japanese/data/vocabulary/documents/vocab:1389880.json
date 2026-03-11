@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1389880",
+  "japanese": "専門",
+  "kana": "せんもん",
+  "meanings": [
+    "speciality",
+    "specialty",
+    "special subject of study",
+    "area of expertise",
+    "(one's) field",
+    "(one's) major"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "sole interest",
+    "single focus",
+    "concentrating exclusively on",
+    "doing exclusively",
+    "sticking to"
+  ],
+  "category": "noun"
+}

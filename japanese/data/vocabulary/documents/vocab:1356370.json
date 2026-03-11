@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1356370",
+  "japanese": "情報",
+  "kana": "じょうほう",
+  "meanings": [
+    "information",
+    "news",
+    "report",
+    "intelligence"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "information (data contained in characters, signals, code, etc.)",
+    "informatics (as a subject)"
+  ],
+  "category": "noun"
+}

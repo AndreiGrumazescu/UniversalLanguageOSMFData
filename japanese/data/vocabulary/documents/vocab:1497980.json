@@ -1,0 +1,28 @@
+{
+  "$id": "vocab:1497980",
+  "japanese": "負ける",
+  "kana": "まける",
+  "meanings": [
+    "to lose",
+    "to be defeated",
+    "to be beaten"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to give in (to)",
+    "to yield",
+    "to succumb",
+    "to give way",
+    "to surrender",
+    "to be overcome (with)",
+    "to be inferior (to)",
+    "to be second (to)",
+    "to be outdone (by)",
+    "to get a rash (from)",
+    "to come out in a rash",
+    "to reduce the price",
+    "to give a discount",
+    "to throw in (something extra) for free"
+  ],
+  "category": "ichidan verb"
+}

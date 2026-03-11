@@ -1,0 +1,25 @@
+{
+  "$id": "vocab:1417040",
+  "japanese": "単位",
+  "kana": "たんい",
+  "meanings": [
+    "unit (e.g. meters, grams, etc.)",
+    "denomination"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "unit (i.e. one comprised of many)",
+    "group",
+    "whole",
+    "credit (in school, university, etc.)",
+    "point",
+    "by the ...",
+    "in units of ...",
+    "in groups of ...",
+    "in amounts of ...",
+    "each ...",
+    "by ...",
+    "every..."
+  ],
+  "category": "noun"
+}

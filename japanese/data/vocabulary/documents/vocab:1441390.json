@@ -1,0 +1,38 @@
+{
+  "$id": "vocab:1441390",
+  "japanese": "点",
+  "kana": "てん",
+  "meanings": [
+    "dot",
+    "spot",
+    "point",
+    "speck",
+    "mark"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "mark (in an exam, etc.)",
+    "grade",
+    "score",
+    "points",
+    "point (in a game)",
+    "score",
+    "goal",
+    "run",
+    "point",
+    "point",
+    "aspect",
+    "matter",
+    "detail",
+    "part",
+    "respect",
+    "way",
+    "viewpoint",
+    "(punctuation) mark (e.g. comma, period, decimal point)",
+    "dot",
+    "\"dot\" stroke (in a Chinese character)",
+    "counter for points, marks, goals, etc.",
+    "counter for goods, items, articles of clothing, works of art, etc."
+  ],
+  "category": "noun"
+}

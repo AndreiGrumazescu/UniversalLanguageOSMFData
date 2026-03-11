@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1169000",
+  "japanese": "引きずる",
+  "kana": "ひきずる",
+  "meanings": [
+    "to drag",
+    "to trail",
+    "to pull along the ground",
+    "to lug"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to force (someone) along",
+    "to drag (along)",
+    "to prolong",
+    "to drag out",
+    "to influence",
+    "to persuade",
+    "to entice",
+    "to lure"
+  ],
+  "category": "godan verb"
+}

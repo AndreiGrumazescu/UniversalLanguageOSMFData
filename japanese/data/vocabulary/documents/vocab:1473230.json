@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1473230",
+  "japanese": "倍",
+  "kana": "ばい",
+  "meanings": [
+    "double",
+    "twice (as much)"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "times (as much)",
+    "-fold",
+    "1-nth",
+    "1 to n",
+    "1 in n"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1388080",
+  "japanese": "先代",
+  "kana": "せんだい",
+  "meanings": [
+    "previous generation (of a family)",
+    "previous head of the family",
+    "one's (late) father"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "predecessor",
+    "previous age",
+    "previous generation"
+  ],
+  "category": "noun"
+}

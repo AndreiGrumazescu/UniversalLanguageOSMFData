@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1574550",
+  "japanese": "騙す",
+  "kana": "だます",
+  "meanings": [
+    "to trick",
+    "to cheat",
+    "to deceive",
+    "to swindle",
+    "to dupe"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to coax",
+    "to wheedle",
+    "to soothe",
+    "to calm"
+  ],
+  "category": "godan verb"
+}

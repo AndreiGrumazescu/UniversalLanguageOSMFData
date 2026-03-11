@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1253900",
+  "japanese": "欠く",
+  "kana": "かく",
+  "meanings": [
+    "to chip",
+    "to nick",
+    "to break",
+    "to crack"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to lack"
+  ],
+  "category": "godan verb"
+}

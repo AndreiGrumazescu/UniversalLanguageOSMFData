@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1532220",
+  "japanese": "明かす",
+  "kana": "あかす",
+  "meanings": [
+    "to pass (the night)",
+    "to spend"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to reveal",
+    "to divulge",
+    "to disclose",
+    "to expose",
+    "to prove",
+    "to verify"
+  ],
+  "category": "godan verb"
+}

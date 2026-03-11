@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1583840",
+  "japanese": "文書",
+  "kana": "ぶんしょ",
+  "meanings": [
+    "document",
+    "writing",
+    "letter",
+    "papers",
+    "notes",
+    "records",
+    "archives"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "document addressed to someone"
+  ],
+  "category": "noun"
+}

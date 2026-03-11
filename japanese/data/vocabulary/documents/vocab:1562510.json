@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1562510",
+  "japanese": "賄う",
+  "kana": "まかなう",
+  "meanings": [
+    "to supply (goods, money, etc.)",
+    "to cover (costs)",
+    "to pay",
+    "to finance",
+    "to maintain (e.g. a family)"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to give board",
+    "to provide meals"
+  ],
+  "category": "godan verb"
+}

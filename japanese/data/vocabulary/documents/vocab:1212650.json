@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1212650",
+  "japanese": "慣らす",
+  "kana": "ならす",
+  "meanings": [
+    "to accustom",
+    "to train (e.g. one's ear)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to tame",
+    "to domesticate",
+    "to train (an animal)"
+  ],
+  "category": "godan verb"
+}

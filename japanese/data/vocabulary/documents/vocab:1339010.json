@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1339010",
+  "japanese": "出産",
+  "kana": "しゅっさん",
+  "meanings": [
+    "childbirth",
+    "(giving) birth",
+    "delivery",
+    "parturition"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "production (of goods)"
+  ],
+  "category": "noun"
+}

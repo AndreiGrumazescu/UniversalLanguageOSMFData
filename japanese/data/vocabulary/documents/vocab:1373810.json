@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1373810",
+  "japanese": "寸法",
+  "kana": "すんぽう",
+  "meanings": [
+    "measurement",
+    "size",
+    "extent",
+    "dimension"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "plan",
+    "intention",
+    "arrangement",
+    "schedule"
+  ],
+  "category": "noun"
+}

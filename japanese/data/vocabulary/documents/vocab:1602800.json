@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1602800",
+  "japanese": "船",
+  "kana": "ふね",
+  "meanings": [
+    "ship",
+    "boat",
+    "watercraft",
+    "vessel",
+    "seaplane"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "tank",
+    "tub",
+    "vat",
+    "trough",
+    "counter for boat-shaped containers (e.g. of sashimi)"
+  ],
+  "category": "noun"
+}

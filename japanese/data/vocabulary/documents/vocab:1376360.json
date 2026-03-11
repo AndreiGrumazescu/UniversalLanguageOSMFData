@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1376360",
+  "japanese": "星座",
+  "kana": "せいざ",
+  "meanings": [
+    "constellation"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "astrological sign",
+    "star sign",
+    "zodiac sign"
+  ],
+  "category": "noun"
+}

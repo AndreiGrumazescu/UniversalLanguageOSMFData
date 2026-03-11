@@ -1,0 +1,14 @@
+{
+  "$id": "vocab:1375190",
+  "japanese": "姓",
+  "kana": "せい",
+  "meanings": [
+    "surname",
+    "family name"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "hereditary title (used in ancient Japan to denote rank and political standing)"
+  ],
+  "category": "noun"
+}

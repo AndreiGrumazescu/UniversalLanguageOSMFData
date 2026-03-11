@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1244680",
+  "japanese": "苦労",
+  "kana": "くろう",
+  "meanings": [
+    "trouble",
+    "hardship",
+    "difficulty",
+    "labour",
+    "labor",
+    "toil",
+    "pains"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "anxiety",
+    "worry",
+    "concern",
+    "cares"
+  ],
+  "category": "noun"
+}

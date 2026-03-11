@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1409800",
+  "japanese": "対",
+  "kana": "たい",
+  "meanings": [
+    "versus",
+    "against",
+    "vs.",
+    "v."
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to (e.g. score of 4 to 2, ratio of 3 to 1, vote of 320 to 180)",
+    "toward ...",
+    "to ...",
+    "with ...",
+    "against ...",
+    "anti-",
+    "equal footing",
+    "equal terms",
+    "opposite"
+  ],
+  "category": "noun"
+}

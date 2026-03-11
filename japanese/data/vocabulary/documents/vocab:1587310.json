@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1587310",
+  "japanese": "位置",
+  "kana": "いち",
+  "meanings": [
+    "place",
+    "position",
+    "location"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "position",
+    "standing",
+    "status",
+    "situation"
+  ],
+  "category": "noun"
+}

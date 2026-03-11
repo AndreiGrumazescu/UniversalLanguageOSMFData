@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1578730",
+  "japanese": "甲",
+  "kana": "こう",
+  "meanings": [
+    "carapace",
+    "shell"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "1st in rank",
+    "grade A",
+    "instep",
+    "back of hand",
+    "the A party (e.g. in a contract)",
+    "the first party",
+    "plaintiff (label in legal documents)"
+  ],
+  "category": "noun"
+}

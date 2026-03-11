@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1481550",
+  "japanese": "犯す",
+  "kana": "おかす",
+  "meanings": [
+    "to commit (e.g. crime)",
+    "to perpetrate",
+    "to make (e.g. mistake)"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to break (e.g. rule)",
+    "to violate",
+    "to transgress",
+    "to contravene",
+    "to rape",
+    "to violate",
+    "to ravish",
+    "to deflower"
+  ],
+  "category": "godan verb"
+}

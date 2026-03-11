@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1406100",
+  "japanese": "揃い",
+  "kana": "そろい",
+  "meanings": [
+    "set",
+    "suit",
+    "uniform collection",
+    "matching items"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "entirely",
+    "all",
+    "every one",
+    "nothing but"
+  ],
+  "category": "noun"
+}

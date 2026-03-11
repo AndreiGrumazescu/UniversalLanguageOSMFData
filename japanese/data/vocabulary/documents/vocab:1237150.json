@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1237150",
+  "japanese": "教室",
+  "kana": "きょうしつ",
+  "meanings": [
+    "classroom",
+    "lecture room"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "department (in a university)",
+    "class",
+    "lessons",
+    "course",
+    "school (for a particular discipline)",
+    "teaching establishment"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,29 @@
+{
+  "$id": "vocab:1184160",
+  "japanese": "下がる",
+  "kana": "さがる",
+  "meanings": [
+    "to come down",
+    "to go down",
+    "to fall",
+    "to drop",
+    "to sink",
+    "to get lower"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to hang",
+    "to dangle",
+    "to move back",
+    "to step back",
+    "to withdraw",
+    "to retire",
+    "to deteriorate",
+    "to fall off",
+    "to be downgraded",
+    "to get closer to the present day",
+    "to play a sagari",
+    "to extend downwards"
+  ],
+  "category": "godan verb"
+}

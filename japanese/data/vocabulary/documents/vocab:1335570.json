@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1335570",
+  "japanese": "渋滞",
+  "kana": "じゅうたい",
+  "meanings": [
+    "(traffic) congestion",
+    "traffic jam",
+    "gridlock"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "delay",
+    "stagnation"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1514360",
+  "japanese": "歩む",
+  "kana": "あゆむ",
+  "meanings": [
+    "to walk",
+    "to go on foot"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to tread (a figurative path)",
+    "to follow",
+    "to lead (a life)",
+    "to experience",
+    "to advance towards (e.g. a solution)",
+    "to set out (e.g. on the path to destruction, ruin, etc.)",
+    "to embark (on the road to ...)"
+  ],
+  "category": "godan verb"
+}

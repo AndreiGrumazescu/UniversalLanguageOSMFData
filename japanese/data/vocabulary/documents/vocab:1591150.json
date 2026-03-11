@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1591150",
+  "japanese": "聞こえる",
+  "kana": "きこえる",
+  "meanings": [
+    "to be heard",
+    "to be audible",
+    "to reach one's ears"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to sound (like)",
+    "to come across (as)",
+    "to be well known",
+    "to be famous",
+    "to accept (someone's words)",
+    "to agree",
+    "to understand"
+  ],
+  "category": "ichidan verb"
+}

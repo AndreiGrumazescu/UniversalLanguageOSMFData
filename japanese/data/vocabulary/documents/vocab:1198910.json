@@ -1,0 +1,26 @@
+{
+  "$id": "vocab:1198910",
+  "japanese": "解ける",
+  "kana": "とける",
+  "meanings": [
+    "to be solved",
+    "to be worked out"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to come loose",
+    "to come untied",
+    "to come undone",
+    "to be removed (of restrictions)",
+    "to be lifted (e.g. of a ban)",
+    "to be broken (of a spell, curse, etc.)",
+    "to dissipate (of anger, tension, etc.)",
+    "to melt away",
+    "to ease",
+    "to be allayed",
+    "to be appeased",
+    "to be resolved (of a dispute, misunderstanding, etc.)",
+    "to be cleared up"
+  ],
+  "category": "ichidan verb"
+}

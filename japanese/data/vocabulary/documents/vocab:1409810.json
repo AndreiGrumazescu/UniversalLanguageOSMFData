@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1409810",
+  "japanese": "対",
+  "kana": "つい",
+  "meanings": [
+    "pair",
+    "couple",
+    "set"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "antithesis",
+    "counter for items that come in pairs",
+    "counter for sets (of clothes, small furniture, utensils, etc.)"
+  ],
+  "category": "noun"
+}

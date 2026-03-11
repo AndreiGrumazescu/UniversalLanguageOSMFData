@@ -1,0 +1,31 @@
+{
+  "$id": "vocab:1451210",
+  "japanese": "動く",
+  "kana": "うごく",
+  "meanings": [
+    "to move",
+    "to stir",
+    "to shift",
+    "to shake",
+    "to swing"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to operate",
+    "to run",
+    "to go",
+    "to work",
+    "to make a move",
+    "to take action",
+    "to act",
+    "to go into action",
+    "to be touched",
+    "to be influenced",
+    "to change",
+    "to vary",
+    "to fluctuate",
+    "to waver",
+    "to be transferred"
+  ],
+  "category": "godan verb"
+}

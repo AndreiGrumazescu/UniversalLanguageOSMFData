@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1298420",
+  "japanese": "錯誤",
+  "kana": "さくご",
+  "meanings": [
+    "mistake",
+    "error",
+    "discrepancy"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "discrepancy between one's actions and intentions"
+  ],
+  "category": "noun"
+}

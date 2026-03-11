@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1198180",
+  "japanese": "会う",
+  "kana": "あう",
+  "meanings": [
+    "to meet",
+    "to encounter",
+    "to see"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to have an accident",
+    "to have a bad experience"
+  ],
+  "category": "godan verb"
+}

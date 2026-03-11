@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1218360",
+  "japanese": "危うい",
+  "kana": "あやうい",
+  "meanings": [
+    "dangerous",
+    "in danger",
+    "facing imminent danger"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "precarious (situation)",
+    "perilous (state, balance, etc.)",
+    "in doubt",
+    "in jeopardy",
+    "uncertain",
+    "insecure",
+    "concerning",
+    "worrying"
+  ],
+  "category": "i-adjective"
+}

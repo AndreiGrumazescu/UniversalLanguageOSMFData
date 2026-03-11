@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1409760",
+  "japanese": "体力",
+  "kana": "たいりょく",
+  "meanings": [
+    "physical strength",
+    "power",
+    "stamina",
+    "endurance",
+    "vigor",
+    "resistance to disease"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "strength (of a business, economy, etc.)"
+  ],
+  "category": "noun"
+}

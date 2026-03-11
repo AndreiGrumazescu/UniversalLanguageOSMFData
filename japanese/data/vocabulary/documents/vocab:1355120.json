@@ -1,0 +1,40 @@
+{
+  "$id": "vocab:1355120",
+  "japanese": "乗る",
+  "kana": "のる",
+  "meanings": [
+    "to get on (train, plane, bus, ship, etc.)",
+    "to get in",
+    "to board",
+    "to take",
+    "to embark"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "to get on (e.g. a footstool)",
+    "to step on",
+    "to jump on",
+    "to sit on",
+    "to mount",
+    "to reach",
+    "to go over",
+    "to pass",
+    "to follow",
+    "to stay (on track)",
+    "to go with (the times, etc.)",
+    "to take part",
+    "to participate",
+    "to join",
+    "to get into the swing (and sing, dance, etc.)",
+    "to be deceived",
+    "to be taken in",
+    "to be carried",
+    "to be spread",
+    "to be scattered",
+    "to stick",
+    "to attach",
+    "to take",
+    "to go on"
+  ],
+  "category": "godan verb"
+}

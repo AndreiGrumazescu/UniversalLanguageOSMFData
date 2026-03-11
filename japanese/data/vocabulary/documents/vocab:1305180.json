@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1305180",
+  "japanese": "仕切る",
+  "kana": "しきる",
+  "meanings": [
+    "to partition",
+    "to divide",
+    "to mark off"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to direct",
+    "to manage",
+    "to run",
+    "to organize",
+    "to take responsibility for",
+    "to settle accounts",
+    "to assume a crouching posture (at the start of a bout)",
+    "to poise oneself for the initial charge"
+  ],
+  "category": "godan verb"
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1575400",
+  "japanese": "ばい菌",
+  "kana": "ばいきん",
+  "meanings": [
+    "germ",
+    "germs",
+    "bacteria",
+    "bug"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "something dirty or harmful",
+    "vermin"
+  ],
+  "category": "noun"
+}

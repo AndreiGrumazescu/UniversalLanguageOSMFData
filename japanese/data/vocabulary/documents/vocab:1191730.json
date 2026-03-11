@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1191730",
+  "japanese": "家",
+  "kana": "いえ",
+  "meanings": [
+    "house",
+    "residence",
+    "dwelling",
+    "home"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "family",
+    "household",
+    "lineage",
+    "family name"
+  ],
+  "category": "noun"
+}

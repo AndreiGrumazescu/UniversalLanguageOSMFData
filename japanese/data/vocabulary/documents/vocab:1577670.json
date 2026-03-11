@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1577670",
+  "japanese": "眼鏡",
+  "kana": "メガネ",
+  "meanings": [
+    "glasses",
+    "eyeglasses",
+    "spectacles"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "judgment",
+    "judgement",
+    "discrimination",
+    "discernment",
+    "insight",
+    "four-eyes"
+  ],
+  "category": "noun"
+}

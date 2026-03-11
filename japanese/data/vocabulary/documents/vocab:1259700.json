@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1259700",
+  "japanese": "見習う",
+  "kana": "みならう",
+  "meanings": [
+    "to follow (someone's) example",
+    "to imitate",
+    "to copy",
+    "to pattern oneself on"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to learn (by observation)"
+  ],
+  "category": "godan verb"
+}

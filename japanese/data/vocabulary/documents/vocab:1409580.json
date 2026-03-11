@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1409580",
+  "japanese": "体操",
+  "kana": "たいそう",
+  "meanings": [
+    "gymnastics",
+    "physical exercises"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "artistic gymnastics",
+    "gymnastics competition",
+    "physical education (class)",
+    "PE"
+  ],
+  "category": "noun"
+}

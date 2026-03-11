@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1158240",
+  "japanese": "移行",
+  "kana": "いこう",
+  "meanings": [
+    "transition",
+    "changeover",
+    "switchover",
+    "shift"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "transfer (of powers, weight, etc.)",
+    "shift (e.g. of centre of gravity)"
+  ],
+  "category": "noun"
+}

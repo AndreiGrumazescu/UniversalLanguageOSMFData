@@ -1,0 +1,26 @@
+{
+  "$id": "vocab:1600400",
+  "japanese": "飲み込む",
+  "kana": "のみこむ",
+  "meanings": [
+    "to swallow",
+    "to gulp down"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to understand",
+    "to grasp",
+    "to take in",
+    "to catch on",
+    "to learn",
+    "to engulf",
+    "to swallow up",
+    "to be filled with (people)",
+    "to contain",
+    "to swallow (one's words)",
+    "to suppress (a yawn, tears, etc.)",
+    "to stifle",
+    "to hold back"
+  ],
+  "category": "godan verb"
+}

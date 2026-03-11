@@ -1,0 +1,30 @@
+{
+  "$id": "vocab:1577100",
+  "japanese": "何",
+  "kana": "なに",
+  "meanings": [
+    "what"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "you-know-what",
+    "that thing",
+    "whatsit",
+    "whachamacallit",
+    "what's-his-name",
+    "what's-her-name",
+    "penis",
+    "(one's) thing",
+    "dick",
+    "(not) at all",
+    "(not) in the slightest",
+    "what?",
+    "huh?",
+    "hey!",
+    "come on!",
+    "oh, no (it's fine)",
+    "why (it's nothing)",
+    "oh (certainly not)"
+  ],
+  "category": "pronoun"
+}

@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1484150",
+  "japanese": "秘密",
+  "kana": "ひみつ",
+  "meanings": [
+    "secret",
+    "secrecy",
+    "confidentiality",
+    "privacy"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "mystery",
+    "secret (e.g. to success)",
+    "esoteric teachings"
+  ],
+  "category": "noun"
+}

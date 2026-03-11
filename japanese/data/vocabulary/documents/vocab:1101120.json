@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1101120",
+  "japanese": "パイプ",
+  "kana": "パイプ",
+  "meanings": [
+    "pipe",
+    "tube"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "(tobacco) pipe",
+    "cigarette holder",
+    "go-between",
+    "intermediary",
+    "mediator",
+    "connections (with)",
+    "channel (of communication)"
+  ],
+  "category": "noun"
+}

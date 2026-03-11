@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1263490",
+  "japanese": "表す",
+  "kana": "あらわす",
+  "meanings": [
+    "to represent",
+    "to signify",
+    "to stand for"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to reveal",
+    "to show",
+    "to display",
+    "to express",
+    "to make widely known"
+  ],
+  "category": "godan verb"
+}

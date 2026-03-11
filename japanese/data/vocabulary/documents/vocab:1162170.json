@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1162170",
+  "japanese": "一見",
+  "kana": "いっけん",
+  "meanings": [
+    "look",
+    "glimpse",
+    "glance"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "apparently",
+    "seemingly",
+    "at first glance",
+    "on the face of it",
+    "first meeting"
+  ],
+  "category": "noun"
+}

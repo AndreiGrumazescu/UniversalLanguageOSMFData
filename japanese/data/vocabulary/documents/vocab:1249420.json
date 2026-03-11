@@ -1,0 +1,25 @@
+{
+  "$id": "vocab:1249420",
+  "japanese": "傾ける",
+  "kana": "かたむける",
+  "meanings": [
+    "to incline",
+    "to lean",
+    "to tip",
+    "to tilt",
+    "to slant",
+    "to bend",
+    "to list"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to devote oneself to",
+    "to concentrate on",
+    "to pour one's energy into",
+    "to ruin",
+    "to squander",
+    "to empty",
+    "to drink (alcohol)"
+  ],
+  "category": "ichidan verb"
+}

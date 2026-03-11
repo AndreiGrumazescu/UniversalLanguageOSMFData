@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1509350",
+  "japanese": "癖",
+  "kana": "くせ",
+  "meanings": [
+    "habit (usu. a bad one)",
+    "tendency"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "peculiarity",
+    "idiosyncrasy",
+    "mannerism",
+    "quirk",
+    "crease",
+    "wrinkle",
+    "curl",
+    "kink"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,25 @@
+{
+  "$id": "vocab:1456890",
+  "japanese": "突く",
+  "kana": "つく",
+  "meanings": [
+    "to prick",
+    "to stab"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to poke",
+    "to prod",
+    "to push",
+    "to thrust",
+    "to nudge",
+    "to hit",
+    "to strike",
+    "to use (a cane)",
+    "to prop oneself up with",
+    "to press against (the floor, etc.)",
+    "to attack",
+    "to brave (the rain, etc.)"
+  ],
+  "category": "godan verb"
+}

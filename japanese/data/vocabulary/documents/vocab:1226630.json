@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1226630",
+  "japanese": "客",
+  "kana": "きゃく",
+  "meanings": [
+    "guest",
+    "visitor"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "customer",
+    "client",
+    "shopper",
+    "spectator",
+    "audience",
+    "tourist",
+    "sightseer",
+    "passenger",
+    "counter for containers used to entertain guests"
+  ],
+  "category": "noun"
+}

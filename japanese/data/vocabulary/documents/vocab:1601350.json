@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1601350",
+  "japanese": "万歳",
+  "kana": "ばんざい",
+  "meanings": [
+    "banzai",
+    "hurray",
+    "hurrah",
+    "hooray"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "something to cheer about",
+    "something worthy of celebration",
+    "giving up",
+    "throwing one's hands up",
+    "eternal life and prosperity"
+  ],
+  "category": "interjection"
+}

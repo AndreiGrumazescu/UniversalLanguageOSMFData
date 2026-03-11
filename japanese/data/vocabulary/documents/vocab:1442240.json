@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1442240",
+  "japanese": "伝達",
+  "kana": "でんたつ",
+  "meanings": [
+    "transmission (e.g. news, chemical signals, electricity)",
+    "communication",
+    "delivery",
+    "conveyance",
+    "transfer",
+    "relay",
+    "propagation",
+    "conduction"
+  ],
+  "jlptLevel": "N1",
+  "category": "noun"
+}

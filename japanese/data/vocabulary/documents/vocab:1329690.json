@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1329690",
+  "japanese": "受け付ける",
+  "kana": "うけつける",
+  "meanings": [
+    "to accept",
+    "to receive (an application)",
+    "to take up"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to (be able to) take (food, medicine, etc.)",
+    "to bear",
+    "to tolerate",
+    "to endure",
+    "to be affected by",
+    "to take damage from"
+  ],
+  "category": "ichidan verb"
+}

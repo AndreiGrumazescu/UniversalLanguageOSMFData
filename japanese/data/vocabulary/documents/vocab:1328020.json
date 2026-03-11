@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1328020",
+  "japanese": "手洗い",
+  "kana": "てあらい",
+  "meanings": [
+    "washing one's hands",
+    "water (or basin, etc.) for washing one's hands"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "restroom",
+    "lavatory",
+    "toilet",
+    "hand-washing (laundry, etc.)"
+  ],
+  "category": "noun"
+}

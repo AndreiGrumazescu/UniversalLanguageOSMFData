@@ -1,0 +1,28 @@
+{
+  "$id": "vocab:1473740",
+  "japanese": "買う",
+  "kana": "かう",
+  "meanings": [
+    "to buy",
+    "to purchase"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "to value (highly)",
+    "to think highly of",
+    "to have a high opinion of",
+    "to appreciate",
+    "to recognize",
+    "to incur (someone's anger, displeasure, etc.)",
+    "to elicit (e.g. sneers)",
+    "to invite (e.g. scorn)",
+    "to evoke",
+    "to arouse",
+    "to win (someone's favour)",
+    "to accept",
+    "to take on",
+    "to take up",
+    "to pay for (a prostitute, geisha, etc.)"
+  ],
+  "category": "godan verb"
+}

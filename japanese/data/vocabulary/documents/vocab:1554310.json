@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1554310",
+  "japanese": "料理",
+  "kana": "りょうり",
+  "meanings": [
+    "cooking",
+    "cookery",
+    "cuisine",
+    "food",
+    "dish"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "dealing with (skillfully)",
+    "handling (well)",
+    "managing"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1324210",
+  "japanese": "酌む",
+  "kana": "くむ",
+  "meanings": [
+    "to pour (sake)",
+    "to serve",
+    "to drink (together)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to consider (feelings, the situation, etc.)",
+    "to sympathize with",
+    "to intuit",
+    "to understand"
+  ],
+  "category": "godan verb"
+}

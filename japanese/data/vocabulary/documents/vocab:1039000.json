@@ -1,0 +1,14 @@
+{
+  "$id": "vocab:1039000",
+  "japanese": "カルテ",
+  "kana": "カルテ",
+  "meanings": [
+    "patient's chart",
+    "clinical records"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "record (e.g. student, equipment maintenance, etc.)"
+  ],
+  "category": "noun"
+}

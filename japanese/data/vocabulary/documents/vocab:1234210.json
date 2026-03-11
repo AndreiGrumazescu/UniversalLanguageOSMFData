@@ -1,0 +1,10 @@
+{
+  "$id": "vocab:1234210",
+  "japanese": "競馬",
+  "kana": "けいば",
+  "meanings": [
+    "horse racing"
+  ],
+  "jlptLevel": "N2",
+  "category": "noun"
+}

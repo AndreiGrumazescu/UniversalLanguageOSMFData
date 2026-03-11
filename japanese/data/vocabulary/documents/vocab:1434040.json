@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1434040",
+  "japanese": "釣り",
+  "kana": "つり",
+  "meanings": [
+    "fishing",
+    "angling"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "change (for a purchase)",
+    "clickbaiting",
+    "trolling",
+    "bait",
+    "making deliberately inflammatory posts online"
+  ],
+  "category": "noun"
+}

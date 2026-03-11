@@ -1,0 +1,14 @@
+{
+  "$id": "vocab:1157330",
+  "japanese": "為替",
+  "kana": "かわせ",
+  "meanings": [
+    "money order",
+    "draft"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "exchange (e.g. foreign)"
+  ],
+  "category": "noun"
+}

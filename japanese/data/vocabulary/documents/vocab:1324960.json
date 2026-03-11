@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1324960",
+  "japanese": "主",
+  "kana": "ぬし",
+  "meanings": [
+    "head (of a household, etc.)",
+    "leader",
+    "master"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "owner",
+    "proprietor",
+    "proprietress",
+    "subject (of a rumour, etc.)",
+    "doer (of a deed)",
+    "guardian spirit (e.g. long-resident beast, usu. with mystical powers)",
+    "long-time resident (or employee, etc.)",
+    "husband",
+    "you"
+  ],
+  "category": "noun"
+}

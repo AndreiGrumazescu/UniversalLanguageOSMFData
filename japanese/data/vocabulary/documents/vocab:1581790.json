@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1581790",
+  "japanese": "直",
+  "kana": "じき",
+  "meanings": [
+    "soon",
+    "in a moment",
+    "before long",
+    "shortly"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "nearby",
+    "close",
+    "direct",
+    "spot transaction",
+    "cash transaction"
+  ],
+  "category": "na-adjective"
+}

@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1252360",
+  "japanese": "警告",
+  "kana": "けいこく",
+  "meanings": [
+    "warning",
+    "caution",
+    "admonition"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "keikoku (penalty in judo)"
+  ],
+  "category": "noun"
+}

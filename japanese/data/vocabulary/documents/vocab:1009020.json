@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1009020",
+  "japanese": "どうやら",
+  "kana": "どうやら",
+  "meanings": [
+    "possibly",
+    "apparently",
+    "(seem) likely",
+    "seemingly"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "somehow or other",
+    "with difficulty",
+    "barely",
+    "after a fashion"
+  ],
+  "category": "adverb"
+}

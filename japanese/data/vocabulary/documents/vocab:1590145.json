@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1590145",
+  "japanese": "影",
+  "kana": "かげ",
+  "meanings": [
+    "shadow",
+    "silhouette",
+    "figure",
+    "shape"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "reflection",
+    "image",
+    "ominous sign",
+    "light (stars, moon)",
+    "trace",
+    "shadow (of one's former self)",
+    "behind",
+    "background",
+    "other side"
+  ],
+  "category": "noun"
+}

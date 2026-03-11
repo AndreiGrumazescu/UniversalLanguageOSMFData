@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1441660",
+  "japanese": "点数",
+  "kana": "てんすう",
+  "meanings": [
+    "marks",
+    "points",
+    "score",
+    "grade",
+    "runs (baseball)"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "number of items",
+    "number of articles"
+  ],
+  "category": "noun"
+}

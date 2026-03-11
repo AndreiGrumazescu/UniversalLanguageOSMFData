@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1297110",
+  "japanese": "坂",
+  "kana": "さか",
+  "meanings": [
+    "slope",
+    "incline",
+    "hill"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "milestone",
+    "(age) mark"
+  ],
+  "category": "noun"
+}

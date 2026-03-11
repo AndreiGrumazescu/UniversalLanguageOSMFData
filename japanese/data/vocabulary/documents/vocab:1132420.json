@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1132420",
+  "japanese": "メーカー",
+  "kana": "メーカー",
+  "meanings": [
+    "manufacturer (esp. a major company)",
+    "producer",
+    "maker"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "maker (person or device that makes something)"
+  ],
+  "category": "noun"
+}

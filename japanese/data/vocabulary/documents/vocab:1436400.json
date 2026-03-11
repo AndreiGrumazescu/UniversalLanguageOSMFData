@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1436400",
+  "japanese": "提示",
+  "kana": "ていじ",
+  "meanings": [
+    "presentation (of a passport, ID, etc.)",
+    "showing",
+    "production (e.g. of documents)"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "presentation (of a plan, response, etc.)",
+    "bringing up",
+    "citing (an example)"
+  ],
+  "category": "noun"
+}

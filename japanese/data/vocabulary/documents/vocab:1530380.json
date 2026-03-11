@@ -1,0 +1,14 @@
+{
+  "$id": "vocab:1530380",
+  "japanese": "無線",
+  "kana": "むせん",
+  "meanings": [
+    "radio (communication)"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "wireless",
+    "not using wires"
+  ],
+  "category": "noun"
+}

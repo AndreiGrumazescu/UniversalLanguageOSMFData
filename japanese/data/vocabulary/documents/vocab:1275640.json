@@ -1,0 +1,40 @@
+{
+  "$id": "vocab:1275640",
+  "japanese": "口",
+  "kana": "くち",
+  "meanings": [
+    "mouth"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "opening",
+    "hole",
+    "gap",
+    "orifice",
+    "mouth (of a bottle)",
+    "spout",
+    "nozzle",
+    "mouthpiece",
+    "gate",
+    "door",
+    "entrance",
+    "exit",
+    "speaking",
+    "speech",
+    "talk (i.e. gossip)",
+    "taste",
+    "palate",
+    "mouth (to feed)",
+    "opening (i.e. vacancy)",
+    "available position",
+    "invitation",
+    "summons",
+    "kind",
+    "sort",
+    "type",
+    "opening (i.e. beginning)",
+    "counter for mouthfuls, shares (of money) and stove burners",
+    "counter for swords, blades, etc."
+  ],
+  "category": "noun"
+}

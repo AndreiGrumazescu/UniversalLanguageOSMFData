@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1523400",
+  "japanese": "翻訳",
+  "kana": "ほんやく",
+  "meanings": [
+    "translation"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "deciphering",
+    "decoding",
+    "translation"
+  ],
+  "category": "noun"
+}

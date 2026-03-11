@@ -1,0 +1,27 @@
+{
+  "$id": "vocab:1429340",
+  "japanese": "超",
+  "kana": "ちょう",
+  "meanings": [
+    "super-",
+    "ultra-",
+    "hyper-",
+    "extreme"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "extremely",
+    "really",
+    "totally",
+    "absolutely",
+    "of course",
+    "definitely",
+    "absolutely",
+    "for sure",
+    "totally",
+    "over",
+    "more than",
+    "exceeding"
+  ],
+  "category": "prefix"
+}

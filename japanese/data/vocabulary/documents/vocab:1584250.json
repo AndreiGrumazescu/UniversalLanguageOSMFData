@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1584250",
+  "japanese": "牧場",
+  "kana": "ぼくじょう",
+  "meanings": [
+    "farm (livestock)",
+    "stock farm",
+    "ranch",
+    "station"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "pasture",
+    "meadow",
+    "grazing land"
+  ],
+  "category": "noun"
+}

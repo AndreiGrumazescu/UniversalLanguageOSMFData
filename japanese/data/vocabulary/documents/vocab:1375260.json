@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1375260",
+  "japanese": "性",
+  "kana": "せい",
+  "meanings": [
+    "nature (of a person)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "sex",
+    "gender",
+    "sex (i.e. sexual attraction, activity, etc.)",
+    "gender",
+    "-ty",
+    "-ity",
+    "-ness",
+    "-cy"
+  ],
+  "category": "noun"
+}

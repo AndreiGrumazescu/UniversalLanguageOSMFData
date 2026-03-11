@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1505090",
+  "japanese": "文",
+  "kana": "ぶん",
+  "meanings": [
+    "sentence"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "composition",
+    "text",
+    "writings",
+    "the literary arts (as opposed to the military arts)",
+    "academia",
+    "literature",
+    "statement"
+  ],
+  "category": "noun"
+}

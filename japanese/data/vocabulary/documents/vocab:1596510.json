@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1596510",
+  "japanese": "損なう",
+  "kana": "そこなう",
+  "meanings": [
+    "to harm",
+    "to hurt",
+    "to injure",
+    "to damage",
+    "to spoil",
+    "to mar",
+    "to ruin"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to fail to do",
+    "to do amiss",
+    "to miss one's opportunity to do",
+    "to almost do",
+    "to come close to doing"
+  ],
+  "category": "godan verb"
+}

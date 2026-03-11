@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1212470",
+  "japanese": "感染",
+  "kana": "かんせん",
+  "meanings": [
+    "infection",
+    "contagion",
+    "becoming infected"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "being infected (e.g. with harmful ideas)",
+    "being influenced (by)"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1326860",
+  "japanese": "取り締まる",
+  "kana": "とりしまる",
+  "meanings": [
+    "to manage",
+    "to control",
+    "to supervise",
+    "to oversee",
+    "to command"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to crack down on",
+    "to keep under strict control",
+    "to enforce",
+    "to regulate"
+  ],
+  "category": "godan verb"
+}

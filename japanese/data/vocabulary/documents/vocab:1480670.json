@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1480670",
+  "japanese": "反対",
+  "kana": "はんたい",
+  "meanings": [
+    "opposition",
+    "resistance",
+    "antagonism",
+    "hostility",
+    "objection",
+    "dissent"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "reverse",
+    "opposite",
+    "inverse",
+    "contrary"
+  ],
+  "category": "noun"
+}

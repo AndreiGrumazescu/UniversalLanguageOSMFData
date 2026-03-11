@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1243290",
+  "japanese": "金融",
+  "kana": "きんゆう",
+  "meanings": [
+    "finance",
+    "financing",
+    "credit transacting",
+    "loaning of money",
+    "circulation of money"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "monetary",
+    "financial",
+    "credit"
+  ],
+  "category": "noun"
+}

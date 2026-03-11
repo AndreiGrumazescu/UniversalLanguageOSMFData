@@ -1,0 +1,40 @@
+{
+  "$id": "vocab:1457730",
+  "japanese": "内",
+  "kana": "うち",
+  "meanings": [
+    "inside",
+    "within"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "while (e.g. one is young)",
+    "during",
+    "within (e.g. a day)",
+    "in the course of",
+    "among",
+    "amongst",
+    "(out) of",
+    "between",
+    "in (secret, chaos, poverty, etc.)",
+    "amidst",
+    "with (e.g. success)",
+    "within oneself",
+    "one's feelings",
+    "inner thoughts",
+    "we",
+    "our company",
+    "our organization",
+    "one's home",
+    "one's family",
+    "my spouse",
+    "my husband",
+    "my wife",
+    "signed on behalf of (husband's name) by his wife",
+    "I",
+    "me",
+    "imperial palace grounds",
+    "emperor"
+  ],
+  "category": "noun"
+}

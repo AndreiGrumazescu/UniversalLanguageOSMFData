@@ -1,0 +1,25 @@
+{
+  "$id": "vocab:1594190",
+  "japanese": "刺激",
+  "kana": "しげき",
+  "meanings": [
+    "stimulus",
+    "stimulation",
+    "irritation (esp. of the body, e.g. skin, eyes)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "impetus",
+    "impulse",
+    "stimulus",
+    "spur",
+    "incentive",
+    "encouragement",
+    "stimulation",
+    "motivation",
+    "provocation",
+    "excitement",
+    "thrill"
+  ],
+  "category": "noun"
+}

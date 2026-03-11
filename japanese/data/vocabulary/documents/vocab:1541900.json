@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1541900",
+  "japanese": "誘う",
+  "kana": "さそう",
+  "meanings": [
+    "to invite",
+    "to ask (someone to do)",
+    "to call (for)",
+    "to take (someone) along"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to tempt",
+    "to lure",
+    "to entice",
+    "to seduce",
+    "to induce (tears, laughter, sleepiness, etc.)",
+    "to arouse (e.g. sympathy)",
+    "to provoke"
+  ],
+  "category": "godan verb"
+}

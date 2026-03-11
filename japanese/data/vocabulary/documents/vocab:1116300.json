@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1116300",
+  "japanese": "プリント",
+  "kana": "プリント",
+  "meanings": [
+    "print",
+    "printing",
+    "(printed) copy"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "handout",
+    "flyer"
+  ],
+  "category": "noun"
+}

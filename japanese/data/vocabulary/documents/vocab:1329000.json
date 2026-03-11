@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1329000",
+  "japanese": "趣味",
+  "kana": "しゅみ",
+  "meanings": [
+    "hobby",
+    "pastime"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "tastes",
+    "preference",
+    "liking"
+  ],
+  "category": "noun"
+}

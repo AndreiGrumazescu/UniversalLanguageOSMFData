@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1229880",
+  "japanese": "球",
+  "kana": "きゅう",
+  "meanings": [
+    "sphere",
+    "globe",
+    "ball",
+    "bulb"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "ball",
+    "sphere",
+    "counter for pitches"
+  ],
+  "category": "noun"
+}

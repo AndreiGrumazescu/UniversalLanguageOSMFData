@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1304820",
+  "japanese": "仕掛ける",
+  "kana": "しかける",
+  "meanings": [
+    "to start",
+    "to begin",
+    "to commence"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to challenge",
+    "to pick (a fight)",
+    "to make (war)",
+    "to draw (a reaction) from",
+    "to set (traps)",
+    "to plant (explosives)",
+    "to lay (mines)",
+    "to make a meld call"
+  ],
+  "category": "ichidan verb"
+}

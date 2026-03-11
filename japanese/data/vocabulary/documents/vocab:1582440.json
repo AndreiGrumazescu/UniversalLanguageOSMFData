@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1582440",
+  "japanese": "鈍る",
+  "kana": "にぶる",
+  "meanings": [
+    "to become blunt",
+    "to grow dull"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to become less capable",
+    "to weaken",
+    "to falter"
+  ],
+  "category": "godan verb"
+}

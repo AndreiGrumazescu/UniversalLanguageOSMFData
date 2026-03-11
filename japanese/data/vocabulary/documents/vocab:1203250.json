@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1203250",
+  "japanese": "外",
+  "kana": "そと",
+  "meanings": [
+    "outside",
+    "exterior"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "the open (air)",
+    "other place",
+    "somewhere else",
+    "outside one's group (family, company, etc.)"
+  ],
+  "category": "noun"
+}

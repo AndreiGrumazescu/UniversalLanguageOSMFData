@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1205200",
+  "japanese": "拡大",
+  "kana": "かくだい",
+  "meanings": [
+    "expansion",
+    "extension"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "magnification",
+    "enlargement",
+    "escalation",
+    "spread"
+  ],
+  "category": "noun"
+}

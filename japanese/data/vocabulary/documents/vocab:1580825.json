@@ -1,0 +1,30 @@
+{
+  "$id": "vocab:1580825",
+  "japanese": "数",
+  "kana": "すう",
+  "meanings": [
+    "several",
+    "a few",
+    "a number of"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "number",
+    "quantity",
+    "amount",
+    "counting",
+    "calculation",
+    "figures",
+    "numbers",
+    "number",
+    "numeral",
+    "figure",
+    "number",
+    "destiny",
+    "fate",
+    "outcome",
+    "course of events",
+    "trend"
+  ],
+  "category": "prefix"
+}

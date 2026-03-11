@@ -1,0 +1,33 @@
+{
+  "$id": "vocab:1552140",
+  "japanese": "流れる",
+  "kana": "ながれる",
+  "meanings": [
+    "to stream",
+    "to flow (liquid, time, etc.)",
+    "to run (ink)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to be washed away",
+    "to be carried",
+    "to drift",
+    "to float (e.g. clouds)",
+    "to wander",
+    "to stray",
+    "to sweep (e.g. rumour, fire)",
+    "to spread",
+    "to circulate",
+    "to be heard (e.g. music)",
+    "to be played",
+    "to lapse (e.g. into indolence, despair)",
+    "to pass",
+    "to elapse",
+    "to be transmitted",
+    "to be called off",
+    "to be forfeited",
+    "to disappear",
+    "to be removed"
+  ],
+  "category": "ichidan verb"
+}

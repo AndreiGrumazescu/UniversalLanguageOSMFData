@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1195250",
+  "japanese": "荷",
+  "kana": "に",
+  "meanings": [
+    "load",
+    "baggage",
+    "cargo",
+    "freight",
+    "goods"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "burden",
+    "responsibility"
+  ],
+  "category": "noun"
+}

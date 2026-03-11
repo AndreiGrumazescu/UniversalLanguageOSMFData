@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1416340",
+  "japanese": "奪う",
+  "kana": "うばう",
+  "meanings": [
+    "to take (by force)",
+    "to take away",
+    "to snatch",
+    "to steal",
+    "to rob (someone) of",
+    "to dispossess of",
+    "to deprive of",
+    "to usurp"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to absorb (one's attention)",
+    "to fascinate",
+    "to captivate",
+    "to charm",
+    "to dazzle"
+  ],
+  "category": "godan verb"
+}

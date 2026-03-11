@@ -1,0 +1,14 @@
+{
+  "$id": "vocab:1410940",
+  "japanese": "滞納",
+  "kana": "たいのう",
+  "meanings": [
+    "falling behind (with a payment)",
+    "being in arrears",
+    "non-payment",
+    "default",
+    "delinquency"
+  ],
+  "jlptLevel": "N1",
+  "category": "noun"
+}

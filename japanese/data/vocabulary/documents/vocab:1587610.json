@@ -1,0 +1,25 @@
+{
+  "$id": "vocab:1587610",
+  "japanese": "嫌",
+  "kana": "いや",
+  "meanings": [
+    "disliking",
+    "not wanting",
+    "unwilling (to do)",
+    "reluctant"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "unpleasant",
+    "disagreeable",
+    "nasty",
+    "horrible",
+    "disgusting",
+    "undesirable",
+    "unwelcome",
+    "no!",
+    "quit it!",
+    "stop!"
+  ],
+  "category": "na-adjective"
+}

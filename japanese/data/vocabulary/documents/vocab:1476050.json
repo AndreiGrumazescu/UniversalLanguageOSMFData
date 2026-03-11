@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1476050",
+  "japanese": "縛る",
+  "kana": "しばる",
+  "meanings": [
+    "to tie",
+    "to bind",
+    "to fasten"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to restrict (freedom)",
+    "to tie down (with rules, regulations, etc.)",
+    "to fetter"
+  ],
+  "category": "godan verb"
+}

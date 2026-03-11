@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1424410",
+  "japanese": "中止",
+  "kana": "ちゅうし",
+  "meanings": [
+    "interruption",
+    "discontinuance",
+    "suspension",
+    "stoppage"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "cancellation (of a planned event)",
+    "calling off"
+  ],
+  "category": "noun"
+}

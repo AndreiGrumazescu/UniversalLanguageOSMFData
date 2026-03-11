@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1375390",
+  "japanese": "性質",
+  "kana": "せいしつ",
+  "meanings": [
+    "nature (of a person)",
+    "disposition",
+    "temperament",
+    "character"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "quality",
+    "inherent characteristic",
+    "property",
+    "nature",
+    "(chemical) behavior"
+  ],
+  "category": "noun"
+}

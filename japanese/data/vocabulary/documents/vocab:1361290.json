@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1361290",
+  "japanese": "振り返る",
+  "kana": "ふりかえる",
+  "meanings": [
+    "to turn one's head",
+    "to look over one's shoulder",
+    "to turn around",
+    "to look back"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to think back (on)",
+    "to reminisce",
+    "to look back (on)",
+    "to reflect (on)"
+  ],
+  "category": "godan verb"
+}

@@ -1,0 +1,25 @@
+{
+  "$id": "vocab:1272780",
+  "japanese": "光",
+  "kana": "ひかり",
+  "meanings": [
+    "light"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "illumination",
+    "ray",
+    "beam",
+    "gleam",
+    "glow",
+    "happiness",
+    "hope",
+    "influence",
+    "power",
+    "vision",
+    "eyesight",
+    "optical fiber",
+    "optical fibre"
+  ],
+  "category": "noun"
+}

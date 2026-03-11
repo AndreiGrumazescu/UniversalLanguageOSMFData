@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1303230",
+  "japanese": "山林",
+  "kana": "さんりん",
+  "meanings": [
+    "mountain forest",
+    "forest on a mountain",
+    "forest land",
+    "woodland"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "mountains and forests"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1298250",
+  "japanese": "柵",
+  "kana": "さく",
+  "meanings": [
+    "fence",
+    "paling",
+    "railing"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "fortress"
+  ],
+  "category": "noun"
+}

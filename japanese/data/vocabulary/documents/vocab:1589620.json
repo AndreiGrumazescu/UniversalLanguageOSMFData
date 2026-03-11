@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1589620",
+  "japanese": "温和",
+  "kana": "おんわ",
+  "meanings": [
+    "mild (climate)",
+    "temperate",
+    "clement",
+    "pleasant",
+    "agreeable"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "gentle (nature, personality, etc.)",
+    "mild",
+    "quiet",
+    "pleasant",
+    "moderate (statement, measure, etc.)",
+    "mild",
+    "temperate"
+  ],
+  "category": "na-adjective"
+}

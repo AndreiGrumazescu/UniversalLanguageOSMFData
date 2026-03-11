@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1477120",
+  "japanese": "発",
+  "kana": "はつ",
+  "meanings": [
+    "departure",
+    "departing from ...",
+    "leaving at (e.g. 8:30)"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "sent from ...",
+    "(a letter, etc.) dated ...",
+    "datelined ...",
+    "counter for engines (on an aircraft)",
+    "counter for gunshots, bursts of gas, etc.",
+    "counter for bullets, bombs, etc.",
+    "counter for blows (punches)",
+    "counter for jokes, puns, etc.",
+    "counter for ideas, thoughts or guesses",
+    "counter for ejaculations or sexual intercourse"
+  ],
+  "category": "noun"
+}

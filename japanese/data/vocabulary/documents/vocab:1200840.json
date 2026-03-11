@@ -1,0 +1,14 @@
+{
+  "$id": "vocab:1200840",
+  "japanese": "改札",
+  "kana": "かいさつ",
+  "meanings": [
+    "examination of tickets"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "ticket gate",
+    "ticket barrier"
+  ],
+  "category": "noun"
+}

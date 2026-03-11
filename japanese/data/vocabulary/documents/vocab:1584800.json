@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1584800",
+  "japanese": "門",
+  "kana": "もん",
+  "meanings": [
+    "gate"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "branch of learning based on the teachings of a single master",
+    "school",
+    "phylum",
+    "division",
+    "counter for cannons"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1160570",
+  "japanese": "育てる",
+  "kana": "そだてる",
+  "meanings": [
+    "to raise",
+    "to rear",
+    "to bring up"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to train",
+    "to teach",
+    "to educate",
+    "to promote the growth of",
+    "to nurture",
+    "to foster",
+    "to develop"
+  ],
+  "category": "ichidan verb"
+}

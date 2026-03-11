@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1451750",
+  "japanese": "同じ",
+  "kana": "おなじ",
+  "meanings": [
+    "same",
+    "identical",
+    "equal",
+    "alike",
+    "equivalent"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "anyway",
+    "in any case",
+    "if one must ...",
+    "if one has to ...",
+    "as long as ..."
+  ],
+  "category": "na-adjective"
+}

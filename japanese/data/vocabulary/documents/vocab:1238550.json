@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1238550",
+  "japanese": "鏡",
+  "kana": "かがみ",
+  "meanings": [
+    "mirror",
+    "looking-glass"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "barrel head",
+    "page added at the beginning of a document mentioning its purpose, date, author, etc.",
+    "mirror-shaped mochi"
+  ],
+  "category": "noun"
+}

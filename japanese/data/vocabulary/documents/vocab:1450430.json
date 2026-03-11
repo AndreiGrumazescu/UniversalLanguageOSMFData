@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1450430",
+  "japanese": "逃す",
+  "kana": "のがす",
+  "meanings": [
+    "to miss (e.g. a chance)",
+    "to lose",
+    "to let get away"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to set free",
+    "to let go",
+    "to fail to ..."
+  ],
+  "category": "godan verb"
+}

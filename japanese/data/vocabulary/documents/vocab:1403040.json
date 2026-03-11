@@ -1,0 +1,27 @@
+{
+  "$id": "vocab:1403040",
+  "japanese": "騒ぐ",
+  "kana": "さわぐ",
+  "meanings": [
+    "to make noise",
+    "to make racket",
+    "to be noisy"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to rustle",
+    "to swoosh",
+    "to make merry",
+    "to clamor",
+    "to clamour",
+    "to make a fuss",
+    "to kick up a fuss",
+    "to lose one's cool",
+    "to panic",
+    "to act flustered",
+    "to feel tense",
+    "to be uneasy",
+    "to be excited"
+  ],
+  "category": "godan verb"
+}

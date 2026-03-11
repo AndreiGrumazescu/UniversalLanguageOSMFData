@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:2853262",
+  "japanese": "溝",
+  "kana": "どぶ",
+  "meanings": [
+    "ditch",
+    "drain",
+    "gutter",
+    "trench"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "gap (between cutting guides)"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1278590",
+  "japanese": "広場",
+  "kana": "ひろば",
+  "meanings": [
+    "public square",
+    "square",
+    "plaza",
+    "piazza",
+    "forum"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "open space",
+    "clearing"
+  ],
+  "category": "noun"
+}

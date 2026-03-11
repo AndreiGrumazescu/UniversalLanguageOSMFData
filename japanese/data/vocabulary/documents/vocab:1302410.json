@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1302410",
+  "japanese": "参照",
+  "kana": "さんしょう",
+  "meanings": [
+    "reference (e.g. to a dictionary, passage, footnotes)",
+    "consultation",
+    "comparison"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "browsing (to a file or folder)"
+  ],
+  "category": "noun"
+}

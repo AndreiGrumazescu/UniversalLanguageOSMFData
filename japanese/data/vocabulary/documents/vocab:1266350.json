@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1266350",
+  "japanese": "呼び出す",
+  "kana": "よびだす",
+  "meanings": [
+    "to call (someone) to (the door, phone, etc.)",
+    "to tell (someone) to come",
+    "to call up (on the phone)",
+    "to summon",
+    "to page",
+    "to invoke (e.g. a spirit)"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to invoke (e.g. a subroutine)",
+    "to call",
+    "to open (e.g. a file)"
+  ],
+  "category": "godan verb"
+}

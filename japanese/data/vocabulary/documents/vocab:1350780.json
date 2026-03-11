@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1350780",
+  "japanese": "焦る",
+  "kana": "あせる",
+  "meanings": [
+    "to be in a hurry",
+    "to be impatient",
+    "to be anxious (to do)",
+    "to fret"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to get a fright",
+    "to panic",
+    "to get flustered",
+    "to be startled"
+  ],
+  "category": "godan verb"
+}

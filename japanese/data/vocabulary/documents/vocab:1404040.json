@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1404040",
+  "japanese": "側面",
+  "kana": "そくめん",
+  "meanings": [
+    "side",
+    "flank",
+    "profile",
+    "sidelight",
+    "lateral"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "aspect",
+    "dimension"
+  ],
+  "category": "noun"
+}

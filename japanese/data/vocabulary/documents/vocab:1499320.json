@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1499320",
+  "japanese": "部屋",
+  "kana": "へや",
+  "meanings": [
+    "room",
+    "chamber"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "apartment",
+    "flat",
+    "pad",
+    "stable"
+  ],
+  "category": "noun"
+}

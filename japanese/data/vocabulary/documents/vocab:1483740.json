@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1483740",
+  "japanese": "疲れる",
+  "kana": "つかれる",
+  "meanings": [
+    "to get tired",
+    "to tire",
+    "to get fatigued",
+    "to become exhausted",
+    "to grow weary"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "to become worn out (of a well-used object)",
+    "to starve"
+  ],
+  "category": "ichidan verb"
+}

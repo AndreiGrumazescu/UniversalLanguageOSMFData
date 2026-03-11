@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1432720",
+  "japanese": "痛める",
+  "kana": "いためる",
+  "meanings": [
+    "to hurt",
+    "to injure",
+    "to cause pain"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to harm",
+    "to damage",
+    "to spoil",
+    "to worry",
+    "to bother",
+    "to be grieved over",
+    "to afflict",
+    "to cause financial loss",
+    "to hurt one's pocket"
+  ],
+  "category": "ichidan verb"
+}

@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1390800",
+  "japanese": "浅い",
+  "kana": "あさい",
+  "meanings": [
+    "shallow",
+    "superficial"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "slight (wound)",
+    "light (sleep)",
+    "pale (colour)",
+    "inadequate (knowledge)",
+    "short (time)",
+    "early",
+    "young"
+  ],
+  "category": "i-adjective"
+}

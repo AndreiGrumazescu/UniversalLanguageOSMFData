@@ -1,0 +1,14 @@
+{
+  "$id": "vocab:1443220",
+  "japanese": "電源",
+  "kana": "でんげん",
+  "meanings": [
+    "source of electricity",
+    "electrical power"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "power (button on TV, etc.)"
+  ],
+  "category": "noun"
+}

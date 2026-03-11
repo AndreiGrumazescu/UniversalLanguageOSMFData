@@ -1,0 +1,29 @@
+{
+  "$id": "vocab:1203270",
+  "japanese": "外す",
+  "kana": "はずす",
+  "meanings": [
+    "to remove",
+    "to take off",
+    "to detach",
+    "to unfasten",
+    "to undo"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to drop (e.g. from a team)",
+    "to remove (from a position)",
+    "to exclude",
+    "to expel",
+    "to leave (e.g. one's seat)",
+    "to go away from",
+    "to step out",
+    "to slip away",
+    "to dodge (a question, blow, etc.)",
+    "to evade",
+    "to sidestep",
+    "to avoid (e.g. peak season)",
+    "to miss (a target, chance, punch, etc.)"
+  ],
+  "category": "godan verb"
+}

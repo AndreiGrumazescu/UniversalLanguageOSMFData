@@ -1,0 +1,27 @@
+{
+  "$id": "vocab:1575660",
+  "japanese": "愛想",
+  "kana": "あいそ",
+  "meanings": [
+    "amiability",
+    "friendliness",
+    "affability",
+    "sociability"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "fondness (of someone)",
+    "affection",
+    "liking",
+    "compliments",
+    "civilities",
+    "courtesies",
+    "flattery",
+    "hospitality",
+    "special treatment",
+    "entertainment",
+    "bill (at a restaurant)",
+    "check"
+  ],
+  "category": "noun"
+}

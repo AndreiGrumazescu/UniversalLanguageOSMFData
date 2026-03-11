@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1278830",
+  "japanese": "慌てる",
+  "kana": "あわてる",
+  "meanings": [
+    "to become confused (disconcerted, disorganized, disorganised)",
+    "to be flustered",
+    "to panic"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to hurry",
+    "to rush",
+    "to hasten"
+  ],
+  "category": "ichidan verb"
+}

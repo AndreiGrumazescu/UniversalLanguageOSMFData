@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1594720",
+  "japanese": "収集",
+  "kana": "しゅうしゅう",
+  "meanings": [
+    "collecting",
+    "accumulating",
+    "gathering"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "collection (of art, stamps, insects, etc.)",
+    "garbage collection",
+    "waste collection"
+  ],
+  "category": "noun"
+}

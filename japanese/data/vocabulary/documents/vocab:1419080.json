@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1419080",
+  "japanese": "誕生",
+  "kana": "たんじょう",
+  "meanings": [
+    "birth (of a person)",
+    "nativity"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "creation",
+    "formation",
+    "birth",
+    "origin",
+    "making",
+    "one's first birthday"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1590150",
+  "japanese": "陰",
+  "kana": "かげ",
+  "meanings": [
+    "shade",
+    "shadow"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "behind (something)",
+    "other side",
+    "back",
+    "the background",
+    "behind the scenes",
+    "behind someone's back",
+    "gloom (in someone's expression, nature, etc.)",
+    "darkness"
+  ],
+  "category": "noun"
+}

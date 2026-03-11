@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1576900",
+  "japanese": "音",
+  "kana": "おと",
+  "meanings": [
+    "sound",
+    "noise"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "(musical) note",
+    "fame"
+  ],
+  "category": "noun"
+}

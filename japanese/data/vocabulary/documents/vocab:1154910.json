@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1154910",
+  "japanese": "闇",
+  "kana": "やみ",
+  "meanings": [
+    "darkness",
+    "the dark"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "bewilderment",
+    "despair",
+    "hopelessness",
+    "hidden place",
+    "secrecy",
+    "oblivion",
+    "black market",
+    "shady trading",
+    "underhand transactions",
+    "illegal channels"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,26 @@
+{
+  "$id": "vocab:1588320",
+  "japanese": "写す",
+  "kana": "うつす",
+  "meanings": [
+    "to copy",
+    "to duplicate",
+    "to reproduce",
+    "to trace",
+    "to transcribe"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to describe",
+    "to depict",
+    "to portray",
+    "to express",
+    "to imitate",
+    "to model after",
+    "to take (a photo)",
+    "to photograph",
+    "to film",
+    "to shoot"
+  ],
+  "category": "godan verb"
+}

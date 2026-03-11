@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1502630",
+  "japanese": "物凄い",
+  "kana": "ものすごい",
+  "meanings": [
+    "terrific",
+    "staggering",
+    "tremendous",
+    "incredible",
+    "extreme"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "frightful",
+    "ghastly",
+    "horrific",
+    "terrible",
+    "awful",
+    "gruesome",
+    "eerie"
+  ],
+  "category": "i-adjective"
+}

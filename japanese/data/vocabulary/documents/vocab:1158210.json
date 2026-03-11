@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1158210",
+  "japanese": "移る",
+  "kana": "うつる",
+  "meanings": [
+    "to move (house)",
+    "to transfer (department)"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to change the target of interest or concern",
+    "to elapse (passage of time)",
+    "to be permeated by a colour or scent",
+    "to be infected",
+    "to be contagious",
+    "to spread (as in fire)"
+  ],
+  "category": "godan verb"
+}

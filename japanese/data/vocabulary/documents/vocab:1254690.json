@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1254690",
+  "japanese": "結果",
+  "kana": "けっか",
+  "meanings": [
+    "result",
+    "consequence",
+    "outcome",
+    "effect"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "as a result of ...",
+    "as a consequence of ...",
+    "after ...",
+    "following ...",
+    "bearing fruit",
+    "fruiting"
+  ],
+  "category": "noun"
+}

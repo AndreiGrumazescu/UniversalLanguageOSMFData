@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1522530",
+  "japanese": "本国",
+  "kana": "ほんごく",
+  "meanings": [
+    "home country",
+    "one's own country",
+    "country of origin"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "suzerain country (from the perspective of the vassal state)",
+    "colonizing country",
+    "country of one's ancestors",
+    "this country"
+  ],
+  "category": "noun"
+}

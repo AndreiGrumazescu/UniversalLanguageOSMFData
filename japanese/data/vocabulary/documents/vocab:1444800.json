@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1444800",
+  "japanese": "登場",
+  "kana": "とうじょう",
+  "meanings": [
+    "entrance (on the stage)",
+    "appearance (in a book, film, etc.)"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "appearance (on the scene)",
+    "arrival (on the market)",
+    "emergence",
+    "introduction",
+    "advent"
+  ],
+  "category": "noun"
+}

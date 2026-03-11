@@ -1,0 +1,25 @@
+{
+  "$id": "vocab:1580555",
+  "japanese": "誠",
+  "kana": "まこと",
+  "meanings": [
+    "truth",
+    "reality",
+    "fact"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "sincerity",
+    "honesty",
+    "faithfulness",
+    "good faith",
+    "indeed",
+    "really",
+    "absolutely",
+    "truly",
+    "actually",
+    "very",
+    "quite"
+  ],
+  "category": "noun"
+}

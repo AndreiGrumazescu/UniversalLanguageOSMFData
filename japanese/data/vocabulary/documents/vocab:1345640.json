@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1345640",
+  "japanese": "除く",
+  "kana": "のぞく",
+  "meanings": [
+    "to remove",
+    "to get rid of",
+    "to take away",
+    "to eliminate"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to exclude",
+    "to except",
+    "to leave out",
+    "to omit",
+    "to kill (a traitor, opponent, etc.)"
+  ],
+  "category": "godan verb"
+}

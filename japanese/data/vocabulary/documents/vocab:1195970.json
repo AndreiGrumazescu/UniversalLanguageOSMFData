@@ -1,0 +1,26 @@
+{
+  "$id": "vocab:1195970",
+  "japanese": "過ぎる",
+  "kana": "すぎる",
+  "meanings": [
+    "to pass through",
+    "to pass by",
+    "to go beyond"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to pass (of time)",
+    "to elapse",
+    "to have expired",
+    "to have ended",
+    "to be over",
+    "to exceed",
+    "to surpass",
+    "to be above",
+    "to be no more than ...",
+    "to be excessive",
+    "to be too much",
+    "to be too ..."
+  ],
+  "category": "ichidan verb"
+}

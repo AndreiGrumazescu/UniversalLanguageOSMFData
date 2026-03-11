@@ -1,0 +1,32 @@
+{
+  "$id": "vocab:1012050",
+  "japanese": "まあ",
+  "kana": "まあ",
+  "meanings": [
+    "just (e.g. \"just wait here\")",
+    "come now",
+    "now, now"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "tolerably",
+    "passably",
+    "moderately",
+    "reasonably",
+    "fairly",
+    "rather",
+    "somewhat",
+    "well ...",
+    "I think ...",
+    "it would seem ...",
+    "you might say ...",
+    "Hmmm, I guess so ...",
+    "oh!",
+    "oh dear!",
+    "oh, my!",
+    "wow!",
+    "goodness gracious!",
+    "good heavens!"
+  ],
+  "category": "adverb"
+}

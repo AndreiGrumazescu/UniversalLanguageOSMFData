@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1358110",
+  "japanese": "食い違う",
+  "kana": "くいちがう",
+  "meanings": [
+    "to not match well (e.g. at the seams)",
+    "to not mesh properly (of gears)"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to differ (e.g. of opinions)",
+    "to clash",
+    "to be in conflict (e.g. with the facts)",
+    "to run counter (to)",
+    "to be inconsistent (with)",
+    "to be contradictory"
+  ],
+  "category": "godan verb"
+}

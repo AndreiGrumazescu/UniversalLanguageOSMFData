@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1174620",
+  "japanese": "英文",
+  "kana": "えいぶん",
+  "meanings": [
+    "English writing",
+    "English sentence",
+    "English text"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "English literature",
+    "English lit"
+  ],
+  "category": "noun"
+}

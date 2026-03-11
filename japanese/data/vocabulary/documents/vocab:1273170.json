@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1273170",
+  "japanese": "公",
+  "kana": "おおやけ",
+  "meanings": [
+    "official",
+    "governmental",
+    "formal"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "public (use, matter, forum, etc.)",
+    "common",
+    "being public knowledge",
+    "being out in the open",
+    "exposure to public view"
+  ],
+  "category": "noun"
+}

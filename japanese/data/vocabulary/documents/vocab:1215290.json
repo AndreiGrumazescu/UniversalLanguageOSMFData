@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1215290",
+  "japanese": "間もなく",
+  "kana": "まもなく",
+  "meanings": [
+    "soon",
+    "shortly",
+    "before long",
+    "in a short time",
+    "in a little while"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "having no time to ...",
+    "with no time to ..."
+  ],
+  "category": "adverb"
+}

@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1227560",
+  "japanese": "休む",
+  "kana": "やすむ",
+  "meanings": [
+    "to be absent",
+    "to take a day off"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "to rest",
+    "to have a break",
+    "to go to bed",
+    "to (lie down to) sleep",
+    "to turn in",
+    "to retire",
+    "to stop doing some ongoing activity for a time",
+    "to suspend business"
+  ],
+  "category": "godan verb"
+}

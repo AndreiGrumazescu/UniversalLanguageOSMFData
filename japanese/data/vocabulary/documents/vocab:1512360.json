@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1512360",
+  "japanese": "便",
+  "kana": "びん",
+  "meanings": [
+    "flight (e.g. airline flight)",
+    "trip (e.g. train trip)",
+    "service"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "mail",
+    "post",
+    "letter",
+    "opportunity",
+    "chance"
+  ],
+  "category": "noun"
+}

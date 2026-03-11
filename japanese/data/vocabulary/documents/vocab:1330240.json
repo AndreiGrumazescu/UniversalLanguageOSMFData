@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1330240",
+  "japanese": "寿命",
+  "kana": "じゅみょう",
+  "meanings": [
+    "lifespan",
+    "life",
+    "lifetime"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "life (of a battery, lightbulb, etc.)",
+    "service life",
+    "end of an object's (useful) life"
+  ],
+  "category": "noun"
+}

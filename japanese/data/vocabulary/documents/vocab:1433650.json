@@ -1,0 +1,28 @@
+{
+  "$id": "vocab:1433650",
+  "japanese": "掴む",
+  "kana": "つかむ",
+  "meanings": [
+    "to seize",
+    "to catch",
+    "to grasp",
+    "to grip",
+    "to grab",
+    "to clutch",
+    "to hold",
+    "to catch hold of",
+    "to lay one's hands on"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to obtain",
+    "to acquire",
+    "to get",
+    "to win",
+    "to capture",
+    "to understand",
+    "to grasp",
+    "to comprehend"
+  ],
+  "category": "godan verb"
+}

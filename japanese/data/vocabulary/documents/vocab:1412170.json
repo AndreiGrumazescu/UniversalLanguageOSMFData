@@ -1,0 +1,25 @@
+{
+  "$id": "vocab:1412170",
+  "japanese": "代表",
+  "kana": "だいひょう",
+  "meanings": [
+    "representation",
+    "representative",
+    "delegate",
+    "delegation"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "exemplification",
+    "typification",
+    "being representative of",
+    "being typical of",
+    "representative example",
+    "exemplar",
+    "model",
+    "leader",
+    "switchboard number",
+    "main number"
+  ],
+  "category": "noun"
+}

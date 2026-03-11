@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1296470",
+  "japanese": "在庫",
+  "kana": "ざいこ",
+  "meanings": [
+    "stock",
+    "inventory"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "having in stock",
+    "being in stock"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1198430",
+  "japanese": "会計",
+  "kana": "かいけい",
+  "meanings": [
+    "accounting",
+    "finance",
+    "account",
+    "reckoning"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "bill (at a restaurant)",
+    "check",
+    "accountant",
+    "treasurer",
+    "paymaster",
+    "cashier",
+    "settlement (of a bill, fee, etc.), payment",
+    "economic condition"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,32 @@
+{
+  "$id": "vocab:1454080",
+  "japanese": "道",
+  "kana": "みち",
+  "meanings": [
+    "road",
+    "path",
+    "street",
+    "lane",
+    "passage"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "route",
+    "way",
+    "distance",
+    "journey",
+    "road (e.g. to victory)",
+    "course",
+    "way (of living, proper conduct, etc.)",
+    "moral principles",
+    "teachings (esp. Confucian or Buddhist)",
+    "dogma",
+    "field (e.g. of medicine)",
+    "subject",
+    "speciality",
+    "means",
+    "way",
+    "method"
+  ],
+  "category": "noun"
+}

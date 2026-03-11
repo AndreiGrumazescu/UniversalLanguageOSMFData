@@ -1,0 +1,33 @@
+{
+  "$id": "vocab:1589220",
+  "japanese": "落ち着く",
+  "kana": "おちつく",
+  "meanings": [
+    "to calm down",
+    "to compose oneself",
+    "to regain presence of mind",
+    "to relax"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to calm down",
+    "to settle down",
+    "to die down",
+    "to become stable",
+    "to abate",
+    "to settle down (in a location, job, etc.)",
+    "to settle in",
+    "to be settled (of an arrangement, conclusion, etc.)",
+    "to be fixed",
+    "to have been reached",
+    "to harmonize with",
+    "to harmonise with",
+    "to match",
+    "to suit",
+    "to fit",
+    "to be unobtrusive",
+    "to be quiet",
+    "to be subdued"
+  ],
+  "category": "godan verb"
+}

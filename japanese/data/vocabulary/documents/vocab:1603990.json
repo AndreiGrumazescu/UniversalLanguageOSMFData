@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1603990",
+  "japanese": "町",
+  "kana": "まち",
+  "meanings": [
+    "town",
+    "block",
+    "neighbourhood",
+    "neighborhood"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "downtown",
+    "main street",
+    "street",
+    "road"
+  ],
+  "category": "noun"
+}

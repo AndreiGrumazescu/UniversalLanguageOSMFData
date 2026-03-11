@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1275130",
+  "japanese": "効果",
+  "kana": "こうか",
+  "meanings": [
+    "effect",
+    "effectiveness",
+    "efficacy",
+    "result"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "effects (e.g. sound effects, visual effects, special effects)"
+  ],
+  "category": "noun"
+}

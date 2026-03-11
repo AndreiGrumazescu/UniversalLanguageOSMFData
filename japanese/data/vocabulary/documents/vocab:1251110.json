@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1251110",
+  "japanese": "経る",
+  "kana": "へる",
+  "meanings": [
+    "to pass",
+    "to elapse",
+    "to go by"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to pass through",
+    "to go through",
+    "to experience",
+    "to go through",
+    "to undergo"
+  ],
+  "category": "ichidan verb"
+}

@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1451630",
+  "japanese": "動揺",
+  "kana": "どうよう",
+  "meanings": [
+    "shaking",
+    "trembling",
+    "pitching",
+    "rolling",
+    "oscillation"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "disturbance",
+    "unrest",
+    "agitation",
+    "excitement",
+    "commotion",
+    "turmoil",
+    "discomposure",
+    "feeling shaken"
+  ],
+  "category": "noun"
+}

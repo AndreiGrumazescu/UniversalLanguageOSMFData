@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1598750",
+  "japanese": "年寄り",
+  "kana": "としより",
+  "meanings": [
+    "old person",
+    "elderly person",
+    "senior citizen"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "trustee of the Japan Sumo Association",
+    "retired high-ranking wrestler who is licensed to coach and receives retirement pay",
+    "senior statesman (of the Tokugawa shogunate)",
+    "important local official (under the Tokugawa Shogunate)"
+  ],
+  "category": "noun"
+}

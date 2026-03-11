@@ -1,0 +1,25 @@
+{
+  "$id": "vocab:1605810",
+  "japanese": "世",
+  "kana": "よ",
+  "meanings": [
+    "world",
+    "society",
+    "public"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "life",
+    "lifetime",
+    "age",
+    "era",
+    "period",
+    "epoch",
+    "generation",
+    "reign",
+    "rule",
+    "the times",
+    "world (of existence)"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1401420",
+  "japanese": "窓口",
+  "kana": "まどぐち",
+  "meanings": [
+    "counter",
+    "window",
+    "teller window",
+    "ticket window"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "contact person",
+    "point of contact"
+  ],
+  "category": "noun"
+}

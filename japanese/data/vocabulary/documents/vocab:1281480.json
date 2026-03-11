@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1281480",
+  "japanese": "荒らす",
+  "kana": "あらす",
+  "meanings": [
+    "to lay waste",
+    "to devastate",
+    "to damage"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to invade",
+    "to break into",
+    "to troll (e.g. web forums)",
+    "to spam"
+  ],
+  "category": "godan verb"
+}

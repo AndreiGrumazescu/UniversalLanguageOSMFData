@@ -1,0 +1,25 @@
+{
+  "$id": "vocab:1316680",
+  "japanese": "次第",
+  "kana": "しだい",
+  "meanings": [
+    "depending on"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "as soon as",
+    "immediately after",
+    "upon",
+    "as (e.g. \"as one is told\", \"as one wishes\")",
+    "whatever (e.g. \"whatever is at hand\")",
+    "order",
+    "program",
+    "programme",
+    "precedence",
+    "circumstances",
+    "course of events",
+    "state of things",
+    "reason"
+  ],
+  "category": "suffix"
+}

@@ -1,0 +1,25 @@
+{
+  "$id": "vocab:1375880",
+  "japanese": "成立",
+  "kana": "せいりつ",
+  "meanings": [
+    "formation",
+    "establishment",
+    "materialization",
+    "coming into existence"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "conclusion (e.g. of a deal)",
+    "reaching (e.g. an agreement)",
+    "approval",
+    "completion",
+    "closing",
+    "enacting",
+    "arrangement",
+    "being valid (of a theory, argument, etc.)",
+    "holding",
+    "applying"
+  ],
+  "category": "noun"
+}

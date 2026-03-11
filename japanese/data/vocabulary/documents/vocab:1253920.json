@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1253920",
+  "japanese": "欠ける",
+  "kana": "かける",
+  "meanings": [
+    "to chip",
+    "to be chipped",
+    "to break (off)",
+    "to be damaged"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to be missing (from a set, team, etc.)",
+    "to be absent",
+    "to become lost",
+    "to be lacking (in)",
+    "to be short (of)",
+    "to be deficient",
+    "to be wanting (in)",
+    "to wane (of the moon)",
+    "to go into eclipse"
+  ],
+  "category": "ichidan verb"
+}

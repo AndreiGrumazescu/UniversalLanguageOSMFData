@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1611090",
+  "japanese": "捩る",
+  "kana": "ねじる",
+  "meanings": [
+    "to twist",
+    "to screw",
+    "to wrench"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to sprain"
+  ],
+  "category": "godan verb"
+}

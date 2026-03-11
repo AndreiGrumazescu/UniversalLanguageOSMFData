@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1588410",
+  "japanese": "生む",
+  "kana": "うむ",
+  "meanings": [
+    "to give birth",
+    "to bear (child)",
+    "to lay (eggs)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to produce",
+    "to yield",
+    "to give rise to",
+    "to deliver"
+  ],
+  "category": "godan verb"
+}

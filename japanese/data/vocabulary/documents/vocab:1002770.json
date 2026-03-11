@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1002770",
+  "japanese": "お洒落",
+  "kana": "おしゃれ",
+  "meanings": [
+    "stylish",
+    "fashionable",
+    "trendy",
+    "chic",
+    "smartly dressed",
+    "careful about one's appearance"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "dressing (oneself) up",
+    "dressing smartly",
+    "dressing nicely",
+    "making oneself look attractive",
+    "fashionable dresser",
+    "smartly dressed person"
+  ],
+  "category": "na-adjective"
+}

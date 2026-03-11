@@ -1,0 +1,26 @@
+{
+  "$id": "vocab:1009000",
+  "japanese": "どうも",
+  "kana": "どうも",
+  "meanings": [
+    "thank you",
+    "thanks"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "much (thanks)",
+    "very (sorry)",
+    "quite (regret)",
+    "quite",
+    "really",
+    "mostly",
+    "somehow",
+    "in spite of oneself",
+    "try as one might",
+    "no matter how hard one may try (to, not to)",
+    "greetings",
+    "hello",
+    "goodbye"
+  ],
+  "category": "interjection"
+}

@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1172830",
+  "japanese": "運転",
+  "kana": "うんてん",
+  "meanings": [
+    "operation (of a machine)",
+    "running",
+    "working"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "driving (a vehicle)",
+    "use (of capital, funds, etc.)",
+    "management",
+    "investment"
+  ],
+  "category": "noun"
+}

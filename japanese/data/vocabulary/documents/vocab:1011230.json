@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1011230",
+  "japanese": "ぶらぶら",
+  "kana": "ぶらぶら",
+  "meanings": [
+    "dangling",
+    "swaying",
+    "swinging"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "(walking) leisurely",
+    "aimlessly",
+    "strolling",
+    "wandering",
+    "rambling",
+    "idly",
+    "lazily",
+    "leisurely",
+    "aimlessly"
+  ],
+  "category": "adverb"
+}

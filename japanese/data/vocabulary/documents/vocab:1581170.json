@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1581170",
+  "japanese": "良し悪し",
+  "kana": "よしあし",
+  "meanings": [
+    "right or wrong",
+    "good or bad",
+    "quality",
+    "suitability"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "having both merits and demerits",
+    "having both advantages and disadvantages"
+  ],
+  "category": "noun"
+}

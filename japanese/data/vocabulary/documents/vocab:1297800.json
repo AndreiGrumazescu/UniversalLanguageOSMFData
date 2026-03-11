@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1297800",
+  "japanese": "作戦",
+  "kana": "さくせん",
+  "meanings": [
+    "tactics",
+    "strategy"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "military operation",
+    "naval operation"
+  ],
+  "category": "noun"
+}

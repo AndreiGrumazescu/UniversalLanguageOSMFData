@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1344410",
+  "japanese": "助ける",
+  "kana": "たすける",
+  "meanings": [
+    "to save",
+    "to rescue",
+    "to spare"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to help",
+    "to assist",
+    "to support (financially)",
+    "to contribute (to)",
+    "to provide aid",
+    "to facilitate",
+    "to stimulate",
+    "to promote",
+    "to contribute to"
+  ],
+  "category": "ichidan verb"
+}

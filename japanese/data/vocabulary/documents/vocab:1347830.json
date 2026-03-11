@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1347830",
+  "japanese": "小屋",
+  "kana": "こや",
+  "meanings": [
+    "hut",
+    "cabin",
+    "shed",
+    "(animal) pen"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "small theatre (theater)",
+    "temporary playhouse",
+    "circus tent",
+    "booth",
+    "one's own house"
+  ],
+  "category": "noun"
+}

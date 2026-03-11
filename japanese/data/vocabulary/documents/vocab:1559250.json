@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1559250",
+  "japanese": "連ねる",
+  "kana": "つらねる",
+  "meanings": [
+    "to line up",
+    "to put in a row"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to add (to a group)",
+    "to accept (as a member of an organization, etc.)",
+    "to join (e.g. a list)",
+    "to link",
+    "to put together",
+    "to string together (e.g. compliments)",
+    "to enumerate",
+    "to take along with",
+    "to bring with"
+  ],
+  "category": "ichidan verb"
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1202850",
+  "japanese": "開通",
+  "kana": "かいつう",
+  "meanings": [
+    "opening (of a new road, railway, etc.)",
+    "going into operation (e.g. telephone communication)",
+    "beginning services"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "reopening (e.g. of a road to traffic)",
+    "resumption of services"
+  ],
+  "category": "noun"
+}

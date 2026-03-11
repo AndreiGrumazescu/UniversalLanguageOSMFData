@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1597260",
+  "japanese": "炭鉱",
+  "kana": "たんこう",
+  "meanings": [
+    "coal mine",
+    "(coal) pit",
+    "colliery"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "coal-mine shaft"
+  ],
+  "category": "noun"
+}

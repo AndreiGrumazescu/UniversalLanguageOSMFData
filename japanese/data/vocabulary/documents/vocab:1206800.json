@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1206800",
+  "japanese": "学者",
+  "kana": "がくしゃ",
+  "meanings": [
+    "scholar",
+    "academic",
+    "scientist"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "learned person",
+    "person of learning"
+  ],
+  "category": "noun"
+}

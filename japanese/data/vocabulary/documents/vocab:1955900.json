@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1955900",
+  "japanese": "学",
+  "kana": "がく",
+  "meanings": [
+    "learning",
+    "scholarship",
+    "study",
+    "erudition",
+    "knowledge",
+    "education"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "study of ...",
+    "-ology",
+    "-ics"
+  ],
+  "category": "noun"
+}

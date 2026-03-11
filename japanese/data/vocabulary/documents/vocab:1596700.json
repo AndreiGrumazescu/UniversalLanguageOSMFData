@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1596700",
+  "japanese": "算盤",
+  "kana": "そろばん",
+  "meanings": [
+    "abacus",
+    "soroban"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "calculation (esp. of profit and loss)",
+    "reckoning"
+  ],
+  "category": "noun"
+}

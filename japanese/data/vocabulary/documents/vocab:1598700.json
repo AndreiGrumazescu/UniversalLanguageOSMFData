@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1598700",
+  "japanese": "研ぐ",
+  "kana": "とぐ",
+  "meanings": [
+    "to sharpen",
+    "to hone",
+    "to whet",
+    "to grind"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to wash (rice)",
+    "to scour",
+    "to polish",
+    "to burnish"
+  ],
+  "category": "godan verb"
+}

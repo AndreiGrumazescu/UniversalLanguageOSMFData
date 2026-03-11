@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1359240",
+  "japanese": "信号",
+  "kana": "しんごう",
+  "meanings": [
+    "signal",
+    "signalling",
+    "signaling"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "traffic light",
+    "traffic signal"
+  ],
+  "category": "noun"
+}

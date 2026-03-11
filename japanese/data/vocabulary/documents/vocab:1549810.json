@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1549810",
+  "japanese": "履歴",
+  "kana": "りれき",
+  "meanings": [
+    "personal history",
+    "background",
+    "career"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "log",
+    "record",
+    "history",
+    "hysteresis"
+  ],
+  "category": "noun"
+}

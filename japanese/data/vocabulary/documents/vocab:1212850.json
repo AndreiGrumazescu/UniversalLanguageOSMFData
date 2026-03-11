@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1212850",
+  "japanese": "敢えて",
+  "kana": "あえて",
+  "meanings": [
+    "purposely (of something needless, unexpected or seemingly counterproductive, etc.)",
+    "daringly (doing something)",
+    "deliberately",
+    "intentionally"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "not necessarily",
+    "not particularly",
+    "not especially",
+    "definitely not"
+  ],
+  "category": "adverb"
+}

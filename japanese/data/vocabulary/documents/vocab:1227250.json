@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1227250",
+  "japanese": "逆立ち",
+  "kana": "さかだち",
+  "meanings": [
+    "handstand",
+    "headstand"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "being upside down",
+    "being in reverse"
+  ],
+  "category": "noun"
+}

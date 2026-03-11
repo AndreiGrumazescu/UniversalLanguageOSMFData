@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1548810",
+  "japanese": "落第",
+  "kana": "らくだい",
+  "meanings": [
+    "failure (in an examination)",
+    "failing to advance (to the next year)"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "falling short of the standard",
+    "not making the grade"
+  ],
+  "category": "noun"
+}

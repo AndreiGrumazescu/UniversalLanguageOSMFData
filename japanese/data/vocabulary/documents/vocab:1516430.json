@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1516430",
+  "japanese": "捧げる",
+  "kana": "ささげる",
+  "meanings": [
+    "to lift up",
+    "to hold up",
+    "to hold above eye level"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to give",
+    "to offer",
+    "to consecrate",
+    "to devote",
+    "to sacrifice",
+    "to dedicate"
+  ],
+  "category": "ichidan verb"
+}

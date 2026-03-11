@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1360920",
+  "japanese": "心得る",
+  "kana": "こころえる",
+  "meanings": [
+    "to know",
+    "to understand",
+    "to be aware of",
+    "to regard as",
+    "to take for"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to (understand and) accept (a responsibility)",
+    "to have a knowledge of (a skill, art, etc.)",
+    "to have a command of",
+    "to know (how to do)"
+  ],
+  "category": "ichidan verb"
+}

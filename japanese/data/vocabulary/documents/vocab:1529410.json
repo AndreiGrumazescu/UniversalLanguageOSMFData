@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1529410",
+  "japanese": "夢",
+  "kana": "ゆめ",
+  "meanings": [
+    "dream"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "dream",
+    "hope",
+    "wish",
+    "aspiration",
+    "ambition",
+    "unrealistic aspiration",
+    "daydream",
+    "pipe dream",
+    "delusion",
+    "illusion",
+    "fleeting thing",
+    "something short-lived"
+  ],
+  "category": "noun"
+}

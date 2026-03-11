@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1255940",
+  "japanese": "件",
+  "kana": "けん",
+  "meanings": [
+    "matter",
+    "affair",
+    "case",
+    "item",
+    "subject"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "counter for (received) emails, text messages, voicemail messages, etc.",
+    "counter for accounts (on a website, email service, etc.)"
+  ],
+  "category": "noun"
+}

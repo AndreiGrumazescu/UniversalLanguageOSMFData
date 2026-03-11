@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1538130",
+  "japanese": "約束",
+  "kana": "やくそく",
+  "meanings": [
+    "promise",
+    "agreement",
+    "arrangement",
+    "one's word",
+    "contract",
+    "pact"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "appointment",
+    "engagement",
+    "date",
+    "convention",
+    "rule",
+    "destiny",
+    "fate"
+  ],
+  "category": "noun"
+}

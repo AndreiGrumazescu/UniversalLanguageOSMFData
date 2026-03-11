@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1386370",
+  "japanese": "説",
+  "kana": "せつ",
+  "meanings": [
+    "theory",
+    "doctrine"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "opinion",
+    "view",
+    "rumour",
+    "rumor",
+    "gossip",
+    "hearsay"
+  ],
+  "category": "noun"
+}

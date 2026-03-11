@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1177830",
+  "japanese": "遠ざかる",
+  "kana": "とおざかる",
+  "meanings": [
+    "to go away",
+    "to become more distant",
+    "to fade away",
+    "to die away"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to be estranged"
+  ],
+  "category": "godan verb"
+}

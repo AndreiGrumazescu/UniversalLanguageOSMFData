@@ -1,0 +1,27 @@
+{
+  "$id": "vocab:1115630",
+  "japanese": "プラス",
+  "kana": "プラス",
+  "meanings": [
+    "plus",
+    "addition"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "positive (number)",
+    "plus sign",
+    "positive symbol",
+    "advantage",
+    "plus",
+    "asset",
+    "positive factor",
+    "positive effect",
+    "profit",
+    "gain",
+    "anode",
+    "plus terminal",
+    "positive pole",
+    "positive (test result)"
+  ],
+  "category": "noun"
+}

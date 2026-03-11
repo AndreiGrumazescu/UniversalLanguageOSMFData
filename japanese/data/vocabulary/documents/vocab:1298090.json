@@ -1,0 +1,26 @@
+{
+  "$id": "vocab:1298090",
+  "japanese": "削る",
+  "kana": "けずる",
+  "meanings": [
+    "to shave (wood, leather, etc.)",
+    "to sharpen (e.g. pencil)",
+    "to plane",
+    "to whittle",
+    "to pare",
+    "to scrape off",
+    "to erode"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to cut down (budget, expenses, staff, time, etc.)",
+    "to curtail",
+    "to reduce",
+    "to delete",
+    "to erase",
+    "to remove",
+    "to cross out",
+    "to strike out"
+  ],
+  "category": "godan verb"
+}

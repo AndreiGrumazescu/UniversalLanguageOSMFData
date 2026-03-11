@@ -1,0 +1,14 @@
+{
+  "$id": "vocab:1317900",
+  "japanese": "自習",
+  "kana": "じしゅう",
+  "meanings": [
+    "self-study",
+    "teaching oneself"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "studying by oneself (at school) while the teacher is absent"
+  ],
+  "category": "noun"
+}

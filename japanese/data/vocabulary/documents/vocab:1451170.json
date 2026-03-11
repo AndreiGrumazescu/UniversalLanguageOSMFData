@@ -1,0 +1,30 @@
+{
+  "$id": "vocab:1451170",
+  "japanese": "動かす",
+  "kana": "うごかす",
+  "meanings": [
+    "to move",
+    "to shift",
+    "to stir",
+    "to budge",
+    "to change position"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to inspire",
+    "to rouse",
+    "to move (e.g. feeling)",
+    "to influence",
+    "to change",
+    "to alter",
+    "to deny",
+    "to operate",
+    "to set in motion",
+    "to get going",
+    "to mobilize (e.g. troops)",
+    "to mobilise",
+    "to deploy",
+    "to manage (e.g. funds)"
+  ],
+  "category": "godan verb"
+}

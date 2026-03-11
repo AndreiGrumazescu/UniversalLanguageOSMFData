@@ -1,0 +1,32 @@
+{
+  "$id": "vocab:1005110",
+  "japanese": "さあ",
+  "kana": "さあ",
+  "meanings": [
+    "come (on)",
+    "come now",
+    "come along",
+    "here"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "all right",
+    "right",
+    "okay",
+    "now",
+    "here goes",
+    "well",
+    "hmm",
+    "uh",
+    "let's see",
+    "I'm not sure",
+    "here",
+    "now",
+    "there (we go)",
+    "ah",
+    "oh",
+    "about that, ...",
+    "actually, ..."
+  ],
+  "category": "interjection"
+}

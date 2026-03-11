@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1601040",
+  "japanese": "歯磨き",
+  "kana": "はみがき",
+  "meanings": [
+    "dental brushing",
+    "brushing one's teeth"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "dentifrice",
+    "toothpaste",
+    "tooth powder"
+  ],
+  "category": "noun"
+}

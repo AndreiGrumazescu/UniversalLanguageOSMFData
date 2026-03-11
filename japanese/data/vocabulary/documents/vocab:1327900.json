@@ -1,0 +1,14 @@
+{
+  "$id": "vocab:1327900",
+  "japanese": "手錠",
+  "kana": "てじょう",
+  "meanings": [
+    "handcuffs",
+    "manacles"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "confinement in chains (Edo-era judicial corporal punishment)"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,28 @@
+{
+  "$id": "vocab:1562610",
+  "japanese": "枠",
+  "kana": "わく",
+  "meanings": [
+    "frame",
+    "framework"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "border",
+    "box",
+    "limit",
+    "restriction",
+    "quota",
+    "category",
+    "bracket",
+    "class",
+    "time slot (in a broadcasting schedule)",
+    "stream",
+    "livestream",
+    "live stream",
+    "live (online) broadcast",
+    "spool (of thread)",
+    "reel"
+  ],
+  "category": "noun"
+}

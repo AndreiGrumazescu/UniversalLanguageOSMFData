@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1544990",
+  "japanese": "預ける",
+  "kana": "あずける",
+  "meanings": [
+    "to leave (in someone's keeping)",
+    "to put (in someone's care)",
+    "to place (in someone's custody)",
+    "to entrust (someone) with",
+    "to deposit"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to put (someone) in charge of",
+    "to leave (a matter) in someone's hands",
+    "to let (someone) decide",
+    "to lean on",
+    "to put one's weight on"
+  ],
+  "category": "ichidan verb"
+}

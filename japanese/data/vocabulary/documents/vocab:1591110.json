@@ -1,0 +1,31 @@
+{
+  "$id": "vocab:1591110",
+  "japanese": "聞く",
+  "kana": "きく",
+  "meanings": [
+    "to hear"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "to listen (e.g. to music)",
+    "to ask",
+    "to enquire",
+    "to query",
+    "to hear about",
+    "to hear of",
+    "to learn of",
+    "to follow (advice, order, etc.)",
+    "to obey",
+    "to listen to",
+    "to comply with",
+    "to hear (e.g. a plea)",
+    "to grant (a request)",
+    "to accept (e.g. an argument)",
+    "to give consideration to",
+    "to smell (esp. incense)",
+    "to sample (a fragrance)",
+    "to taste (alcohol)",
+    "to try"
+  ],
+  "category": "godan verb"
+}

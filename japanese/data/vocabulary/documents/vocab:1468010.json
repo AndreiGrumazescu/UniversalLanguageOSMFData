@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1468010",
+  "japanese": "熱量",
+  "kana": "ねつりょう",
+  "meanings": [
+    "quantity of heat (e.g. in calories, BTU, etc.)",
+    "heat value",
+    "calorific value"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "(degree of) enthusiasm",
+    "zeal",
+    "passion"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,30 @@
+{
+  "$id": "vocab:1370870",
+  "japanese": "垂れる",
+  "kana": "たれる",
+  "meanings": [
+    "to hang",
+    "to droop",
+    "to dangle",
+    "to sag",
+    "to lower",
+    "to pull down"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to give (e.g. lesson, instruction, scolding) (to someone of lower status)",
+    "to confer",
+    "to grant",
+    "to bestow",
+    "to drip",
+    "to ooze",
+    "to trickle",
+    "to drop",
+    "to leave behind (at death)",
+    "to say",
+    "to utter",
+    "to excrete (urine, feces, etc.)",
+    "to let out (a fart)"
+  ],
+  "category": "ichidan verb"
+}

@@ -1,0 +1,26 @@
+{
+  "$id": "vocab:1426530",
+  "japanese": "注意",
+  "kana": "ちゅうい",
+  "meanings": [
+    "attention",
+    "notice",
+    "heed"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "care",
+    "caution",
+    "precaution",
+    "looking out (for)",
+    "watching out (for)",
+    "advice",
+    "warning",
+    "caution",
+    "reminder",
+    "admonishment",
+    "reprimand",
+    "telling-off"
+  ],
+  "category": "noun"
+}

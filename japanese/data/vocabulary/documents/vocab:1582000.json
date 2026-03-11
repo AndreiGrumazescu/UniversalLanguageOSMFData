@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1582000",
+  "japanese": "敵",
+  "kana": "てき",
+  "meanings": [
+    "opponent",
+    "rival",
+    "adversary"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "menace",
+    "danger",
+    "threat",
+    "enemy"
+  ],
+  "category": "noun"
+}

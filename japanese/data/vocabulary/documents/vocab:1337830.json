@@ -1,0 +1,14 @@
+{
+  "$id": "vocab:1337830",
+  "japanese": "熟語",
+  "kana": "じゅくご",
+  "meanings": [
+    "kanji compound"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "idiom",
+    "idiomatic phrase"
+  ],
+  "category": "noun"
+}

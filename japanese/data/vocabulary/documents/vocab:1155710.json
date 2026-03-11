@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1155710",
+  "japanese": "依頼",
+  "kana": "いらい",
+  "meanings": [
+    "request",
+    "commission",
+    "entrusting (with a matter)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "dependence",
+    "reliance"
+  ],
+  "category": "noun"
+}

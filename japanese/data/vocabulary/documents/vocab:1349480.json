@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1349480",
+  "japanese": "承知",
+  "kana": "しょうち",
+  "meanings": [
+    "knowledge",
+    "awareness"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "acceptance",
+    "consent",
+    "assent",
+    "agreement",
+    "compliance",
+    "acknowledgment",
+    "acknowledgement",
+    "forgiving",
+    "pardoning",
+    "excusing"
+  ],
+  "category": "noun"
+}

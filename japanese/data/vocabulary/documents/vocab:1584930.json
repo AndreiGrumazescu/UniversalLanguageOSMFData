@@ -1,0 +1,33 @@
+{
+  "$id": "vocab:1584930",
+  "japanese": "余り",
+  "kana": "あまり",
+  "meanings": [
+    "remainder",
+    "remnant",
+    "rest",
+    "balance",
+    "surplus",
+    "remains (of a meal)",
+    "leftovers"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "(not) very",
+    "(not) much",
+    "too much",
+    "excessively",
+    "overly",
+    "extreme",
+    "great",
+    "severe",
+    "tremendous",
+    "terrible",
+    "not very good",
+    "so-so",
+    "mediocre",
+    "more than",
+    "over"
+  ],
+  "category": "noun"
+}

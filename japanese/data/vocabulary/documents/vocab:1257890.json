@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1257890",
+  "japanese": "検査",
+  "kana": "けんさ",
+  "meanings": [
+    "inspection (e.g. customs, factory)",
+    "examination",
+    "test",
+    "check",
+    "scan (e.g. MRI, PET)",
+    "audit"
+  ],
+  "jlptLevel": "N3",
+  "category": "noun"
+}

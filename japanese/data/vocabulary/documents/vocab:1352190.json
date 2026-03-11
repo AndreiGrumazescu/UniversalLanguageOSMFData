@@ -1,0 +1,32 @@
+{
+  "$id": "vocab:1352190",
+  "japanese": "上がり",
+  "kana": "あがり",
+  "meanings": [
+    "rise",
+    "increase",
+    "ascent"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "income",
+    "takings",
+    "earnings",
+    "proceeds",
+    "(crop) yield",
+    "return",
+    "profit",
+    "completion",
+    "end",
+    "finish",
+    "end result (e.g. of crafts)",
+    "how something comes out",
+    "finish",
+    "finishing (in a board or card game, etc.)",
+    "green tea (esp. in a sushi restaurant)",
+    "after (rain, illness, etc.)",
+    "ex- (e.g. ex-bureaucrat)",
+    "former"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1274940",
+  "japanese": "公用",
+  "kana": "こうよう",
+  "meanings": [
+    "official business",
+    "government business",
+    "public business",
+    "company duties"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "public use",
+    "government use"
+  ],
+  "category": "noun"
+}

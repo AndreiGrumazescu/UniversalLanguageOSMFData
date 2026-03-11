@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1220060",
+  "japanese": "幾分",
+  "kana": "いくぶん",
+  "meanings": [
+    "somewhat",
+    "to some extent",
+    "to some degree"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "some",
+    "part",
+    "portion"
+  ],
+  "category": "adverb"
+}

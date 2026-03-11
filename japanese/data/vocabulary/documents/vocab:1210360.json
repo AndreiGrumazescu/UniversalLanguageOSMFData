@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1210360",
+  "japanese": "寒い",
+  "kana": "さむい",
+  "meanings": [
+    "cold (e.g. weather)"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "uninteresting (esp. joke)",
+    "lame",
+    "dull",
+    "weak",
+    "corny"
+  ],
+  "category": "i-adjective"
+}

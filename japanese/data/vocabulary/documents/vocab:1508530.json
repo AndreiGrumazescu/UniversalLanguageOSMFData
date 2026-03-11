@@ -1,0 +1,14 @@
+{
+  "$id": "vocab:1508530",
+  "japanese": "並列",
+  "kana": "へいれつ",
+  "meanings": [
+    "arranging in a line",
+    "standing in a row"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "parallel (electronics, computing, etc.)"
+  ],
+  "category": "noun"
+}

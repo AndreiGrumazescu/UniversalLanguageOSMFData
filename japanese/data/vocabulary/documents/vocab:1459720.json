@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1459720",
+  "japanese": "鍋",
+  "kana": "なべ",
+  "meanings": [
+    "pan",
+    "pot",
+    "saucepan"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "stew",
+    "hot pot"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1511770",
+  "japanese": "片付く",
+  "kana": "かたづく",
+  "meanings": [
+    "to be put in order",
+    "to be put to rights"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to be disposed of",
+    "to be solved",
+    "to be finished",
+    "to be married (off)"
+  ],
+  "category": "godan verb"
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1599340",
+  "japanese": "泥棒",
+  "kana": "どろぼう",
+  "meanings": [
+    "thief",
+    "burglar",
+    "robber"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "theft",
+    "burglary",
+    "robbery"
+  ],
+  "category": "noun"
+}

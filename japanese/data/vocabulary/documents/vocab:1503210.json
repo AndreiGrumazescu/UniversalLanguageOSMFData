@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1503210",
+  "japanese": "分解",
+  "kana": "ぶんかい",
+  "meanings": [
+    "disassembly",
+    "dismantling",
+    "disaggregating",
+    "taking apart",
+    "breaking up",
+    "analysis",
+    "parsing"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "decomposition",
+    "resolution",
+    "disintegration",
+    "degradation",
+    "factorization"
+  ],
+  "category": "noun"
+}

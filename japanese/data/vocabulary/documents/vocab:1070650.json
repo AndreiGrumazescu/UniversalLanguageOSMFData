@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1070650",
+  "japanese": "ステレオ",
+  "kana": "ステレオ",
+  "meanings": [
+    "stereo (sound)"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "stereo (player, set)",
+    "stereo",
+    "stereophonic",
+    "stereoscopic"
+  ],
+  "category": "noun"
+}

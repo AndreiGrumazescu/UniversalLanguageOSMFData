@@ -1,0 +1,30 @@
+{
+  "$id": "vocab:1252560",
+  "japanese": "軽い",
+  "kana": "かるい",
+  "meanings": [
+    "light (i.e. not heavy)",
+    "feeling light (i.e. offering little resistance, moving easily)"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "light (i.e. of foot)",
+    "effortless",
+    "nimble",
+    "agile",
+    "non-serious",
+    "minor",
+    "unimportant",
+    "trivial",
+    "slight",
+    "small",
+    "gentle",
+    "soft",
+    "easy",
+    "lighthearted (e.g. joke)",
+    "easy",
+    "simple",
+    "indiscriminate"
+  ],
+  "category": "i-adjective"
+}

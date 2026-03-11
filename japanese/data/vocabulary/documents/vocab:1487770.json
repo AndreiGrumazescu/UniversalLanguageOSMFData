@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1487770",
+  "japanese": "筆",
+  "kana": "ふで",
+  "meanings": [
+    "writing brush",
+    "paintbrush",
+    "pen"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "writing with a brush",
+    "drawing with a brush",
+    "penmanship",
+    "something drawn with a brush",
+    "writing (composing text)",
+    "the written word",
+    "(land) lot",
+    "plot"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1169390",
+  "japanese": "引っ込む",
+  "kana": "ひっこむ",
+  "meanings": [
+    "to draw back",
+    "to sink",
+    "to cave in"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to be set back (e.g. from a road)",
+    "to withdraw (e.g. from the public eye)",
+    "to retire to (somewhere)",
+    "to stay indoors",
+    "to butt out",
+    "to stay out of it"
+  ],
+  "category": "godan verb"
+}

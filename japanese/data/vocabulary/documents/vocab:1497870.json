@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1497870",
+  "japanese": "腐敗",
+  "kana": "ふはい",
+  "meanings": [
+    "decomposition",
+    "putrefaction",
+    "putrescence",
+    "spoilage"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "corruption",
+    "degeneracy",
+    "decay",
+    "depravity"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1266470",
+  "japanese": "呼吸",
+  "kana": "こきゅう",
+  "meanings": [
+    "breathing",
+    "respiration"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "knack",
+    "trick",
+    "secret (of doing something)",
+    "harmony",
+    "balance",
+    "synchronization",
+    "accord",
+    "short interval",
+    "short pause"
+  ],
+  "category": "noun"
+}

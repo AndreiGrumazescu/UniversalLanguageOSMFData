@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1511950",
+  "japanese": "編む",
+  "kana": "あむ",
+  "meanings": [
+    "to knit",
+    "to plait",
+    "to braid"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to compile (anthology, dictionary, etc.)",
+    "to edit"
+  ],
+  "category": "godan verb"
+}

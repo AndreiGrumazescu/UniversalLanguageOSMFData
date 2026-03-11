@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1578790",
+  "japanese": "行き",
+  "kana": "いき",
+  "meanings": [
+    "the way there",
+    "outbound leg",
+    "outbound trip",
+    "departing leg"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "bound for ...",
+    "outbound ticket"
+  ],
+  "category": "noun"
+}

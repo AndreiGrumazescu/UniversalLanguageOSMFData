@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1508670",
+  "japanese": "閉鎖",
+  "kana": "へいさ",
+  "meanings": [
+    "closing",
+    "closure"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "shutdown",
+    "lockout"
+  ],
+  "category": "noun"
+}

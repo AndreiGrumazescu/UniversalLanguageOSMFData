@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1445360",
+  "japanese": "土産",
+  "kana": "みやげ",
+  "meanings": [
+    "local specialty or souvenir bought as a gift while travelling"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "present brought by a visitor",
+    "something unpleasant that one is given (e.g. an illness while on vacation)",
+    "unwelcome gift",
+    "disservice"
+  ],
+  "category": "noun"
+}

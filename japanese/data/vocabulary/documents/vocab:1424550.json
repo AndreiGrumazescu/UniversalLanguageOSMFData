@@ -1,0 +1,26 @@
+{
+  "$id": "vocab:1424550",
+  "japanese": "中心",
+  "kana": "ちゅうしん",
+  "meanings": [
+    "center",
+    "centre",
+    "middle",
+    "heart",
+    "core",
+    "focus",
+    "pivot",
+    "emphasis",
+    "balance"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "-centered",
+    "-centred",
+    "-focused",
+    "-oriented",
+    "centered on",
+    "focused on"
+  ],
+  "category": "noun"
+}

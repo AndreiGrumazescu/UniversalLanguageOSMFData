@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1412400",
+  "japanese": "代理",
+  "kana": "だいり",
+  "meanings": [
+    "representation",
+    "agency",
+    "proxy"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "proxy",
+    "agent",
+    "representative",
+    "deputy",
+    "substitute",
+    "surrogate",
+    "stand-in"
+  ],
+  "category": "noun"
+}

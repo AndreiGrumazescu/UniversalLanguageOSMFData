@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1224190",
+  "japanese": "鬼",
+  "kana": "おに",
+  "meanings": [
+    "ogre",
+    "demon",
+    "oni"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "spirit of a deceased person",
+    "ogre-like person (i.e. fierce, relentless, merciless, etc.)",
+    "it (in a game of tag, hide-and-seek, etc.)",
+    "Chinese \"ghost\" constellation (one of the 28 mansions)",
+    "very",
+    "extremely",
+    "super-"
+  ],
+  "category": "noun"
+}

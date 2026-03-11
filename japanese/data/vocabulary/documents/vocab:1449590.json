@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1449590",
+  "japanese": "筒",
+  "kana": "つつ",
+  "meanings": [
+    "pipe",
+    "tube",
+    "cylinder"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "gun barrel",
+    "gun",
+    "cannon",
+    "well lining",
+    "well curb"
+  ],
+  "category": "noun"
+}

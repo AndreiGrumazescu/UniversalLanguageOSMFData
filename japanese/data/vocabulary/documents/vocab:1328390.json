@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1328390",
+  "japanese": "手本",
+  "kana": "てほん",
+  "meanings": [
+    "model",
+    "(good) example",
+    "exemplar",
+    "paragon"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "model handwriting",
+    "model drawing",
+    "copybook"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1587300",
+  "japanese": "痛み",
+  "kana": "いたみ",
+  "meanings": [
+    "pain",
+    "ache",
+    "soreness",
+    "grief",
+    "distress"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "damage",
+    "injury",
+    "wear",
+    "bruise",
+    "break"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1361960",
+  "japanese": "新人",
+  "kana": "しんじん",
+  "meanings": [
+    "newcomer",
+    "new figure",
+    "new member",
+    "recruit",
+    "rookie",
+    "new talent",
+    "new star"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "modern humans (from Cro-Magnon man onwards)",
+    "Homo sapiens"
+  ],
+  "category": "noun"
+}

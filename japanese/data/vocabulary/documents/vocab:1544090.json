@@ -1,0 +1,26 @@
+{
+  "$id": "vocab:1544090",
+  "japanese": "余計",
+  "kana": "よけい",
+  "meanings": [
+    "extra",
+    "more",
+    "too much",
+    "too many",
+    "excessive",
+    "superfluous",
+    "spare",
+    "surplus"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "unnecessary",
+    "needless",
+    "uncalled-for",
+    "unwanted",
+    "uninvited",
+    "all the more",
+    "even more"
+  ],
+  "category": "na-adjective"
+}

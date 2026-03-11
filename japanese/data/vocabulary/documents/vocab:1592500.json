@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1592500",
+  "japanese": "具合",
+  "kana": "ぐあい",
+  "meanings": [
+    "condition",
+    "state"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "health",
+    "state (of health)",
+    "way",
+    "manner",
+    "circumstance",
+    "luck",
+    "face",
+    "dignity",
+    "decency",
+    "propriety"
+  ],
+  "category": "noun"
+}

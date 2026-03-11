@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1157070",
+  "japanese": "椅子",
+  "kana": "いす",
+  "meanings": [
+    "chair",
+    "seat",
+    "stool",
+    "bench"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "post",
+    "position",
+    "seat",
+    "office"
+  ],
+  "category": "noun"
+}

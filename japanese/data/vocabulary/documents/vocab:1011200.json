@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1011200",
+  "japanese": "ぶつぶつ",
+  "kana": "ぶつぶつ",
+  "meanings": [
+    "grunt",
+    "grumble",
+    "complaint",
+    "mutter"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "pimples",
+    "spots",
+    "eruption",
+    "rash",
+    "cutting into small pieces",
+    "simmering"
+  ],
+  "category": "noun"
+}

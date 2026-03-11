@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1432280",
+  "japanese": "追い越す",
+  "kana": "おいこす",
+  "meanings": [
+    "to pass (e.g. car)",
+    "to overtake"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to surpass",
+    "to outstrip",
+    "to get ahead of",
+    "to outdistance"
+  ],
+  "category": "godan verb"
+}

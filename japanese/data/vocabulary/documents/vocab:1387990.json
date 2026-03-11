@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1387990",
+  "japanese": "先生",
+  "kana": "せんせい",
+  "meanings": [
+    "teacher",
+    "instructor",
+    "master"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "sensei",
+    "title or form of address for a teacher, master, doctor, lawyer, etc.",
+    "intimate or teasing form of address",
+    "one's elder"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1579170",
+  "japanese": "魂",
+  "kana": "たましい",
+  "meanings": [
+    "soul",
+    "spirit",
+    "mind"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "willpower",
+    "vitality",
+    "something as important as one's own life",
+    "something invaluable",
+    "inherent spirit of something",
+    "state of mind"
+  ],
+  "category": "noun"
+}

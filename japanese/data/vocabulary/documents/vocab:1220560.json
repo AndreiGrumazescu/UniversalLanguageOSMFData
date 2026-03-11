@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1220560",
+  "japanese": "期限",
+  "kana": "きげん",
+  "meanings": [
+    "term",
+    "period",
+    "time frame"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "time limit",
+    "deadline",
+    "cutoff (date)"
+  ],
+  "category": "noun"
+}

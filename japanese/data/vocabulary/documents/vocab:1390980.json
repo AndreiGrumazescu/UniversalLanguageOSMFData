@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1390980",
+  "japanese": "洗濯",
+  "kana": "せんたく",
+  "meanings": [
+    "washing",
+    "laundry"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "relaxation",
+    "rejuvenation",
+    "melting away (of worries, fatigue, etc.)"
+  ],
+  "category": "noun"
+}

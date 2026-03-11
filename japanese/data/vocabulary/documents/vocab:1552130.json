@@ -1,0 +1,33 @@
+{
+  "$id": "vocab:1552130",
+  "japanese": "流れ",
+  "kana": "ながれ",
+  "meanings": [
+    "flow (of a fluid or gas)",
+    "stream",
+    "current"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "flow (of people, things)",
+    "passage (of time)",
+    "tide",
+    "passing",
+    "(changing) trends",
+    "tendency",
+    "course (of events)",
+    "(step-by-step) procedure",
+    "process",
+    "group of people who remain together after the end of an event",
+    "descent",
+    "ancestry",
+    "school",
+    "forfeiture",
+    "foreclosure",
+    "cancellation",
+    "drifting",
+    "wandering",
+    "roaming"
+  ],
+  "category": "noun"
+}

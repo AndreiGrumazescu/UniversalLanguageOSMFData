@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1033900",
+  "japanese": "オイル",
+  "kana": "オイル",
+  "meanings": [
+    "oil",
+    "petroleum"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "oil",
+    "lubricant",
+    "grease",
+    "(cooking) oil",
+    "(massage) oil",
+    "ointment",
+    "kerosene",
+    "engine oil"
+  ],
+  "category": "noun"
+}

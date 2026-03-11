@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1345605",
+  "japanese": "そろそろ",
+  "kana": "そろそろ",
+  "meanings": [
+    "soon",
+    "before long",
+    "any time now",
+    "momentarily"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "slowly",
+    "quietly",
+    "steadily",
+    "gradually",
+    "gingerly",
+    "already",
+    "about time"
+  ],
+  "category": "adverb"
+}

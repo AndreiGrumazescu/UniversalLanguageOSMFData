@@ -1,0 +1,14 @@
+{
+  "$id": "vocab:1448340",
+  "japanese": "棟",
+  "kana": "とう",
+  "meanings": [
+    "large building",
+    "building with a long roof"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "counter for buildings, apartments, etc."
+  ],
+  "category": "noun"
+}

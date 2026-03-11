@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1243390",
+  "japanese": "吟味",
+  "kana": "ぎんみ",
+  "meanings": [
+    "close examination",
+    "careful investigation",
+    "close inspection",
+    "careful selection",
+    "inquiry",
+    "enquiry",
+    "scrutiny",
+    "testing"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "investigation of a crime",
+    "inquiry into someone's guilt",
+    "winner (of the most rounds, i.e. a full game)",
+    "reciting and appreciating traditional poetry"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1527190",
+  "japanese": "未開",
+  "kana": "みかい",
+  "meanings": [
+    "uncivilized",
+    "uncivilised",
+    "primitive",
+    "savage"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "undeveloped (land)",
+    "unexplored (territory, field, etc.)",
+    "unbloomed (flower)"
+  ],
+  "category": "noun"
+}

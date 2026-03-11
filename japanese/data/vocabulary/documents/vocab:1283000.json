@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1283000",
+  "japanese": "項目",
+  "kana": "こうもく",
+  "meanings": [
+    "item",
+    "heading",
+    "category",
+    "clause"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "headword (in a dictionary, encyclopedia, etc.)",
+    "entry"
+  ],
+  "category": "noun"
+}

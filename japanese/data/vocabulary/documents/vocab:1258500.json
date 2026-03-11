@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1258500",
+  "japanese": "献立",
+  "kana": "こんだて",
+  "meanings": [
+    "menu",
+    "bill of fare"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "program",
+    "programme",
+    "schedule"
+  ],
+  "category": "noun"
+}

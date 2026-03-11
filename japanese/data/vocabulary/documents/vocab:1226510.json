@@ -1,0 +1,41 @@
+{
+  "$id": "vocab:1226510",
+  "japanese": "詰める",
+  "kana": "つめる",
+  "meanings": [
+    "to stuff into",
+    "to jam",
+    "to cram",
+    "to pack",
+    "to fill",
+    "to plug",
+    "to stop up"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to shorten",
+    "to move closer together",
+    "to reduce (spending)",
+    "to conserve",
+    "to focus intently on",
+    "to strain oneself to do",
+    "to go through thoroughly",
+    "to work out (details)",
+    "to bring to a conclusion",
+    "to wind up",
+    "to be on duty",
+    "to be stationed",
+    "to corner (esp. an opponent's king in shogi)",
+    "to trap",
+    "to checkmate",
+    "to cut off (one's finger as an act of apology)",
+    "to catch (one's finger in a door, etc.)",
+    "to do non-stop",
+    "to do continuously",
+    "to keep doing (without a break)",
+    "to do completely",
+    "to do thoroughly",
+    "to force someone into a difficult situation by ..."
+  ],
+  "category": "ichidan verb"
+}

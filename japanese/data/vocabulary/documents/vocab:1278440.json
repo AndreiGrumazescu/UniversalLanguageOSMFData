@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1278440",
+  "japanese": "広さ",
+  "kana": "ひろさ",
+  "meanings": [
+    "area",
+    "extent",
+    "dimensions",
+    "size"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "width",
+    "breadth"
+  ],
+  "category": "noun"
+}

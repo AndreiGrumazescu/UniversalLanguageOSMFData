@@ -1,0 +1,36 @@
+{
+  "$id": "vocab:1385350",
+  "japanese": "接する",
+  "kana": "せっする",
+  "meanings": [
+    "to touch",
+    "to come in contact with",
+    "to border on",
+    "to adjoin",
+    "to be adjacent",
+    "to be close"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to receive (e.g. visitor)",
+    "to attend to",
+    "to serve",
+    "to take care of",
+    "to look after",
+    "to act towards",
+    "to deal with",
+    "to see",
+    "to receive (news)",
+    "to get",
+    "to hear",
+    "to encounter",
+    "to come across",
+    "to be tangent to",
+    "to make touch",
+    "to bring into contact with",
+    "to bring adjacent to",
+    "to bring close",
+    "to connect"
+  ],
+  "category": "suru verb"
+}

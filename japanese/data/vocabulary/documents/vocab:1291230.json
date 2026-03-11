@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1291230",
+  "japanese": "差し出す",
+  "kana": "さしだす",
+  "meanings": [
+    "to hold out",
+    "to extend (e.g. a hand)"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to present",
+    "to submit",
+    "to tender",
+    "to sacrifice",
+    "to give (up)",
+    "to send",
+    "to forward"
+  ],
+  "category": "godan verb"
+}

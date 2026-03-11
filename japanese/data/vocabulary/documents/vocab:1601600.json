@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1601600",
+  "japanese": "引き下げる",
+  "kana": "ひきさげる",
+  "meanings": [
+    "to lower (a price, tax, standard, etc.)",
+    "to bring down",
+    "to reduce",
+    "to cut"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to demote",
+    "to withdraw (a proposal, request, etc.)",
+    "to abandon",
+    "to withdraw (troops, etc.)",
+    "to pull back",
+    "to move back"
+  ],
+  "category": "ichidan verb"
+}

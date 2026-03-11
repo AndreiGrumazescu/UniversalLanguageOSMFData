@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1437060",
+  "japanese": "摘む",
+  "kana": "つむ",
+  "meanings": [
+    "to pick",
+    "to pluck"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to snip",
+    "to cut",
+    "to nip",
+    "to trim"
+  ],
+  "category": "godan verb"
+}

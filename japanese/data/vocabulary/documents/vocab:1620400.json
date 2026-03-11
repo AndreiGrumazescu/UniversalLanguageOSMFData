@@ -1,0 +1,33 @@
+{
+  "$id": "vocab:1620400",
+  "japanese": "中",
+  "kana": "ちゅう",
+  "meanings": [
+    "medium (size)",
+    "average (grade, level, etc.)",
+    "middle"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "in",
+    "within",
+    "out of (e.g. ten people)",
+    "among",
+    "during",
+    "while",
+    "in (the course of)",
+    "within (a period)",
+    "throughout",
+    "currently (doing)",
+    "in the process of",
+    "in the middle of",
+    "under (e.g. construction, investigation)",
+    "middle way",
+    "moderation",
+    "second volume (of three)",
+    "junior high school",
+    "middle school",
+    "China"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1363100",
+  "japanese": "申告",
+  "kana": "しんこく",
+  "meanings": [
+    "report",
+    "return (e.g. tax)",
+    "statement",
+    "declaration",
+    "notification",
+    "filing"
+  ],
+  "jlptLevel": "N3",
+  "category": "noun"
+}

@@ -1,0 +1,41 @@
+{
+  "$id": "vocab:1633690",
+  "japanese": "段",
+  "kana": "だん",
+  "meanings": [
+    "step",
+    "stair",
+    "rung",
+    "(flight of) steps"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "shelf",
+    "layer",
+    "tier",
+    "grade",
+    "level",
+    "class",
+    "dan (degree of advanced proficiency in martial arts, go, shogi, etc.)",
+    "rank",
+    "paragraph",
+    "passage",
+    "column (of print)",
+    "act (in kabuki, joruri, etc.)",
+    "section",
+    "scene",
+    "row of the multiplication table (e.g. five times table)",
+    "stage (in a process)",
+    "phase",
+    "occasion",
+    "time",
+    "moment",
+    "situation",
+    "matter",
+    "occasion",
+    "degree",
+    "extent",
+    "counter for breaks in written language or speech"
+  ],
+  "category": "noun"
+}

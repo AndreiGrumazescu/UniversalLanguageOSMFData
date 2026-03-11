@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:2611890",
+  "japanese": "蒔く",
+  "kana": "まく",
+  "meanings": [
+    "to sow",
+    "to plant",
+    "to seed"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to sow (the seeds of; e.g. conflict)",
+    "to sprinkle (gold or silver powder on lacquerware)"
+  ],
+  "category": "godan verb"
+}

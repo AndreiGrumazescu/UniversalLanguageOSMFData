@@ -1,0 +1,35 @@
+{
+  "$id": "vocab:1387210",
+  "japanese": "先",
+  "kana": "さき",
+  "meanings": [
+    "point",
+    "tip",
+    "end",
+    "nozzle"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "head (of a line)",
+    "front",
+    "first",
+    "before",
+    "ahead (of)",
+    "(the way) ahead",
+    "beyond",
+    "future",
+    "previous",
+    "prior",
+    "former",
+    "recent",
+    "last",
+    "destination",
+    "address",
+    "place where you do something",
+    "rest (e.g. of a story)",
+    "continuation",
+    "remaining part",
+    "the other party"
+  ],
+  "category": "noun"
+}

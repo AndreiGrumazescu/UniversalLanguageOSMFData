@@ -1,0 +1,43 @@
+{
+  "$id": "vocab:1328820",
+  "japanese": "種",
+  "kana": "たね",
+  "meanings": [
+    "seed (e.g. of a plant)",
+    "pip",
+    "kernel",
+    "stone (e.g. of a peach)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "progeny",
+    "offspring",
+    "issue",
+    "breed",
+    "paternal blood",
+    "lineage",
+    "sperm",
+    "semen",
+    "seed",
+    "cause",
+    "source",
+    "seed",
+    "origin",
+    "material (e.g. for an article)",
+    "matter (e.g. of a story)",
+    "subject (of discussion)",
+    "theme",
+    "(news) copy",
+    "source (of a story)",
+    "ingredient",
+    "main ingredient (of a piece of sushi)",
+    "leaven",
+    "mechanism (of a magic trick, etc.)",
+    "secret",
+    "trickery",
+    "10-point card",
+    "tane",
+    "animal card"
+  ],
+  "category": "noun"
+}

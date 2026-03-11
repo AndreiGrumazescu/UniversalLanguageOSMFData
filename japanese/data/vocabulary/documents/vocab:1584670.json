@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1584670",
+  "japanese": "免れる",
+  "kana": "まぬがれる",
+  "meanings": [
+    "to escape (disaster, death, etc.)",
+    "to be saved from",
+    "to be rescued from"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to avoid (e.g. punishment)",
+    "to evade (e.g. responsibility)",
+    "to avert",
+    "to elude",
+    "to be exempted from"
+  ],
+  "category": "ichidan verb"
+}

@@ -1,0 +1,12 @@
+{
+  "$id": "vocab:1337000",
+  "japanese": "銃",
+  "kana": "じゅう",
+  "meanings": [
+    "gun",
+    "firearm",
+    "small arms (e.g. rifle, pistol, etc)"
+  ],
+  "jlptLevel": "N3",
+  "category": "noun"
+}

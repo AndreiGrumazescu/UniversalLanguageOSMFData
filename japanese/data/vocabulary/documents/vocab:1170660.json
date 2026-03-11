@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1170660",
+  "japanese": "隠れる",
+  "kana": "かくれる",
+  "meanings": [
+    "to hide",
+    "to conceal oneself",
+    "to take cover"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to disappear (behind)",
+    "to be hidden (by)",
+    "to be covered",
+    "to go out of sight",
+    "to live in seclusion",
+    "to retire (from the world)",
+    "to be unknown (e.g. of a talent)",
+    "to be undiscovered",
+    "to be hidden (e.g. of a meaning)",
+    "to pass away (of a person of high position)"
+  ],
+  "category": "ichidan verb"
+}

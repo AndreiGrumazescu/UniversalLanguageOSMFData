@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1497180",
+  "japanese": "普段",
+  "kana": "ふだん",
+  "meanings": [
+    "usual",
+    "normal",
+    "everyday",
+    "habitual",
+    "ordinary"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "usually",
+    "normally",
+    "generally",
+    "habitually",
+    "always"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1473460",
+  "japanese": "梅",
+  "kana": "うめ",
+  "meanings": [
+    "Japanese apricot (Prunus mume)",
+    "Japanese plum",
+    "ume",
+    "Chinese plum"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "lowest (of a three-tier ranking system)"
+  ],
+  "category": "noun"
+}

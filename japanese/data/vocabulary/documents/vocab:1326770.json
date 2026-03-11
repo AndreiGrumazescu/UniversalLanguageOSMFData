@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1326770",
+  "japanese": "取り出す",
+  "kana": "とりだす",
+  "meanings": [
+    "to take out",
+    "to produce",
+    "to pick out"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to fetch",
+    "to retrieve"
+  ],
+  "category": "godan verb"
+}

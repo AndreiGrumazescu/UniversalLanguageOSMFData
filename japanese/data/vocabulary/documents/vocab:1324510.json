@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1324510",
+  "japanese": "弱",
+  "kana": "じゃく",
+  "meanings": [
+    "a little less than",
+    "a little under",
+    "slightly fewer than"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "weakness",
+    "the weak",
+    "low (setting)",
+    "-lower (seismic intensity)"
+  ],
+  "category": "suffix"
+}

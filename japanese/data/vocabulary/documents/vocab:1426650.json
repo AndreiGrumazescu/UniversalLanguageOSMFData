@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1426650",
+  "japanese": "注文",
+  "kana": "ちゅうもん",
+  "meanings": [
+    "order (for an item)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "request",
+    "demand",
+    "condition"
+  ],
+  "category": "noun"
+}

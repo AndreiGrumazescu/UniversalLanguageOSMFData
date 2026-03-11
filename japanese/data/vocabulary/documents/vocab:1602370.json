@@ -1,0 +1,25 @@
+{
+  "$id": "vocab:1602370",
+  "japanese": "広げる",
+  "kana": "ひろげる",
+  "meanings": [
+    "to spread",
+    "to extend",
+    "to expand",
+    "to enlarge",
+    "to widen",
+    "to broaden"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to unfold",
+    "to open",
+    "to unroll",
+    "to unwrap",
+    "to scatter about",
+    "to spread around",
+    "to make flourish",
+    "to cause to prosper"
+  ],
+  "category": "ichidan verb"
+}

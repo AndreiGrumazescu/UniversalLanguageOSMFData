@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1228690",
+  "japanese": "急行",
+  "kana": "きゅうこう",
+  "meanings": [
+    "hurrying (to somewhere)",
+    "rushing",
+    "hastening"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "express (train)"
+  ],
+  "category": "noun"
+}

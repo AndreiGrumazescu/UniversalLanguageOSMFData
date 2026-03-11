@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1490010",
+  "japanese": "評価",
+  "kana": "ひょうか",
+  "meanings": [
+    "valuation",
+    "appraisal",
+    "evaluation",
+    "assessment",
+    "estimation",
+    "rating",
+    "judging"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "appreciation",
+    "recognition",
+    "acknowledgement",
+    "rating highly",
+    "praising"
+  ],
+  "category": "noun"
+}

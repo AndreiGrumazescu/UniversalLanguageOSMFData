@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1349440",
+  "japanese": "承る",
+  "kana": "うけたまわる",
+  "meanings": [
+    "to hear",
+    "to be told",
+    "to know"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to receive (order)",
+    "to undertake",
+    "to comply",
+    "to take (a reservation, etc.)"
+  ],
+  "category": "godan verb"
+}

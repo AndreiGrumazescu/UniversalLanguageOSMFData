@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1400390",
+  "japanese": "巣",
+  "kana": "す",
+  "meanings": [
+    "nest",
+    "rookery",
+    "breeding place",
+    "hive"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "den",
+    "haunt",
+    "(spider's) web"
+  ],
+  "category": "noun"
+}

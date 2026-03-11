@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1041530",
+  "japanese": "キャッチ",
+  "kana": "キャッチ",
+  "meanings": [
+    "catch",
+    "catching",
+    "obtaining (e.g. information)",
+    "receiving (e.g. radio transmission or phone call)"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "catch",
+    "shop tout",
+    "puller-in",
+    "catching (in swimming and boating)",
+    "catching the water",
+    "catcher",
+    "call waiting"
+  ],
+  "category": "noun"
+}

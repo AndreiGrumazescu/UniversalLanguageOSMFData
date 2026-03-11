@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1596950",
+  "japanese": "戦い",
+  "kana": "たたかい",
+  "meanings": [
+    "battle",
+    "war",
+    "fight",
+    "conflict"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "fight (against time, poverty, etc.)",
+    "struggle (for freedom, survival, etc.)",
+    "war (e.g. on drugs)",
+    "battle (e.g. against nature)",
+    "contest",
+    "competition",
+    "match",
+    "game"
+  ],
+  "category": "noun"
+}

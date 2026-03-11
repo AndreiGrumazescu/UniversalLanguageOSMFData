@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1205900",
+  "japanese": "確認",
+  "kana": "かくにん",
+  "meanings": [
+    "confirmation",
+    "verification",
+    "validation",
+    "review",
+    "check",
+    "affirmation",
+    "identification"
+  ],
+  "jlptLevel": "N3",
+  "category": "noun"
+}

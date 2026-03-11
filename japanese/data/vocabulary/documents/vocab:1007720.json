@@ -1,0 +1,28 @@
+{
+  "$id": "vocab:1007720",
+  "japanese": "ちゃんと",
+  "kana": "ちゃんと",
+  "meanings": [
+    "diligently",
+    "seriously",
+    "earnestly",
+    "reliably",
+    "steadily",
+    "legitimately"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "perfectly",
+    "properly",
+    "exactly",
+    "orderly",
+    "punctually",
+    "regularly",
+    "safely",
+    "in good condition",
+    "sufficiently",
+    "satisfactorily",
+    "quickly"
+  ],
+  "category": "adverb"
+}

@@ -1,0 +1,14 @@
+{
+  "$id": "vocab:1516690",
+  "japanese": "放射能",
+  "kana": "ほうしゃのう",
+  "meanings": [
+    "radioactivity"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "radiation",
+    "radioactive material"
+  ],
+  "category": "noun"
+}

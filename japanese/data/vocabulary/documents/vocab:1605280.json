@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1605280",
+  "japanese": "元々",
+  "kana": "もともと",
+  "meanings": [
+    "originally",
+    "from the start",
+    "from the beginning",
+    "from the outset",
+    "by nature"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "none the worse (for)",
+    "(coming out) even",
+    "in the same position (as before)"
+  ],
+  "category": "adverb"
+}

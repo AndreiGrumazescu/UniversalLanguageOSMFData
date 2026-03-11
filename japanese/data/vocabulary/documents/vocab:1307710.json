@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1307710",
+  "japanese": "姿",
+  "kana": "すがた",
+  "meanings": [
+    "figure",
+    "form",
+    "shape"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "appearance",
+    "dress",
+    "guise",
+    "state",
+    "condition",
+    "picture",
+    "image",
+    "form (of a waka)",
+    "dressed in ...",
+    "wearing ..."
+  ],
+  "category": "noun"
+}

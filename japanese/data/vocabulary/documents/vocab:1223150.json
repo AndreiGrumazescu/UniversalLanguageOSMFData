@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1223150",
+  "japanese": "記憶",
+  "kana": "きおく",
+  "meanings": [
+    "memory",
+    "recollection",
+    "remembrance"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "memory",
+    "storage"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1598530",
+  "japanese": "出会う",
+  "kana": "であう",
+  "meanings": [
+    "to meet (by chance)",
+    "to come across",
+    "to run across",
+    "to encounter",
+    "to happen upon"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to meet (e.g. of rivers, highways, etc.)",
+    "to emerge and engage (an enemy)"
+  ],
+  "category": "godan verb"
+}

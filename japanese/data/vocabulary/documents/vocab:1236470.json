@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1236470",
+  "japanese": "強調",
+  "kana": "きょうちょう",
+  "meanings": [
+    "emphasis",
+    "stress",
+    "highlighting",
+    "underlining",
+    "underscoring"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "accentuating (a feature or certain part)",
+    "accenting",
+    "strong tone (of the market)",
+    "firm tone"
+  ],
+  "category": "noun"
+}

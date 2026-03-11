@@ -1,0 +1,27 @@
+{
+  "$id": "vocab:1269320",
+  "japanese": "後",
+  "kana": "あと",
+  "meanings": [
+    "behind",
+    "rear"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "after",
+    "later",
+    "remainder",
+    "the rest",
+    "more (e.g. five more minutes)",
+    "left",
+    "also",
+    "in addition",
+    "descendant",
+    "successor",
+    "heir",
+    "after one's death",
+    "past",
+    "previous"
+  ],
+  "category": "noun"
+}

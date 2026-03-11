@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1384840",
+  "japanese": "切れ",
+  "kana": "きれ",
+  "meanings": [
+    "piece",
+    "slice",
+    "strip",
+    "scrap"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "cloth",
+    "sharpness",
+    "agility",
+    "counter for scraps, pieces, etc."
+  ],
+  "category": "noun"
+}

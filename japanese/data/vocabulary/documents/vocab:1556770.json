@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1556770",
+  "japanese": "冷やす",
+  "kana": "ひやす",
+  "meanings": [
+    "to cool",
+    "to chill",
+    "to refrigerate"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to calm down",
+    "to cool off",
+    "to regain one's composure",
+    "to relax",
+    "to be frightened (at)",
+    "to be scared (of)"
+  ],
+  "category": "godan verb"
+}

@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1317110",
+  "japanese": "示す",
+  "kana": "しめす",
+  "meanings": [
+    "to (take out and) show",
+    "to demonstrate",
+    "to tell",
+    "to exemplify",
+    "to make apparent"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to point out (finger, clock hand, needle, etc.)",
+    "to indicate",
+    "to show",
+    "to represent",
+    "to signify",
+    "to display"
+  ],
+  "category": "godan verb"
+}

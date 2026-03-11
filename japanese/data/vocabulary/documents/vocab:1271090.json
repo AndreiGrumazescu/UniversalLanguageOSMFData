@@ -1,0 +1,12 @@
+{
+  "$id": "vocab:1271090",
+  "japanese": "語源",
+  "kana": "ごげん",
+  "meanings": [
+    "origin of a word",
+    "derivation of a word",
+    "etymology"
+  ],
+  "jlptLevel": "N1",
+  "category": "noun"
+}

@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1029430",
+  "japanese": "エネルギー",
+  "kana": "エネルギー",
+  "meanings": [
+    "energy"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "energy",
+    "strength",
+    "power",
+    "stamina",
+    "get-up-and-go",
+    "energy source",
+    "energy resource",
+    "food energy",
+    "calories"
+  ],
+  "category": "noun"
+}

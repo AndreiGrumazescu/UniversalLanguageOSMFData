@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1604610",
+  "japanese": "見通し",
+  "kana": "みとおし",
+  "meanings": [
+    "unobstructed view",
+    "perspective",
+    "visibility",
+    "vista"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "forecast",
+    "outlook",
+    "prospect",
+    "prediction",
+    "insight",
+    "foresight"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,30 @@
+{
+  "$id": "vocab:1522150",
+  "japanese": "本",
+  "kana": "ほん",
+  "meanings": [
+    "book",
+    "volume",
+    "script"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "this",
+    "present",
+    "current",
+    "... in question",
+    "... at issue",
+    "main",
+    "head",
+    "principal",
+    "real",
+    "genuine",
+    "regular",
+    "proper",
+    "counter for long, cylindrical things",
+    "counter for films, TV shows, etc.",
+    "counter for goals, home runs, etc.",
+    "counter for telephone calls"
+  ],
+  "category": "noun"
+}

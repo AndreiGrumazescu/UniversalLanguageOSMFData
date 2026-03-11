@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1604540",
+  "japanese": "満ちる",
+  "kana": "みちる",
+  "meanings": [
+    "to fill",
+    "to become full (of)",
+    "to be filled (with)",
+    "to brim (with)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to wax (of the moon)",
+    "to rise (of the tide)",
+    "to flow",
+    "to come in",
+    "to expire (of a period of time)",
+    "to mature",
+    "to come to an end"
+  ],
+  "category": "ichidan verb"
+}

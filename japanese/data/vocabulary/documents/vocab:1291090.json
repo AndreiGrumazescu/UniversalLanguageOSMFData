@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1291090",
+  "japanese": "差し引き",
+  "kana": "さしひき",
+  "meanings": [
+    "deduction",
+    "subtraction",
+    "balance"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "ebb and flow",
+    "rise and fall"
+  ],
+  "category": "noun"
+}

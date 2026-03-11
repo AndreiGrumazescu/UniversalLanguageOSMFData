@@ -1,0 +1,33 @@
+{
+  "$id": "vocab:1478200",
+  "japanese": "抜ける",
+  "kana": "ぬける",
+  "meanings": [
+    "to come out",
+    "to fall out",
+    "to be omitted",
+    "to be missing",
+    "to escape",
+    "to come loose"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to fade",
+    "to discolour",
+    "to wear a hole (e.g. clothes)",
+    "to leave (e.g. a meeting)",
+    "to be clear",
+    "to be transparent (e.g. of the sky)",
+    "to be absentminded",
+    "to be careless",
+    "to be inattentive",
+    "to be foolish",
+    "to exit (a program loop)",
+    "to go through",
+    "to pass through",
+    "to give way",
+    "to collapse",
+    "to finish a round with more than 88 points (not counting points gained from scoring combinations)"
+  ],
+  "category": "ichidan verb"
+}

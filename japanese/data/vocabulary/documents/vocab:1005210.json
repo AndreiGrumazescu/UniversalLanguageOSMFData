@@ -1,0 +1,29 @@
+{
+  "$id": "vocab:1005210",
+  "japanese": "さっぱり",
+  "kana": "さっぱり",
+  "meanings": [
+    "feeling refreshed",
+    "feeling relieved"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "neat",
+    "tidy",
+    "clean",
+    "frank",
+    "open-hearted",
+    "plain",
+    "simple",
+    "light",
+    "completely",
+    "entirely",
+    "not in the least (with neg. verb)",
+    "not at all",
+    "nothing at all",
+    "completely useless",
+    "hopeless",
+    "awful"
+  ],
+  "category": "adverb"
+}

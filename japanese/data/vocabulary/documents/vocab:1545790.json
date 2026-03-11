@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1545790",
+  "japanese": "様",
+  "kana": "さま",
+  "meanings": [
+    "Mr",
+    "Mrs",
+    "Miss",
+    "Ms"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "makes a word more polite (usu. in fixed expressions)",
+    "state",
+    "situation",
+    "appearance",
+    "manner"
+  ],
+  "category": "suffix"
+}

@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1330510",
+  "japanese": "収穫",
+  "kana": "しゅうかく",
+  "meanings": [
+    "harvest",
+    "crop",
+    "ingathering"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "fruits (of one's labors)",
+    "gain",
+    "result",
+    "returns",
+    "catch (fishing)",
+    "bag (hunting)",
+    "haul"
+  ],
+  "category": "noun"
+}

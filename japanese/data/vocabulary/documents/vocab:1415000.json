@@ -1,0 +1,27 @@
+{
+  "$id": "vocab:1415000",
+  "japanese": "大変",
+  "kana": "たいへん",
+  "meanings": [
+    "very",
+    "greatly",
+    "terribly",
+    "awfully"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "immense",
+    "enormous",
+    "great",
+    "serious",
+    "grave",
+    "dreadful",
+    "terrible",
+    "difficult",
+    "hard",
+    "challenging",
+    "major incident",
+    "disaster"
+  ],
+  "category": "adverb"
+}

@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1356210",
+  "japanese": "情",
+  "kana": "じょう",
+  "meanings": [
+    "feelings",
+    "emotion",
+    "sentiment"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "compassion",
+    "sympathy",
+    "passion",
+    "affection",
+    "love",
+    "the way things really are",
+    "the actual situation"
+  ],
+  "category": "noun"
+}

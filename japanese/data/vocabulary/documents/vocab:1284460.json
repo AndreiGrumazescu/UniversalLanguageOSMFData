@@ -1,0 +1,28 @@
+{
+  "$id": "vocab:1284460",
+  "japanese": "合わす",
+  "kana": "あわす",
+  "meanings": [
+    "to match (rhythm, speed, etc.)"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to join together",
+    "to unite",
+    "to combine",
+    "to add up",
+    "to face",
+    "to be opposite (someone)",
+    "to compare",
+    "to check with",
+    "to cause to meet (e.g. an unpleasant fate)",
+    "to place together",
+    "to connect",
+    "to overlap",
+    "to mix",
+    "to combine",
+    "to put blade to blade",
+    "to fight"
+  ],
+  "category": "godan verb"
+}

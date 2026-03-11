@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1226560",
+  "japanese": "詰る",
+  "kana": "なじる",
+  "meanings": [
+    "to rebuke",
+    "to scold",
+    "to tell off",
+    "to find fault",
+    "to harp on",
+    "to reprove"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to question persistently (in order to criticize or find fault with someone)"
+  ],
+  "category": "godan verb"
+}

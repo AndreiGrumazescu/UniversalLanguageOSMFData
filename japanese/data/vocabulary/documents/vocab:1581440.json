@@ -1,0 +1,33 @@
+{
+  "$id": "vocab:1581440",
+  "japanese": "打ち込む",
+  "kana": "うちこむ",
+  "meanings": [
+    "to drive in (a nail, stake, etc.)",
+    "to hammer in"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to hit (a ball, etc.)",
+    "to drive",
+    "to smash",
+    "to fire into",
+    "to shoot into",
+    "to input (data)",
+    "to enter",
+    "to devote oneself to",
+    "to be absorbed in",
+    "to be (really) into",
+    "to be enthusiastic about",
+    "to put heart and soul into",
+    "to throw oneself into",
+    "to go head over heels for",
+    "to practice hitting (baseball, tennis, etc.)",
+    "to hit (an opponent in kendo, boxing, etc.)",
+    "to get a blow in",
+    "to invade one's opponent's territory",
+    "to place a stone in an opponent's formation",
+    "to pour (concrete, etc.) into a form"
+  ],
+  "category": "godan verb"
+}

@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1246620",
+  "japanese": "屈折",
+  "kana": "くっせつ",
+  "meanings": [
+    "bending",
+    "curving",
+    "twisting",
+    "turning",
+    "winding"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "warping (of feelings, logic, etc.)",
+    "distortion",
+    "twisting",
+    "refraction",
+    "inflection"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,27 @@
+{
+  "$id": "vocab:1177800",
+  "japanese": "遠い",
+  "kana": "とおい",
+  "meanings": [
+    "far",
+    "distant",
+    "far away",
+    "a long way off",
+    "in the distance"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "distant (past)",
+    "remote (in time)",
+    "remote",
+    "far-removed (in time)",
+    "distant (relationship or kinship)",
+    "having little to do (with someone)",
+    "far (from something else in quality, degree, etc.)",
+    "not similar",
+    "way off",
+    "hard (of hearing)",
+    "nearsighted"
+  ],
+  "category": "i-adjective"
+}

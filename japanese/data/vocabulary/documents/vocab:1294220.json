@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1294220",
+  "japanese": "最低",
+  "kana": "さいてい",
+  "meanings": [
+    "least",
+    "lowest",
+    "minimum"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "worst",
+    "awful",
+    "horrible",
+    "nasty",
+    "disgusting",
+    "at the very least"
+  ],
+  "category": "na-adjective"
+}

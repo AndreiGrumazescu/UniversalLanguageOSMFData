@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1246270",
+  "japanese": "偶然",
+  "kana": "ぐうぜん",
+  "meanings": [
+    "coincidence",
+    "chance",
+    "accident",
+    "fortuity"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "by chance",
+    "unexpectedly",
+    "accidentally",
+    "contingency"
+  ],
+  "category": "noun"
+}

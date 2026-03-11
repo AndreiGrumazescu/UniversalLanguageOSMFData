@@ -1,0 +1,30 @@
+{
+  "$id": "vocab:1467530",
+  "japanese": "認める",
+  "kana": "みとめる",
+  "meanings": [
+    "to recognize",
+    "to recognise",
+    "to observe",
+    "to notice"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to deem",
+    "to judge",
+    "to assess",
+    "to approve",
+    "to deem acceptable",
+    "to allow",
+    "to admit",
+    "to accept",
+    "to confess (to a charge)",
+    "to watch steadily",
+    "to observe carefully",
+    "to renown",
+    "to give renown to",
+    "to appreciate",
+    "to acknowledge"
+  ],
+  "category": "ichidan verb"
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1075190",
+  "japanese": "ゼリー",
+  "kana": "ゼリー",
+  "meanings": [
+    "jello",
+    "jelly",
+    "gelatin dessert"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "gel",
+    "jelly"
+  ],
+  "category": "noun"
+}

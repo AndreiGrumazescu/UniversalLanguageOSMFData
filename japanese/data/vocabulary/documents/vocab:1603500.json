@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1603500",
+  "japanese": "保証",
+  "kana": "ほしょう",
+  "meanings": [
+    "guarantee",
+    "security",
+    "assurance",
+    "pledge"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "warranty"
+  ],
+  "category": "noun"
+}

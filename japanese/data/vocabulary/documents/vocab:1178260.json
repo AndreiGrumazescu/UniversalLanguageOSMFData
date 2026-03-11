@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1178260",
+  "japanese": "遠足",
+  "kana": "えんそく",
+  "meanings": [
+    "school trip",
+    "field trip",
+    "excursion",
+    "outing"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "long walk",
+    "excursion (on foot)"
+  ],
+  "category": "noun"
+}

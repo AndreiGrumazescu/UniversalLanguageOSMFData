@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1596440",
+  "japanese": "騒々しい",
+  "kana": "そうぞうしい",
+  "meanings": [
+    "noisy",
+    "loud",
+    "boisterous",
+    "clamorous",
+    "raucous"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "turbulent",
+    "unsettled",
+    "restless"
+  ],
+  "category": "i-adjective"
+}

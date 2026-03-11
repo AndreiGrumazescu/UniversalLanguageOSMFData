@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1224020",
+  "japanese": "輝く",
+  "kana": "かがやく",
+  "meanings": [
+    "to shine",
+    "to sparkle",
+    "to twinkle",
+    "to glitter",
+    "to glisten"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to light up (with happiness, hope, etc.)",
+    "to beam",
+    "to gleam",
+    "to glow"
+  ],
+  "category": "godan verb"
+}

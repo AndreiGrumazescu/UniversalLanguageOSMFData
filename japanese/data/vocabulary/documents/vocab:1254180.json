@@ -1,0 +1,38 @@
+{
+  "$id": "vocab:1254180",
+  "japanese": "決める",
+  "kana": "きめる",
+  "meanings": [
+    "to decide",
+    "to choose",
+    "to determine",
+    "to make up one's mind",
+    "to resolve",
+    "to set one's heart on",
+    "to settle",
+    "to arrange",
+    "to set",
+    "to appoint",
+    "to fix"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to clinch (a victory)",
+    "to decide (the outcome of a match)",
+    "to persist in doing",
+    "to go through with",
+    "to always do",
+    "to have made a habit of",
+    "to take for granted",
+    "to assume",
+    "to dress up",
+    "to dress to kill",
+    "to dress to the nines",
+    "to carry out successfully (a move in sports, a pose in dance, etc.)",
+    "to succeed in doing",
+    "to immobilize with a double-arm lock (in sumo, judo, etc.)",
+    "to eat or drink something",
+    "to take illegal drugs"
+  ],
+  "category": "ichidan verb"
+}

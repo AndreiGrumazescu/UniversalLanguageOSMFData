@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1421420",
+  "japanese": "地盤",
+  "kana": "じばん",
+  "meanings": [
+    "ground",
+    "crust (earth)",
+    "bed (gravel, river, etc.)"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "foundation (building, etc.)",
+    "base",
+    "constituency",
+    "power base",
+    "support (electoral)",
+    "footing",
+    "foothold"
+  ],
+  "category": "noun"
+}

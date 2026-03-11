@@ -1,0 +1,28 @@
+{
+  "$id": "vocab:1537970",
+  "japanese": "役",
+  "kana": "やく",
+  "meanings": [
+    "role",
+    "assignment",
+    "responsibility",
+    "duty",
+    "function",
+    "job",
+    "service"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "position (of responsibility)",
+    "post",
+    "office",
+    "part (in a play, film, etc.)",
+    "role",
+    "character",
+    "scoring combination",
+    "hand",
+    "yaku",
+    "meld"
+  ],
+  "category": "noun"
+}

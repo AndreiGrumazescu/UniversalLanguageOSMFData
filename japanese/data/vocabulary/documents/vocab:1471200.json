@@ -1,0 +1,28 @@
+{
+  "$id": "vocab:1471200",
+  "japanese": "破る",
+  "kana": "やぶる",
+  "meanings": [
+    "to tear",
+    "to rip",
+    "to break",
+    "to destroy"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to break through (cordon, opponent's defense, etc.)",
+    "to breach",
+    "to defeat",
+    "to beat",
+    "to break (e.g. silence)",
+    "to disturb (e.g. peace)",
+    "to shatter (e.g. dream)",
+    "to disrupt",
+    "to spoil",
+    "to violate (e.g. rule)",
+    "to break (e.g. promise)",
+    "to infringe",
+    "to break (a record)"
+  ],
+  "category": "godan verb"
+}

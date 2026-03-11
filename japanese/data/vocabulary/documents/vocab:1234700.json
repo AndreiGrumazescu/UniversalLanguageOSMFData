@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1234700",
+  "japanese": "共通",
+  "kana": "きょうつう",
+  "meanings": [
+    "common",
+    "shared",
+    "mutual"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to be common (to)",
+    "to be shared (by)",
+    "-wide"
+  ],
+  "category": "na-adjective"
+}

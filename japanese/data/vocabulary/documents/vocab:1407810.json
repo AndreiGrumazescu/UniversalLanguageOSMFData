@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1407810",
+  "japanese": "多少",
+  "kana": "たしょう",
+  "meanings": [
+    "a little",
+    "some",
+    "somewhat",
+    "slightly",
+    "to some degree",
+    "to some extent"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "amount",
+    "quantity",
+    "number"
+  ],
+  "category": "adverb"
+}

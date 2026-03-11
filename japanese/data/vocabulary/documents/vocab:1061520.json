@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1061520",
+  "japanese": "シャツ",
+  "kana": "シャツ",
+  "meanings": [
+    "shirt (undergarment)",
+    "undershirt",
+    "singlet"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "shirt (outerwear; usu. with collar and buttons)"
+  ],
+  "category": "noun"
+}

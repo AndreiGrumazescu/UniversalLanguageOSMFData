@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1491370",
+  "japanese": "不可",
+  "kana": "ふか",
+  "meanings": [
+    "wrong",
+    "bad",
+    "improper",
+    "unjustifiable",
+    "inadvisable"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "not allowed",
+    "not possible",
+    "failing grade"
+  ],
+  "category": "na-adjective"
+}

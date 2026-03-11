@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1307740",
+  "japanese": "姿勢",
+  "kana": "しせい",
+  "meanings": [
+    "posture",
+    "pose",
+    "position",
+    "stance",
+    "carriage (of the body)"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "attitude",
+    "approach",
+    "stance"
+  ],
+  "category": "noun"
+}

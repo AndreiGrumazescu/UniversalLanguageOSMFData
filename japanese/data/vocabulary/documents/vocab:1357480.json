@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1357480",
+  "japanese": "職",
+  "kana": "しょく",
+  "meanings": [
+    "job",
+    "work",
+    "employment",
+    "occupation",
+    "position"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "duties",
+    "trade",
+    "skill"
+  ],
+  "category": "noun"
+}

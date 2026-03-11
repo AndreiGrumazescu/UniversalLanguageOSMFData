@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1215070",
+  "japanese": "貫く",
+  "kana": "つらぬく",
+  "meanings": [
+    "to go through",
+    "to pierce",
+    "to penetrate"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to run through (e.g. a river through a city)",
+    "to pass through",
+    "to stick to (opinion, principles, etc.)",
+    "to carry out",
+    "to persist with",
+    "to keep (e.g. faith)",
+    "to maintain (e.g. independence)"
+  ],
+  "category": "godan verb"
+}

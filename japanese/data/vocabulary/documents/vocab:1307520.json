@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1307520",
+  "japanese": "初めに",
+  "kana": "はじめに",
+  "meanings": [
+    "first",
+    "firstly",
+    "first of all",
+    "to begin with",
+    "in the beginning",
+    "at the beginning"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "Introduction",
+    "Preface"
+  ],
+  "category": "expression"
+}

@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1447000",
+  "japanese": "投げる",
+  "kana": "なげる",
+  "meanings": [
+    "to throw",
+    "to hurl",
+    "to fling",
+    "to toss",
+    "to cast"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to give up",
+    "to abandon",
+    "to throw away",
+    "to cast (a glance, shadow, doubt, etc.)"
+  ],
+  "category": "ichidan verb"
+}

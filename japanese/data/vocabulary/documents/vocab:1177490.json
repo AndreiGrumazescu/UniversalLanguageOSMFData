@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1177490",
+  "japanese": "縁",
+  "kana": "えん",
+  "meanings": [
+    "fate",
+    "destiny (esp. as a mysterious force that binds two people together)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "relationship (e.g. between two people)",
+    "bond",
+    "link",
+    "connection",
+    "family ties",
+    "affinity",
+    "opportunity",
+    "chance (to meet someone and start a relationship)",
+    "pratyaya (indirect conditions, as opposed to direct causes)",
+    "narrow open-air veranda"
+  ],
+  "category": "noun"
+}

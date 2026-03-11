@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1400560",
+  "japanese": "争い",
+  "kana": "あらそい",
+  "meanings": [
+    "fight",
+    "dispute",
+    "feud",
+    "conflict",
+    "struggle",
+    "strife",
+    "discord",
+    "argument",
+    "quarrel",
+    "controversy"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "competition",
+    "contest",
+    "rivalry"
+  ],
+  "category": "noun"
+}

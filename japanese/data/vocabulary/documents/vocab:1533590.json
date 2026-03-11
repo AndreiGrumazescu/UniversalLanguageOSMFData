@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1533590",
+  "japanese": "面目",
+  "kana": "めんぼく",
+  "meanings": [
+    "face",
+    "honour",
+    "honor",
+    "reputation",
+    "prestige",
+    "dignity",
+    "credit"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "appearance",
+    "look"
+  ],
+  "category": "noun"
+}

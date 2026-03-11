@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1609820",
+  "japanese": "注す",
+  "kana": "さす",
+  "meanings": [
+    "to pour",
+    "to add (liquid)",
+    "to serve (drinks)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to put on (lipstick, etc.)",
+    "to apply",
+    "to colour",
+    "to dye"
+  ],
+  "category": "godan verb"
+}

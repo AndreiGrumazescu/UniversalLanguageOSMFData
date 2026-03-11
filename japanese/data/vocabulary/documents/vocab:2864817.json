@@ -1,0 +1,25 @@
+{
+  "$id": "vocab:2864817",
+  "japanese": "揚げる",
+  "kana": "あげる",
+  "meanings": [
+    "to deep-fry",
+    "to make deep-fried food"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to launch (fireworks, etc.)",
+    "to hoist (e.g. a flag)",
+    "to (let) fly (e.g. a kite)",
+    "to set off",
+    "to summon (for geishas, etc.)",
+    "to call in",
+    "to land (e.g. a boat)",
+    "to come ashore",
+    "to move (something) onto land",
+    "to suck up (water; e.g. a plant)",
+    "to absorb",
+    "to draw up"
+  ],
+  "category": "ichidan verb"
+}

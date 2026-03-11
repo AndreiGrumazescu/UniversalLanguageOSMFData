@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1168060",
+  "japanese": "印",
+  "kana": "しるし",
+  "meanings": [
+    "mark",
+    "sign"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "symbol",
+    "emblem",
+    "badge",
+    "crest",
+    "flag",
+    "evidence",
+    "proof",
+    "token (of gratitude, affection, etc.)"
+  ],
+  "category": "noun"
+}

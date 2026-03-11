@@ -1,0 +1,13 @@
+{
+  "$id": "vocab:1146230",
+  "japanese": "レントゲン",
+  "kana": "レントゲン",
+  "meanings": [
+    "X-ray"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "roentgen (unit of ionizing radiation)"
+  ],
+  "category": "noun"
+}

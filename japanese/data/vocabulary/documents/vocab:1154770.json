@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1154770",
+  "japanese": "案",
+  "kana": "あん",
+  "meanings": [
+    "idea",
+    "plan",
+    "proposal",
+    "suggestion",
+    "(government) bill"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "draft",
+    "rough copy",
+    "expectation",
+    "desk",
+    "stand"
+  ],
+  "category": "noun"
+}

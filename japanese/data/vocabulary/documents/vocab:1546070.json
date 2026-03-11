@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1546070",
+  "japanese": "溶ける",
+  "kana": "とける",
+  "meanings": [
+    "to melt",
+    "to liquefy",
+    "to soften (e.g. through heat)",
+    "to thaw"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to dissolve (in a liquid)",
+    "to be soluble (in)",
+    "to be used up (of money or time)",
+    "to be wasted",
+    "to melt away"
+  ],
+  "category": "ichidan verb"
+}

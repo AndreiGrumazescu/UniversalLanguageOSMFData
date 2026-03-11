@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1605680",
+  "japanese": "郵便",
+  "kana": "ゆうびん",
+  "meanings": [
+    "mail service",
+    "postal service",
+    "mail",
+    "post"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "mail",
+    "postal matter",
+    "postal items"
+  ],
+  "category": "noun"
+}

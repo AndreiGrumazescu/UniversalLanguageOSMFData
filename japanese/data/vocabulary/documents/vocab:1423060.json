@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1423060",
+  "japanese": "着手",
+  "kana": "ちゃくしゅ",
+  "meanings": [
+    "starting work (on)",
+    "setting to work (on)",
+    "setting about (doing)",
+    "beginning",
+    "commencing",
+    "embarking on"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "commencing (a crime)",
+    "playing (a move)"
+  ],
+  "category": "noun"
+}

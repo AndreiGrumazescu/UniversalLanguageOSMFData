@@ -1,0 +1,38 @@
+{
+  "$id": "vocab:1313580",
+  "japanese": "事",
+  "kana": "こと",
+  "meanings": [
+    "thing",
+    "matter"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "incident",
+    "occurrence",
+    "event",
+    "something serious",
+    "trouble",
+    "crisis",
+    "circumstances",
+    "situation",
+    "state of affairs",
+    "work",
+    "business",
+    "affair",
+    "after an inflectable word, creates a noun phrase indicating something the speaker does not feel close to",
+    "nominalizing suffix",
+    "pretending to ...",
+    "playing make-believe ...",
+    "alias",
+    "also known as",
+    "otherwise known as",
+    "or",
+    "necessity",
+    "need",
+    "you should ...",
+    "I advise that you ...",
+    "it's important to ..."
+  ],
+  "category": "noun"
+}

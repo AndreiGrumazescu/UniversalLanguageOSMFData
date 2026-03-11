@@ -1,0 +1,34 @@
+{
+  "$id": "vocab:1601900",
+  "japanese": "引っ張る",
+  "kana": "ひっぱる",
+  "meanings": [
+    "to pull",
+    "to draw",
+    "to pull tight"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to string (lines)",
+    "to run (cable)",
+    "to stretch",
+    "to pull towards oneself (e.g. someone's sleeve)",
+    "to drag",
+    "to haul",
+    "to tow",
+    "to lead (e.g. one's followers)",
+    "to take someone somewhere (e.g. a suspect to the police)",
+    "to tempt into joining",
+    "to strongly invite to join",
+    "to delay",
+    "to prolong",
+    "to lengthen the pronunciation (of a word)",
+    "to quote",
+    "to cite",
+    "to reference",
+    "to pull the ball",
+    "to wear",
+    "to put on"
+  ],
+  "category": "godan verb"
+}

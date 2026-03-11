@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1581610",
+  "japanese": "端",
+  "kana": "はし",
+  "meanings": [
+    "end (e.g. of street)",
+    "tip",
+    "point",
+    "edge",
+    "margin"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "beginning",
+    "start",
+    "first",
+    "odds and ends",
+    "scrap",
+    "odd bit",
+    "least"
+  ],
+  "category": "noun"
+}

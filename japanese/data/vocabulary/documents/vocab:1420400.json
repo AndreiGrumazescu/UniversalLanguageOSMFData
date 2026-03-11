@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1420400",
+  "japanese": "知らせ",
+  "kana": "しらせ",
+  "meanings": [
+    "news",
+    "word",
+    "tidings",
+    "notice",
+    "notification",
+    "information"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "omen",
+    "foreboding",
+    "premonition"
+  ],
+  "category": "noun"
+}

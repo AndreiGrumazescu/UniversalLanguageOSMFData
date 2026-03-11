@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1535280",
+  "japanese": "目安",
+  "kana": "めやす",
+  "meanings": [
+    "criterion",
+    "standard",
+    "yardstick",
+    "reference",
+    "aim"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "rough estimate",
+    "approximation"
+  ],
+  "category": "noun"
+}

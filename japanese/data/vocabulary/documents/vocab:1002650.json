@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1002650",
+  "japanese": "お母さん",
+  "kana": "おかあさん",
+  "meanings": [
+    "mother",
+    "mom",
+    "mum",
+    "ma"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "wife",
+    "you (of an elderly person older than the speaker)",
+    "she",
+    "her"
+  ],
+  "category": "noun"
+}

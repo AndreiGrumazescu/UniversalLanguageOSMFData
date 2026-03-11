@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1382280",
+  "japanese": "惜しい",
+  "kana": "おしい",
+  "meanings": [
+    "regrettable",
+    "disappointing",
+    "unfortunate"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "precious",
+    "dear",
+    "valuable",
+    "too good for",
+    "deserving better",
+    "almost (but not quite)",
+    "close (but no cigar)"
+  ],
+  "category": "i-adjective"
+}

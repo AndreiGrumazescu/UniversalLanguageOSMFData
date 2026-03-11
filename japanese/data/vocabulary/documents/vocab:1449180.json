@@ -1,0 +1,14 @@
+{
+  "$id": "vocab:1449180",
+  "japanese": "当選",
+  "kana": "とうせん",
+  "meanings": [
+    "being elected"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "winning a prize (in a lottery, raffle, etc.)",
+    "being selected (for a prize, etc.)"
+  ],
+  "category": "noun"
+}

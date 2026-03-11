@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1337270",
+  "japanese": "宿題",
+  "kana": "しゅくだい",
+  "meanings": [
+    "homework",
+    "assignment"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "pending issue",
+    "unresolved problem",
+    "open question"
+  ],
+  "category": "noun"
+}

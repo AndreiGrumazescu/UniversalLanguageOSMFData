@@ -1,0 +1,30 @@
+{
+  "$id": "vocab:1055000",
+  "japanese": "サービス",
+  "kana": "サービス",
+  "meanings": [
+    "service",
+    "help",
+    "assistance",
+    "care",
+    "concern"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "discount",
+    "discounted item",
+    "free service",
+    "freebie",
+    "gift",
+    "service",
+    "utility",
+    "amenity",
+    "resource",
+    "(after-sales) service",
+    "servicing",
+    "(product) maintenance",
+    "service (e.g. in tennis)",
+    "serve"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1506590",
+  "japanese": "兵隊",
+  "kana": "へいたい",
+  "meanings": [
+    "armed forces",
+    "military",
+    "troops"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "(common) soldier",
+    "rank-and-file soldier",
+    "underling",
+    "ordinary employee",
+    "grunt"
+  ],
+  "category": "noun"
+}

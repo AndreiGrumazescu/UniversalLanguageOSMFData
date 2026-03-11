@@ -1,0 +1,11 @@
+{
+  "$id": "vocab:1511600",
+  "japanese": "片仮名",
+  "kana": "カタカナ",
+  "meanings": [
+    "katakana",
+    "angular Japanese syllabary used primarily for loanwords"
+  ],
+  "jlptLevel": "N5",
+  "category": "noun"
+}

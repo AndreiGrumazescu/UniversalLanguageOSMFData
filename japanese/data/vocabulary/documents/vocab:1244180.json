@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1244180",
+  "japanese": "区切り",
+  "kana": "くぎり",
+  "meanings": [
+    "pause (in speech, writing, etc.)",
+    "punctuation"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "break",
+    "end",
+    "(place to) stop",
+    "pause",
+    "milestone (e.g. in a project)"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1311900",
+  "japanese": "至急",
+  "kana": "しきゅう",
+  "meanings": [
+    "urgent",
+    "pressing",
+    "immediate",
+    "prompt",
+    "express"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "urgently",
+    "promptly",
+    "at once",
+    "right away",
+    "without delay",
+    "as soon as possible"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1388110",
+  "japanese": "先端",
+  "kana": "せんたん",
+  "meanings": [
+    "pointed end",
+    "tip",
+    "point",
+    "cusp (of a leaf, crescent moon, etc.)",
+    "apex (of a curve)"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "forefront",
+    "vanguard",
+    "spearhead",
+    "leading edge"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1002450",
+  "japanese": "お喋り",
+  "kana": "おしゃべり",
+  "meanings": [
+    "chattering",
+    "talk",
+    "idle talk",
+    "chat",
+    "chitchat",
+    "gossip"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "chatty",
+    "talkative",
+    "chatterbox",
+    "blabbermouth"
+  ],
+  "category": "noun"
+}

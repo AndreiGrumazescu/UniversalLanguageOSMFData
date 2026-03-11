@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1581930",
+  "japanese": "弟",
+  "kana": "おとうと",
+  "meanings": [
+    "younger brother",
+    "little brother",
+    "kid brother"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "brother-in-law (spouse's younger brother or younger sister's husband)",
+    "pupil",
+    "apprentice"
+  ],
+  "category": "noun"
+}

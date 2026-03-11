@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1599900",
+  "japanese": "担う",
+  "kana": "になう",
+  "meanings": [
+    "to carry on one's shoulder",
+    "to shoulder",
+    "to bear"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to bear (a burden, responsibility, etc.)",
+    "to take upon oneself"
+  ],
+  "category": "godan verb"
+}

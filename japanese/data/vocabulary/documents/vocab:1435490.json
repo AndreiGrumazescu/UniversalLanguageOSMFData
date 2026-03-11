@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1435490",
+  "japanese": "定期",
+  "kana": "ていき",
+  "meanings": [
+    "fixed period",
+    "fixed term"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "regular",
+    "periodic",
+    "periodical",
+    "fixed-term commuter pass",
+    "fixed-term deposit",
+    "futures contracts"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1303820",
+  "japanese": "産地",
+  "kana": "さんち",
+  "meanings": [
+    "producing area",
+    "place of origin",
+    "growing district"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "home (of a plant or animal)",
+    "habitat",
+    "locality",
+    "birthplace (of a person)"
+  ],
+  "category": "noun"
+}

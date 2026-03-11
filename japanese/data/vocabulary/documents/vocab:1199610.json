@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1199610",
+  "japanese": "回送",
+  "kana": "かいそう",
+  "meanings": [
+    "forwarding",
+    "sending on",
+    "redirecting (e.g. mail)"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "deadheading (e.g. train)",
+    "(train) returning to the station"
+  ],
+  "category": "noun"
+}

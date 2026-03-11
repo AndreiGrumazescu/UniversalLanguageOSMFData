@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1419740",
+  "japanese": "断定",
+  "kana": "だんてい",
+  "meanings": [
+    "conclusion",
+    "decision",
+    "judgement",
+    "declaration"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "affirmative"
+  ],
+  "category": "noun"
+}

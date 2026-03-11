@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1375600",
+  "japanese": "成り立つ",
+  "kana": "なりたつ",
+  "meanings": [
+    "to consist of",
+    "to be made up of",
+    "to be composed of"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to be concluded (e.g. of an agreement)",
+    "to hold true (e.g. of a theory)",
+    "to be valid",
+    "to be viable (of a business, lifestyle, etc.)",
+    "to carry on",
+    "to keep going"
+  ],
+  "category": "godan verb"
+}

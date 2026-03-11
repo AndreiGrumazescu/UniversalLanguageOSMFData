@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1277500",
+  "japanese": "好み",
+  "kana": "このみ",
+  "meanings": [
+    "liking",
+    "taste",
+    "fancy",
+    "fondness"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "wish",
+    "desire",
+    "choice",
+    "preference"
+  ],
+  "category": "noun"
+}

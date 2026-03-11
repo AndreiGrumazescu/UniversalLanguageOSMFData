@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1594180",
+  "japanese": "仕組み",
+  "kana": "しくみ",
+  "meanings": [
+    "structure",
+    "construction",
+    "arrangement",
+    "contrivance",
+    "mechanism",
+    "workings"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "plan",
+    "plot",
+    "contrivance"
+  ],
+  "category": "noun"
+}

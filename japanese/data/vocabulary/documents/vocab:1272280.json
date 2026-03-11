@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1272280",
+  "japanese": "交通",
+  "kana": "こうつう",
+  "meanings": [
+    "traffic",
+    "transportation"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "communication",
+    "exchange (of ideas, etc.)",
+    "intercourse"
+  ],
+  "category": "noun"
+}

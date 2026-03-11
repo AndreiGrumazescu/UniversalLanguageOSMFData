@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1175380",
+  "japanese": "閲覧",
+  "kana": "えつらん",
+  "meanings": [
+    "inspection",
+    "reading",
+    "perusal"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "browsing (the web)"
+  ],
+  "category": "noun"
+}

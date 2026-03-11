@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1383160",
+  "japanese": "責める",
+  "kana": "せめる",
+  "meanings": [
+    "to condemn",
+    "to blame",
+    "to criticize",
+    "to criticise",
+    "to reproach",
+    "to accuse"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to urge",
+    "to press",
+    "to pester",
+    "to torture",
+    "to torment",
+    "to persecute",
+    "to break in (a horse)"
+  ],
+  "category": "ichidan verb"
+}

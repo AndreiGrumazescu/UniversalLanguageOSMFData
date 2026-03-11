@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1251250",
+  "japanese": "経過",
+  "kana": "けいか",
+  "meanings": [
+    "passage (of time)",
+    "elapsing",
+    "lapse"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "progress",
+    "development",
+    "course (of events)",
+    "transit"
+  ],
+  "category": "noun"
+}

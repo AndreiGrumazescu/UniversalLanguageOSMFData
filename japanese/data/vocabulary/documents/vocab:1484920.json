@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1484920",
+  "japanese": "非常",
+  "kana": "ひじょう",
+  "meanings": [
+    "emergency"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "extreme",
+    "great",
+    "extraordinary",
+    "remarkable",
+    "unusual",
+    "terrible",
+    "severe"
+  ],
+  "category": "noun"
+}

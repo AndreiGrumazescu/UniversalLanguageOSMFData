@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1365980",
+  "japanese": "進む",
+  "kana": "すすむ",
+  "meanings": [
+    "to advance",
+    "to go forward"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to precede",
+    "to go ahead (of)",
+    "to make progress",
+    "to improve",
+    "to deepen",
+    "to heighten",
+    "to be fast (of a clock)",
+    "to be ahead",
+    "to do of one's own free will"
+  ],
+  "category": "godan verb"
+}

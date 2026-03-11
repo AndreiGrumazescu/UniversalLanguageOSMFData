@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1410780",
+  "japanese": "態度",
+  "kana": "たいど",
+  "meanings": [
+    "attitude",
+    "manner",
+    "behaviour",
+    "demeanour",
+    "bearing"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "attitude (towards an issue, etc.)",
+    "position",
+    "stance",
+    "stand"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1214980",
+  "japanese": "観測",
+  "kana": "かんそく",
+  "meanings": [
+    "observation",
+    "survey",
+    "measurement"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "opinion",
+    "prediction",
+    "thinking"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1475910",
+  "japanese": "爆発",
+  "kana": "ばくはつ",
+  "meanings": [
+    "explosion",
+    "detonation",
+    "blast",
+    "blowing up",
+    "eruption"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "outburst (of emotion)",
+    "explosion (e.g. of anger)",
+    "eruption (e.g. of discontent)"
+  ],
+  "category": "noun"
+}

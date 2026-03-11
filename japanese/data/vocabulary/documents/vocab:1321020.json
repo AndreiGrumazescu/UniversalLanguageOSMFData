@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1321020",
+  "japanese": "実現",
+  "kana": "じつげん",
+  "meanings": [
+    "implementation (e.g. of a system)",
+    "materialization",
+    "materialisation",
+    "realization",
+    "realisation",
+    "actualization",
+    "actualisation"
+  ],
+  "jlptLevel": "N3",
+  "category": "noun"
+}

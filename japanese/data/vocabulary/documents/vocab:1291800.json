@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1291800",
+  "japanese": "座る",
+  "kana": "すわる",
+  "meanings": [
+    "to sit (down)",
+    "to have a seat",
+    "to be seated",
+    "to kneel (on the floor)"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "to assume (a position)",
+    "to take on (a duty)",
+    "to occupy (a post)"
+  ],
+  "category": "godan verb"
+}

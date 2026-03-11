@@ -1,0 +1,26 @@
+{
+  "$id": "vocab:1585650",
+  "japanese": "箱",
+  "kana": "はこ",
+  "meanings": [
+    "box",
+    "case",
+    "chest",
+    "package",
+    "pack",
+    "crate"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "car (of a train, etc.)",
+    "shamisen case",
+    "shamisen",
+    "public building",
+    "community building",
+    "man who carries a geisha's shamisen",
+    "receptacle for human waste",
+    "feces (faeces)",
+    "counter for boxes (or boxed objects)"
+  ],
+  "category": "noun"
+}

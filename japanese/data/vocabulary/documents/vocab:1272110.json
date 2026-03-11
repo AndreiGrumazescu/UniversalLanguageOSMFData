@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1272110",
+  "japanese": "交渉",
+  "kana": "こうしょう",
+  "meanings": [
+    "negotiations",
+    "bargaining",
+    "discussions",
+    "talks"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "connection",
+    "relationship",
+    "relations",
+    "dealings"
+  ],
+  "category": "noun"
+}

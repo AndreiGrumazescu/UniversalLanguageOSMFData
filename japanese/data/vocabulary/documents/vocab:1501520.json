@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1501520",
+  "japanese": "覆面",
+  "kana": "ふくめん",
+  "meanings": [
+    "mask",
+    "veil",
+    "disguise"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "anonymous",
+    "unmarked",
+    "incognito"
+  ],
+  "category": "noun"
+}

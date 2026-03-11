@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1477290",
+  "japanese": "発掘",
+  "kana": "はっくつ",
+  "meanings": [
+    "excavation",
+    "exhumation",
+    "digging up",
+    "unearthing"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "discovery (of a new fact, talent, etc.)",
+    "finding",
+    "unearthing"
+  ],
+  "category": "noun"
+}

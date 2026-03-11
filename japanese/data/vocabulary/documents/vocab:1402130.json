@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1402130",
+  "japanese": "葬る",
+  "kana": "ほうむる",
+  "meanings": [
+    "to bury",
+    "to inter",
+    "to entomb"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to cover up",
+    "to hush up",
+    "to shelve"
+  ],
+  "category": "godan verb"
+}

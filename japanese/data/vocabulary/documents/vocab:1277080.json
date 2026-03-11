@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1277080",
+  "japanese": "向く",
+  "kana": "むく",
+  "meanings": [
+    "to turn toward",
+    "to look (up, down, etc.)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to face (e.g. east) (of a building, window, etc.)",
+    "to look out on",
+    "to front (on)",
+    "to point (of an arrow, compass needle, etc.)",
+    "to be suited to",
+    "to be fit for",
+    "to go towards",
+    "to turn to (of one's interests, feelings, etc.)",
+    "to be inclined (to do)"
+  ],
+  "category": "godan verb"
+}

@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1350340",
+  "japanese": "消防",
+  "kana": "しょうぼう",
+  "meanings": [
+    "fire fighting"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "fire department",
+    "fire brigade",
+    "firefighter"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1296400",
+  "japanese": "有る",
+  "kana": "ある",
+  "meanings": [
+    "to be",
+    "to exist",
+    "to live"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "to have",
+    "to be located",
+    "to be equipped with",
+    "to happen",
+    "to come about",
+    "to exist (in a completed state)",
+    "to be (something unchanged in its current state)"
+  ],
+  "category": "godan verb"
+}

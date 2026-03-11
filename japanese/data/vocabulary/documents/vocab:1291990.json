@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1291990",
+  "japanese": "座敷",
+  "kana": "ざしき",
+  "meanings": [
+    "tatami room",
+    "tatami mat room",
+    "formal Japanese room"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "dinner party in a tatami room (esp. when a geisha or maiko attends)"
+  ],
+  "category": "noun"
+}

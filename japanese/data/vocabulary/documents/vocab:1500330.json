@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1500330",
+  "japanese": "副",
+  "kana": "ふく",
+  "meanings": [
+    "assistant",
+    "associate",
+    "vice-",
+    "sub-",
+    "deputy",
+    "substitute",
+    "auxiliary",
+    "supplementary",
+    "additional",
+    "collateral"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "duplicate",
+    "copy",
+    "adverb"
+  ],
+  "category": "noun"
+}

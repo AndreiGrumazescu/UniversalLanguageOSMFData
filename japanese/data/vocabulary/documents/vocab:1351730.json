@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1351730",
+  "japanese": "詳しい",
+  "kana": "くわしい",
+  "meanings": [
+    "detailed",
+    "full",
+    "minute"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "knowing very well",
+    "knowledgeable (about)",
+    "well-acquainted (with)",
+    "well-informed (about)",
+    "familiar (with)"
+  ],
+  "category": "i-adjective"
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1153080",
+  "japanese": "圧縮",
+  "kana": "あっしゅく",
+  "meanings": [
+    "compression"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "condensing",
+    "shortening",
+    "summarizing",
+    "compression (of data)"
+  ],
+  "category": "noun"
+}

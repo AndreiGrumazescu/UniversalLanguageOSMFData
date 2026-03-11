@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:2643970",
+  "japanese": "だって",
+  "kana": "だって",
+  "meanings": [
+    "after all",
+    "because"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "but",
+    "even",
+    "too",
+    "as well",
+    "also",
+    "they say",
+    "I hear",
+    "you mean"
+  ],
+  "category": "conjunction"
+}

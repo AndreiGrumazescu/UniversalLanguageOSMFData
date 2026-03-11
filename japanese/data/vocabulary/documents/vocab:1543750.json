@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1543750",
+  "japanese": "予約",
+  "kana": "よやく",
+  "meanings": [
+    "reservation",
+    "appointment",
+    "booking",
+    "advance order"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "contract",
+    "subscription",
+    "pledge",
+    "programming (e.g. a device)",
+    "setting (e.g. a timer)"
+  ],
+  "category": "noun"
+}

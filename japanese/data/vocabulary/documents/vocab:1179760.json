@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1179760",
+  "japanese": "往復",
+  "kana": "おうふく",
+  "meanings": [
+    "making a round trip",
+    "going and returning",
+    "coming and going"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "round-trip ticket",
+    "return ticket",
+    "correspondence",
+    "exchanging (of letters)",
+    "keeping company (with)",
+    "socializing",
+    "visiting each other"
+  ],
+  "category": "noun"
+}

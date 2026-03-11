@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1500880",
+  "japanese": "幅",
+  "kana": "はば",
+  "meanings": [
+    "width",
+    "breadth"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "freedom (e.g. of thought)",
+    "latitude",
+    "gap",
+    "difference (e.g. in price)",
+    "range (e.g. of voice)"
+  ],
+  "category": "noun"
+}

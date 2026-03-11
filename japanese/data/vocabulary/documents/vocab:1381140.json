@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1381140",
+  "japanese": "西暦",
+  "kana": "せいれき",
+  "meanings": [
+    "Common Era",
+    "CE",
+    "Christian Era",
+    "anno domini",
+    "AD"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "Western (Gregorian) calendar"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1590820",
+  "japanese": "替わる",
+  "kana": "かわる",
+  "meanings": [
+    "to succeed",
+    "to relieve",
+    "to replace"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to take the place of",
+    "to substitute for",
+    "to take over for",
+    "to represent",
+    "to hand over (telephone)",
+    "to be exchanged",
+    "to change (places with)",
+    "to switch"
+  ],
+  "category": "godan verb"
+}

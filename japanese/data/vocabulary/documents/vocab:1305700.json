@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1305700",
+  "japanese": "伺う",
+  "kana": "うかがう",
+  "meanings": [
+    "to call on someone",
+    "to call at a place",
+    "to pay a visit",
+    "to wait on someone"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to ask",
+    "to inquire",
+    "to hear",
+    "to be told",
+    "to implore (a god for an oracle)",
+    "to seek direction (from your superior)",
+    "to speak to (a large crowd at a theatre, etc.)"
+  ],
+  "category": "godan verb"
+}

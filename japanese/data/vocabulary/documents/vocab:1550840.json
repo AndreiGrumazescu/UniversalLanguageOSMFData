@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1550840",
+  "japanese": "離れる",
+  "kana": "はなれる",
+  "meanings": [
+    "to be separated",
+    "to be apart",
+    "to be distant"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to leave",
+    "to go away",
+    "to leave (a job, etc.)",
+    "to quit",
+    "to give up",
+    "to lose connection with",
+    "to drift away from"
+  ],
+  "category": "ichidan verb"
+}

@@ -1,0 +1,25 @@
+{
+  "$id": "vocab:1267180",
+  "japanese": "故障",
+  "kana": "こしょう",
+  "meanings": [
+    "fault",
+    "trouble",
+    "breakdown",
+    "failure",
+    "being out of order"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "damage (to a part of the body)",
+    "injury",
+    "hurt",
+    "problem",
+    "hitch",
+    "obstacle",
+    "hindrance",
+    "objection",
+    "protest"
+  ],
+  "category": "noun"
+}

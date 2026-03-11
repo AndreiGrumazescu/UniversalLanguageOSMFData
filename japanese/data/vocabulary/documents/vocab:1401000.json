@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1401000",
+  "japanese": "相手",
+  "kana": "あいて",
+  "meanings": [
+    "companion",
+    "partner",
+    "company"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "other party",
+    "addressee",
+    "counterparty",
+    "opponent (sports, etc.)"
+  ],
+  "category": "noun"
+}

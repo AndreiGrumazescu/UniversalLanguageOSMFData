@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1002400",
+  "japanese": "お宅",
+  "kana": "おたく",
+  "meanings": [
+    "your house",
+    "your home",
+    "your family"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "your husband",
+    "your organization",
+    "you"
+  ],
+  "category": "noun"
+}

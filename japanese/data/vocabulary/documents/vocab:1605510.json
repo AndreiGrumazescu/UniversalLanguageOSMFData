@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1605510",
+  "japanese": "痩せる",
+  "kana": "やせる",
+  "meanings": [
+    "to become thin",
+    "to lose weight",
+    "to slim"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to become impoverished (of soil)",
+    "to become sterile",
+    "to become infertile",
+    "to become barren"
+  ],
+  "category": "ichidan verb"
+}

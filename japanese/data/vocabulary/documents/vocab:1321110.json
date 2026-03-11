@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1321110",
+  "japanese": "実際",
+  "kana": "じっさい",
+  "meanings": [
+    "reality",
+    "actuality",
+    "truth",
+    "fact",
+    "actual conditions"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "practice (as opposed to theory)",
+    "truly",
+    "really",
+    "indeed",
+    "actually",
+    "bhutakoti (limit of reality)"
+  ],
+  "category": "noun"
+}

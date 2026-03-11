@@ -1,0 +1,30 @@
+{
+  "$id": "vocab:1250600",
+  "japanese": "掲げる",
+  "kana": "かかげる",
+  "meanings": [
+    "to put up (a notice, sign, etc.)",
+    "to hang out (e.g. a banner)",
+    "to fly (e.g. a flag)",
+    "to hoist",
+    "to raise",
+    "to display"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to hold up high",
+    "to raise overhead",
+    "to tout (a principle, plan, etc.)",
+    "to herald",
+    "to hold up (an ideal)",
+    "to parade (e.g. a slogan)",
+    "to publish",
+    "to print",
+    "to carry (e.g. an article)",
+    "to tuck up (e.g. sleeves)",
+    "to roll up",
+    "to stoke (a fire)",
+    "to fan (a flame)"
+  ],
+  "category": "ichidan verb"
+}

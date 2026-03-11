@@ -1,0 +1,41 @@
+{
+  "$id": "vocab:1554820",
+  "japanese": "力",
+  "kana": "ちから",
+  "meanings": [
+    "force",
+    "strength",
+    "might",
+    "vigour",
+    "vigor",
+    "energy"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "capability",
+    "ability",
+    "proficiency",
+    "capacity",
+    "faculty",
+    "efficacy",
+    "effect",
+    "effort",
+    "endeavours",
+    "endeavors",
+    "exertions",
+    "power",
+    "authority",
+    "influence",
+    "good offices",
+    "agency",
+    "support",
+    "help",
+    "aid",
+    "assistance",
+    "stress",
+    "emphasis",
+    "means",
+    "resources"
+  ],
+  "category": "noun"
+}

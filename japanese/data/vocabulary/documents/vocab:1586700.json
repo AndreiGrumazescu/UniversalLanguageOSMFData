@@ -1,0 +1,43 @@
+{
+  "$id": "vocab:1586700",
+  "japanese": "怪しい",
+  "kana": "あやしい",
+  "meanings": [
+    "suspicious",
+    "dubious",
+    "questionable",
+    "dodgy",
+    "shady",
+    "fishy"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "doubtful",
+    "unsure",
+    "uncertain",
+    "unlikely",
+    "implausible",
+    "untrustworthy",
+    "unreliable",
+    "clumsy",
+    "awkward",
+    "shaky",
+    "poor",
+    "strange",
+    "weird",
+    "eerie",
+    "spooky",
+    "uncanny",
+    "ominous (e.g. weather)",
+    "threatening",
+    "dangerous (e.g. financial situation)",
+    "uncertain",
+    "suspicious (of a potential amorous relation)",
+    "mysterious",
+    "bewitching",
+    "alluring",
+    "enticing",
+    "enchanting"
+  ],
+  "category": "i-adjective"
+}

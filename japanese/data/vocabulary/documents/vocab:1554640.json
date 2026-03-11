@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1554640",
+  "japanese": "量",
+  "kana": "りょう",
+  "meanings": [
+    "quantity",
+    "amount",
+    "volume",
+    "capacity",
+    "portion (of food)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "generosity",
+    "magnanimity",
+    "tolerance",
+    "pramana (means by which one gains accurate and valid knowledge; in Indian philosophy)"
+  ],
+  "category": "noun"
+}

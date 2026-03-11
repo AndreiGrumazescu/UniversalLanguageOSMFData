@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1490070",
+  "japanese": "評判",
+  "kana": "ひょうばん",
+  "meanings": [
+    "reputation",
+    "(public) estimation",
+    "popularity"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "rumour",
+    "rumor",
+    "talk (e.g. of the town)",
+    "fame",
+    "notoriety"
+  ],
+  "category": "noun"
+}

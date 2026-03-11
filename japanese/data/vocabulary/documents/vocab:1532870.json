@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1532870",
+  "japanese": "鳴く",
+  "kana": "なく",
+  "meanings": [
+    "to make sound (of an animal)",
+    "to call",
+    "to cry",
+    "to whine",
+    "to sing",
+    "to chirp"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "to make a meld call (e.g. pung, kong)"
+  ],
+  "category": "godan verb"
+}

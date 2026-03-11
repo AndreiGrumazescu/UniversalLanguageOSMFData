@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1545710",
+  "japanese": "揺れる",
+  "kana": "ゆれる",
+  "meanings": [
+    "to shake",
+    "to sway",
+    "to rock",
+    "to swing",
+    "to tremble",
+    "to jolt",
+    "to pitch",
+    "to roll",
+    "to flicker"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to become unstable",
+    "to become unsettled",
+    "to be shaken",
+    "to waver"
+  ],
+  "category": "ichidan verb"
+}

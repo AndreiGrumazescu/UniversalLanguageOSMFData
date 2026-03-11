@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1369940",
+  "japanese": "尋ねる",
+  "kana": "たずねる",
+  "meanings": [
+    "to ask",
+    "to enquire",
+    "to inquire"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to search",
+    "to look for",
+    "to look into",
+    "to investigate"
+  ],
+  "category": "ichidan verb"
+}

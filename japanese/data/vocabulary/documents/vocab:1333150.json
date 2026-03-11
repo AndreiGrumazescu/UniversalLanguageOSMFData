@@ -1,0 +1,27 @@
+{
+  "$id": "vocab:1333150",
+  "japanese": "臭い",
+  "kana": "くさい",
+  "meanings": [
+    "stinking",
+    "smelly"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "suspicious",
+    "fishy",
+    "hammy (acting)",
+    "over-the-top",
+    "cheesy",
+    "clumsy",
+    "unskilled",
+    "(overly) gamey",
+    "strong-tasting",
+    "smelling of",
+    "looking like",
+    "appearing like",
+    "smacking of",
+    "-ish"
+  ],
+  "category": "i-adjective"
+}

@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1447040",
+  "japanese": "投げ出す",
+  "kana": "なげだす",
+  "meanings": [
+    "to throw down",
+    "to throw out",
+    "to stretch out (one's legs)"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to abandon",
+    "to resign",
+    "to give freely",
+    "to give generously",
+    "to sacrifice (e.g. one's life)",
+    "to start to throw"
+  ],
+  "category": "godan verb"
+}

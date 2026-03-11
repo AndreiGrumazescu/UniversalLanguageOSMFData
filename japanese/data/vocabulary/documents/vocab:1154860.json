@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1154860",
+  "japanese": "案内",
+  "kana": "あんない",
+  "meanings": [
+    "guidance",
+    "leading (the way)",
+    "showing around"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "information",
+    "notice",
+    "notification",
+    "announcement (of a visitor's arrival)",
+    "informing (someone) of a visitor's arrival",
+    "invitation",
+    "acquaintance",
+    "knowledge"
+  ],
+  "category": "noun"
+}

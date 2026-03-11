@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1250390",
+  "japanese": "形態",
+  "kana": "けいたい",
+  "meanings": [
+    "form",
+    "shape",
+    "figure"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "morph"
+  ],
+  "category": "noun"
+}

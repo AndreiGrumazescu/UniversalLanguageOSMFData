@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1224080",
+  "japanese": "飢える",
+  "kana": "うえる",
+  "meanings": [
+    "to starve",
+    "to be famished",
+    "to be hungry"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to be starved of (e.g. love)",
+    "to be thirsty for (e.g. knowledge)",
+    "to be hungry for"
+  ],
+  "category": "ichidan verb"
+}

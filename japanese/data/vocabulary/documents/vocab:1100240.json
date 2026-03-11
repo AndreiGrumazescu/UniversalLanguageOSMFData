@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1100240",
+  "japanese": "バンド",
+  "kana": "バンド",
+  "meanings": [
+    "band (group of musicians)"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "band (material)",
+    "strap",
+    "(watch) bracelet",
+    "belt (clothing)",
+    "(frequency) band"
+  ],
+  "category": "noun"
+}

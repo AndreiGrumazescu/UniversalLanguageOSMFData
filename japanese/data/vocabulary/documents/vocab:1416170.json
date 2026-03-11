@@ -1,0 +1,35 @@
+{
+  "$id": "vocab:1416170",
+  "japanese": "叩く",
+  "kana": "たたく",
+  "meanings": [
+    "to strike",
+    "to hit",
+    "to beat",
+    "to knock",
+    "to pound",
+    "to bang",
+    "to slap",
+    "to spank",
+    "to tap",
+    "to pat",
+    "to clap (one's hands)",
+    "to play (the drums)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to attack",
+    "to bash",
+    "to criticize",
+    "to censure",
+    "to flame (on the Internet)",
+    "to sound out (someone's views)",
+    "to pound (meat or fish)",
+    "to chop into small pieces",
+    "to beat down the price",
+    "to talk (big, bad, idly, etc.)",
+    "to call",
+    "to invoke (e.g. a function)"
+  ],
+  "category": "godan verb"
+}

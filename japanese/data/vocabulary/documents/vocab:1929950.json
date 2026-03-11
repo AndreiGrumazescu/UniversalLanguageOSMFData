@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1929950",
+  "japanese": "詩",
+  "kana": "し",
+  "meanings": [
+    "poem",
+    "poetry",
+    "verse"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "Chinese poem"
+  ],
+  "category": "noun"
+}

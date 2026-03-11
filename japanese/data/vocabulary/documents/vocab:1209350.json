@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1209350",
+  "japanese": "粥",
+  "kana": "かゆ",
+  "meanings": [
+    "thin rice porridge",
+    "watery cooked rice",
+    "rice gruel",
+    "congee"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "breakfast (in Zen temples)"
+  ],
+  "category": "noun"
+}

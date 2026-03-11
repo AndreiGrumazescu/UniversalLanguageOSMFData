@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1455800",
+  "japanese": "独裁",
+  "kana": "どくさい",
+  "meanings": [
+    "dictatorship",
+    "despotism",
+    "autocracy"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "running (a company, etc.) despotically"
+  ],
+  "category": "noun"
+}

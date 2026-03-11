@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1410710",
+  "japanese": "怠る",
+  "kana": "おこたる",
+  "meanings": [
+    "to neglect",
+    "to be negligent in",
+    "to be neglectful of",
+    "to fail to do",
+    "to leave undone",
+    "to avoid (doing)",
+    "to shirk",
+    "to be unmindful of"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to improve (of an illness)",
+    "to get better"
+  ],
+  "category": "godan verb"
+}

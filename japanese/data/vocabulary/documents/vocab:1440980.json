@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1440980",
+  "japanese": "転がす",
+  "kana": "ころがす",
+  "meanings": [
+    "to roll",
+    "to wheel",
+    "to trundle",
+    "to drive (a car)"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to turn over",
+    "to tip over",
+    "to throw down",
+    "to leave",
+    "to buy and sell (quickly for a profit)"
+  ],
+  "category": "godan verb"
+}

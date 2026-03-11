@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1503580",
+  "japanese": "分散",
+  "kana": "ぶんさん",
+  "meanings": [
+    "dispersion",
+    "breakup",
+    "scattering",
+    "decentralization",
+    "decentralisation",
+    "distribution"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "variance",
+    "dispersion"
+  ],
+  "category": "noun"
+}

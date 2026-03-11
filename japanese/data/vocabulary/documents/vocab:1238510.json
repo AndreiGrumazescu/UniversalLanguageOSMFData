@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1238510",
+  "japanese": "郷土",
+  "kana": "きょうど",
+  "meanings": [
+    "native place",
+    "birth-place",
+    "one's old home"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "province",
+    "region",
+    "locality"
+  ],
+  "category": "noun"
+}

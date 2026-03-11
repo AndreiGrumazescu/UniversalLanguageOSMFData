@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1599570",
+  "japanese": "何気ない",
+  "kana": "なにげない",
+  "meanings": [
+    "casual",
+    "unconcerned",
+    "nonchalant",
+    "indifferent",
+    "offhand"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "ordinary",
+    "normal",
+    "regular",
+    "everyday",
+    "unremarkable"
+  ],
+  "category": "i-adjective"
+}

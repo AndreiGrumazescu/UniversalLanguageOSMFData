@@ -1,0 +1,14 @@
+{
+  "$id": "vocab:1401360",
+  "japanese": "相撲",
+  "kana": "すもう",
+  "meanings": [
+    "sumo (wrestling)"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "sumo wrestler",
+    "rikishi"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1421630",
+  "japanese": "恥ずかしい",
+  "kana": "はずかしい",
+  "meanings": [
+    "embarrassing",
+    "embarrassed",
+    "ashamed",
+    "humiliated",
+    "shy"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "disgraceful",
+    "shameful"
+  ],
+  "category": "i-adjective"
+}

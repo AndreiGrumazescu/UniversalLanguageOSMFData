@@ -1,0 +1,28 @@
+{
+  "$id": "vocab:1154330",
+  "japanese": "暗い",
+  "kana": "くらい",
+  "meanings": [
+    "dark",
+    "gloomy",
+    "murky"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "depressed",
+    "dispirited",
+    "down in the dumps",
+    "dark (mood)",
+    "dark (in colour)",
+    "dull",
+    "ill-boding",
+    "dark (e.g. past)",
+    "suspicious",
+    "unlikely (to succeed)",
+    "hopeless",
+    "unpromising",
+    "unfamiliar (with)",
+    "ignorant (of)"
+  ],
+  "category": "i-adjective"
+}

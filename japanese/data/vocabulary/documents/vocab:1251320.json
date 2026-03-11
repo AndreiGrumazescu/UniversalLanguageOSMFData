@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1251320",
+  "japanese": "経済",
+  "kana": "けいざい",
+  "meanings": [
+    "economy",
+    "economics"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "finance",
+    "(one's) finances",
+    "financial circumstances",
+    "being economical",
+    "economy",
+    "thrift"
+  ],
+  "category": "noun"
+}

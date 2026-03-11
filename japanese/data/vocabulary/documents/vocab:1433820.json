@@ -1,0 +1,28 @@
+{
+  "$id": "vocab:1433820",
+  "japanese": "潰す",
+  "kana": "つぶす",
+  "meanings": [
+    "to smash",
+    "to crush",
+    "to flatten"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to shut down",
+    "to put out of business",
+    "to force (a company) to close up shop",
+    "to wreck",
+    "to break",
+    "to block",
+    "to thwart",
+    "to butcher",
+    "to slaughter",
+    "to kill (livestock, for food)",
+    "to kill (time)",
+    "to while away (the time)",
+    "to use up (one's time)",
+    "to waste (e.g. talents)"
+  ],
+  "category": "godan verb"
+}

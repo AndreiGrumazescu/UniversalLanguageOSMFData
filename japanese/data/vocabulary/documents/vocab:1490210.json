@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1490210",
+  "japanese": "病む",
+  "kana": "やむ",
+  "meanings": [
+    "to fall ill"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to suffer from (e.g. a disease)",
+    "to have something wrong with (e.g. an inner organ)",
+    "to be depressed",
+    "to feel down",
+    "to have mental health issues"
+  ],
+  "category": "godan verb"
+}

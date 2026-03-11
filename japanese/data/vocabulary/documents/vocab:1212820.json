@@ -1,0 +1,13 @@
+{
+  "$id": "vocab:1212820",
+  "japanese": "換算",
+  "kana": "かんさん",
+  "meanings": [
+    "conversion (e.g. yen to dollars)",
+    "change",
+    "exchange",
+    "translation (numerical)"
+  ],
+  "jlptLevel": "N1",
+  "category": "noun"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1521510",
+  "japanese": "墨",
+  "kana": "すみ",
+  "meanings": [
+    "sumi",
+    "India ink",
+    "Chinese ink",
+    "ink stick",
+    "ink-cake"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "squid ink",
+    "octopus ink",
+    "carpenter's inking string"
+  ],
+  "category": "noun"
+}

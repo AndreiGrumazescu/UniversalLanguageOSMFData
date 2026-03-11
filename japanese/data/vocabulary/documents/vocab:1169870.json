@@ -1,0 +1,30 @@
+{
+  "$id": "vocab:1169870",
+  "japanese": "飲む",
+  "kana": "のむ",
+  "meanings": [
+    "to drink",
+    "to swallow",
+    "to take (medicine)"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "to smoke (tobacco)",
+    "to swallow up",
+    "to engulf",
+    "to suppress (one's anger, bitter feelings, etc.)",
+    "to keep down",
+    "to hold back",
+    "to swallow (one's tears)",
+    "to catch (one's breath)",
+    "to accept (a demand, conditions, etc.)",
+    "to agree to",
+    "to make light of (someone)",
+    "to think nothing of",
+    "to overwhelm",
+    "to overawe",
+    "to carry (a concealed dagger, etc.)",
+    "to conceal (up one's sleeve, etc.)"
+  ],
+  "category": "godan verb"
+}

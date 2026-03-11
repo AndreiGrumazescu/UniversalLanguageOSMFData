@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1585110",
+  "japanese": "流行",
+  "kana": "りゅうこう",
+  "meanings": [
+    "fashion",
+    "trend",
+    "vogue",
+    "craze",
+    "fad",
+    "popularity"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "prevalence (of a disease)",
+    "epidemic"
+  ],
+  "category": "noun"
+}

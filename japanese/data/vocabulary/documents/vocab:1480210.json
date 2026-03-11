@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1480210",
+  "japanese": "反応",
+  "kana": "はんのう",
+  "meanings": [
+    "reaction",
+    "response"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "physical reaction (to a stimulus)",
+    "observable response (of an organism)",
+    "reaction",
+    "effect",
+    "change"
+  ],
+  "category": "noun"
+}

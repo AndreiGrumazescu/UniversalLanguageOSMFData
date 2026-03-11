@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1343460",
+  "japanese": "暑い",
+  "kana": "あつい",
+  "meanings": [
+    "hot",
+    "warm",
+    "sultry",
+    "heated"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "passionate",
+    "impassioned",
+    "burning (desire, etc.)",
+    "on everybody's mind",
+    "on the radar",
+    "du jour",
+    "interested (gaze, etc.)"
+  ],
+  "category": "i-adjective"
+}

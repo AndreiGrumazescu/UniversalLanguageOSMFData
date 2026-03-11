@@ -1,0 +1,36 @@
+{
+  "$id": "vocab:1432900",
+  "japanese": "通す",
+  "kana": "とおす",
+  "meanings": [
+    "to stick through",
+    "to force through"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to spread throughout",
+    "to thoroughly diffuse",
+    "to make a path between two points",
+    "to proceed in a logical manner",
+    "to let pass",
+    "to allow through",
+    "to lead (someone) into (a house, room, etc.)",
+    "to show in",
+    "to go through (a middleman)",
+    "to (look, listen) through (a window, wall, etc.)",
+    "to pass (a law, applicant, etc.)",
+    "to force to accept",
+    "to force agreement",
+    "to continue (in a state)",
+    "to persist in",
+    "to do to the entirety of",
+    "to cover all of",
+    "to span the whole ...",
+    "to do from beginning to end without a break",
+    "to convey (one's ideas, etc.) to the other party",
+    "to do to the end",
+    "to carry through",
+    "to complete"
+  ],
+  "category": "godan verb"
+}

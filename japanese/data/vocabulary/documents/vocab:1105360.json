@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1105360",
+  "japanese": "ビデオ",
+  "kana": "ビデオ",
+  "meanings": [
+    "video (esp. a televised image)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "videotape",
+    "VHS tape",
+    "videocassette",
+    "videocassette recorder",
+    "VCR",
+    "video (short film)"
+  ],
+  "category": "noun"
+}

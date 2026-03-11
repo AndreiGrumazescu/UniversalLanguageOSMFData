@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1158880",
+  "japanese": "違う",
+  "kana": "ちがう",
+  "meanings": [
+    "to differ (from)",
+    "to be different",
+    "to be distinct",
+    "to be unlike",
+    "to vary",
+    "to disagree (with)"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "to be wrong",
+    "to be incorrect",
+    "to be mistaken",
+    "to become abnormal",
+    "to go wrong",
+    "isn't it?",
+    "wasn't it?"
+  ],
+  "category": "godan verb"
+}

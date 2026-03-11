@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1483380",
+  "japanese": "扉",
+  "kana": "とびら",
+  "meanings": [
+    "door",
+    "gate",
+    "opening"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "title page"
+  ],
+  "category": "noun"
+}

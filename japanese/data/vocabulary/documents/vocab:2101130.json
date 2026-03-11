@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:2101130",
+  "japanese": "氏",
+  "kana": "し",
+  "meanings": [
+    "Mr",
+    "Mrs",
+    "Ms",
+    "Miss"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "clan",
+    "he",
+    "him",
+    "counter for people"
+  ],
+  "category": "suffix"
+}

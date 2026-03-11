@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1185510",
+  "japanese": "下水",
+  "kana": "げすい",
+  "meanings": [
+    "drainage",
+    "ditch",
+    "gutter",
+    "sewerage"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "sewage",
+    "black water"
+  ],
+  "category": "noun"
+}

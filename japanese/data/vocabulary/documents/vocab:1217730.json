@@ -1,0 +1,37 @@
+{
+  "$id": "vocab:1217730",
+  "japanese": "顔",
+  "kana": "かお",
+  "meanings": [
+    "face",
+    "visage",
+    "looks",
+    "(facial) features"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "look",
+    "(facial) expression",
+    "countenance",
+    "honor (honour)",
+    "face",
+    "dignity",
+    "influence",
+    "notoriety",
+    "trust",
+    "pull",
+    "clout",
+    "representative",
+    "(the) face (of something)",
+    "trademark",
+    "example",
+    "members",
+    "attendees",
+    "lineup",
+    "participants",
+    "everyone involved",
+    "makeup",
+    "cosmetics"
+  ],
+  "category": "noun"
+}

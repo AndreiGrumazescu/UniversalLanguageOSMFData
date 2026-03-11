@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1306390",
+  "japanese": "刺さる",
+  "kana": "ささる",
+  "meanings": [
+    "to stick into (of something with a sharp point)",
+    "to prick",
+    "to pierce",
+    "to get stuck (in)",
+    "to lodge (in)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to resonate emotionally",
+    "to move"
+  ],
+  "category": "godan verb"
+}

@@ -1,0 +1,14 @@
+{
+  "$id": "vocab:1490220",
+  "japanese": "病院",
+  "kana": "びょういん",
+  "meanings": [
+    "hospital",
+    "clinic",
+    "doctor's office",
+    "doctor's surgery",
+    "infirmary"
+  ],
+  "jlptLevel": "N5",
+  "category": "noun"
+}

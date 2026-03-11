@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1347530",
+  "japanese": "奨学金",
+  "kana": "しょうがくきん",
+  "meanings": [
+    "scholarship",
+    "stipend",
+    "bursary",
+    "grant-in-aid"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "student loan"
+  ],
+  "category": "noun"
+}

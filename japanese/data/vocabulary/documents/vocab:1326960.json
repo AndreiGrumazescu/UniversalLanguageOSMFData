@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1326960",
+  "japanese": "取り立てる",
+  "kana": "とりたてる",
+  "meanings": [
+    "to collect (debts)",
+    "to dun",
+    "to exact",
+    "to extort"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to appoint",
+    "to promote",
+    "to give patronage",
+    "to emphasize",
+    "to focus on",
+    "to call attention to"
+  ],
+  "category": "ichidan verb"
+}

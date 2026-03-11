@@ -1,0 +1,11 @@
+{
+  "$id": "vocab:1402640",
+  "japanese": "送り仮名",
+  "kana": "おくりがな",
+  "meanings": [
+    "kana written after a kanji to complete the full (usually kun) reading of the word",
+    "declensional kana ending"
+  ],
+  "jlptLevel": "N2",
+  "category": "noun"
+}

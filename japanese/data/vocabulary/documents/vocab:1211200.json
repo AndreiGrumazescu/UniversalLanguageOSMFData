@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1211200",
+  "japanese": "巻く",
+  "kana": "まく",
+  "meanings": [
+    "to wind",
+    "to coil",
+    "to roll",
+    "to wear (e.g. turban, scarf)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to envelope",
+    "to shroud",
+    "to outflank",
+    "to skirt",
+    "to link (verse)",
+    "to move ahead (three hours, etc.)",
+    "to move up"
+  ],
+  "category": "godan verb"
+}

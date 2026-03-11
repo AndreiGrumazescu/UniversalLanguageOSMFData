@@ -1,0 +1,26 @@
+{
+  "$id": "vocab:1536010",
+  "japanese": "問題",
+  "kana": "もんだい",
+  "meanings": [
+    "question (e.g. on a test)",
+    "problem"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "problem (e.g. societal, political)",
+    "question",
+    "issue",
+    "subject (e.g. of research)",
+    "case",
+    "matter",
+    "question (i.e. doubt)",
+    "public discussion",
+    "controversy",
+    "trouble",
+    "problem",
+    "inconvenience",
+    "difficulty"
+  ],
+  "category": "noun"
+}

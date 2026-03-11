@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1234080",
+  "japanese": "競技",
+  "kana": "きょうぎ",
+  "meanings": [
+    "game",
+    "match",
+    "contest",
+    "competition",
+    "sport",
+    "(sporting) event"
+  ],
+  "jlptLevel": "N3",
+  "category": "noun"
+}

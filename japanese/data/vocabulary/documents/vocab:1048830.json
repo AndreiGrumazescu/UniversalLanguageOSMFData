@@ -1,0 +1,28 @@
+{
+  "$id": "vocab:1048830",
+  "japanese": "コース",
+  "kana": "コース",
+  "meanings": [
+    "course",
+    "route",
+    "trail"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "course (of study)",
+    "program",
+    "lane (in running, swimming, etc.)",
+    "course (of action)",
+    "policy",
+    "track",
+    "path",
+    "course (of a multi-course meal)",
+    "full-course meal",
+    "multi-course meal",
+    "plan (type of offered service)",
+    "course",
+    "option",
+    "flying path of a pitch"
+  ],
+  "category": "noun"
+}

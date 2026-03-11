@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1337370",
+  "japanese": "祝い",
+  "kana": "いわい",
+  "meanings": [
+    "congratulation",
+    "congratulations",
+    "celebration",
+    "festival"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "congratulatory gift",
+    "present"
+  ],
+  "category": "noun"
+}

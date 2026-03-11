@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1199000",
+  "japanese": "解散",
+  "kana": "かいさん",
+  "meanings": [
+    "breaking up (a meeting, gathering, etc.)",
+    "dispersal (e.g. of a crowd)"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "dissolution (of a company, organization, etc.)",
+    "winding-up",
+    "disbandment",
+    "split-up",
+    "dissolution (of the Diet, Parliament, etc.)"
+  ],
+  "category": "noun"
+}

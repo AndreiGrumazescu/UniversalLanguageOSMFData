@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1080510",
+  "japanese": "テレビ",
+  "kana": "テレビ",
+  "meanings": [
+    "television",
+    "TV"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "TV program",
+    "TV programme",
+    "TV broadcast"
+  ],
+  "category": "noun"
+}

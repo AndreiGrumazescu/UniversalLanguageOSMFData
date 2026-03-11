@@ -1,0 +1,25 @@
+{
+  "$id": "vocab:1252600",
+  "japanese": "軽快",
+  "kana": "けいかい",
+  "meanings": [
+    "light (of movements)",
+    "nimble",
+    "sprightly",
+    "springy"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "light-hearted",
+    "cheerful",
+    "buoyant",
+    "jaunty",
+    "casual (e.g. clothing)",
+    "rhythmical (e.g. melody)",
+    "taking a turn for the better (of an illness)",
+    "receding of symptoms",
+    "recovery",
+    "convalescence"
+  ],
+  "category": "na-adjective"
+}

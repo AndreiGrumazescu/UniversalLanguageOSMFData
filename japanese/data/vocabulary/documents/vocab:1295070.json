@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1295070",
+  "japanese": "済む",
+  "kana": "すむ",
+  "meanings": [
+    "to finish",
+    "to end",
+    "to be completed",
+    "to be resolved"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to have a result less severe than expected",
+    "to feel at ease",
+    "to feel unease or guilt for troubling someone",
+    "to be sorry"
+  ],
+  "category": "godan verb"
+}

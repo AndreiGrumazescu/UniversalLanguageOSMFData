@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1480540",
+  "japanese": "反省",
+  "kana": "はんせい",
+  "meanings": [
+    "reflection",
+    "reconsideration",
+    "introspection",
+    "meditation",
+    "contemplation"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "regret",
+    "repentance",
+    "remorse",
+    "being sorry"
+  ],
+  "category": "noun"
+}

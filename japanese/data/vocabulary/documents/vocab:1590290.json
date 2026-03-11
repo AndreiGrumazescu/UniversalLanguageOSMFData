@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1590290",
+  "japanese": "微か",
+  "kana": "かすか",
+  "meanings": [
+    "faint",
+    "dim",
+    "weak",
+    "slight",
+    "vague",
+    "indistinct",
+    "hazy"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "poor",
+    "wretched",
+    "meagre",
+    "meager",
+    "scanty"
+  ],
+  "category": "na-adjective"
+}

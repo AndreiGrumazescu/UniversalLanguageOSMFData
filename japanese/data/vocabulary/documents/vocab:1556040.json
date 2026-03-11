@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1556040",
+  "japanese": "類",
+  "kana": "るい",
+  "meanings": [
+    "kind",
+    "sort",
+    "type",
+    "class",
+    "genus",
+    "order",
+    "family"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "similar example",
+    "parallel",
+    "the like"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1242160",
+  "japanese": "近く",
+  "kana": "ちかく",
+  "meanings": [
+    "near",
+    "neighbourhood",
+    "neighborhood",
+    "vicinity"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "nearly (e.g. \"it took nearly one year\")",
+    "close to",
+    "shortly",
+    "soon"
+  ],
+  "category": "noun"
+}

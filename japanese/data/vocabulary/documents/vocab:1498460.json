@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1498460",
+  "japanese": "武器",
+  "kana": "ぶき",
+  "meanings": [
+    "weapon",
+    "arms",
+    "ordnance"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "weapon (something used to gain an advantage)",
+    "asset"
+  ],
+  "category": "noun"
+}

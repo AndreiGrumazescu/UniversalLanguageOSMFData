@@ -1,0 +1,13 @@
+{
+  "$id": "vocab:1271010",
+  "japanese": "語学",
+  "kana": "ごがく",
+  "meanings": [
+    "study of foreign languages"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "linguistics"
+  ],
+  "category": "noun"
+}

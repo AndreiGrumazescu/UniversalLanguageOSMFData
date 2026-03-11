@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1053130",
+  "japanese": "コンパス",
+  "kana": "コンパス",
+  "meanings": [
+    "compass (for drawing circles, etc.)",
+    "pair of compasses"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "(mariner's) compass",
+    "length of one's stride",
+    "length of one's legs"
+  ],
+  "category": "noun"
+}

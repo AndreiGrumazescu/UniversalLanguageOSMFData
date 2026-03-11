@@ -1,0 +1,30 @@
+{
+  "$id": "vocab:1232870",
+  "japanese": "許す",
+  "kana": "ゆるす",
+  "meanings": [
+    "to permit",
+    "to allow",
+    "to approve",
+    "to consent to"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to forgive",
+    "to pardon",
+    "to excuse",
+    "to tolerate",
+    "to exempt (someone) from",
+    "to remit",
+    "to release",
+    "to let off",
+    "to acknowledge",
+    "to admit",
+    "to trust",
+    "to confide in",
+    "to let one's guard down",
+    "to give up (points in a game, distance in a race, etc.)",
+    "to yield"
+  ],
+  "category": "godan verb"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1590440",
+  "japanese": "傍ら",
+  "kana": "かたわら",
+  "meanings": [
+    "side",
+    "edge",
+    "beside",
+    "besides",
+    "nearby"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "while (doing)",
+    "in addition to",
+    "at the same time"
+  ],
+  "category": "noun"
+}

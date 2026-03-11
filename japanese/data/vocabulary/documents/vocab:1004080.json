@@ -1,0 +1,25 @@
+{
+  "$id": "vocab:1004080",
+  "japanese": "ぐっと",
+  "kana": "ぐっと",
+  "meanings": [
+    "suddenly",
+    "at once",
+    "in one go",
+    "with a jerk",
+    "with a gulp"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "considerably",
+    "very much",
+    "a lot",
+    "firmly",
+    "with an effort",
+    "tightly",
+    "exerting pressure",
+    "completely (e.g. at a loss)",
+    "deeply (e.g. moved)"
+  ],
+  "category": "adverb"
+}

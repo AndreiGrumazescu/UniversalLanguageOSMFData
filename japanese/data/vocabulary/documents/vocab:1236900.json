@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1236900",
+  "japanese": "教える",
+  "kana": "おしえる",
+  "meanings": [
+    "to teach",
+    "to instruct"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "to tell",
+    "to inform",
+    "to show",
+    "to preach"
+  ],
+  "category": "ichidan verb"
+}

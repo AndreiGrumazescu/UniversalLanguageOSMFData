@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1254730",
+  "japanese": "結局",
+  "kana": "けっきょく",
+  "meanings": [
+    "after all",
+    "in the end",
+    "ultimately",
+    "eventually"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "conclusion",
+    "end",
+    "end of a game of go, shogi, etc."
+  ],
+  "category": "adverb"
+}

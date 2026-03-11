@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1598240",
+  "japanese": "手当",
+  "kana": "てあて",
+  "meanings": [
+    "salary",
+    "pay",
+    "compensation",
+    "allowance (e.g. housing allowance)",
+    "benefit",
+    "bonus"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "medical care",
+    "treatment",
+    "advance preparation"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1101440",
+  "japanese": "パス",
+  "kana": "パス",
+  "meanings": [
+    "passing (an examination, inspection, etc.)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "pass (for admission, transport, etc.)",
+    "ticket",
+    "pass (of a ball)",
+    "pass (ceding one's turn)",
+    "giving (something) a pass"
+  ],
+  "category": "noun"
+}

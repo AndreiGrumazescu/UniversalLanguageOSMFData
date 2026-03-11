@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1609010",
+  "japanese": "空き",
+  "kana": "あき",
+  "meanings": [
+    "space",
+    "room",
+    "gap",
+    "emptiness"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "vacancy",
+    "opening",
+    "empty seat",
+    "free time",
+    "time to spare",
+    "disuse",
+    "unused thing"
+  ],
+  "category": "noun"
+}

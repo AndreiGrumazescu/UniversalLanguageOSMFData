@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1530780",
+  "japanese": "無能",
+  "kana": "むのう",
+  "meanings": [
+    "incompetence",
+    "inefficiency",
+    "inability",
+    "incapacity"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "incompetent person"
+  ],
+  "category": "noun"
+}

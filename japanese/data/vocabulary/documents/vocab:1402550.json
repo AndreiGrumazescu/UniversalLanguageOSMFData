@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1402550",
+  "japanese": "走行",
+  "kana": "そうこう",
+  "meanings": [
+    "running (of a car, bus, etc.)",
+    "traveling",
+    "travelling"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "running (of a program)"
+  ],
+  "category": "noun"
+}

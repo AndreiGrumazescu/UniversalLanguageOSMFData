@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1337190",
+  "japanese": "宿",
+  "kana": "やど",
+  "meanings": [
+    "lodging",
+    "inn",
+    "hotel"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "house",
+    "home",
+    "dwelling",
+    "home of a servant's parents (or guarantor, etc.)"
+  ],
+  "category": "noun"
+}

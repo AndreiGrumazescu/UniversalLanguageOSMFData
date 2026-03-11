@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1956120",
+  "japanese": "菌",
+  "kana": "きん",
+  "meanings": [
+    "fungus"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "germ",
+    "bacterium",
+    "bacillus"
+  ],
+  "category": "noun"
+}

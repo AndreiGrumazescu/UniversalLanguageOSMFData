@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1400810",
+  "japanese": "相",
+  "kana": "そう",
+  "meanings": [
+    "aspect",
+    "appearance",
+    "look"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "physiognomy (as an indication of one's fortune)",
+    "aspect",
+    "phase (e.g. solid, liquid and gaseous)"
+  ],
+  "category": "noun"
+}

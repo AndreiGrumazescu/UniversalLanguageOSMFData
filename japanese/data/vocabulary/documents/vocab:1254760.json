@@ -1,0 +1,39 @@
+{
+  "$id": "vocab:1254760",
+  "japanese": "結構",
+  "kana": "けっこう",
+  "meanings": [
+    "splendid",
+    "nice",
+    "wonderful",
+    "delightful",
+    "lovely",
+    "excellent",
+    "fine"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "sufficient",
+    "satisfactory",
+    "enough",
+    "fine",
+    "all right",
+    "OK",
+    "not needing (any more of something)",
+    "(already) having enough",
+    "fine (as in \"I'm fine\")",
+    "no, thank you",
+    "rather",
+    "quite",
+    "fairly",
+    "pretty",
+    "surprisingly",
+    "quite a bit",
+    "fairly well",
+    "structure",
+    "construction",
+    "framework",
+    "architecture"
+  ],
+  "category": "na-adjective"
+}

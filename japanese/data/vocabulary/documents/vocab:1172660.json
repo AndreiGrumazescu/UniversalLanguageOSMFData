@@ -1,0 +1,25 @@
+{
+  "$id": "vocab:1172660",
+  "japanese": "運ぶ",
+  "kana": "はこぶ",
+  "meanings": [
+    "to carry",
+    "to transport",
+    "to move",
+    "to convey"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to come",
+    "to go",
+    "to use (a brush, chopsticks, etc.)",
+    "to move",
+    "to carry out",
+    "to proceed with",
+    "to arrange",
+    "to go (well, etc.)",
+    "to proceed",
+    "to progress"
+  ],
+  "category": "godan verb"
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1204240",
+  "japanese": "外来",
+  "kana": "がいらい",
+  "meanings": [
+    "foreign",
+    "imported"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "outpatient",
+    "outpatient care",
+    "outpatient clinic",
+    "outpatient ward"
+  ],
+  "category": "noun"
+}

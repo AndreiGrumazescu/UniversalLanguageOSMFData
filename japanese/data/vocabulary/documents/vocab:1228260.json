@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1228260",
+  "japanese": "吸う",
+  "kana": "すう",
+  "meanings": [
+    "to breathe in",
+    "to inhale",
+    "to smoke (a cigarette, etc.)"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "to suck",
+    "to sip",
+    "to slurp",
+    "to absorb",
+    "to soak up",
+    "to kiss"
+  ],
+  "category": "godan verb"
+}

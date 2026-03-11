@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1201000",
+  "japanese": "改造",
+  "kana": "かいぞう",
+  "meanings": [
+    "remodeling",
+    "remodelling",
+    "reconstruction",
+    "conversion",
+    "alteration",
+    "renovation",
+    "modification",
+    "reshuffling (e.g. a cabinet)",
+    "reorganization",
+    "restructuring"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "modding"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,33 @@
+{
+  "$id": "vocab:1580260",
+  "japanese": "傷",
+  "kana": "きず",
+  "meanings": [
+    "wound",
+    "injury",
+    "cut",
+    "gash",
+    "bruise",
+    "scratch",
+    "scrape",
+    "scar"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "chip",
+    "crack",
+    "scratch",
+    "nick",
+    "flaw",
+    "defect",
+    "weakness",
+    "weak point",
+    "stain (on one's reputation)",
+    "disgrace",
+    "dishonor",
+    "dishonour",
+    "(emotional) hurt",
+    "hurt feelings"
+  ],
+  "category": "noun"
+}

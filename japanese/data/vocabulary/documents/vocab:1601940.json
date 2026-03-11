@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1601940",
+  "japanese": "人差し指",
+  "kana": "ひとさしゆび",
+  "meanings": [
+    "index finger",
+    "forefinger",
+    "first (occ. second) finger"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "second toe"
+  ],
+  "category": "noun"
+}

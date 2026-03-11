@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1438030",
+  "japanese": "鉄棒",
+  "kana": "てつぼう",
+  "meanings": [
+    "iron rod",
+    "iron bar",
+    "iron club"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "horizontal bar (gymnastics)"
+  ],
+  "category": "noun"
+}

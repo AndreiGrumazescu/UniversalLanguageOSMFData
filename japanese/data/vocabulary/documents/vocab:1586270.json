@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1586270",
+  "japanese": "開く",
+  "kana": "あく",
+  "meanings": [
+    "to open (e.g. doors)"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to open (e.g. business, etc.)",
+    "to be empty",
+    "to be vacant",
+    "to be available",
+    "to be free",
+    "to be open (e.g. neckline, etc.)",
+    "to have been opened (of one's eyes, mouth, etc.)",
+    "to come to an end",
+    "to open (one's eyes, mouth, etc.)",
+    "to have a hole",
+    "to form a gap",
+    "to have an interval (between events)"
+  ],
+  "category": "godan verb"
+}

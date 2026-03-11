@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1184370",
+  "japanese": "下り",
+  "kana": "くだり",
+  "meanings": [
+    "down-train",
+    "train heading toward the ending point of its route"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "down-slope",
+    "downward going",
+    "downbound (esp. away from Tokyo)",
+    "downstream",
+    "downhill"
+  ],
+  "category": "noun"
+}

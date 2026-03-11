@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1326760",
+  "japanese": "取り次ぐ",
+  "kana": "とりつぐ",
+  "meanings": [
+    "to pass on (a message, thoughts, etc.)",
+    "to convey",
+    "to transmit",
+    "to relay",
+    "to tell"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to inform (of a visitor, phone call, etc.)",
+    "to announce (a visitor)",
+    "to answer (the door or phone on someone's behalf)",
+    "to usher in (a guest)",
+    "to act as an agent (between a manufacturer, wholesaler, etc. and retailers)",
+    "to act as an intermediary",
+    "to handle (goods; for a company)"
+  ],
+  "category": "godan verb"
+}

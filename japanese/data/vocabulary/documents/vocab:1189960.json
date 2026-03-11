@@ -1,0 +1,25 @@
+{
+  "$id": "vocab:1189960",
+  "japanese": "加える",
+  "kana": "くわえる",
+  "meanings": [
+    "to add",
+    "to add up",
+    "to sum up",
+    "to append",
+    "to annex"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to increase",
+    "to gather (e.g. speed)",
+    "to pick up",
+    "to include",
+    "to count in",
+    "to let join",
+    "to inflict (damage)",
+    "to deal",
+    "to give"
+  ],
+  "category": "ichidan verb"
+}

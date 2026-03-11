@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1517100",
+  "japanese": "方面",
+  "kana": "ほうめん",
+  "meanings": [
+    "direction",
+    "district",
+    "area"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "field (e.g. of study)",
+    "sphere",
+    "quarter",
+    "aspect",
+    "angle"
+  ],
+  "category": "noun"
+}

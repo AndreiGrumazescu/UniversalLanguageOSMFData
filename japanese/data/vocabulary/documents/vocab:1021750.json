@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1021750",
+  "japanese": "イメージ",
+  "kana": "イメージ",
+  "meanings": [
+    "image (in one's mind)",
+    "impression",
+    "imagining",
+    "mental image",
+    "(forming a) mental picture"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "(computer) image",
+    "depiction (e.g. of a product)",
+    "rendition",
+    "impression"
+  ],
+  "category": "noun"
+}

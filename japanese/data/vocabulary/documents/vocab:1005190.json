@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1005190",
+  "japanese": "さっさと",
+  "kana": "さっさと",
+  "meanings": [
+    "quickly",
+    "promptly",
+    "immediately",
+    "without delay",
+    "without hesitation",
+    "briskly",
+    "hurriedly",
+    "hastily"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "indifferently",
+    "coldly"
+  ],
+  "category": "adverb"
+}

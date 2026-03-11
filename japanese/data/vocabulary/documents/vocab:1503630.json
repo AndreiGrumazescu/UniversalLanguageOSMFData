@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1503630",
+  "japanese": "分子",
+  "kana": "ぶんし",
+  "meanings": [
+    "molecule"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "numerator",
+    "element (of a group)",
+    "member",
+    "particle"
+  ],
+  "category": "noun"
+}

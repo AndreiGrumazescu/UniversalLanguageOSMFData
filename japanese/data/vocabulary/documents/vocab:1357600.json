@@ -1,0 +1,43 @@
+{
+  "$id": "vocab:1357600",
+  "japanese": "色",
+  "kana": "いろ",
+  "meanings": [
+    "colour",
+    "color",
+    "hue",
+    "tint",
+    "tinge",
+    "shade"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "complexion",
+    "skin colour",
+    "skin color",
+    "look (on one's face)",
+    "expression",
+    "appearance",
+    "air",
+    "feeling",
+    "personality",
+    "character",
+    "tone (of one's voice, etc.)",
+    "tune",
+    "sound",
+    "ring",
+    "love",
+    "lust",
+    "sensuality",
+    "love affair",
+    "lover",
+    "paramour",
+    "beauty",
+    "sexiness",
+    "physical appeal",
+    "kind",
+    "type",
+    "variety"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,34 @@
+{
+  "$id": "vocab:1326990",
+  "japanese": "取れる",
+  "kana": "とれる",
+  "meanings": [
+    "to come off (of a button, handle, lid, etc.)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to go away (of a fever, pain, swelling, etc.)",
+    "to disappear",
+    "to come out (of a stain)",
+    "to come off (e.g. of dust)",
+    "to be removed (e.g. of wrinkles)",
+    "to be harvested",
+    "to be picked",
+    "to be produced",
+    "to be caught (of fish)",
+    "to be obtained",
+    "to be extracted",
+    "to be interpreted (as)",
+    "to be taken (as)",
+    "to be understood (as)",
+    "to be read (as)",
+    "to be attained (of balance, harmony, etc.)",
+    "to be achieved",
+    "to be able to get",
+    "to be able to obtain",
+    "to be able to secure",
+    "to be able to win",
+    "to be able to catch"
+  ],
+  "category": "ichidan verb"
+}

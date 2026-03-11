@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1244120",
+  "japanese": "区間",
+  "kana": "くかん",
+  "meanings": [
+    "section (of track, etc.)",
+    "segment",
+    "dimension"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "interval"
+  ],
+  "category": "noun"
+}

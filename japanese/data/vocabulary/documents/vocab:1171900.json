@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1171900",
+  "japanese": "雨",
+  "kana": "あめ",
+  "meanings": [
+    "rain"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "rainy day",
+    "rainy weather",
+    "the November suit (in hanafuda)"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1367120",
+  "japanese": "人形",
+  "kana": "にんぎょう",
+  "meanings": [
+    "doll",
+    "puppet",
+    "marionette"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "puppet (person under the control of another)",
+    "straw man",
+    "yes-man"
+  ],
+  "category": "noun"
+}

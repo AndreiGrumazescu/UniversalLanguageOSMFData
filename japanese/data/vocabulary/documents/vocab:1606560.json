@@ -1,0 +1,25 @@
+{
+  "$id": "vocab:1606560",
+  "japanese": "分かる",
+  "kana": "わかる",
+  "meanings": [
+    "to understand",
+    "to comprehend",
+    "to grasp",
+    "to see",
+    "to get",
+    "to follow"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "to become clear",
+    "to be known",
+    "to be discovered",
+    "to be realized (realised)",
+    "to be found out",
+    "to make sense",
+    "I know!",
+    "I think so too!"
+  ],
+  "category": "godan verb"
+}

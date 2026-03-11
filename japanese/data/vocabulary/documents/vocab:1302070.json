@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1302070",
+  "japanese": "参る",
+  "kana": "まいる",
+  "meanings": [
+    "to go",
+    "to come",
+    "to call"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to be defeated",
+    "to collapse",
+    "to die",
+    "to be annoyed",
+    "to be nonplussed",
+    "to be madly in love",
+    "to visit (shrine, grave)"
+  ],
+  "category": "godan verb"
+}

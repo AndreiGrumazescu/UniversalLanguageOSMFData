@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1408870",
+  "japanese": "打撃",
+  "kana": "だげき",
+  "meanings": [
+    "blow",
+    "shock",
+    "strike",
+    "damage"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "batting"
+  ],
+  "category": "noun"
+}

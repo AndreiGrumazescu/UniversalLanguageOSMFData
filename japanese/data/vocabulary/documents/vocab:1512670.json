@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1512670",
+  "japanese": "勉強",
+  "kana": "べんきょう",
+  "meanings": [
+    "study"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "diligence",
+    "working hard",
+    "experience",
+    "knowledge",
+    "lesson (for the future)",
+    "discount",
+    "price reduction"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,25 @@
+{
+  "$id": "vocab:1524500",
+  "japanese": "埋める",
+  "kana": "うめる",
+  "meanings": [
+    "to bury (e.g. in the ground)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to fill up (e.g. audience fills a hall)",
+    "to cause to be packed",
+    "to plug (a gap)",
+    "to stop (a gap)",
+    "to bridge (a difference, a gap)",
+    "to fill (a seat, a vacant position)",
+    "to fill out (a form, a sheet)",
+    "to make up for (a loss, shortage, etc.)",
+    "to make amends",
+    "to compensate for",
+    "to put cold water (in a bath)",
+    "to cover",
+    "to scatter something over"
+  ],
+  "category": "ichidan verb"
+}

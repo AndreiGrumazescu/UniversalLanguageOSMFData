@@ -1,0 +1,34 @@
+{
+  "$id": "vocab:1370760",
+  "japanese": "吹く",
+  "kana": "ふく",
+  "meanings": [
+    "to blow (of the wind)"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "to blow (one's breath)",
+    "to breathe out",
+    "to blow on (hot tea, candles, etc.)",
+    "to puff",
+    "to play (a wind instrument)",
+    "to blow (a whistle, trumpet, etc.)",
+    "to whistle (a tune)",
+    "to emit (smoke, fire, etc.)",
+    "to spout",
+    "to spew",
+    "to puff out",
+    "to sprout",
+    "to put forth (buds)",
+    "to appear (on the surface)",
+    "to form",
+    "to be coated with (powder, rust, etc.)",
+    "to burst out laughing",
+    "to burst into laughter",
+    "to brag",
+    "to talk big",
+    "to smelt",
+    "to mint"
+  ],
+  "category": "godan verb"
+}

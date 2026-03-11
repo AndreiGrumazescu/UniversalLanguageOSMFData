@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1579780",
+  "japanese": "主人",
+  "kana": "しゅじん",
+  "meanings": [
+    "head (of a household)",
+    "proprietor (of a store)",
+    "proprietress",
+    "landlord",
+    "landlady"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "one's husband",
+    "(one's) employer",
+    "(one's) master",
+    "host",
+    "hostess"
+  ],
+  "category": "noun"
+}

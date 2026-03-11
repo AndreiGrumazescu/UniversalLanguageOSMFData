@@ -1,0 +1,14 @@
+{
+  "$id": "vocab:1420070",
+  "japanese": "男子",
+  "kana": "だんし",
+  "meanings": [
+    "boy"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "man",
+    "male"
+  ],
+  "category": "noun"
+}

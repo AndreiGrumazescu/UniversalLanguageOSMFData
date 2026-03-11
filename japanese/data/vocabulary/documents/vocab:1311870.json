@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1311870",
+  "japanese": "至る",
+  "kana": "いたる",
+  "meanings": [
+    "to arrive at (e.g. a decision)",
+    "to reach (a stage)",
+    "to attain"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to lead to (a place)",
+    "to get to",
+    "in the extreme case of",
+    "to come",
+    "to arrive",
+    "to result in"
+  ],
+  "category": "godan verb"
+}

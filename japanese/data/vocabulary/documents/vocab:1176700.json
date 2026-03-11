@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1176700",
+  "japanese": "沿う",
+  "kana": "そう",
+  "meanings": [
+    "to run along",
+    "to run beside",
+    "to stick to (a line)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to follow (a policy, plan, etc.)",
+    "to act in accordance with",
+    "to align with",
+    "to meet (wishes, expectations, etc.)",
+    "to satisfy",
+    "to comply with",
+    "to live up to"
+  ],
+  "category": "godan verb"
+}

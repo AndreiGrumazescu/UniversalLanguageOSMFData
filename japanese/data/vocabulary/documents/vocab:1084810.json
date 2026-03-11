@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1084810",
+  "japanese": "トイレ",
+  "kana": "トイレ",
+  "meanings": [
+    "toilet",
+    "restroom",
+    "bathroom",
+    "lavatory"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "going to the toilet",
+    "relieving oneself"
+  ],
+  "category": "noun"
+}

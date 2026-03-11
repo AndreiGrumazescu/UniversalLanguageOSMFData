@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1562850",
+  "japanese": "腕",
+  "kana": "うで",
+  "meanings": [
+    "arm"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "ability",
+    "skill",
+    "talent",
+    "competence",
+    "(physical) strength"
+  ],
+  "category": "noun"
+}

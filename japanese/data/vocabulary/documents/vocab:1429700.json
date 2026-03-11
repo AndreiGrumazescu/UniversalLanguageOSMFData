@@ -1,0 +1,41 @@
+{
+  "$id": "vocab:1429700",
+  "japanese": "飛ぶ",
+  "kana": "とぶ",
+  "meanings": [
+    "to fly",
+    "to soar"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "to jump",
+    "to leap",
+    "to spring",
+    "to bound",
+    "to hop",
+    "to spatter",
+    "to scatter",
+    "to splash",
+    "to fly (e.g. of sparks)",
+    "to hurry",
+    "to rush",
+    "to flee",
+    "to run off",
+    "to escape",
+    "to disappear",
+    "to vanish",
+    "to fade",
+    "to thin out",
+    "to break off",
+    "to come off",
+    "to fall off",
+    "to blow (of a fuse)",
+    "to be sent out (of an order)",
+    "to fly (of false rumours, catcalls, etc.)",
+    "to come flying (of a punch, kick, etc.)",
+    "to be missing (of a page, stitch, etc.)",
+    "to skip",
+    "to jump (e.g. of a conversation)"
+  ],
+  "category": "godan verb"
+}

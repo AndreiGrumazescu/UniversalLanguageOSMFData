@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1473950",
+  "japanese": "売る",
+  "kana": "うる",
+  "meanings": [
+    "to sell"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "to betray",
+    "to sell out (one's friend, country, etc.)",
+    "to make (oneself) known",
+    "to establish (a reputation) for oneself",
+    "to pick (a fight, quarrel, etc.)",
+    "to provoke",
+    "to force on someone"
+  ],
+  "category": "godan verb"
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1584920",
+  "japanese": "予言",
+  "kana": "よげん",
+  "meanings": [
+    "prediction",
+    "prophecy",
+    "prognostication",
+    "foretelling",
+    "forecast"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "(religious) prophecy"
+  ],
+  "category": "noun"
+}

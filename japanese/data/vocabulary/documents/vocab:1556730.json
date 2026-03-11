@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1556730",
+  "japanese": "冷たい",
+  "kana": "つめたい",
+  "meanings": [
+    "cold (to the touch)",
+    "chilly",
+    "icy",
+    "freezing"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "(emotionally) cold",
+    "coldhearted",
+    "unfeeling",
+    "indifferent",
+    "unfriendly",
+    "distant"
+  ],
+  "category": "i-adjective"
+}

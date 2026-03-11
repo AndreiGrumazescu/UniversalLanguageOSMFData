@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1227500",
+  "japanese": "休み",
+  "kana": "やすみ",
+  "meanings": [
+    "rest",
+    "recess",
+    "respite"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "vacation",
+    "holiday",
+    "absence",
+    "suspension",
+    "dormancy (of a silkworm prior to moulting)"
+  ],
+  "category": "noun"
+}

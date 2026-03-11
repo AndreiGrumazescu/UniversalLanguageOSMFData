@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1527110",
+  "japanese": "未だ",
+  "kana": "まだ",
+  "meanings": [
+    "still",
+    "as yet",
+    "only"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "(not) yet",
+    "more",
+    "(more) still",
+    "at least",
+    "comparatively",
+    "relatively",
+    "unfinished",
+    "incomplete",
+    "not yet done"
+  ],
+  "category": "adverb"
+}

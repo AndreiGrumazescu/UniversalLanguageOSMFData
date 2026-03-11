@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1601870",
+  "japanese": "ひっくり返す",
+  "kana": "ひっくりかえす",
+  "meanings": [
+    "to turn over",
+    "to turn upside down",
+    "to turn up",
+    "to turn inside out",
+    "to turn out"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to knock over",
+    "to tip over",
+    "to overturn (e.g. a decision)",
+    "to upset",
+    "to reverse"
+  ],
+  "category": "godan verb"
+}

@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1421450",
+  "japanese": "地方",
+  "kana": "ちほう",
+  "meanings": [
+    "district",
+    "region",
+    "area",
+    "locality"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "the country",
+    "countryside",
+    "the provinces",
+    "rural area",
+    "civilian society"
+  ],
+  "category": "noun"
+}

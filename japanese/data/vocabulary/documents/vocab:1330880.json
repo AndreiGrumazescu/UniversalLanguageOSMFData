@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1330880",
+  "japanese": "収容",
+  "kana": "しゅうよう",
+  "meanings": [
+    "accommodation",
+    "taking in",
+    "receiving",
+    "housing",
+    "seating",
+    "admission (of patients, students, etc.)"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "imprisonment",
+    "detention",
+    "internment",
+    "containing (e.g. words in a dictionary)",
+    "adding"
+  ],
+  "category": "noun"
+}

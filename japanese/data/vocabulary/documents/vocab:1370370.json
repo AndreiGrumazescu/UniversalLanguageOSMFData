@@ -1,0 +1,14 @@
+{
+  "$id": "vocab:1370370",
+  "japanese": "図鑑",
+  "kana": "ずかん",
+  "meanings": [
+    "pictorial book",
+    "picture book",
+    "illustrated reference book",
+    "identification manual",
+    "field guide"
+  ],
+  "jlptLevel": "N2",
+  "category": "noun"
+}

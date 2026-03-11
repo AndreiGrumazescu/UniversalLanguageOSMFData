@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1446740",
+  "japanese": "塔",
+  "kana": "とう",
+  "meanings": [
+    "tower",
+    "steeple",
+    "spire"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "stupa",
+    "pagoda",
+    "dagoba"
+  ],
+  "category": "noun"
+}

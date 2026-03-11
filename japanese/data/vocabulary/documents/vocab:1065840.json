@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1065840",
+  "japanese": "ジャンパー",
+  "kana": "ジャンパー",
+  "meanings": [
+    "(short) jacket",
+    "blouson",
+    "windbreaker",
+    "jumper"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "ski jumper",
+    "jumping event athlete",
+    "jumper lead",
+    "jumper wire"
+  ],
+  "category": "noun"
+}

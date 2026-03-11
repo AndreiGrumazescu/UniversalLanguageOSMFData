@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1218050",
+  "japanese": "願書",
+  "kana": "がんしょ",
+  "meanings": [
+    "(written) application",
+    "written request",
+    "petition"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "written prayer for a shrine or Buddhist temple"
+  ],
+  "category": "noun"
+}

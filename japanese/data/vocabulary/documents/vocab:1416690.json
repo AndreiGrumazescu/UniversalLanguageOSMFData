@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1416690",
+  "japanese": "辿る",
+  "kana": "たどる",
+  "meanings": [
+    "to follow (a road, path, etc.)",
+    "to trace"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to follow (a clue, scent, tracks, plot, etc.)",
+    "to trace (a route, history, family tree, etc.)",
+    "to retrace (e.g. one's memory)",
+    "to search",
+    "to go over",
+    "to head towards (of a situation)",
+    "to go in the direction of",
+    "to take (a course)",
+    "to pursue (a path)",
+    "to meet (a fate)"
+  ],
+  "category": "godan verb"
+}

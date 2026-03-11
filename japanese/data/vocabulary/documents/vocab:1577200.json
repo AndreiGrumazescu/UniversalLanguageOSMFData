@@ -1,0 +1,27 @@
+{
+  "$id": "vocab:1577200",
+  "japanese": "可愛い",
+  "kana": "かわいい",
+  "meanings": [
+    "cute",
+    "adorable",
+    "charming",
+    "lovely",
+    "pretty"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "dear",
+    "precious",
+    "darling",
+    "pet",
+    "innocent",
+    "childlike",
+    "childish",
+    "lovable",
+    "dainty",
+    "little",
+    "tiny"
+  ],
+  "category": "i-adjective"
+}

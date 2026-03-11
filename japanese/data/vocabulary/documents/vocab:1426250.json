@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1426250",
+  "japanese": "昼",
+  "kana": "ひる",
+  "meanings": [
+    "noon",
+    "midday"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "daytime",
+    "lunch"
+  ],
+  "category": "noun"
+}

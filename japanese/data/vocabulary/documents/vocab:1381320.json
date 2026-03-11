@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1381320",
+  "japanese": "請求",
+  "kana": "せいきゅう",
+  "meanings": [
+    "claim",
+    "demand",
+    "charge",
+    "application",
+    "request",
+    "billing (for a service)"
+  ],
+  "jlptLevel": "N3",
+  "category": "noun"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1234260",
+  "japanese": "共に",
+  "kana": "ともに",
+  "meanings": [
+    "together",
+    "jointly"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "at the same time",
+    "with",
+    "as ...",
+    "including",
+    "along with",
+    "both"
+  ],
+  "category": "adverb"
+}

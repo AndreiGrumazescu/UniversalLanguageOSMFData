@@ -1,0 +1,13 @@
+{
+  "$id": "vocab:1002100",
+  "japanese": "お手洗い",
+  "kana": "おてあらい",
+  "meanings": [
+    "toilet",
+    "restroom",
+    "lavatory",
+    "bathroom"
+  ],
+  "jlptLevel": "N5",
+  "category": "noun"
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1514810",
+  "japanese": "募金",
+  "kana": "ぼきん",
+  "meanings": [
+    "fundraising",
+    "collection of contributions"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "donating",
+    "donation",
+    "contribution"
+  ],
+  "category": "noun"
+}

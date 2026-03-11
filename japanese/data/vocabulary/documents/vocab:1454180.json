@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1454180",
+  "japanese": "道具",
+  "kana": "どうぐ",
+  "meanings": [
+    "tool",
+    "implement",
+    "instrument",
+    "utensil",
+    "apparatus",
+    "device"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "means",
+    "furniture"
+  ],
+  "category": "noun"
+}

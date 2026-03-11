@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1001060",
+  "japanese": "うろうろ",
+  "kana": "うろうろ",
+  "meanings": [
+    "restlessly",
+    "aimlessly",
+    "without purpose"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to loiter",
+    "to drift",
+    "to hang about doing nothing",
+    "to wander aimlessly",
+    "to be restless",
+    "to be restless",
+    "to fuss",
+    "to be in a fidget"
+  ],
+  "category": "adverb"
+}

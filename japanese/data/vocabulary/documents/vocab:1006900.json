@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1006900",
+  "japanese": "その他",
+  "kana": "そのほか",
+  "meanings": [
+    "the rest",
+    "the others"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "in addition (to that)",
+    "besides that",
+    "other than that",
+    "and other ...",
+    "and so forth",
+    "and the like",
+    "and what have you",
+    "et cetera"
+  ],
+  "category": "expression"
+}

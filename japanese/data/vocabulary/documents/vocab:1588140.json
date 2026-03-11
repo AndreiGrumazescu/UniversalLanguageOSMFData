@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1588140",
+  "japanese": "打ち合わせ",
+  "kana": "うちあわせ",
+  "meanings": [
+    "(preparatory) meeting",
+    "briefing session",
+    "(making) advance arrangements"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "overlap (of a coat, etc.)",
+    "making something match exactly"
+  ],
+  "category": "noun"
+}

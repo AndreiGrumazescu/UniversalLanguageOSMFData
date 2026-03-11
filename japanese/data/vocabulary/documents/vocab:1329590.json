@@ -1,0 +1,35 @@
+{
+  "$id": "vocab:1329590",
+  "japanese": "受ける",
+  "kana": "うける",
+  "meanings": [
+    "to receive",
+    "to get"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to catch (e.g. a ball)",
+    "to be struck by (wind, waves, sunlight, etc.)",
+    "to sustain (damage)",
+    "to incur (a loss)",
+    "to suffer (an injury)",
+    "to feel (influence)",
+    "to undergo (e.g. surgery)",
+    "to take (a test)",
+    "to accept (a challenge)",
+    "to be given (e.g. life, talent)",
+    "to find funny",
+    "to find humorous",
+    "to be amused (by)",
+    "to follow",
+    "to succeed",
+    "to be descended from",
+    "to face (south, etc.)",
+    "to be modified by",
+    "to obtain (a pawned item, etc.) by paying a fee",
+    "to be well-received",
+    "to become popular",
+    "to go down well"
+  ],
+  "category": "ichidan verb"
+}

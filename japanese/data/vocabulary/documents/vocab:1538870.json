@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1538870",
+  "japanese": "輸入",
+  "kana": "ゆにゅう",
+  "meanings": [
+    "import",
+    "importation",
+    "introduction"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "afferent"
+  ],
+  "category": "noun"
+}

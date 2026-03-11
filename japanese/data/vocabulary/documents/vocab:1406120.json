@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1406120",
+  "japanese": "揃える",
+  "kana": "そろえる",
+  "meanings": [
+    "to collect",
+    "to gather",
+    "to get together",
+    "to complete (a collection)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to arrange",
+    "to put in order",
+    "to prepare",
+    "to get ready",
+    "to make uniform",
+    "to make even",
+    "to match"
+  ],
+  "category": "ichidan verb"
+}

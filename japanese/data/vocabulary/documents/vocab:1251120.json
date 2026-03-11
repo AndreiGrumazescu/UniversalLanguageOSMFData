@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1251120",
+  "japanese": "経緯",
+  "kana": "けいい",
+  "meanings": [
+    "details",
+    "particulars",
+    "sequence of events",
+    "circumstances",
+    "situation",
+    "how things got this way"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "longitude and latitude",
+    "warp and weft",
+    "warp and woof"
+  ],
+  "category": "noun"
+}

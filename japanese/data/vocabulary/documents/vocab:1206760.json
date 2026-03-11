@@ -1,0 +1,14 @@
+{
+  "$id": "vocab:1206760",
+  "japanese": "学士",
+  "kana": "がくし",
+  "meanings": [
+    "university graduate",
+    "bachelor"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "bachelor's degree"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1312350",
+  "japanese": "試験",
+  "kana": "しけん",
+  "meanings": [
+    "examination",
+    "exam",
+    "test"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "trial",
+    "experiment",
+    "test"
+  ],
+  "category": "noun"
+}

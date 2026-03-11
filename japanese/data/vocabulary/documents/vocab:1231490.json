@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1231490",
+  "japanese": "牛",
+  "kana": "うし",
+  "meanings": [
+    "cattle (Bos taurus)",
+    "cow",
+    "bull",
+    "ox",
+    "calf"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "beef",
+    "Chinese \"Ox\" constellation (one of the 28 mansions)"
+  ],
+  "category": "noun"
+}

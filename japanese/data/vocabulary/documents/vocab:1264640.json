@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1264640",
+  "japanese": "限る",
+  "kana": "かぎる",
+  "meanings": [
+    "to restrict",
+    "to limit",
+    "to confine"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to be restricted to",
+    "to be limited to",
+    "to be confined to",
+    "to be best (for)",
+    "to be the best plan",
+    "to be the only way (to)"
+  ],
+  "category": "godan verb"
+}

@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1203310",
+  "japanese": "外れる",
+  "kana": "はずれる",
+  "meanings": [
+    "to be disconnected",
+    "to get out of place",
+    "to be off",
+    "to be out (e.g. of gear)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to miss the mark",
+    "to get it wrong (e.g. guess, expectation)",
+    "to draw a blank (e.g. lottery)",
+    "to be removed",
+    "to be excluded",
+    "to be contrary to",
+    "to go against"
+  ],
+  "category": "ichidan verb"
+}

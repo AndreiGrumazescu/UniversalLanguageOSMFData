@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1206110",
+  "japanese": "角",
+  "kana": "かど",
+  "meanings": [
+    "corner",
+    "edge"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "(street) corner",
+    "turning",
+    "rough edges (of one's character, words, etc.)",
+    "abrasiveness",
+    "harshness",
+    "sharpness"
+  ],
+  "category": "noun"
+}

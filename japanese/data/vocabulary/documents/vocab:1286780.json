@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1286780",
+  "japanese": "国籍",
+  "kana": "こくせき",
+  "meanings": [
+    "nationality",
+    "citizenship"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "nationality (ship, airplane, etc.)",
+    "registration",
+    "flag"
+  ],
+  "category": "noun"
+}

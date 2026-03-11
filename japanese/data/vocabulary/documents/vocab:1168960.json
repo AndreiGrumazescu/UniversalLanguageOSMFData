@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1168960",
+  "japanese": "引き取る",
+  "kana": "ひきとる",
+  "meanings": [
+    "to take into one's possession",
+    "to receive",
+    "to accept",
+    "to collect",
+    "to claim"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to take into one's care (e.g. person, pet)",
+    "to take custody of",
+    "to adopt",
+    "to leave",
+    "to go away",
+    "to withdraw",
+    "to get out"
+  ],
+  "category": "godan verb"
+}

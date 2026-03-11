@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1284430",
+  "japanese": "合う",
+  "kana": "あう",
+  "meanings": [
+    "to come together",
+    "to merge",
+    "to unite",
+    "to meet"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to fit",
+    "to match",
+    "to suit",
+    "to agree with",
+    "to be correct",
+    "to be profitable",
+    "to be equitable",
+    "to do ... to each other",
+    "to do ... together"
+  ],
+  "category": "godan verb"
+}

@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1515340",
+  "japanese": "包み",
+  "kana": "つつみ",
+  "meanings": [
+    "bundle",
+    "package",
+    "parcel"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "counter for wrapped objects"
+  ],
+  "category": "noun"
+}

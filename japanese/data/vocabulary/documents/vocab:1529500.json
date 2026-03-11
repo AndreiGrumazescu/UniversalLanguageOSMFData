@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1529500",
+  "japanese": "夢中",
+  "kana": "むちゅう",
+  "meanings": [
+    "absorbed in",
+    "immersed in",
+    "crazy about",
+    "obsessed with",
+    "devoted to"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "forgetting oneself",
+    "daze",
+    "trance",
+    "ecstasy",
+    "delirium",
+    "within a dream",
+    "while dreaming"
+  ],
+  "category": "na-adjective"
+}

@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1160790",
+  "japanese": "一",
+  "kana": "いち",
+  "meanings": [
+    "one",
+    "1"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "best",
+    "first",
+    "foremost",
+    "beginning",
+    "start",
+    "a (single)",
+    "one (of many)",
+    "ace",
+    "bottom string (on a shamisen, etc.)"
+  ],
+  "category": "numeric"
+}

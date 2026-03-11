@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1360770",
+  "japanese": "心臓",
+  "kana": "しんぞう",
+  "meanings": [
+    "heart"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "guts",
+    "nerve",
+    "cheek",
+    "gall",
+    "spine",
+    "heart (of something)",
+    "central part"
+  ],
+  "category": "noun"
+}

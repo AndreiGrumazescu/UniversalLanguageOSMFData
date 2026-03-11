@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1212440",
+  "japanese": "感触",
+  "kana": "かんしょく",
+  "meanings": [
+    "feel (of something)",
+    "touch",
+    "texture",
+    "sensation"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "feeling",
+    "impression"
+  ],
+  "category": "noun"
+}

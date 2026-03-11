@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1603050",
+  "japanese": "故郷",
+  "kana": "ふるさと",
+  "meanings": [
+    "hometown",
+    "birthplace",
+    "native place",
+    "one's old home"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "ruins",
+    "historic remains"
+  ],
+  "category": "noun"
+}

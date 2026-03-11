@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1429050",
+  "japanese": "調べ",
+  "kana": "しらべ",
+  "meanings": [
+    "investigation",
+    "inspection",
+    "examination"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "tune",
+    "note",
+    "melody"
+  ],
+  "category": "noun"
+}

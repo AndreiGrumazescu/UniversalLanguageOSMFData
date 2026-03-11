@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1480080",
+  "japanese": "反する",
+  "kana": "はんする",
+  "meanings": [
+    "to be contrary (to)",
+    "to go against",
+    "to run counter (to)",
+    "to contradict",
+    "to be opposite (to)"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to infringe",
+    "to violate",
+    "to transgress",
+    "to disobey (an order, teachings, etc.)",
+    "to defy",
+    "to rebel",
+    "to revolt"
+  ],
+  "category": "suru verb"
+}

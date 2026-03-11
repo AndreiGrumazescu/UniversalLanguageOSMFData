@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1307610",
+  "japanese": "始発",
+  "kana": "しはつ",
+  "meanings": [
+    "first departure (of the day)",
+    "first train",
+    "first bus"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "departing from the starting station (of a bus, train, etc.)"
+  ],
+  "category": "noun"
+}

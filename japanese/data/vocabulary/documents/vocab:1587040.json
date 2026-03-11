@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1587040",
+  "japanese": "言う",
+  "kana": "いう",
+  "meanings": [
+    "to say",
+    "to utter",
+    "to declare"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "to name",
+    "to call",
+    "to go (e.g. \"the alarm went ping\")",
+    "to make a noise"
+  ],
+  "category": "godan verb"
+}

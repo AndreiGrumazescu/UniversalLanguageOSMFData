@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1002590",
+  "japanese": "お父さん",
+  "kana": "おとうさん",
+  "meanings": [
+    "father",
+    "dad",
+    "papa",
+    "pa",
+    "pop",
+    "daddy",
+    "dada"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "husband",
+    "you (of an elderly person older than the speaker)",
+    "he",
+    "him"
+  ],
+  "category": "noun"
+}

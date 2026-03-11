@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1347490",
+  "japanese": "唱える",
+  "kana": "となえる",
+  "meanings": [
+    "to recite",
+    "to chant"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to cry",
+    "to yell",
+    "to shout",
+    "to advocate",
+    "to advance",
+    "to preach",
+    "to insist"
+  ],
+  "category": "ichidan verb"
+}

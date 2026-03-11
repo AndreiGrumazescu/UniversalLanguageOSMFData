@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1348870",
+  "japanese": "少し",
+  "kana": "すこし",
+  "meanings": [
+    "a little",
+    "a bit",
+    "a small amount",
+    "a few",
+    "some",
+    "slightly",
+    "somewhat"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "a little while",
+    "a short time",
+    "a moment",
+    "a minute",
+    "a little way",
+    "a short distance"
+  ],
+  "category": "adverb"
+}

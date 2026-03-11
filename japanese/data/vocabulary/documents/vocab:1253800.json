@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1253800",
+  "japanese": "桁",
+  "kana": "けた",
+  "meanings": [
+    "column",
+    "beam",
+    "girder",
+    "crossbeam",
+    "spar",
+    "yard"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "digit",
+    "decade",
+    "order of magnitude"
+  ],
+  "category": "noun"
+}

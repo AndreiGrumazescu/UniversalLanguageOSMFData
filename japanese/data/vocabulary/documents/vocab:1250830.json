@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1250830",
+  "japanese": "景気",
+  "kana": "けいき",
+  "meanings": [
+    "business conditions",
+    "the market",
+    "economic activity",
+    "economic climate"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "good (economic) times",
+    "prosperity",
+    "boom",
+    "liveliness",
+    "energy",
+    "vigour",
+    "vigor",
+    "spirit"
+  ],
+  "category": "noun"
+}

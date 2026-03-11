@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1512150",
+  "japanese": "返る",
+  "kana": "かえる",
+  "meanings": [
+    "to return",
+    "to come back",
+    "to go back"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to turn over",
+    "to become extremely",
+    "to become completely"
+  ],
+  "category": "godan verb"
+}

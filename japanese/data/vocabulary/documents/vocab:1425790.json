@@ -1,0 +1,26 @@
+{
+  "$id": "vocab:1425790",
+  "japanese": "仲間",
+  "kana": "なかま",
+  "meanings": [
+    "companion",
+    "fellow",
+    "friend",
+    "mate",
+    "comrade",
+    "partner",
+    "colleague",
+    "coworker",
+    "associate"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "group",
+    "company",
+    "circle",
+    "set",
+    "gang",
+    "member of the same category (family, class)"
+  ],
+  "category": "noun"
+}

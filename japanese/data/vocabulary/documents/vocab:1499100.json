@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1499100",
+  "japanese": "舞う",
+  "kana": "まう",
+  "meanings": [
+    "to dance (orig. a whirling dance)"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to whirl (in the wind)",
+    "to flutter (about)",
+    "to swirl",
+    "to fly",
+    "to circle",
+    "to wheel"
+  ],
+  "category": "godan verb"
+}

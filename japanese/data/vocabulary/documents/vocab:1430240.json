@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1430240",
+  "japanese": "頂点",
+  "kana": "ちょうてん",
+  "meanings": [
+    "vertex",
+    "apex"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "top (e.g. of a mountain)",
+    "summit",
+    "peak",
+    "top (of a profession, field, etc.)",
+    "summit",
+    "peak (of popularity, a boom, etc.)",
+    "height (e.g. of prosperity)",
+    "apex",
+    "zenith",
+    "climax"
+  ],
+  "category": "noun"
+}

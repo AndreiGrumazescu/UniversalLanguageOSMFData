@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1514910",
+  "japanese": "慕う",
+  "kana": "したう",
+  "meanings": [
+    "to yearn for",
+    "to long for",
+    "to pine for",
+    "to miss",
+    "to love dearly",
+    "to adore"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to follow (someone)",
+    "to idolize (for virtue, learning, status, etc.)"
+  ],
+  "category": "godan verb"
+}

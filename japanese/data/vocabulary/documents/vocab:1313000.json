@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1313000",
+  "japanese": "歯",
+  "kana": "は",
+  "meanings": [
+    "tooth",
+    "teeth"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "tooth (of a comb, saw, etc.)",
+    "cog",
+    "support (of a geta)"
+  ],
+  "category": "noun"
+}

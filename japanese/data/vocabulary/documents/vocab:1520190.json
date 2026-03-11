@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1520190",
+  "japanese": "防ぐ",
+  "kana": "ふせぐ",
+  "meanings": [
+    "to defend against",
+    "to protect against"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to prevent",
+    "to avert",
+    "to avoid"
+  ],
+  "category": "godan verb"
+}

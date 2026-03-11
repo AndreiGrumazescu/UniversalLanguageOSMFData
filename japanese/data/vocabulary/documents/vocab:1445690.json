@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1445690",
+  "japanese": "怒る",
+  "kana": "おこる",
+  "meanings": [
+    "to get angry",
+    "to get mad",
+    "to lose one's temper"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to scold",
+    "to tell (someone) off"
+  ],
+  "category": "godan verb"
+}

@@ -1,0 +1,40 @@
+{
+  "$id": "vocab:1392580",
+  "japanese": "前",
+  "kana": "まえ",
+  "meanings": [
+    "in front (of)",
+    "before (e.g. a building)"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "before",
+    "earlier",
+    "previously",
+    "prior",
+    "ago",
+    "(minutes) to (the hour)",
+    "(the) front",
+    "frontal part",
+    "fore",
+    "head (e.g. of a line)",
+    "forward",
+    "ahead",
+    "(in the) presence (of)",
+    "in front (of someone)",
+    "previous (e.g. page)",
+    "prior (e.g. engagement)",
+    "first (e.g. half)",
+    "former (e.g. example)",
+    "portion",
+    "helping",
+    "front (of one's body or clothing)",
+    "breast (of a coat, kimono, etc.)",
+    "privates",
+    "private parts",
+    "criminal record",
+    "previous conviction",
+    "(a) prior"
+  ],
+  "category": "noun"
+}

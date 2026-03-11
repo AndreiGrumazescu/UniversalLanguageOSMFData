@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1544730",
+  "japanese": "与える",
+  "kana": "あたえる",
+  "meanings": [
+    "to give (esp. to someone of lower status)",
+    "to bestow",
+    "to grant",
+    "to confer",
+    "to present",
+    "to award"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to provide",
+    "to afford",
+    "to offer",
+    "to supply",
+    "to assign",
+    "to cause",
+    "to pass (a variable to a function)"
+  ],
+  "category": "ichidan verb"
+}

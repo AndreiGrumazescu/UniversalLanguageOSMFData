@@ -1,0 +1,29 @@
+{
+  "$id": "vocab:1361130",
+  "japanese": "振り",
+  "kana": "ふり",
+  "meanings": [
+    "swing",
+    "shake",
+    "sweep",
+    "wave",
+    "wag"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "appearance",
+    "behaviour",
+    "behavior",
+    "pretence",
+    "pretense",
+    "(false) show",
+    "pretending",
+    "(a customer) coming to restaurant, ryokan, etc. without a reservation or introduction",
+    "postures (of a dance)",
+    "lead in (to a joke, question, etc.)",
+    "setup",
+    "unsewn part of a hanging sleeve on a traditional Japanese woman's garment",
+    "counter for swords, blades, etc."
+  ],
+  "category": "noun"
+}

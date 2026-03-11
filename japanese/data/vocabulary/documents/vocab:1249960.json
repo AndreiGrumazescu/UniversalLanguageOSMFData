@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1249960",
+  "japanese": "兄弟",
+  "kana": "きょうだい",
+  "meanings": [
+    "siblings",
+    "brothers and sisters"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "brothers",
+    "siblings-in-law",
+    "brothers-in-law",
+    "sisters-in-law",
+    "mate",
+    "friend"
+  ],
+  "category": "noun"
+}

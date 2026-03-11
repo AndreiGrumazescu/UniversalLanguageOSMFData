@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1410430",
+  "japanese": "帯びる",
+  "kana": "おびる",
+  "meanings": [
+    "to wear (a sword, decoration, etc.)",
+    "to carry",
+    "to bear"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to be entrusted with (a mission)",
+    "to be charged with",
+    "to take on",
+    "to have (a quality, property, etc.)",
+    "to have a trace of",
+    "to be tinged with"
+  ],
+  "category": "ichidan verb"
+}

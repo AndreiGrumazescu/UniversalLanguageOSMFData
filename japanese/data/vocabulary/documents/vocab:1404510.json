@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1404510",
+  "japanese": "束縛",
+  "kana": "そくばく",
+  "meanings": [
+    "restraint",
+    "restriction",
+    "fetters",
+    "yoke",
+    "shackles"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "binding",
+    "confinement with rope"
+  ],
+  "category": "noun"
+}

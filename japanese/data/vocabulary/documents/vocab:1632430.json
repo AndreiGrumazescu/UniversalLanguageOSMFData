@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1632430",
+  "japanese": "ばったり",
+  "kana": "ばったり",
+  "meanings": [
+    "with a clash",
+    "with a thud",
+    "with a bang",
+    "with a flop"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "unexpectedly (meeting someone)",
+    "suddenly (ending)",
+    "abruptly (coming to a halt)"
+  ],
+  "category": "adverb"
+}

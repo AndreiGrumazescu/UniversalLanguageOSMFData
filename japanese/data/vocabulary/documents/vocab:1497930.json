@@ -1,0 +1,29 @@
+{
+  "$id": "vocab:1497930",
+  "japanese": "負う",
+  "kana": "おう",
+  "meanings": [
+    "to carry on one's back",
+    "to bear",
+    "to shoulder"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to take (responsibility)",
+    "to assume",
+    "to accept",
+    "to bear (the blame, costs, etc.)",
+    "to have (a duty, obligation, etc.)",
+    "to become responsible for",
+    "to be burdened with (work, debt, etc.)",
+    "to suffer (an injury)",
+    "to sustain (a wound)",
+    "to receive",
+    "to incur (a loss, damage, etc.)",
+    "to owe (a debt of gratitude to)",
+    "to be indebted to",
+    "to have (something) behind one",
+    "to be backed by"
+  ],
+  "category": "godan verb"
+}

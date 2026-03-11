@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1169320",
+  "japanese": "ひっくり返る",
+  "kana": "ひっくりかえる",
+  "meanings": [
+    "to be overturned",
+    "to be reversed",
+    "to turn over",
+    "to capsize"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to fall down",
+    "to tumble down",
+    "to topple over",
+    "to lie on one's back"
+  ],
+  "category": "godan verb"
+}

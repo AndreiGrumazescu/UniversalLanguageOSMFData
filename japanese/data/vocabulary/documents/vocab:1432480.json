@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1432480",
+  "japanese": "追及",
+  "kana": "ついきゅう",
+  "meanings": [
+    "investigation (e.g. into someone's guilt)",
+    "questioning",
+    "pressing",
+    "hounding",
+    "pinning down"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "catching up",
+    "overtaking"
+  ],
+  "category": "noun"
+}

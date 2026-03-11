@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1005500",
+  "japanese": "しくじる",
+  "kana": "しくじる",
+  "meanings": [
+    "to fail",
+    "to blunder",
+    "to mess up",
+    "to screw up"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to be dismissed",
+    "to be fired"
+  ],
+  "category": "godan verb"
+}

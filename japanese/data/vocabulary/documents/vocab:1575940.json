@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1575940",
+  "japanese": "一家",
+  "kana": "いっか",
+  "meanings": [
+    "a family",
+    "a household",
+    "a home",
+    "one's family",
+    "whole family"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "(one's own) style",
+    "school",
+    "gang",
+    "(yakuza) family"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,34 @@
+{
+  "$id": "vocab:1260670",
+  "japanese": "元",
+  "kana": "もと",
+  "meanings": [
+    "origin",
+    "source",
+    "beginning"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "basis",
+    "base",
+    "foundation",
+    "root",
+    "cause",
+    "(raw) material",
+    "ingredient",
+    "base",
+    "mix (e.g. for a cake)",
+    "(soup) stock",
+    "(one's) side",
+    "capital",
+    "principal",
+    "cost price",
+    "root (of a plant)",
+    "(tree) trunk",
+    "part (of a brush, chopsticks, etc.) one holds (with the hand)",
+    "first three lines of a waka",
+    "counter for plants or trees",
+    "counter for falcons (in falconry)"
+  ],
+  "category": "noun"
+}

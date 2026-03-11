@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1532160",
+  "japanese": "命令",
+  "kana": "めいれい",
+  "meanings": [
+    "order",
+    "command",
+    "decree",
+    "directive"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "(software) instruction",
+    "statement"
+  ],
+  "category": "noun"
+}

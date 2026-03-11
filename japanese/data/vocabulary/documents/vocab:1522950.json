@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1522950",
+  "japanese": "本体",
+  "kana": "ほんたい",
+  "meanings": [
+    "substance",
+    "true form",
+    "true character"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "main part",
+    "main unit",
+    "body (of a machine)",
+    "object of worship (at a shrine, temple, etc.)",
+    "noumenon",
+    "base price",
+    "pre-tax price"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1527070",
+  "japanese": "味方",
+  "kana": "みかた",
+  "meanings": [
+    "friend",
+    "ally",
+    "supporter"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "taking sides (with)",
+    "supporting",
+    "standing by",
+    "backing up"
+  ],
+  "category": "noun"
+}

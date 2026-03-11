@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1457210",
+  "japanese": "届ける",
+  "kana": "とどける",
+  "meanings": [
+    "to deliver",
+    "to forward",
+    "to send"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to report",
+    "to notify",
+    "to file notice (to the authorities)",
+    "to give notice",
+    "to register"
+  ],
+  "category": "ichidan verb"
+}

@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1259930",
+  "japanese": "見当",
+  "kana": "けんとう",
+  "meanings": [
+    "estimate",
+    "guess",
+    "conjecture",
+    "aim"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "direction",
+    "bearings",
+    "registration mark (printing)",
+    "approximately",
+    "about",
+    "around"
+  ],
+  "category": "noun"
+}

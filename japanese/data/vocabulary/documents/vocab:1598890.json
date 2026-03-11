@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1598890",
+  "japanese": "飛び込む",
+  "kana": "とびこむ",
+  "meanings": [
+    "to jump in",
+    "to leap in",
+    "to plunge into",
+    "to dive"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to burst in",
+    "to barge in"
+  ],
+  "category": "godan verb"
+}

@@ -1,0 +1,14 @@
+{
+  "$id": "vocab:1471250",
+  "japanese": "破壊",
+  "kana": "はかい",
+  "meanings": [
+    "destruction",
+    "disruption"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "(application) crash"
+  ],
+  "category": "noun"
+}

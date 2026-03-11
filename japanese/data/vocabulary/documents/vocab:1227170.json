@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1227170",
+  "japanese": "逆転",
+  "kana": "ぎゃくてん",
+  "meanings": [
+    "reversal (of a situation)",
+    "turnaround",
+    "turnabout",
+    "turning the tables",
+    "sudden change",
+    "comeback"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "reversal (of direction of rotation)"
+  ],
+  "category": "noun"
+}

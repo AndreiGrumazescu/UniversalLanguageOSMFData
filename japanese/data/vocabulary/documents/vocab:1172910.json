@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1172910",
+  "japanese": "運動",
+  "kana": "うんどう",
+  "meanings": [
+    "exercise",
+    "physical training",
+    "workout",
+    "sports",
+    "athletics"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "appeal",
+    "campaign",
+    "drive",
+    "crusade",
+    "movement",
+    "lobbying",
+    "motion",
+    "movement"
+  ],
+  "category": "noun"
+}

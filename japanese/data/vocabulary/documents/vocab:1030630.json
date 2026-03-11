@@ -1,0 +1,14 @@
+{
+  "$id": "vocab:1030630",
+  "japanese": "エレベーター",
+  "kana": "エレベーター",
+  "meanings": [
+    "elevator",
+    "lift"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "elevator"
+  ],
+  "category": "noun"
+}

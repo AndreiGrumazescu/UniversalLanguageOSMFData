@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1285990",
+  "japanese": "告げる",
+  "kana": "つげる",
+  "meanings": [
+    "to tell",
+    "to inform",
+    "to announce"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to indicate",
+    "to signal",
+    "to mark"
+  ],
+  "category": "ichidan verb"
+}

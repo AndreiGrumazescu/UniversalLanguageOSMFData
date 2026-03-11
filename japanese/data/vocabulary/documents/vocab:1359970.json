@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1359970",
+  "japanese": "寝かせる",
+  "kana": "ねかせる",
+  "meanings": [
+    "to put to bed",
+    "to let sleep"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to lay (something) down",
+    "to put on its side",
+    "to let (money, goods, etc.) lie idle",
+    "to set aside unused",
+    "to let (stock) lie unsold",
+    "to (let) ferment",
+    "to (let) age",
+    "to let (dough) rise",
+    "to lay down (wine)"
+  ],
+  "category": "ichidan verb"
+}

@@ -1,0 +1,35 @@
+{
+  "$id": "vocab:1591420",
+  "japanese": "決まる",
+  "kana": "きまる",
+  "meanings": [
+    "to be decided",
+    "to be settled",
+    "to be fixed",
+    "to be arranged"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to be unchanging",
+    "to be the same (as always)",
+    "to be fixed",
+    "to be set",
+    "to be a fixed rule",
+    "to be destined",
+    "to be a convention",
+    "to be a custom",
+    "to be common knowledge",
+    "to be well executed (of a manoeuvre in a sport, game, etc.)",
+    "to go well",
+    "to succeed",
+    "to connect (of a punch)",
+    "to look good (of clothing)",
+    "to look sharp",
+    "to be stylish",
+    "to suit one",
+    "to be held in place (of a hairdo)",
+    "to be struck and held (of a pose in kabuki)",
+    "to get high (on drugs)"
+  ],
+  "category": "godan verb"
+}

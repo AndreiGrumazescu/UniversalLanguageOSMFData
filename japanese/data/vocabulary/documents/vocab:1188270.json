@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1188270",
+  "japanese": "何か",
+  "kana": "なにか",
+  "meanings": [
+    "something",
+    "some",
+    "any"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "somehow",
+    "for some reason",
+    "(so) what (are you trying to say)?",
+    "what (do you mean)?"
+  ],
+  "category": "pronoun"
+}

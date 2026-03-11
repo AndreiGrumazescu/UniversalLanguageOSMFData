@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1419690",
+  "japanese": "断然",
+  "kana": "だんぜん",
+  "meanings": [
+    "firmly",
+    "flatly",
+    "resolutely",
+    "decisively",
+    "absolutely",
+    "definitely"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "definitely (wrong, different, etc.)",
+    "absolutely",
+    "by far",
+    "far and away",
+    "by a long shot",
+    "hands down"
+  ],
+  "category": "adverb"
+}

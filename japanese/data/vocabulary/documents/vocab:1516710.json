@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1516710",
+  "japanese": "放出",
+  "kana": "ほうしゅつ",
+  "meanings": [
+    "emission",
+    "release",
+    "radiation",
+    "discharge",
+    "gush"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "release (of goods, a player from a team, etc.)"
+  ],
+  "category": "noun"
+}

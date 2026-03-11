@@ -1,0 +1,32 @@
+{
+  "$id": "vocab:1008460",
+  "japanese": "でも",
+  "kana": "でも",
+  "meanings": [
+    "but",
+    "however",
+    "though",
+    "nevertheless",
+    "still",
+    "yet",
+    "even so",
+    "also",
+    "as well"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "even",
+    "however",
+    "no matter how",
+    "even if",
+    "even though",
+    "... or something",
+    "either ... or ...",
+    "neither ... nor ...",
+    "pseudo-",
+    "quack",
+    "in-name-only",
+    "for lack of anything better to do"
+  ],
+  "category": "conjunction"
+}

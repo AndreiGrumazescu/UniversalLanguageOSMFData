@@ -1,0 +1,26 @@
+{
+  "$id": "vocab:1184450",
+  "japanese": "下る",
+  "kana": "くだる",
+  "meanings": [
+    "to descend",
+    "to go down",
+    "to come down"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to be handed down (of an order, judgment, etc.)",
+    "to pass (of time)",
+    "to surrender",
+    "to capitulate",
+    "to be less than",
+    "to be inferior to",
+    "to have the runs",
+    "to have diarrhea",
+    "to pass (in stool)",
+    "to be discharged from the body",
+    "to depreciate oneself",
+    "to be humble"
+  ],
+  "category": "godan verb"
+}

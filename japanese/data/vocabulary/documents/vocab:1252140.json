@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1252140",
+  "japanese": "計算",
+  "kana": "けいさん",
+  "meanings": [
+    "calculation",
+    "computation",
+    "reckoning",
+    "counting",
+    "adding up",
+    "working out",
+    "figures"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "consideration",
+    "calculation",
+    "estimation",
+    "expectation"
+  ],
+  "category": "noun"
+}

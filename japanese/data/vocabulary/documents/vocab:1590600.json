@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1590600",
+  "japanese": "科目",
+  "kana": "かもく",
+  "meanings": [
+    "(school) subject",
+    "curriculum",
+    "course"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "item",
+    "heading",
+    "entry"
+  ],
+  "category": "noun"
+}

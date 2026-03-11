@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1391120",
+  "japanese": "染みる",
+  "kana": "しみる",
+  "meanings": [
+    "to pierce",
+    "to penetrate",
+    "to soak in",
+    "to permeate"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to sting (wound or sensitive area, etc.)",
+    "to smart",
+    "to twinge",
+    "to be infected (with vice)",
+    "to be steeped (with prejudice)",
+    "to be influenced",
+    "to feel keenly",
+    "to make a deep impression"
+  ],
+  "category": "ichidan verb"
+}

@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1432850",
+  "japanese": "通う",
+  "kana": "かよう",
+  "meanings": [
+    "to go to and from (a place)",
+    "to go back and forth between",
+    "to run between (e.g. bus, train, etc.)",
+    "to ply between"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to go to (school, work, etc.)",
+    "to attend",
+    "to commute",
+    "to frequent",
+    "to circulate (e.g. blood, electricity)",
+    "to be communicated (e.g. thought)",
+    "to resemble"
+  ],
+  "category": "godan verb"
+}

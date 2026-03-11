@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1180740",
+  "japanese": "横綱",
+  "kana": "よこづな",
+  "meanings": [
+    "yokozuna (highest rank in sumo)",
+    "grand champion"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "best in its field",
+    "crème de la crème",
+    "cream of the crop"
+  ],
+  "category": "noun"
+}

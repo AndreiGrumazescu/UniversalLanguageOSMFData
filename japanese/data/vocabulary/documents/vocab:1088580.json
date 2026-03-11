@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1088580",
+  "japanese": "ドライブ",
+  "kana": "ドライブ",
+  "meanings": [
+    "drive",
+    "trip by car",
+    "driving"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to (go for a) drive",
+    "to go on a trip by car",
+    "to drive (e.g. a car)",
+    "to drive (innovation, change, etc.)",
+    "to propel",
+    "drive"
+  ],
+  "category": "noun"
+}

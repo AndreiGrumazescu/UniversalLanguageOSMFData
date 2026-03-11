@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1315200",
+  "japanese": "字体",
+  "kana": "じたい",
+  "meanings": [
+    "form of a character (e.g. simplified, traditional)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "type",
+    "typeface",
+    "font"
+  ],
+  "category": "noun"
+}

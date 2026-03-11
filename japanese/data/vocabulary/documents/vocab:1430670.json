@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1430670",
+  "japanese": "直ちに",
+  "kana": "ただちに",
+  "meanings": [
+    "at once",
+    "immediately",
+    "right away",
+    "without delay"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "directly (face, lead to, etc.)",
+    "automatically (mean, result in, etc.)"
+  ],
+  "category": "adverb"
+}

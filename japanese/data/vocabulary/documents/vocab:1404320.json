@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1404320",
+  "japanese": "息",
+  "kana": "いき",
+  "meanings": [
+    "breath",
+    "breathing"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "concord",
+    "harmony",
+    "rapport",
+    "steam (coming off hot food, tea, etc.)",
+    "(water) vapor",
+    "vapour"
+  ],
+  "category": "noun"
+}

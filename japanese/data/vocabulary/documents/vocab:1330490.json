@@ -1,0 +1,30 @@
+{
+  "$id": "vocab:1330490",
+  "japanese": "収まる",
+  "kana": "おさまる",
+  "meanings": [
+    "to fit into (a box, frame, category, etc.)",
+    "to be contained within",
+    "to fall within (e.g. a budget)"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to settle down (into)",
+    "to be installed (in one's rightful place)",
+    "to be returned (to one's original position)",
+    "to settle into (one's position)",
+    "to take up (a post)",
+    "to occupy (a role)",
+    "to be delivered",
+    "to be paid (e.g. taxes)",
+    "to be settled (dispute, conflict, etc.)",
+    "to be sorted",
+    "to subside (e.g. wind)",
+    "to calm down",
+    "to abate",
+    "to be satisfied (e.g. with an answer)",
+    "to consent",
+    "to agree"
+  ],
+  "category": "godan verb"
+}

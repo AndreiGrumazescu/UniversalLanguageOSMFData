@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1527040",
+  "japanese": "味噌",
+  "kana": "みそ",
+  "meanings": [
+    "miso",
+    "fermented condiment usu. made from soybeans"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "innards (from crabs, shrimps, etc.) resembling miso",
+    "key point",
+    "main point",
+    "good part (of something)",
+    "weakling",
+    "weak person",
+    "try"
+  ],
+  "category": "noun"
+}

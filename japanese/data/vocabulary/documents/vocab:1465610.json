@@ -1,0 +1,37 @@
+{
+  "$id": "vocab:1465610",
+  "japanese": "入れる",
+  "kana": "いれる",
+  "meanings": [
+    "to put in",
+    "to let in",
+    "to take in",
+    "to bring in",
+    "to insert",
+    "to install (e.g. software)",
+    "to set (a jewel, etc.)",
+    "to ink in (e.g. tattoo)"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "to admit",
+    "to accept",
+    "to employ",
+    "to hire",
+    "to accept",
+    "to comply",
+    "to grant",
+    "to adopt (a policy, etc.)",
+    "to take (advice, etc.)",
+    "to listen to",
+    "to pay attention to",
+    "to include",
+    "to pay (one's rent, etc.)",
+    "to cast (a vote)",
+    "to make (tea, coffee, etc.)",
+    "to turn on (a switch, etc.)",
+    "to send (a fax)",
+    "to call"
+  ],
+  "category": "ichidan verb"
+}

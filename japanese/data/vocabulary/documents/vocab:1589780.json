@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1589780",
+  "japanese": "替える",
+  "kana": "かえる",
+  "meanings": [
+    "to replace",
+    "to convert",
+    "to change"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to exchange",
+    "to interchange",
+    "to renew",
+    "to substitute (person, staff member, player, etc.)"
+  ],
+  "category": "ichidan verb"
+}

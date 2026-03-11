@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1534520",
+  "japanese": "木",
+  "kana": "き",
+  "meanings": [
+    "tree",
+    "shrub",
+    "bush"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "wood",
+    "timber",
+    "wooden clappers (signalling the beginning or end of a performance)"
+  ],
+  "category": "noun"
+}

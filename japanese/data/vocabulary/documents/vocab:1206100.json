@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1206100",
+  "japanese": "角",
+  "kana": "かく",
+  "meanings": [
+    "angle"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "square",
+    "cube",
+    "bishop",
+    "third degree (of the Japanese and Chinese pentatonic scale)",
+    "Chinese \"horn\" constellation (one of the 28 mansions)",
+    "jiao (monetary unit of China; one-tenth of a yuan)"
+  ],
+  "category": "noun"
+}

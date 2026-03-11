@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1354910",
+  "japanese": "乗り込む",
+  "kana": "のりこむ",
+  "meanings": [
+    "to board (a train, plane, etc.)",
+    "to get into (a car)",
+    "to get on (a bus)",
+    "to go on board",
+    "to get aboard"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to march into",
+    "to enter",
+    "to arrive (at, in)"
+  ],
+  "category": "godan verb"
+}

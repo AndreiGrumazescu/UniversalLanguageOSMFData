@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1590420",
+  "japanese": "偏る",
+  "kana": "かたよる",
+  "meanings": [
+    "to lean (to one side)",
+    "to incline"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to be unbalanced (e.g. diet)",
+    "to be unduly weighted towards",
+    "to be concentrated on",
+    "to be partial",
+    "to be biased",
+    "to be prejudiced"
+  ],
+  "category": "godan verb"
+}

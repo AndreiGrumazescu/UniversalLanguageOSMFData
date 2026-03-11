@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1323940",
+  "japanese": "借金",
+  "kana": "しゃっきん",
+  "meanings": [
+    "debt",
+    "loan",
+    "liabilities",
+    "borrowing money"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "number of games under the .500 mark"
+  ],
+  "category": "noun"
+}

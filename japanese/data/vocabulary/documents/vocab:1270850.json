@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1270850",
+  "japanese": "悟る",
+  "kana": "さとる",
+  "meanings": [
+    "to sense",
+    "to perceive",
+    "to notice",
+    "to discern",
+    "to become aware of"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to understand",
+    "to comprehend",
+    "to realize",
+    "to attain enlightenment"
+  ],
+  "category": "godan verb"
+}

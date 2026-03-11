@@ -1,0 +1,34 @@
+{
+  "$id": "vocab:1219560",
+  "japanese": "寄せる",
+  "kana": "よせる",
+  "meanings": [
+    "to come near",
+    "to let someone approach"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to bring near",
+    "to bring together",
+    "to collect",
+    "to gather",
+    "to deliver (opinion, news, etc.)",
+    "to send (e.g. a letter)",
+    "to contribute",
+    "to donate",
+    "to let someone drop by",
+    "to add (numbers)",
+    "to have feelings for (love, goodwill, trust, etc.)",
+    "to rely upon for a time",
+    "to depend on",
+    "to use as a pretext",
+    "to put aside",
+    "to press",
+    "to push",
+    "to force",
+    "to include",
+    "to welcome (in a group)",
+    "to let in"
+  ],
+  "category": "ichidan verb"
+}

@@ -1,0 +1,29 @@
+{
+  "$id": "vocab:1244320",
+  "japanese": "苦しい",
+  "kana": "くるしい",
+  "meanings": [
+    "painful",
+    "difficult",
+    "tough",
+    "hard"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "distressing",
+    "(psychologically) difficult",
+    "stressful",
+    "awkward (e.g. position)",
+    "straitened (circumstances)",
+    "tight (financial situation)",
+    "needy",
+    "struggling",
+    "strained (interpretation, explanation, etc.)",
+    "lame (e.g. excuse)",
+    "forced (e.g. smile)",
+    "far-fetched",
+    "hard to do",
+    "unpleasant"
+  ],
+  "category": "i-adjective"
+}

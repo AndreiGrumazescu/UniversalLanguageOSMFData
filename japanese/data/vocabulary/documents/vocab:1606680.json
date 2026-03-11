@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1606680",
+  "japanese": "沸く",
+  "kana": "わく",
+  "meanings": [
+    "to grow hot (e.g. water)",
+    "to boil"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to get excited (at)",
+    "to erupt (in applause, cheering, etc.)",
+    "to be in a ferment",
+    "to take place energetically",
+    "to ferment",
+    "to melt (of metal)"
+  ],
+  "category": "godan verb"
+}

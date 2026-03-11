@@ -1,0 +1,14 @@
+{
+  "$id": "vocab:1489600",
+  "japanese": "表紙",
+  "kana": "ひょうし",
+  "meanings": [
+    "cover (of a book, magazine, etc.)",
+    "binding"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to appear on the cover of a magazine"
+  ],
+  "category": "noun"
+}

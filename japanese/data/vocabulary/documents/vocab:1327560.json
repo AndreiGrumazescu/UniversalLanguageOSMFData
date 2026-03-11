@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1327560",
+  "japanese": "手元",
+  "kana": "てもと",
+  "meanings": [
+    "at hand",
+    "on hand",
+    "nearby",
+    "close at hand"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "way of moving one's arms",
+    "skill",
+    "money at hand",
+    "pocket money",
+    "grip",
+    "handle"
+  ],
+  "category": "adverb"
+}

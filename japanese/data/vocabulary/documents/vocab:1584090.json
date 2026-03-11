@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1584090",
+  "japanese": "抱く",
+  "kana": "いだく",
+  "meanings": [
+    "to hold in one's arms (e.g. a baby)",
+    "to embrace",
+    "to hug"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to have (a thought or feeling)",
+    "to hold",
+    "to harbour (suspicion, doubt, etc.)",
+    "to harbor",
+    "to bear (a grudge, ill will, etc.)",
+    "to entertain (hope, illusions, etc.)",
+    "to cherish (e.g. an ambition)"
+  ],
+  "category": "godan verb"
+}

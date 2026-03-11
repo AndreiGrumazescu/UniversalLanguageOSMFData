@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1202270",
+  "japanese": "絵",
+  "kana": "え",
+  "meanings": [
+    "picture",
+    "drawing",
+    "painting",
+    "sketch"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "image (TV, film, etc.)",
+    "picture",
+    "footage"
+  ],
+  "category": "noun"
+}

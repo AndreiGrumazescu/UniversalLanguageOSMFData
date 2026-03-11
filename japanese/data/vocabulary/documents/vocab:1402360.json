@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1402360",
+  "japanese": "装置",
+  "kana": "そうち",
+  "meanings": [
+    "equipment",
+    "device",
+    "installation",
+    "apparatus"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "stage setting"
+  ],
+  "category": "noun"
+}

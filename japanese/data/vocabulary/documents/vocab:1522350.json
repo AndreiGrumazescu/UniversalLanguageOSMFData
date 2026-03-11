@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1522350",
+  "japanese": "本館",
+  "kana": "ほんかん",
+  "meanings": [
+    "main building (as opposed to an annex, outbuilding, etc.)"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "this library",
+    "this museum",
+    "this theatre",
+    "this hall",
+    "this building"
+  ],
+  "category": "noun"
+}

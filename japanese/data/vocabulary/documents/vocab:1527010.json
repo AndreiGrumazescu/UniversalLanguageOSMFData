@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1527010",
+  "japanese": "味わう",
+  "kana": "あじわう",
+  "meanings": [
+    "to taste",
+    "to savor",
+    "to savour",
+    "to relish"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to appreciate",
+    "to enjoy",
+    "to relish",
+    "to digest",
+    "to experience",
+    "to go through",
+    "to taste (e.g. victory)",
+    "to know (e.g. pain)"
+  ],
+  "category": "godan verb"
+}

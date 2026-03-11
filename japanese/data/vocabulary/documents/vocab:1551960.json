@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1551960",
+  "japanese": "略す",
+  "kana": "りゃくす",
+  "meanings": [
+    "to abbreviate",
+    "to abridge",
+    "to shorten"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to omit",
+    "to leave out",
+    "to take",
+    "to capture",
+    "to steal"
+  ],
+  "category": "godan verb"
+}

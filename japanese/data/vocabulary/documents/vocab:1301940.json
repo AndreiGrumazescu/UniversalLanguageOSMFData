@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1301940",
+  "japanese": "傘",
+  "kana": "かさ",
+  "meanings": [
+    "umbrella",
+    "parasol"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "something shaped like an umbrella or a conical hat",
+    "shade (of a lamp)",
+    "mushroom cap",
+    "pileus"
+  ],
+  "category": "noun"
+}

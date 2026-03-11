@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1321900",
+  "japanese": "写真",
+  "kana": "しゃしん",
+  "meanings": [
+    "photograph",
+    "photo",
+    "picture",
+    "photography"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "moving picture",
+    "movie"
+  ],
+  "category": "noun"
+}

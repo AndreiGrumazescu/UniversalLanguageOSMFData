@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1588120",
+  "japanese": "歌う",
+  "kana": "うたう",
+  "meanings": [
+    "to sing"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "to sing of (love, beauty, etc.) in a poem",
+    "to express in the form of a poem",
+    "to recite (a poem)"
+  ],
+  "category": "godan verb"
+}

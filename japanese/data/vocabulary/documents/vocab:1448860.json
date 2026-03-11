@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1448860",
+  "japanese": "当てる",
+  "kana": "あてる",
+  "meanings": [
+    "to hit"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to expose",
+    "to apply (e.g. patch)",
+    "to put on",
+    "to put against",
+    "to hold on",
+    "to hold against",
+    "to allot",
+    "to call on someone (e.g. in class)",
+    "to guess (an answer)",
+    "to make a hit (e.g. in a lottery)"
+  ],
+  "category": "ichidan verb"
+}

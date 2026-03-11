@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1529590",
+  "japanese": "無闇に",
+  "kana": "むやみに",
+  "meanings": [
+    "thoughtlessly",
+    "recklessly",
+    "rashly",
+    "indiscriminately",
+    "indiscreetly",
+    "at random"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "excessively",
+    "unreasonably",
+    "immoderately",
+    "absurdly"
+  ],
+  "category": "adverb"
+}

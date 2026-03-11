@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1129240",
+  "japanese": "ママ",
+  "kana": "ママ",
+  "meanings": [
+    "mom",
+    "mommy",
+    "mum",
+    "mummy",
+    "mother",
+    "mama",
+    "mamma"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "female proprietress (of a bar, etc.)"
+  ],
+  "category": "noun"
+}

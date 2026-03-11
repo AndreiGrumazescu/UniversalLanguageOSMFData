@@ -1,0 +1,29 @@
+{
+  "$id": "vocab:1215230",
+  "japanese": "間",
+  "kana": "あいだ",
+  "meanings": [
+    "space (between)",
+    "gap",
+    "interval",
+    "distance",
+    "stretch"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "period of time (during, while)",
+    "duration",
+    "interval",
+    "between (two parties or things)",
+    "among (a group)",
+    "relations (between)",
+    "relationship",
+    "midpoint",
+    "average",
+    "halfway",
+    "middle ground",
+    "due to",
+    "because of"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1450390",
+  "japanese": "逃げ出す",
+  "kana": "にげだす",
+  "meanings": [
+    "to run away",
+    "to flee",
+    "to make off",
+    "to take to one's heels",
+    "to escape"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to start to run away"
+  ],
+  "category": "godan verb"
+}

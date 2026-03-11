@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1366770",
+  "japanese": "人間",
+  "kana": "にんげん",
+  "meanings": [
+    "human being",
+    "human",
+    "person",
+    "man",
+    "mankind",
+    "humankind"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "character (of a person)"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1604690",
+  "japanese": "見舞い",
+  "kana": "みまい",
+  "meanings": [
+    "visit (to someone affected by illness or misfortune)",
+    "call",
+    "inquiry (about someone's health)",
+    "expression of sympathy"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "letter of inquiry",
+    "letter of sympathy",
+    "get-well letter",
+    "gift (in token of one's sympathy)"
+  ],
+  "category": "noun"
+}

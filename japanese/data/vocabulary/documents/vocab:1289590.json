@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1289590",
+  "japanese": "困る",
+  "kana": "こまる",
+  "meanings": [
+    "to be troubled",
+    "to have difficulty",
+    "to be in a fix",
+    "to be at a loss",
+    "to be stumped",
+    "to be embarrassed"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "to be bothered",
+    "to be inconvenienced",
+    "to be annoyed",
+    "to be badly off",
+    "to be hard up",
+    "to be in straitened circumstances"
+  ],
+  "category": "godan verb"
+}

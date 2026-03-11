@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1502490",
+  "japanese": "物語る",
+  "kana": "ものがたる",
+  "meanings": [
+    "to tell (a story)",
+    "to give an account of (an event, experience, etc.)",
+    "to relate",
+    "to recount"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to tell of",
+    "to show",
+    "to indicate",
+    "to prove",
+    "to attest to"
+  ],
+  "category": "godan verb"
+}

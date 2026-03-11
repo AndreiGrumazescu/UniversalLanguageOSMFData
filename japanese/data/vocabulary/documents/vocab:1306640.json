@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1306640",
+  "japanese": "司会",
+  "kana": "しかい",
+  "meanings": [
+    "leading a meeting",
+    "presiding over a meeting",
+    "officiating at a ceremony",
+    "chairmanship"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "chairman",
+    "presenter",
+    "host",
+    "moderator",
+    "master of ceremonies"
+  ],
+  "category": "noun"
+}

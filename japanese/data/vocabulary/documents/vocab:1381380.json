@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1381380",
+  "japanese": "青",
+  "kana": "あお",
+  "meanings": [
+    "blue",
+    "azure"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "green",
+    "green light (traffic)",
+    "black (horse coat color)",
+    "blue 5-point card",
+    "immature",
+    "unripe",
+    "young"
+  ],
+  "category": "noun"
+}

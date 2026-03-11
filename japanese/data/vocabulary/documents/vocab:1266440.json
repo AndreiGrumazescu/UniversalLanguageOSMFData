@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1266440",
+  "japanese": "呼ぶ",
+  "kana": "よぶ",
+  "meanings": [
+    "to call out (to)",
+    "to call",
+    "to invoke"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "to summon (a doctor, etc.)",
+    "to invite",
+    "to designate",
+    "to name",
+    "to brand",
+    "to garner (support, etc.)",
+    "to gather",
+    "to take as one's wife"
+  ],
+  "category": "godan verb"
+}

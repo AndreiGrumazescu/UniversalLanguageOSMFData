@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1505070",
+  "japanese": "雰囲気",
+  "kana": "ふんいき",
+  "meanings": [
+    "atmosphere",
+    "mood",
+    "ambience",
+    "ambiance",
+    "aura",
+    "feel"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "a certain air",
+    "presence",
+    "special aura",
+    "something (about someone)",
+    "(Earth's) atmosphere"
+  ],
+  "category": "noun"
+}

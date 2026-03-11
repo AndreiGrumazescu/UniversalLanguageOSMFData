@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1324950",
+  "japanese": "主",
+  "kana": "しゅ",
+  "meanings": [
+    "(one's) master",
+    "(one's) employer",
+    "(one's) lord"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "leader (of a country, group, etc.)",
+    "head",
+    "chief",
+    "Lord",
+    "main thing",
+    "chief part",
+    "first consideration",
+    "primary object",
+    "principal aim"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1443840",
+  "japanese": "電話",
+  "kana": "でんわ",
+  "meanings": [
+    "telephone call",
+    "phone call"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "telephone (device)",
+    "phone"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1318610",
+  "japanese": "自分",
+  "kana": "じぶん",
+  "meanings": [
+    "myself",
+    "yourself",
+    "oneself",
+    "himself",
+    "herself"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "I",
+    "me",
+    "you"
+  ],
+  "category": "pronoun"
+}

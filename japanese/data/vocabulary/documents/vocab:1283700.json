@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1283700",
+  "japanese": "高速",
+  "kana": "こうそく",
+  "meanings": [
+    "high-speed",
+    "rapid",
+    "express"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "highway",
+    "freeway",
+    "expressway",
+    "motorway"
+  ],
+  "category": "na-adjective"
+}

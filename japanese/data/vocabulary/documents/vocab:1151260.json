@@ -1,0 +1,30 @@
+{
+  "$id": "vocab:1151260",
+  "japanese": "悪い",
+  "kana": "わるい",
+  "meanings": [
+    "bad",
+    "poor",
+    "undesirable"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "poor (quality)",
+    "inferior",
+    "insufficient",
+    "evil",
+    "sinful",
+    "ugly",
+    "not beautiful",
+    "at fault",
+    "to blame",
+    "in the wrong",
+    "bad (at doing something)",
+    "unprofitable",
+    "unbeneficial",
+    "sorry",
+    "(my) bad",
+    "unforgivable"
+  ],
+  "category": "i-adjective"
+}

@@ -1,0 +1,11 @@
+{
+  "$id": "vocab:1562200",
+  "japanese": "和文",
+  "kana": "わぶん",
+  "meanings": [
+    "Japanese text",
+    "sentence in Japanese"
+  ],
+  "jlptLevel": "N1",
+  "category": "noun"
+}

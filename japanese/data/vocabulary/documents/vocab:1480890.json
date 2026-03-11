@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1480890",
+  "japanese": "反発",
+  "kana": "はんぱつ",
+  "meanings": [
+    "opposition",
+    "rebellion",
+    "revolt",
+    "resistance",
+    "backlash",
+    "refusal"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "rebounding",
+    "recoiling",
+    "repulsion",
+    "rally (e.g. in stock prices)",
+    "recovery"
+  ],
+  "category": "noun"
+}

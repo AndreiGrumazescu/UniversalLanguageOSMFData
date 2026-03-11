@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1535300",
+  "japanese": "目印",
+  "kana": "めじるし",
+  "meanings": [
+    "mark (for quick identification or recognition)",
+    "sign"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "landmark",
+    "guide",
+    "trademark"
+  ],
+  "category": "noun"
+}

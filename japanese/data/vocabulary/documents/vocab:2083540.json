@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:2083540",
+  "japanese": "小",
+  "kana": "しょう",
+  "meanings": [
+    "smallness",
+    "small item"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "short month (i.e. having fewer than 31 days)",
+    "elementary school",
+    "smaller (of two things, places, etc. with the same name)",
+    "inferior",
+    "younger (of two people with the same name)",
+    "junior",
+    "unit of field area (approx. 400 sq m)"
+  ],
+  "category": "noun"
+}

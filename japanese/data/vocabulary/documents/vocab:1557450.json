@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1557450",
+  "japanese": "礼",
+  "kana": "れい",
+  "meanings": [
+    "thanks",
+    "gratitude"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "manners",
+    "etiquette",
+    "bow (i.e. bending of the body)",
+    "bowing",
+    "reward",
+    "gift",
+    "ceremony",
+    "ritual",
+    "key money"
+  ],
+  "category": "noun"
+}

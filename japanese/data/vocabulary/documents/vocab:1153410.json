@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1153410",
+  "japanese": "斡旋",
+  "kana": "あっせん",
+  "meanings": [
+    "good offices",
+    "kind offices",
+    "services",
+    "influence",
+    "recommendation"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "mediation",
+    "intercession",
+    "conciliation",
+    "acting as a go-between"
+  ],
+  "category": "noun"
+}

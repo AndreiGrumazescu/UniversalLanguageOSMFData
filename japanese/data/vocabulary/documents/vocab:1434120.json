@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1434120",
+  "japanese": "釣る",
+  "kana": "つる",
+  "meanings": [
+    "to fish",
+    "to angle",
+    "to catch"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to lure in",
+    "to tempt",
+    "to attract",
+    "to entice",
+    "to allure"
+  ],
+  "category": "godan verb"
+}

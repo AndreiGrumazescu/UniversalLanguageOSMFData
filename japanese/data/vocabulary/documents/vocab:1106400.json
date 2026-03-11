@@ -1,0 +1,13 @@
+{
+  "$id": "vocab:1106400",
+  "japanese": "ピアノ",
+  "kana": "ピアノ",
+  "meanings": [
+    "piano (instrument)"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "piano (dynamic)"
+  ],
+  "category": "noun"
+}

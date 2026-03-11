@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1237820",
+  "japanese": "胸",
+  "kana": "むね",
+  "meanings": [
+    "chest",
+    "breast"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "breasts",
+    "bosom",
+    "bust",
+    "heart",
+    "lungs",
+    "stomach",
+    "heart",
+    "mind",
+    "feelings"
+  ],
+  "category": "noun"
+}

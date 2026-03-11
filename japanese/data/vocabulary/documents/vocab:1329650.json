@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1329650",
+  "japanese": "受け取る",
+  "kana": "うけとる",
+  "meanings": [
+    "to receive",
+    "to get",
+    "to accept"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to take (someone's words or behaviour)",
+    "to interpret",
+    "to understand"
+  ],
+  "category": "godan verb"
+}

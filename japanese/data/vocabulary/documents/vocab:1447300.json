@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1447300",
+  "japanese": "投入",
+  "kana": "とうにゅう",
+  "meanings": [
+    "throwing in",
+    "inserting",
+    "depositing (e.g. a ballot)"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "investment",
+    "commitment (of funds, personnel, etc.)",
+    "injection",
+    "infusion",
+    "launching (a product into the market)",
+    "introduction",
+    "submitting (a job to a computer)",
+    "issuing (a command)"
+  ],
+  "category": "noun"
+}

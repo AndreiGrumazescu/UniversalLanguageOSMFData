@@ -1,0 +1,26 @@
+{
+  "$id": "vocab:1596930",
+  "japanese": "確か",
+  "kana": "たしか",
+  "meanings": [
+    "sure",
+    "certain",
+    "positive",
+    "definite"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "reliable",
+    "trustworthy",
+    "safe",
+    "sound",
+    "firm",
+    "accurate",
+    "correct",
+    "exact",
+    "If I'm not mistaken",
+    "If I remember correctly",
+    "If I remember rightly"
+  ],
+  "category": "na-adjective"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1088830",
+  "japanese": "ドラマ",
+  "kana": "ドラマ",
+  "meanings": [
+    "(non-documentary) television series",
+    "TV drama",
+    "teledrama",
+    "play"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "drama",
+    "dramatic incident",
+    "spectacle",
+    "tragedy"
+  ],
+  "category": "noun"
+}

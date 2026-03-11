@@ -1,0 +1,26 @@
+{
+  "$id": "vocab:1593430",
+  "japanese": "籠もる",
+  "kana": "こもる",
+  "meanings": [
+    "to shut oneself in (e.g. one's room)",
+    "to be confined in",
+    "to seclude oneself",
+    "to hide away",
+    "to stay inside (one's shell)"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to fill with (emotion, enthusiasm, power, etc.)",
+    "to imbue with",
+    "to infuse with",
+    "to fill a space (of a gas, smell, etc.)",
+    "to be heavy with (e.g. smoke)",
+    "to be stuffy",
+    "to be dense",
+    "to be muffled (e.g. voice)",
+    "to hold (a castle, fortress, etc.)",
+    "to confine oneself in a temple to pray"
+  ],
+  "category": "godan verb"
+}

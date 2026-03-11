@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1245280",
+  "japanese": "空",
+  "kana": "から",
+  "meanings": [
+    "emptiness",
+    "being empty"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "not carrying anything",
+    "unburdened",
+    "empty-handed",
+    "dishonoured (bill, promise, etc.)",
+    "false",
+    "no-show (reservation)",
+    "put-on (cheeriness, courage, etc.)",
+    "empty (compliments)",
+    "insincere"
+  ],
+  "category": "noun"
+}

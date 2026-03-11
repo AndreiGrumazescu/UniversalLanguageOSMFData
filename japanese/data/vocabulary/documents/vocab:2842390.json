@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:2842390",
+  "japanese": "私",
+  "kana": "わたくし",
+  "meanings": [
+    "I",
+    "me"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "personal (affairs, etc.)",
+    "private",
+    "selfishness",
+    "partiality",
+    "secrecy",
+    "confidentiality"
+  ],
+  "category": "pronoun"
+}

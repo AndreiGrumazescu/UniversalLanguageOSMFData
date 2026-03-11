@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1003410",
+  "japanese": "きっかり",
+  "kana": "きっかり",
+  "meanings": [
+    "exactly",
+    "just",
+    "precisely"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "punctually",
+    "exactly on time"
+  ],
+  "category": "adverb"
+}

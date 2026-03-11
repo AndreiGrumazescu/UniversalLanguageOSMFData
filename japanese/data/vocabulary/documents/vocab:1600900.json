@@ -1,0 +1,28 @@
+{
+  "$id": "vocab:1600900",
+  "japanese": "話",
+  "kana": "はなし",
+  "meanings": [
+    "talk",
+    "speech",
+    "chat",
+    "conversation"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "topic",
+    "subject",
+    "discussions",
+    "negotiation",
+    "argument",
+    "rumor",
+    "talk",
+    "hearsay",
+    "tale",
+    "story",
+    "fable",
+    "circumstances",
+    "particulars"
+  ],
+  "category": "noun"
+}

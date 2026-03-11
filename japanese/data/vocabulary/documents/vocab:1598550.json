@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1598550",
+  "japanese": "出かける",
+  "kana": "でかける",
+  "meanings": [
+    "to go out (e.g. on an excursion or outing)",
+    "to leave",
+    "to depart",
+    "to start",
+    "to set out"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "to be about to leave",
+    "to be just going out"
+  ],
+  "category": "ichidan verb"
+}

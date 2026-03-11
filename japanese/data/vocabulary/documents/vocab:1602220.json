@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1602220",
+  "japanese": "日焼け",
+  "kana": "ひやけ",
+  "meanings": [
+    "sunburn",
+    "suntan",
+    "tan"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "becoming discolored from the sun (e.g. of paper)",
+    "yellowing",
+    "drying up (of a river, field, etc.)"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1610160",
+  "japanese": "対する",
+  "kana": "たいする",
+  "meanings": [
+    "to face (each other)",
+    "to be facing"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to be directed toward (the future, etc.)",
+    "to be in response to",
+    "to be related to",
+    "to receive (a client, etc.)",
+    "to compare with",
+    "to contrast with",
+    "to be in opposition with",
+    "to be opposed to",
+    "to confront",
+    "to oppose",
+    "to compete with"
+  ],
+  "category": "suru verb"
+}

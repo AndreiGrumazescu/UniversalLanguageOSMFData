@@ -1,0 +1,27 @@
+{
+  "$id": "vocab:1512130",
+  "japanese": "返す",
+  "kana": "かえす",
+  "meanings": [
+    "to return (something)",
+    "to restore",
+    "to put back"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "to turn over",
+    "to turn upside down",
+    "to overturn",
+    "to pay back",
+    "to retaliate",
+    "to reciprocate",
+    "to respond (with)",
+    "to retort",
+    "to reply",
+    "to say back",
+    "to do ... back (e.g. speak back, throw back)",
+    "to do again",
+    "to do repeatedly"
+  ],
+  "category": "godan verb"
+}

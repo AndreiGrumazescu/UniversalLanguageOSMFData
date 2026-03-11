@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1317170",
+  "japanese": "耳",
+  "kana": "みみ",
+  "meanings": [
+    "ear"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "hearing",
+    "ear (for music, etc.)",
+    "edge",
+    "crust",
+    "heel (of bread or cheese)",
+    "selvedge (of woven fabric)",
+    "selvage",
+    "ear (of a pot, jug, etc.)",
+    "handle"
+  ],
+  "category": "noun"
+}

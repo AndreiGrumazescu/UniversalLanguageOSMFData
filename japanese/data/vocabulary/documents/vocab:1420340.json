@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1420340",
+  "japanese": "値打ち",
+  "kana": "ねうち",
+  "meanings": [
+    "value",
+    "worth",
+    "merit"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "estimation",
+    "evaluation",
+    "appraisal",
+    "bargain",
+    "good buy",
+    "(good) value for one's money"
+  ],
+  "category": "noun"
+}

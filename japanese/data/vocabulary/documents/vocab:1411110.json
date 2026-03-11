@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1411110",
+  "japanese": "貸し",
+  "kana": "かし",
+  "meanings": [
+    "loan",
+    "lending",
+    "hire",
+    "rental",
+    "lease"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "favor",
+    "favour",
+    "debt",
+    "obligation",
+    "creditor",
+    "method of lending",
+    "credit side"
+  ],
+  "category": "noun"
+}

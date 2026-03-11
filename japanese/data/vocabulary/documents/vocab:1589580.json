@@ -1,0 +1,40 @@
+{
+  "$id": "vocab:1589580",
+  "japanese": "下ろす",
+  "kana": "おろす",
+  "meanings": [
+    "to take down",
+    "to bring down",
+    "to lower (a hand, flag, shutter, etc.)",
+    "to drop (an anchor, curtain, etc.)",
+    "to let down (hair)",
+    "to launch (a boat)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to drop off (a passenger)",
+    "to let off",
+    "to unload (goods, a truck, etc.)",
+    "to offload",
+    "to discharge",
+    "to withdraw (money)",
+    "to use for the first time",
+    "to wear for the first time",
+    "to cut off",
+    "to fillet (fish)",
+    "to grate (e.g. radish)",
+    "to prune (branches)",
+    "to remove (someone from a position)",
+    "to oust",
+    "to drop",
+    "to clear (the table)",
+    "to remove (offerings from an altar)",
+    "to pass down (e.g. old clothes)",
+    "to hand down",
+    "to expel from the body (e.g. worms)",
+    "to abort (a fetus)",
+    "to invoke (a spirit)",
+    "to call down"
+  ],
+  "category": "godan verb"
+}

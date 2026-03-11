@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1007310",
+  "japanese": "だから",
+  "kana": "だから",
+  "meanings": [
+    "so",
+    "therefore",
+    "accordingly",
+    "consequently",
+    "on those grounds",
+    "that is why",
+    "for that reason"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "like I said",
+    "I told you already"
+  ],
+  "category": "conjunction"
+}

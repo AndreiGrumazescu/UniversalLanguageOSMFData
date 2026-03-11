@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1330280",
+  "japanese": "授ける",
+  "kana": "さずける",
+  "meanings": [
+    "to grant",
+    "to give",
+    "to confer",
+    "to award"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to teach",
+    "to instruct",
+    "to impart (knowledge)"
+  ],
+  "category": "ichidan verb"
+}

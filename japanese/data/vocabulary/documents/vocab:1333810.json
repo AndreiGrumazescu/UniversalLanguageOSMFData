@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1333810",
+  "japanese": "醜い",
+  "kana": "みにくい",
+  "meanings": [
+    "ugly",
+    "unattractive",
+    "bad-looking"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "unsightly",
+    "unseemly",
+    "disgraceful",
+    "shameful",
+    "dishonorable"
+  ],
+  "category": "i-adjective"
+}

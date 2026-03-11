@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1410920",
+  "japanese": "滞る",
+  "kana": "とどこおる",
+  "meanings": [
+    "to stagnate",
+    "to be delayed",
+    "to be left undone"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to be overdue (of a payment)",
+    "to fall into arrears",
+    "to be outstanding"
+  ],
+  "category": "godan verb"
+}

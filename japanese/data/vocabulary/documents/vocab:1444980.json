@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1444980",
+  "japanese": "都合",
+  "kana": "つごう",
+  "meanings": [
+    "circumstances",
+    "condition",
+    "convenience"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "arranging",
+    "managing",
+    "lending money",
+    "raising money",
+    "in all",
+    "in total",
+    "all told"
+  ],
+  "category": "noun"
+}

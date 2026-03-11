@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1476450",
+  "japanese": "肌",
+  "kana": "はだ",
+  "meanings": [
+    "skin"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "body (in the context of intimate bodily contact)",
+    "surface",
+    "grain (e.g. of wood)",
+    "texture",
+    "disposition",
+    "temperament",
+    "character",
+    "type"
+  ],
+  "category": "noun"
+}

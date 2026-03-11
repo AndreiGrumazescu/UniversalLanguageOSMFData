@@ -1,0 +1,26 @@
+{
+  "$id": "vocab:1433570",
+  "japanese": "通用",
+  "kana": "つうよう",
+  "meanings": [
+    "(common) use (of a language, currency, etc.)",
+    "current use",
+    "circulation",
+    "currency",
+    "validity (e.g. of a ticket)"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to be accepted (e.g. of a way of thinking)",
+    "to work (of an excuse, trick, etc.)",
+    "to hold true (e.g. of a theory)",
+    "to apply",
+    "to be valid",
+    "to pass (for)",
+    "to do well",
+    "to get by",
+    "going in and out",
+    "entrance and exit"
+  ],
+  "category": "noun"
+}

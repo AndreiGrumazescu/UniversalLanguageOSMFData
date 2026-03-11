@@ -1,0 +1,14 @@
+{
+  "$id": "vocab:1469970",
+  "japanese": "濃度",
+  "kana": "のうど",
+  "meanings": [
+    "concentration",
+    "density"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "cardinality"
+  ],
+  "category": "noun"
+}

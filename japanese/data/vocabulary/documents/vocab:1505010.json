@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1505010",
+  "japanese": "紛れる",
+  "kana": "まぎれる",
+  "meanings": [
+    "to disappear into",
+    "to be lost in",
+    "to slip into",
+    "to get mixed in among"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to do something under the cover of (confusion, etc.)",
+    "to be almost indistinguishable",
+    "to be confusingly similar",
+    "to be diverted from (negative emotions, etc.)",
+    "to forget about",
+    "to be distracted by",
+    "to be too absorbed in"
+  ],
+  "category": "ichidan verb"
+}

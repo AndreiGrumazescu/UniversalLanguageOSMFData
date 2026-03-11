@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1516310",
+  "japanese": "抱える",
+  "kana": "かかえる",
+  "meanings": [
+    "to hold in one's arms",
+    "to carry in one's arms",
+    "to carry under one's arm",
+    "to hold (one's head) in one's hands"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to have (problems, debts, etc.)",
+    "to take on (a responsibility)",
+    "to be burdened with (e.g. care of a family member)",
+    "to have (children, etc.) to provide for",
+    "to employ",
+    "to have (on one's staff)",
+    "to hire"
+  ],
+  "category": "ichidan verb"
+}

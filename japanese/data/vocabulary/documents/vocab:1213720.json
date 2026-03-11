@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1213720",
+  "japanese": "監督",
+  "kana": "かんとく",
+  "meanings": [
+    "supervision",
+    "control",
+    "superintendence",
+    "direction"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "director",
+    "superintendent",
+    "supervisor",
+    "coach",
+    "foreman",
+    "manager",
+    "overseer",
+    "controller",
+    "boss"
+  ],
+  "category": "noun"
+}

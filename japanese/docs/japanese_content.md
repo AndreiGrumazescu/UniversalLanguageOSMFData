@@ -11,7 +11,7 @@ Documentation for the Japanese language content in Universal Language, structure
 | Grapheme | `data/grapheme/japanese-grapheme.schema.json` | `data/grapheme/documents/` | Populated |
 | Kanji | `data/kanji/japanese-kanji.schema.json` | `data/kanji/documents/` | Populated |
 | Kana | `data/kana/japanese-kana.schema.json` | `data/kana/documents/` | Populated |
-| Vocabulary | `data/vocabulary/japanese-vocabulary.schema.json` | `data/vocabulary/documents/` | Schema only |
+| Vocabulary | `data/vocabulary/japanese-vocabulary.schema.json` | `data/vocabulary/documents/` | Populated |
 | Phrase | `data/phrase/japanese-phrase.schema.json` | `data/phrase/documents/` | Schema only |
 | Grammar | `data/grammar/japanese-grammar.schema.json` | `data/grammar/documents/` | Schema only |
 
@@ -50,6 +50,35 @@ The kana set includes:
   "unicode": "U+3042",
   "type": "hiragana",
   "romaji": "a"
+}
+```
+
+---
+
+## Vocabulary
+
+### Concept
+
+Vocabulary entries represent Japanese words graded by JLPT level (N5–N1). Each entry includes the written form (kanji/kana mix), the kana reading, English meanings split into primary and secondary, and a part-of-speech category.
+
+Words are sourced from JMdict (the canonical Japanese-English dictionary) and filtered to only include entries that appear in JLPT word lists. Kanji characters in the written form are NFKC_PLUS normalized for compatibility with the existing kanji and grapheme data.
+
+No learning order is defined for vocabulary — the app uses JLPT level filtering for practice mode gating.
+
+### Model & Document Format
+
+**Model:** `data/vocabulary/japanese-vocabulary.schema.json`
+
+**Example document:**
+```json
+{
+  "$id": "vocab:1358280",
+  "japanese": "食べる",
+  "kana": "たべる",
+  "meanings": ["to eat"],
+  "secondaryMeanings": ["to live on (e.g. a salary)", "to live off", "to subsist on"],
+  "category": "ichidan verb",
+  "jlptLevel": "N5"
 }
 ```
 
@@ -283,6 +312,7 @@ Scripts for generating, analyzing, and maintaining Japanese content are located 
 | `generators/kanji_grapheme_dependency_generator.py` | Kanji-to-grapheme dependency relational documents |
 | `generators/learning_order_generator.py` | Grapheme learning order document |
 | `generators/kanji_learning_order_generator.py` | Kanji learning order document |
+| `generators/vocabulary_generator.py` | Vocabulary data documents (from JMdict + JLPT word lists) |
 
 ### Analyzers
 
@@ -302,6 +332,8 @@ Scripts for generating, analyzing, and maintaining Japanese content are located 
 | `lib/paths.py` | Path configuration for all data, source, and output directories |
 | `adapters/component_analysis.py` | CHISE IDS and KanjiVG decomposition logic |
 | `adapters/kanjidic.py` | kanjidic2 dataset parsing |
+| `adapters/jmdict.py` | JMdict XML dictionary parsing |
+| `adapters/jlpt.py` | JLPT word list parsing |
 
 ---
 
@@ -311,3 +343,5 @@ Scripts for generating, analyzing, and maintaining Japanese content are located 
 - **KanjiVG** — Fallback decomposition data ([kanjivg.tagaini.net](http://kanjivg.tagaini.net/)) — CC BY-SA 3.0
 - **Unihan** — Unicode Han Database ([unicode.org](https://www.unicode.org/charts/unihan.html))
 - **kanjidic2** — Kanji dictionary with stroke counts and readings
+- **JMdict** — Japanese-English dictionary ([edrdg.org](https://www.edrdg.org/wiki/index.php/JMdict-EDICT_Dictionary_Project)) — CC BY-SA 4.0
+- **JLPT word lists** — Community-curated vocabulary lists graded by JLPT level (N5–N1)

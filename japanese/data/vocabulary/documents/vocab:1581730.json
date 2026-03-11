@@ -1,0 +1,25 @@
+{
+  "$id": "vocab:1581730",
+  "japanese": "注ぐ",
+  "kana": "そそぐ",
+  "meanings": [
+    "to pour (into)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to sprinkle on (from above)",
+    "to water (e.g. plants)",
+    "to pour onto",
+    "to spray",
+    "to shed (tears)",
+    "to concentrate one's energy (strength, attention, etc.) on",
+    "to devote to",
+    "to fix (one's eyes) on",
+    "to flow into (e.g. of a river)",
+    "to run into",
+    "to drain into",
+    "to fall (of rain, snow)",
+    "to pour down"
+  ],
+  "category": "godan verb"
+}

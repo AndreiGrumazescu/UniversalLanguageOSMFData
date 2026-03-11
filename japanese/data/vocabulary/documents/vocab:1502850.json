@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1502850",
+  "japanese": "分",
+  "kana": "ぶ",
+  "meanings": [
+    "one-tenth",
+    "one percent (one-tenth of a wari)",
+    "3 mm (one-tenth of a sun)",
+    "2.4 mm (one-tenth of a mon, a traditional unit used to measure shoe sizes)",
+    "0.1 degree (one-tenth of a do, used to measure body temperature on any temperature scale)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "one-quarter of a ryō (obsolete unit of currency)",
+    "thickness",
+    "advantageous circumstances",
+    "one-tenth of a monme of silver"
+  ],
+  "category": "numeric"
+}

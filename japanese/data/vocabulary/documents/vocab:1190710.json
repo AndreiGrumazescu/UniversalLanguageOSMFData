@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1190710",
+  "japanese": "可",
+  "kana": "か",
+  "meanings": [
+    "acceptable",
+    "satisfactory",
+    "allowed",
+    "permitted"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "approval",
+    "being in favour",
+    "(a) vote in favour",
+    "aye",
+    "Pass (grade)",
+    "Fair",
+    "C",
+    "D"
+  ],
+  "category": "noun"
+}

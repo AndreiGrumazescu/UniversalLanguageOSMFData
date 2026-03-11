@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1331840",
+  "japanese": "州",
+  "kana": "しゅう",
+  "meanings": [
+    "state (of the US, Australia, India, Germany, etc.)",
+    "province (e.g. of Canada)",
+    "county (e.g. of the UK)",
+    "region (e.g. of Italy)",
+    "canton",
+    "oblast"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "continent",
+    "province (of Japan)",
+    "province (of ancient China)",
+    "prefecture",
+    "department",
+    "dear"
+  ],
+  "category": "noun"
+}

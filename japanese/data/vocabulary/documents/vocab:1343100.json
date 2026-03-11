@@ -1,0 +1,41 @@
+{
+  "$id": "vocab:1343100",
+  "japanese": "所",
+  "kana": "ところ",
+  "meanings": [
+    "place",
+    "spot",
+    "scene",
+    "site"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "address",
+    "district",
+    "area",
+    "locality",
+    "one's house",
+    "point",
+    "aspect",
+    "side",
+    "facet",
+    "passage (in text)",
+    "part",
+    "space",
+    "room",
+    "thing",
+    "matter",
+    "whereupon",
+    "as a result",
+    "about to",
+    "on the verge of",
+    "was just doing",
+    "was in the process of doing",
+    "have just done",
+    "just finished doing",
+    "approximately",
+    "around",
+    "about"
+  ],
+  "category": "noun"
+}

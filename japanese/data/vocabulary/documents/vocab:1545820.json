@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1545820",
+  "japanese": "様子",
+  "kana": "ようす",
+  "meanings": [
+    "state (of affairs)",
+    "situation",
+    "circumstances"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "appearance",
+    "look(s)",
+    "air",
+    "manner",
+    "behaviour",
+    "demeanor",
+    "sign",
+    "indication"
+  ],
+  "category": "noun"
+}

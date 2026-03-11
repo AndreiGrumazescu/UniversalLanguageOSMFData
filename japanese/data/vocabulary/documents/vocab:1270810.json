@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1270810",
+  "japanese": "お礼",
+  "kana": "おれい",
+  "meanings": [
+    "thanks",
+    "gratitude"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "manners",
+    "etiquette",
+    "bow",
+    "reward",
+    "gift",
+    "ceremony",
+    "ritual"
+  ],
+  "category": "noun"
+}

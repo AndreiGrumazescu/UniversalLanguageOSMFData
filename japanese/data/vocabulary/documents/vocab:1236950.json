@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1236950",
+  "japanese": "教育",
+  "kana": "きょういく",
+  "meanings": [
+    "education",
+    "schooling",
+    "training",
+    "instruction",
+    "teaching",
+    "upbringing"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "culture",
+    "cultivation",
+    "education"
+  ],
+  "category": "noun"
+}

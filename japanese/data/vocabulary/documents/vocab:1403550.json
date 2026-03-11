@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1403550",
+  "japanese": "贈る",
+  "kana": "おくる",
+  "meanings": [
+    "to give (as a gift)",
+    "to present"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to confer",
+    "to bestow",
+    "to award"
+  ],
+  "category": "godan verb"
+}

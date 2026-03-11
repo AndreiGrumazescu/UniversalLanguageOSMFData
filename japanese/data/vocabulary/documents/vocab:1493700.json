@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1493700",
+  "japanese": "不足",
+  "kana": "ふそく",
+  "meanings": [
+    "insufficiency",
+    "deficiency",
+    "shortage",
+    "lack",
+    "scarcity",
+    "deficit"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "dissatisfaction",
+    "discontent",
+    "complaint"
+  ],
+  "category": "noun"
+}

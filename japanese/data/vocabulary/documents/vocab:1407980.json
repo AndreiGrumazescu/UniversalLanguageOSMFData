@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1407980",
+  "japanese": "多分",
+  "kana": "たぶん",
+  "meanings": [
+    "probably",
+    "likely",
+    "perhaps",
+    "maybe"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "a lot of",
+    "much",
+    "many",
+    "considerable",
+    "large (amount)",
+    "generous"
+  ],
+  "category": "adverb"
+}

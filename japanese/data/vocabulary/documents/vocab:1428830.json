@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1428830",
+  "japanese": "眺める",
+  "kana": "ながめる",
+  "meanings": [
+    "to look at",
+    "to gaze at",
+    "to watch",
+    "to stare at"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to look out over",
+    "to get a view of",
+    "to admire (e.g. the scenery)",
+    "to look on (from the sidelines)",
+    "to stand by and watch",
+    "to observe"
+  ],
+  "category": "ichidan verb"
+}

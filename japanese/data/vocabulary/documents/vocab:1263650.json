@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1263650",
+  "japanese": "現在",
+  "kana": "げんざい",
+  "meanings": [
+    "the present",
+    "present time",
+    "now"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "as of",
+    "present tense",
+    "this world",
+    "this life",
+    "to actually exist",
+    "to exist right now",
+    "to exist right in front of one"
+  ],
+  "category": "noun"
+}

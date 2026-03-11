@@ -1,0 +1,29 @@
+{
+  "$id": "vocab:1450270",
+  "japanese": "踏む",
+  "kana": "ふむ",
+  "meanings": [
+    "to step on",
+    "to tread on",
+    "to trample on"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to set foot on (e.g. foreign soil)",
+    "to stand on",
+    "to visit",
+    "to experience",
+    "to undergo",
+    "to follow (rules, principles, etc.)",
+    "to go through (e.g. formalities)",
+    "to complete",
+    "to estimate",
+    "to guess",
+    "to judge",
+    "to value",
+    "to appraise",
+    "to rhyme",
+    "to succeed to (e.g. the throne)"
+  ],
+  "category": "godan verb"
+}

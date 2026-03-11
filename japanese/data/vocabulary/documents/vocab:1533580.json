@@ -1,0 +1,28 @@
+{
+  "$id": "vocab:1533580",
+  "japanese": "面白い",
+  "kana": "おもしろい",
+  "meanings": [
+    "interesting",
+    "fascinating",
+    "intriguing",
+    "enthralling"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "amusing",
+    "funny",
+    "comical",
+    "enjoyable",
+    "fun",
+    "entertaining",
+    "pleasant",
+    "agreeable",
+    "good",
+    "satisfactory",
+    "favourable",
+    "desirable",
+    "encouraging"
+  ],
+  "category": "i-adjective"
+}

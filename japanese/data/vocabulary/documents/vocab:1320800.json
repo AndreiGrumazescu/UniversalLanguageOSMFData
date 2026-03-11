@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1320800",
+  "japanese": "実",
+  "kana": "じつ",
+  "meanings": [
+    "truth",
+    "reality"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "sincerity",
+    "honesty",
+    "fidelity",
+    "content",
+    "substance",
+    "(good) result"
+  ],
+  "category": "noun"
+}

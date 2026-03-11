@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1206360",
+  "japanese": "隔てる",
+  "kana": "へだてる",
+  "meanings": [
+    "to separate (by distance, time, etc.)",
+    "to isolate",
+    "to partition",
+    "to divide"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to interpose",
+    "to have between",
+    "to alienate",
+    "to estrange"
+  ],
+  "category": "ichidan verb"
+}

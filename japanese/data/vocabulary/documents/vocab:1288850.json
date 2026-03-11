@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1288850",
+  "japanese": "今",
+  "kana": "いま",
+  "meanings": [
+    "now",
+    "the present time",
+    "just now",
+    "soon",
+    "immediately"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "another",
+    "more"
+  ],
+  "category": "noun"
+}

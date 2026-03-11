@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1492350",
+  "japanese": "不幸",
+  "kana": "ふこう",
+  "meanings": [
+    "unhappiness",
+    "sorrow",
+    "misfortune",
+    "disaster",
+    "accident"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "death (usu. of a relative)",
+    "bereavement"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1017330",
+  "japanese": "アナウンサー",
+  "kana": "アナウンサー",
+  "meanings": [
+    "announcer",
+    "presenter",
+    "broadcaster",
+    "reporter"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "in-house television talent who does on-location fluff pieces for variety shows"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1660100",
+  "japanese": "お昼",
+  "kana": "おひる",
+  "meanings": [
+    "lunch"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "noon",
+    "midday",
+    "daytime",
+    "waking up",
+    "getting up",
+    "rising"
+  ],
+  "category": "noun"
+}

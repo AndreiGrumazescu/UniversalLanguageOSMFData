@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1529390",
+  "japanese": "眠る",
+  "kana": "ねむる",
+  "meanings": [
+    "to sleep"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to die",
+    "to rest (in peace)",
+    "to lie (buried)",
+    "to sleep (in the grave)",
+    "to lie idle (e.g. of resources)",
+    "to lie unused",
+    "to lie untapped",
+    "to lie untouched",
+    "to close one's eyes"
+  ],
+  "category": "godan verb"
+}

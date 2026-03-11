@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1261080",
+  "japanese": "元来",
+  "kana": "がんらい",
+  "meanings": [
+    "originally",
+    "essentially",
+    "naturally",
+    "by nature",
+    "really",
+    "actually"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "in the first place",
+    "to begin with"
+  ],
+  "category": "adverb"
+}

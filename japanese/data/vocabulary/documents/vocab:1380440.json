@@ -1,0 +1,26 @@
+{
+  "$id": "vocab:1380440",
+  "japanese": "声",
+  "kana": "こえ",
+  "meanings": [
+    "voice"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "singing (of a bird)",
+    "chirping (of an insect)",
+    "hoot",
+    "voice",
+    "opinion (as expressed in words)",
+    "view",
+    "wish",
+    "attitude",
+    "will",
+    "sound",
+    "sense (of something's arrival)",
+    "feeling",
+    "voice",
+    "voiced sound"
+  ],
+  "category": "noun"
+}

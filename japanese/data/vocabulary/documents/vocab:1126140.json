@@ -1,0 +1,29 @@
+{
+  "$id": "vocab:1126140",
+  "japanese": "マーク",
+  "kana": "マーク",
+  "meanings": [
+    "mark",
+    "sign",
+    "symbol",
+    "emblem",
+    "logo",
+    "label",
+    "brand"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to mark",
+    "to put a mark on",
+    "trademark",
+    "paying attention to",
+    "keeping one's eye on",
+    "watching",
+    "marking (a player)",
+    "guarding",
+    "setting (a record)",
+    "posting",
+    "recording"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1472990",
+  "japanese": "配る",
+  "kana": "くばる",
+  "meanings": [
+    "to distribute",
+    "to hand out",
+    "to deliver",
+    "to deal out",
+    "to serve out"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to allot",
+    "to allocate",
+    "to place (staff, soldiers, etc.)",
+    "to station"
+  ],
+  "category": "godan verb"
+}

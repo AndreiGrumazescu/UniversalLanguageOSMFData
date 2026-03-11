@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1577270",
+  "japanese": "台詞",
+  "kana": "せりふ",
+  "meanings": [
+    "(spoken) line (in a play, film, comic, etc.)",
+    "one's lines"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "comment",
+    "remark",
+    "phrase",
+    "words",
+    "stock phrase",
+    "set phrase",
+    "cliché",
+    "platitude"
+  ],
+  "category": "noun"
+}

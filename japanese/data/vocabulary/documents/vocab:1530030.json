@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1530030",
+  "japanese": "無事",
+  "kana": "ぶじ",
+  "meanings": [
+    "safety",
+    "security",
+    "peace",
+    "quiet"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "safely",
+    "without incident",
+    "successfully",
+    "good health",
+    "inaction",
+    "ennui"
+  ],
+  "category": "noun"
+}

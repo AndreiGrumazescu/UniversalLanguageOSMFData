@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1321790",
+  "japanese": "写し",
+  "kana": "うつし",
+  "meanings": [
+    "copy",
+    "duplicate",
+    "facsimile",
+    "transcript"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "cc (on e-mails)",
+    "carbon copy"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,25 @@
+{
+  "$id": "vocab:1538900",
+  "japanese": "只",
+  "kana": "ただ",
+  "meanings": [
+    "ordinary",
+    "common",
+    "usual"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "free of charge",
+    "unaffected",
+    "as is",
+    "safe",
+    "only",
+    "merely",
+    "just",
+    "simply",
+    "but",
+    "however",
+    "nevertheless"
+  ],
+  "category": "noun"
+}

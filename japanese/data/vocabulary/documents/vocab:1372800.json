@@ -1,0 +1,25 @@
+{
+  "$id": "vocab:1372800",
+  "japanese": "随分",
+  "kana": "ずいぶん",
+  "meanings": [
+    "very",
+    "extremely",
+    "surprisingly",
+    "fairly",
+    "quite",
+    "considerably",
+    "awfully",
+    "terribly"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "terrible",
+    "horrid",
+    "contemptible",
+    "reprehensible",
+    "remarkable",
+    "extraordinary"
+  ],
+  "category": "adverb"
+}

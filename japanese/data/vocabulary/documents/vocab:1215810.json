@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1215810",
+  "japanese": "関係",
+  "kana": "かんけい",
+  "meanings": [
+    "relation",
+    "relationship",
+    "connection"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "participation",
+    "involvement",
+    "concern",
+    "influence",
+    "effect",
+    "sexual relations",
+    "sexual relationship",
+    "related to",
+    "connected to"
+  ],
+  "category": "noun"
+}

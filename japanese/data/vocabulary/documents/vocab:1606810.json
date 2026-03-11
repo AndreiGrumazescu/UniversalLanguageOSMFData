@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1606810",
+  "japanese": "割合",
+  "kana": "わりあい",
+  "meanings": [
+    "rate",
+    "ratio",
+    "percentage",
+    "proportion"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "comparatively",
+    "contrary to expectations"
+  ],
+  "category": "noun"
+}

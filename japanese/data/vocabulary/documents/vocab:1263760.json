@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1263760",
+  "japanese": "現場",
+  "kana": "げんば",
+  "meanings": [
+    "actual spot",
+    "scene (of a crime, accident, etc.)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "(on) site",
+    "(on) the ground",
+    "(in) the field",
+    "job site",
+    "filming location",
+    "(movie) set"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1323500",
+  "japanese": "邪魔",
+  "kana": "じゃま",
+  "meanings": [
+    "hindrance",
+    "obstacle",
+    "nuisance",
+    "disturbance",
+    "interruption",
+    "interference"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to visit (someone's home)",
+    "demon who hinders Buddhist training",
+    "demon who obstructs sentient beings from maintaining moral behaviour"
+  ],
+  "category": "noun"
+}

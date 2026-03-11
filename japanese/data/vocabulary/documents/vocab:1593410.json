@@ -1,0 +1,25 @@
+{
+  "$id": "vocab:1593410",
+  "japanese": "込む",
+  "kana": "こむ",
+  "meanings": [
+    "to be crowded",
+    "to be packed",
+    "to be congested",
+    "to be thronged (with)"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to be complex",
+    "to be intricate",
+    "to go into",
+    "to go in",
+    "to put into",
+    "to become (completely)",
+    "to do thoroughly",
+    "to do sufficiently",
+    "to remain (silent, seated, etc.)",
+    "to stay ..."
+  ],
+  "category": "godan verb"
+}

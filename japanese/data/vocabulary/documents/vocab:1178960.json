@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1178960",
+  "japanese": "汚す",
+  "kana": "よごす",
+  "meanings": [
+    "to pollute",
+    "to contaminate",
+    "to soil",
+    "to make dirty",
+    "to stain"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to disgrace",
+    "to dishonour",
+    "to dishonor",
+    "to defile"
+  ],
+  "category": "godan verb"
+}

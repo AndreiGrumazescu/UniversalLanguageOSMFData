@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1290390",
+  "japanese": "混雑",
+  "kana": "こんざつ",
+  "meanings": [
+    "congestion",
+    "crush",
+    "crowding",
+    "jam"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "confusion",
+    "disorder"
+  ],
+  "category": "noun"
+}

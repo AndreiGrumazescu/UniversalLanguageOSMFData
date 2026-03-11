@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1253180",
+  "japanese": "迎え",
+  "kana": "むかえ",
+  "meanings": [
+    "meeting",
+    "greeting",
+    "welcome"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "person sent to meet a visitor"
+  ],
+  "category": "noun"
+}

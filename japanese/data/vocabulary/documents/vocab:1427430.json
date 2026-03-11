@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1427430",
+  "japanese": "兆",
+  "kana": "ちょう",
+  "meanings": [
+    "10^12",
+    "1,000,000,000,000",
+    "trillion"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "sign",
+    "omen",
+    "indication",
+    "portent"
+  ],
+  "category": "numeric"
+}

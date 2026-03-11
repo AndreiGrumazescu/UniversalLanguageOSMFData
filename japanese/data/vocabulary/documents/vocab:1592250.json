@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1592250",
+  "japanese": "国",
+  "kana": "くに",
+  "meanings": [
+    "country",
+    "state"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "region",
+    "national government",
+    "central government",
+    "home (i.e. hometown, home country)",
+    "province (of Japan)",
+    "land",
+    "earth"
+  ],
+  "category": "noun"
+}

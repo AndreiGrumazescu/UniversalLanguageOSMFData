@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1205180",
+  "japanese": "拡散",
+  "kana": "かくさん",
+  "meanings": [
+    "spreading",
+    "disseminating",
+    "scattering"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "diffusion (of light, gas)"
+  ],
+  "category": "noun"
+}

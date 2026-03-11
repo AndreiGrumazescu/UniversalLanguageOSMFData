@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1593670",
+  "japanese": "探す",
+  "kana": "さがす",
+  "meanings": [
+    "to search for",
+    "to look for",
+    "to hunt for",
+    "to seek"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to search (a house, pocket, etc.)",
+    "to search through",
+    "to rummage in (e.g. a drawer)",
+    "to fish around"
+  ],
+  "category": "godan verb"
+}

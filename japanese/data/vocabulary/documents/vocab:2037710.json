@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:2037710",
+  "japanese": "苦",
+  "kana": "く",
+  "meanings": [
+    "pain",
+    "anguish",
+    "suffering",
+    "distress",
+    "anxiety",
+    "worry",
+    "trouble",
+    "difficulty",
+    "hardship"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "duhkha (suffering)"
+  ],
+  "category": "noun"
+}

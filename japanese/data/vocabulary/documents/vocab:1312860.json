@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1312860",
+  "japanese": "賜る",
+  "kana": "たまわる",
+  "meanings": [
+    "to be given",
+    "to be granted",
+    "to be honored with",
+    "to be honoured with"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to give",
+    "to bestow",
+    "to confer",
+    "to honor",
+    "to honour"
+  ],
+  "category": "godan verb"
+}

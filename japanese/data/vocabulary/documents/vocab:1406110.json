@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1406110",
+  "japanese": "揃う",
+  "kana": "そろう",
+  "meanings": [
+    "to be complete",
+    "to be all present",
+    "to make a full set",
+    "to be satisfied (of conditions)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to be equal",
+    "to be uniform",
+    "to be even",
+    "to match",
+    "to agree",
+    "to gather",
+    "to assemble",
+    "to be collected"
+  ],
+  "category": "godan verb"
+}

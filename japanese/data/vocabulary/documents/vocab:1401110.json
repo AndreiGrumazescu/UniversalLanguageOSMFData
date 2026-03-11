@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1401110",
+  "japanese": "相対",
+  "kana": "そうたい",
+  "meanings": [
+    "relativity"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "relative",
+    "facing (e.g. a problem)",
+    "confronting"
+  ],
+  "category": "noun"
+}

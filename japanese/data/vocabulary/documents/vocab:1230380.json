@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1230380",
+  "japanese": "旧",
+  "kana": "きゅう",
+  "meanings": [
+    "old",
+    "former",
+    "ex-"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "the old",
+    "old things",
+    "old customs",
+    "old times",
+    "bygone days",
+    "Japan's old (lunisolar) calendar"
+  ],
+  "category": "prefix"
+}

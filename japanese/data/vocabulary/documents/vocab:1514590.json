@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1514590",
+  "japanese": "補助",
+  "kana": "ほじょ",
+  "meanings": [
+    "assistance",
+    "support",
+    "help",
+    "aid"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "subsidy",
+    "supplement",
+    "subvention",
+    "grant-in-aid",
+    "spotting (in weight training)"
+  ],
+  "category": "noun"
+}

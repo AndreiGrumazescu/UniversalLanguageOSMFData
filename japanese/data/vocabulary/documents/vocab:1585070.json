@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1585070",
+  "japanese": "落ち葉",
+  "kana": "おちば",
+  "meanings": [
+    "fallen leaves",
+    "leaf litter",
+    "falling leaves"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "leaf fall",
+    "dropping leaves",
+    "defoliation",
+    "deciduous"
+  ],
+  "category": "noun"
+}

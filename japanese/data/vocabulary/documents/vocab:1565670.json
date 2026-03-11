@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1565670",
+  "japanese": "囁く",
+  "kana": "ささやく",
+  "meanings": [
+    "to whisper",
+    "to murmur"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to rumor",
+    "to rumour"
+  ],
+  "category": "godan verb"
+}

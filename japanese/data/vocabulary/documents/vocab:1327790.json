@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1327790",
+  "japanese": "手術",
+  "kana": "しゅじゅつ",
+  "meanings": [
+    "surgery",
+    "operation",
+    "procedure"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "skill with one's hands",
+    "sleight of hand"
+  ],
+  "category": "noun"
+}

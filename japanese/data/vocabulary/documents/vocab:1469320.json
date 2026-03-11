@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1469320",
+  "japanese": "念",
+  "kana": "ねん",
+  "meanings": [
+    "sense",
+    "idea",
+    "thought",
+    "feeling"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "desire",
+    "concern",
+    "attention",
+    "care"
+  ],
+  "category": "noun"
+}

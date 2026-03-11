@@ -1,0 +1,30 @@
+{
+  "$id": "vocab:1451040",
+  "japanese": "働き",
+  "kana": "はたらき",
+  "meanings": [
+    "work",
+    "labor",
+    "labour"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "achievement",
+    "performance",
+    "ability",
+    "talent",
+    "salary",
+    "income",
+    "earnings",
+    "action",
+    "activity",
+    "workings",
+    "function",
+    "operation",
+    "movement",
+    "motion",
+    "conjugation",
+    "inflection"
+  ],
+  "category": "noun"
+}

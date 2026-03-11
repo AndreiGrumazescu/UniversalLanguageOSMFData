@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1011840",
+  "japanese": "ぼつぼつ",
+  "kana": "ぼつぼつ",
+  "meanings": [
+    "gradually",
+    "little by little",
+    "in a breezy manner"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "soon",
+    "before long",
+    "here and there",
+    "scattered",
+    "spots",
+    "dots",
+    "pimples",
+    "rash"
+  ],
+  "category": "adverb"
+}

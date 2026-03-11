@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:2269050",
+  "japanese": "急に",
+  "kana": "きゅうに",
+  "meanings": [
+    "swiftly",
+    "rapidly",
+    "quickly",
+    "immediately",
+    "hastily",
+    "hurriedly"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "suddenly",
+    "abruptly",
+    "unexpectedly",
+    "sharply (of a slope, bend, etc.)",
+    "steeply"
+  ],
+  "category": "adverb"
+}

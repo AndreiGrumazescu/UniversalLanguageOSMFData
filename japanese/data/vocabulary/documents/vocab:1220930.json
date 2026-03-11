@@ -1,0 +1,26 @@
+{
+  "$id": "vocab:1220930",
+  "japanese": "機嫌",
+  "kana": "きげん",
+  "meanings": [
+    "humour",
+    "humor",
+    "temper",
+    "mood",
+    "spirits"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "safety",
+    "health",
+    "well-being",
+    "one's situation",
+    "in a good mood",
+    "in high spirits",
+    "happy",
+    "cheery",
+    "merry",
+    "chipper"
+  ],
+  "category": "noun"
+}

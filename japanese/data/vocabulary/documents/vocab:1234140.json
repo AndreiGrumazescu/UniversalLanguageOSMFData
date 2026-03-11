@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1234140",
+  "japanese": "競争",
+  "kana": "きょうそう",
+  "meanings": [
+    "competition",
+    "contest",
+    "rivalry",
+    "race"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "competition (between organisms or species)"
+  ],
+  "category": "noun"
+}

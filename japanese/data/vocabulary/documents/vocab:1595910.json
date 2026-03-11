@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1595910",
+  "japanese": "擦る",
+  "kana": "する",
+  "meanings": [
+    "to rub",
+    "to chafe",
+    "to strike (match)",
+    "to file",
+    "to frost (glass)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to squander (one's money)",
+    "to run through (one's fortune)",
+    "to lose money (e.g. by gambling)"
+  ],
+  "category": "godan verb"
+}

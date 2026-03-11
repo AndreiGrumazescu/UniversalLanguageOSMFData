@@ -1,0 +1,33 @@
+{
+  "$id": "vocab:1445790",
+  "japanese": "倒れる",
+  "kana": "たおれる",
+  "meanings": [
+    "to fall (over, down)",
+    "to collapse",
+    "to take a fall",
+    "to topple"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to be destroyed (in a collapse)",
+    "to collapse",
+    "to cave in",
+    "to crumble",
+    "to give away",
+    "to be confined to bed (with an illness)",
+    "to come down with",
+    "to break down (e.g. from overwork)",
+    "to die",
+    "to be killed",
+    "to go bankrupt (of a company, bank, etc.)",
+    "to fail",
+    "to collapse",
+    "to go under",
+    "to be defeated (in a game)",
+    "to lose",
+    "to fall (of a government, dictator, etc.)",
+    "to be overthrown"
+  ],
+  "category": "ichidan verb"
+}

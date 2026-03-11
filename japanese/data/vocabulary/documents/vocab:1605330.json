@@ -1,0 +1,25 @@
+{
+  "$id": "vocab:1605330",
+  "japanese": "漏れる",
+  "kana": "もれる",
+  "meanings": [
+    "to leak out",
+    "to escape",
+    "to come through",
+    "to shine through",
+    "to filter out"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to find expression",
+    "to give vent",
+    "to leak out",
+    "to be divulged",
+    "to be disclosed",
+    "to be omitted",
+    "to be left out",
+    "to be excluded",
+    "to be not included"
+  ],
+  "category": "ichidan verb"
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1169720",
+  "japanese": "引力",
+  "kana": "いんりょく",
+  "meanings": [
+    "attraction (e.g. magnetic, gravitation)",
+    "affinity",
+    "gravitational pull"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "attractiveness",
+    "magnetism"
+  ],
+  "category": "noun"
+}

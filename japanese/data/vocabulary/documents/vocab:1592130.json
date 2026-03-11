@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1592130",
+  "japanese": "区切る",
+  "kana": "くぎる",
+  "meanings": [
+    "to divide",
+    "to separate",
+    "to partition",
+    "to demarcate",
+    "to delimit",
+    "to mark off"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to punctuate",
+    "to mark off (with a comma)",
+    "to insert pauses (between words or phrases when reading aloud)",
+    "to space one's words"
+  ],
+  "category": "godan verb"
+}

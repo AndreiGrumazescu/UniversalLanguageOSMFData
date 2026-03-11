@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1236500",
+  "japanese": "強盗",
+  "kana": "ごうとう",
+  "meanings": [
+    "robber",
+    "mugger"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "robbery",
+    "burglary"
+  ],
+  "category": "noun"
+}

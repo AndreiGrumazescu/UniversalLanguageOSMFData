@@ -1,0 +1,14 @@
+{
+  "$id": "vocab:1226010",
+  "japanese": "議案",
+  "kana": "ぎあん",
+  "meanings": [
+    "legislative bill",
+    "measure"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "agenda item"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1412300",
+  "japanese": "代弁",
+  "kana": "だいべん",
+  "meanings": [
+    "speaking by proxy",
+    "speaking for (someone else)",
+    "acting as spokesman (for)",
+    "representing (the views, feelings, etc. of)"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "payment by proxy",
+    "compensation by proxy",
+    "paying on behalf (of)",
+    "acting for (someone else)",
+    "carrying out (on someone's behalf)"
+  ],
+  "category": "noun"
+}

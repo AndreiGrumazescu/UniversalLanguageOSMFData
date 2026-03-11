@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1580190",
+  "japanese": "瞬き",
+  "kana": "まばたき",
+  "meanings": [
+    "blink (of eyes)",
+    "wink"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "twinkling (of stars)",
+    "flicker (of light)",
+    "blink (of light)"
+  ],
+  "category": "noun"
+}

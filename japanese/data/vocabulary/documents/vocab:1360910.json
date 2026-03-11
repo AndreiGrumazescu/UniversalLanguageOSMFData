@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1360910",
+  "japanese": "心得",
+  "kana": "こころえ",
+  "meanings": [
+    "knowledge",
+    "understanding"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "rules",
+    "regulations",
+    "guideline",
+    "directions",
+    "deputy",
+    "acting"
+  ],
+  "category": "noun"
+}

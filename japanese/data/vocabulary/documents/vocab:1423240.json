@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1423240",
+  "japanese": "着物",
+  "kana": "きもの",
+  "meanings": [
+    "kimono",
+    "Japanese traditional clothing (esp. full-length)"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "clothing",
+    "clothes"
+  ],
+  "category": "noun"
+}

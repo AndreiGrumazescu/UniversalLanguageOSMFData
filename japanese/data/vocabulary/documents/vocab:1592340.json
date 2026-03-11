@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1592340",
+  "japanese": "曇り",
+  "kana": "くもり",
+  "meanings": [
+    "cloudiness",
+    "cloudy weather"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "fog (on a mirror, glasses, etc.)",
+    "cloud (e.g. in marble)",
+    "blur",
+    "mist",
+    "shadow",
+    "dimness",
+    "gloom",
+    "dejection"
+  ],
+  "category": "noun"
+}

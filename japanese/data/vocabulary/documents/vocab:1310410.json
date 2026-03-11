@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1310410",
+  "japanese": "施設",
+  "kana": "しせつ",
+  "meanings": [
+    "facility",
+    "facilities",
+    "institution",
+    "establishment"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "home (for the elderly, orphans, etc.)"
+  ],
+  "category": "noun"
+}

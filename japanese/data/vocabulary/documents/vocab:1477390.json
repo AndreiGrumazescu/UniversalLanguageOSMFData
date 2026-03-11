@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1477390",
+  "japanese": "発行",
+  "kana": "はっこう",
+  "meanings": [
+    "publication (of a newspaper, magazine, book, etc.)",
+    "issue"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "issue (of banknotes, bonds, passport, etc.)",
+    "raising (an event)"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1596830",
+  "japanese": "炊く",
+  "kana": "たく",
+  "meanings": [
+    "to cook (grains, e.g. rice)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to boil",
+    "to simmer",
+    "to stew",
+    "to seethe",
+    "to get angry",
+    "to snap"
+  ],
+  "category": "godan verb"
+}

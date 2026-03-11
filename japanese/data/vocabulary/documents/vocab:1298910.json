@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1298910",
+  "japanese": "擦る",
+  "kana": "こする",
+  "meanings": [
+    "to rub",
+    "to scrub",
+    "to scrape"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to repeatedly reuse (a joke, a topic of conversation, etc.)",
+    "to milk",
+    "to keep getting mileage out of",
+    "to mash (a button)",
+    "to spam (a move)"
+  ],
+  "category": "godan verb"
+}

@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1205270",
+  "japanese": "格",
+  "kana": "かく",
+  "meanings": [
+    "status",
+    "position",
+    "rank"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "method",
+    "way",
+    "style",
+    "rule",
+    "regulation",
+    "law",
+    "case",
+    "figure (form of a syllogism)"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,31 @@
+{
+  "$id": "vocab:1305420",
+  "japanese": "仕方がない",
+  "kana": "しかたがない",
+  "meanings": [
+    "there's no (other) way"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "cannot be helped",
+    "unavoidable",
+    "inevitable",
+    "(there's) nothing one can do",
+    "having no choice",
+    "it's no use (doing)",
+    "pointless",
+    "useless",
+    "no good",
+    "insufficient",
+    "not enough",
+    "hopeless (person)",
+    "annoying",
+    "troublesome",
+    "awful",
+    "cannot stand it",
+    "unbearable",
+    "cannot help (doing, feeling)",
+    "dying (to do)"
+  ],
+  "category": "expression"
+}

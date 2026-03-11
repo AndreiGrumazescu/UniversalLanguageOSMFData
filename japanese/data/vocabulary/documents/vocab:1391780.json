@@ -1,0 +1,34 @@
+{
+  "$id": "vocab:1391780",
+  "japanese": "線",
+  "kana": "せん",
+  "meanings": [
+    "line",
+    "stripe",
+    "stria"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "line (e.g. telephone line)",
+    "wire",
+    "ray (e.g. X-ray)",
+    "beam",
+    "line (e.g. of a railroad)",
+    "track",
+    "route",
+    "lane",
+    "outline",
+    "contours",
+    "form",
+    "level",
+    "division",
+    "line (of action)",
+    "position",
+    "approach",
+    "policy",
+    "principle",
+    "impression one leaves",
+    "air one gives off"
+  ],
+  "category": "noun"
+}

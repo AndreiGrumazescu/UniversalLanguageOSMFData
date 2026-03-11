@@ -1,0 +1,25 @@
+{
+  "$id": "vocab:1237510",
+  "japanese": "狂う",
+  "kana": "くるう",
+  "meanings": [
+    "to go mad",
+    "to lose one's mind",
+    "to go crazy",
+    "to go insane"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to get out of order",
+    "to go amiss",
+    "to malfunction",
+    "to become imprecise",
+    "to go wrong (of a plan or expectation, etc.)",
+    "to fall through",
+    "to get mixed up",
+    "to go crazy (over someone or something)",
+    "to get enthusiastic",
+    "to go wild"
+  ],
+  "category": "godan verb"
+}

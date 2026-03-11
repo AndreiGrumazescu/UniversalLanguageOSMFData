@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1271300",
+  "japanese": "誤る",
+  "kana": "あやまる",
+  "meanings": [
+    "to make a mistake (in)",
+    "to commit an error",
+    "to do incorrectly",
+    "to err"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to be wrong",
+    "to be incorrect",
+    "to be false",
+    "to be mistaken",
+    "to mislead",
+    "to misguide",
+    "to lead astray"
+  ],
+  "category": "godan verb"
+}

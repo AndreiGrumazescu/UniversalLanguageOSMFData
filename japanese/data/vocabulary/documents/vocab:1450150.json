@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1450150",
+  "japanese": "踏み込む",
+  "kana": "ふみこむ",
+  "meanings": [
+    "to step into (e.g. someone else's territory)",
+    "to break into",
+    "to raid"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to come to grips with",
+    "to get to the core of"
+  ],
+  "category": "godan verb"
+}

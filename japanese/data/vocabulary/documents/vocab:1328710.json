@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1328710",
+  "japanese": "狩り",
+  "kana": "かり",
+  "meanings": [
+    "hunting",
+    "hunt",
+    "shooting"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "gathering (mushrooms, shellfish, etc.)",
+    "picking (berries, fruit, etc.)",
+    "viewing (e.g. autumn leaves)",
+    "hunting down (a criminal, etc.)",
+    "rounding up (e.g. communists)",
+    "witch-hunt"
+  ],
+  "category": "noun"
+}

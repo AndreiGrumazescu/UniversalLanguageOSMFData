@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1605700",
+  "japanese": "悠々",
+  "kana": "ゆうゆう",
+  "meanings": [
+    "quiet",
+    "calm",
+    "leisurely",
+    "composed"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "easily",
+    "comfortably",
+    "without difficulty",
+    "distant",
+    "far-off",
+    "boundless",
+    "endless",
+    "eternal"
+  ],
+  "category": "taru-adjective"
+}

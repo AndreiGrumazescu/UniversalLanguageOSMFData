@@ -1,0 +1,28 @@
+{
+  "$id": "vocab:1482660",
+  "japanese": "卑しい",
+  "kana": "いやしい",
+  "meanings": [
+    "lowborn",
+    "humble",
+    "lowly"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "vulgar",
+    "coarse",
+    "crude",
+    "mean",
+    "base",
+    "vile",
+    "despicable",
+    "dirty",
+    "unfair",
+    "shabby",
+    "poor-looking",
+    "greedy",
+    "gluttonous",
+    "avaricious"
+  ],
+  "category": "i-adjective"
+}

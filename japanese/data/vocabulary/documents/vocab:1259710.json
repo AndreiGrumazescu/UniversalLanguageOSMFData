@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1259710",
+  "japanese": "見出し",
+  "kana": "みだし",
+  "meanings": [
+    "heading",
+    "headline",
+    "title",
+    "caption"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "index",
+    "headword"
+  ],
+  "category": "noun"
+}

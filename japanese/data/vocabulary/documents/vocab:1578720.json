@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1578720",
+  "japanese": "溝",
+  "kana": "みぞ",
+  "meanings": [
+    "ditch",
+    "drain",
+    "gutter",
+    "trench"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "groove",
+    "tread",
+    "indentation",
+    "gap (between people, countries, etc.)",
+    "gulf",
+    "rift"
+  ],
+  "category": "noun"
+}

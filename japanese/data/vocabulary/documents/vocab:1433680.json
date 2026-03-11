@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1433680",
+  "japanese": "漬ける",
+  "kana": "つける",
+  "meanings": [
+    "to soak (in)",
+    "to steep",
+    "to dip",
+    "to dunk"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to pickle",
+    "to preserve (in salt, vinegar, etc.)"
+  ],
+  "category": "ichidan verb"
+}

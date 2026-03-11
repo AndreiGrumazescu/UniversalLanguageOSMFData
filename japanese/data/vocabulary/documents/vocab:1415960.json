@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1415960",
+  "japanese": "濁る",
+  "kana": "にごる",
+  "meanings": [
+    "to become muddy",
+    "to become cloudy",
+    "to become turbid",
+    "to become impure (of a liquid or gas)"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to become dull (of a sound, color, etc.)",
+    "to become indistinct",
+    "to become fuzzy",
+    "to become hoarse",
+    "to become impure (of one's heart, a society, etc.)",
+    "to be corrupted",
+    "to be polluted",
+    "to become voiced (of a consonant)",
+    "to be pronounced as a voiced sound"
+  ],
+  "category": "godan verb"
+}

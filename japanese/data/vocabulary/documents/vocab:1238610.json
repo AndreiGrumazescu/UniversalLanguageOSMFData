@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1238610",
+  "japanese": "響く",
+  "kana": "ひびく",
+  "meanings": [
+    "to resound",
+    "to be heard far away"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to reverberate",
+    "to shake",
+    "to vibrate",
+    "to come (home)",
+    "to remain (with someone)",
+    "to have an effect",
+    "to make an impression"
+  ],
+  "category": "godan verb"
+}

@@ -1,0 +1,42 @@
+{
+  "$id": "vocab:1202440",
+  "japanese": "開く",
+  "kana": "ひらく",
+  "meanings": [
+    "to open",
+    "to undo",
+    "to unseal",
+    "to unpack"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to bloom",
+    "to unfold",
+    "to spread out",
+    "to open (for business, e.g. in the morning)",
+    "to be wide (gap, etc.)",
+    "to widen",
+    "to hold (meeting, party, etc.)",
+    "to give",
+    "to open",
+    "to found (nation, dynasty, sect, etc.)",
+    "to open (a new business)",
+    "to set up",
+    "to establish",
+    "to start",
+    "to open (ports, borders, etc.)",
+    "to open (an account)",
+    "to open up (new land, path, etc.)",
+    "to clear",
+    "to develop",
+    "to open (a file, etc.)",
+    "to extract (root)",
+    "to reduce (equation)",
+    "to cut open (fish)",
+    "to change (kanji into hiragana)",
+    "to flare (e.g. skirt)",
+    "to slacken (into a poor posture)",
+    "to extend"
+  ],
+  "category": "godan verb"
+}

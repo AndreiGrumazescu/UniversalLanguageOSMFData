@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1177320",
+  "japanese": "煙突",
+  "kana": "えんとつ",
+  "meanings": [
+    "chimney",
+    "smokestack",
+    "funnel (of a ship)",
+    "stovepipe"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "carrying a passenger without turning on the taximeter"
+  ],
+  "category": "noun"
+}

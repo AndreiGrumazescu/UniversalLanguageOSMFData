@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1513940",
+  "japanese": "保存",
+  "kana": "ほぞん",
+  "meanings": [
+    "preservation",
+    "conservation",
+    "storage",
+    "maintenance"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "saving (e.g. to disk)"
+  ],
+  "category": "noun"
+}

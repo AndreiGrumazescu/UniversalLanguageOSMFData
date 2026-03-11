@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1553310",
+  "japanese": "了解",
+  "kana": "りょうかい",
+  "meanings": [
+    "comprehension",
+    "consent",
+    "understanding",
+    "agreement"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "OK",
+    "roger"
+  ],
+  "category": "noun"
+}

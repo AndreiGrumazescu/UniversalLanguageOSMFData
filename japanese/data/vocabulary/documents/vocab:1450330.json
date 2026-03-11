@@ -1,0 +1,30 @@
+{
+  "$id": "vocab:1450330",
+  "japanese": "逃げる",
+  "kana": "にげる",
+  "meanings": [
+    "to run away",
+    "to flee",
+    "to get away (e.g. from danger)",
+    "to escape",
+    "to break out",
+    "to leave (e.g. one's spouse)",
+    "to take cover"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to avoid (a question, responsibility, etc.)",
+    "to evade",
+    "to dodge",
+    "to shirk",
+    "to back away",
+    "to win without being overtaken",
+    "to hold off the other contenders (until the finish)",
+    "to keep the lead (and win)",
+    "to escape (of heat, a gas, etc.)",
+    "to leak out (e.g. of a scent)",
+    "to be lost (e.g. of flavor)",
+    "to fail to hold an ideal posture"
+  ],
+  "category": "ichidan verb"
+}

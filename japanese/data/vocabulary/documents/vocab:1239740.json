@@ -1,0 +1,28 @@
+{
+  "$id": "vocab:1239740",
+  "japanese": "曲げる",
+  "kana": "まげる",
+  "meanings": [
+    "to bend",
+    "to crook",
+    "to bow",
+    "to curve",
+    "to curl"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to lean",
+    "to tilt",
+    "to incline",
+    "to slant",
+    "to bend (the truth)",
+    "to distort",
+    "to twist",
+    "to pervert",
+    "to yield (a point)",
+    "to depart (from a principle)",
+    "to ignore (what one really thinks)",
+    "to pawn"
+  ],
+  "category": "ichidan verb"
+}

@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1158440",
+  "japanese": "移民",
+  "kana": "いみん",
+  "meanings": [
+    "immigration",
+    "emigration"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "immigrant",
+    "emigrant"
+  ],
+  "category": "noun"
+}

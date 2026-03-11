@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1483900",
+  "japanese": "皮肉",
+  "kana": "ひにく",
+  "meanings": [
+    "irony",
+    "sarcasm",
+    "cynicism",
+    "satire"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "unexpected",
+    "different from what one expected",
+    "not as one had planned",
+    "(only) surface",
+    "something superficial",
+    "skin and bone",
+    "body"
+  ],
+  "category": "noun"
+}

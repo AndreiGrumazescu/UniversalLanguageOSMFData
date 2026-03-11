@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1519630",
+  "japanese": "望む",
+  "kana": "のぞむ",
+  "meanings": [
+    "to desire",
+    "to want",
+    "to wish for",
+    "to hope for"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to expect (of someone)",
+    "to hope for",
+    "to look forward to",
+    "to see",
+    "to command (a view of)",
+    "to overlook"
+  ],
+  "category": "godan verb"
+}

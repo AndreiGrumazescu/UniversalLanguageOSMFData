@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1212700",
+  "japanese": "慣習",
+  "kana": "かんしゅう",
+  "meanings": [
+    "custom",
+    "convention",
+    "common practice"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "becoming accustomed (to)"
+  ],
+  "category": "noun"
+}

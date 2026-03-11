@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1427820",
+  "japanese": "張り紙",
+  "kana": "はりがみ",
+  "meanings": [
+    "paper patch attached to something",
+    "paper backing",
+    "sticker",
+    "label"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "notice",
+    "poster"
+  ],
+  "category": "noun"
+}

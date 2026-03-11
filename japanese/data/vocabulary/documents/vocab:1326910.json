@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1326910",
+  "japanese": "取り付ける",
+  "kana": "とりつける",
+  "meanings": [
+    "to install",
+    "to fit",
+    "to fix",
+    "to set up",
+    "to furnish",
+    "to equip"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to (manage to) obtain (someone's agreement, permission, etc.)",
+    "to get",
+    "to secure (a contract, support, etc.)",
+    "to patronize (a shop)",
+    "to buy usually (from the same store)"
+  ],
+  "category": "ichidan verb"
+}

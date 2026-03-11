@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1001830",
+  "japanese": "お兄さん",
+  "kana": "おにいさん",
+  "meanings": [
+    "older brother",
+    "elder brother"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "young man",
+    "buddy",
+    "fella",
+    "laddie"
+  ],
+  "category": "noun"
+}

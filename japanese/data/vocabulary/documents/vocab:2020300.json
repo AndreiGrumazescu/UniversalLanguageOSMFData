@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:2020300",
+  "japanese": "強",
+  "kana": "きょう",
+  "meanings": [
+    "a little over",
+    "a little more than"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "strength",
+    "the strong",
+    "powerhouse",
+    "one of the biggest",
+    "one of the most powerful",
+    "-upper (seismic intensity)"
+  ],
+  "category": "suffix"
+}

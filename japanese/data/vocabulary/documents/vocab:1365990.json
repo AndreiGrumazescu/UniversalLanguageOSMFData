@@ -1,0 +1,26 @@
+{
+  "$id": "vocab:1365990",
+  "japanese": "進める",
+  "kana": "すすめる",
+  "meanings": [
+    "to advance",
+    "to move forward",
+    "to put (a clock, watch) forward"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to carry forward (plans, work, etc.)",
+    "to proceed with",
+    "to make progress in",
+    "to further",
+    "to advance",
+    "to hasten",
+    "to speed up",
+    "to raise",
+    "to elevate",
+    "to promote",
+    "to develop",
+    "to stimulate (e.g. one's appetite)"
+  ],
+  "category": "ichidan verb"
+}

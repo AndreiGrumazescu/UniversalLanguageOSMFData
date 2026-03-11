@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1585060",
+  "japanese": "雷",
+  "kana": "かみなり",
+  "meanings": [
+    "lightning",
+    "thunder",
+    "thunderbolt"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "god of thunder",
+    "god of lightning",
+    "anger",
+    "fit of anger"
+  ],
+  "category": "noun"
+}

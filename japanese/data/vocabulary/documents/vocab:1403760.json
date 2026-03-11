@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1403760",
+  "japanese": "促す",
+  "kana": "うながす",
+  "meanings": [
+    "to urge",
+    "to encourage",
+    "to press",
+    "to prompt",
+    "to draw (attention to)"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to stimulate (e.g. growth)",
+    "to hasten (e.g. development)",
+    "to quicken",
+    "to accelerate",
+    "to promote"
+  ],
+  "category": "godan verb"
+}

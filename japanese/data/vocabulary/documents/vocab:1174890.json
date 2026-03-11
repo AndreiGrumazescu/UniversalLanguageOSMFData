@@ -1,0 +1,31 @@
+{
+  "$id": "vocab:1174890",
+  "japanese": "鋭い",
+  "kana": "するどい",
+  "meanings": [
+    "sharp (knife, claws, etc.)",
+    "pointed"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "sharp (pain, tone, etc.)",
+    "acute",
+    "stabbing",
+    "cutting (remark, criticism, etc.)",
+    "stinging",
+    "biting",
+    "fierce (attack)",
+    "pointed (question, look, etc.)",
+    "piercing (gaze)",
+    "shrill (sound)",
+    "keen (intuition, sense of smell, etc.)",
+    "acute",
+    "sharp (eye, mind, etc.)",
+    "astute",
+    "shrewd",
+    "discerning",
+    "penetrating (insight, question, etc.)",
+    "perceptive"
+  ],
+  "category": "i-adjective"
+}

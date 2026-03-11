@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1192910",
+  "japanese": "果てる",
+  "kana": "はてる",
+  "meanings": [
+    "to end",
+    "to be finished",
+    "to be exhausted"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to die",
+    "to perish",
+    "to do utterly",
+    "to do completely"
+  ],
+  "category": "ichidan verb"
+}

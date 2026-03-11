@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1260100",
+  "japanese": "見本",
+  "kana": "みほん",
+  "meanings": [
+    "sample",
+    "specimen",
+    "pattern"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "model",
+    "example"
+  ],
+  "category": "noun"
+}

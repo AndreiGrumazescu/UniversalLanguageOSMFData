@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1418260",
+  "japanese": "探る",
+  "kana": "さぐる",
+  "meanings": [
+    "to feel around for",
+    "to fumble for",
+    "to grope for",
+    "to search for",
+    "to look for"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to investigate",
+    "to probe into",
+    "to spy on",
+    "to sound out",
+    "to explore (parts unknown)",
+    "to enjoy (natural beauty)"
+  ],
+  "category": "godan verb"
+}

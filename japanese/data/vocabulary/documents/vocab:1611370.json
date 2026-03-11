@@ -1,0 +1,14 @@
+{
+  "$id": "vocab:1611370",
+  "japanese": "日にち",
+  "kana": "ひにち",
+  "meanings": [
+    "date (of a planned event, act, etc.)",
+    "day"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "(number of) days"
+  ],
+  "category": "noun"
+}

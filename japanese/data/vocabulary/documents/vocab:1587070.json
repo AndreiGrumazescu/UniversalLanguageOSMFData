@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1587070",
+  "japanese": "生かす",
+  "kana": "いかす",
+  "meanings": [
+    "to make (the best) use of",
+    "to put to good use",
+    "to leverage (skills, attributes, experience, etc.)",
+    "to capitalise on (experience, etc.)"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to let live",
+    "to keep alive",
+    "to revive",
+    "to resuscitate",
+    "to bring back to life",
+    "to restore (a deleted passage; in proofreading)"
+  ],
+  "category": "godan verb"
+}

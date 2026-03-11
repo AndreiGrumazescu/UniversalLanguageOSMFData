@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1286370",
+  "japanese": "国語",
+  "kana": "こくご",
+  "meanings": [
+    "national language"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "Japanese language (esp. as a school subject in Japan)",
+    "one's native language",
+    "mother tongue",
+    "native Japanese words (as opposed to loanwords and Chinese-derived words)"
+  ],
+  "category": "noun"
+}

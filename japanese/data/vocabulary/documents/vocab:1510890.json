@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1510890",
+  "japanese": "変化",
+  "kana": "へんか",
+  "meanings": [
+    "change",
+    "variation",
+    "alteration",
+    "mutation",
+    "transition",
+    "transformation"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "variety",
+    "diversity",
+    "inflection",
+    "declension",
+    "conjugation",
+    "henka",
+    "evasive sidestep at the beginning of a bout"
+  ],
+  "category": "noun"
+}

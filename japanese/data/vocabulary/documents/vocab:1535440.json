@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1535440",
+  "japanese": "目指す",
+  "kana": "めざす",
+  "meanings": [
+    "to aim at (for, to do, to become)",
+    "to try for",
+    "to have an eye on"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to go toward",
+    "to head for"
+  ],
+  "category": "godan verb"
+}

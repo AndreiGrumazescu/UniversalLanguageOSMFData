@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1039900",
+  "japanese": "ガイド",
+  "kana": "ガイド",
+  "meanings": [
+    "guide",
+    "tour guide",
+    "conductor",
+    "guiding",
+    "leading"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "guidebook",
+    "guide (on a fishing rod)",
+    "guide ring"
+  ],
+  "category": "noun"
+}

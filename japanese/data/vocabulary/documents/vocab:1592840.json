@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1592840",
+  "japanese": "元素",
+  "kana": "げんそ",
+  "meanings": [
+    "element",
+    "chemical element"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "(classical) element (e.g. earth, water, air, fire)",
+    "origin",
+    "source"
+  ],
+  "category": "noun"
+}

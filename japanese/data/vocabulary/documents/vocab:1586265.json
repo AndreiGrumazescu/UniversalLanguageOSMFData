@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1586265",
+  "japanese": "空く",
+  "kana": "すく",
+  "meanings": [
+    "to become less crowded",
+    "to thin out",
+    "to get empty"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to be hungry"
+  ],
+  "category": "godan verb"
+}

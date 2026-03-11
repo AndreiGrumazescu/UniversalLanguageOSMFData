@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1339220",
+  "japanese": "出場",
+  "kana": "しゅつじょう",
+  "meanings": [
+    "participation (in a tournament, match, race, etc.)",
+    "entry",
+    "taking part (in)",
+    "competing (in)",
+    "appearance"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "appearance (on the stage, television, etc.)",
+    "exiting (a venue, train station, etc.)",
+    "exit",
+    "being dispatched (of an ambulance, fire engine, etc.)"
+  ],
+  "category": "noun"
+}

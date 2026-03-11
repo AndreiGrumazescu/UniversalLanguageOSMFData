@@ -1,0 +1,25 @@
+{
+  "$id": "vocab:1589600",
+  "japanese": "終わる",
+  "kana": "おわる",
+  "meanings": [
+    "to end",
+    "to come to an end",
+    "to finish",
+    "to close",
+    "to be over"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "to finish",
+    "to complete",
+    "to conclude",
+    "to finish doing",
+    "to be past its (one's) prime",
+    "to be awful",
+    "to be terrible",
+    "to suck",
+    "to be hopeless"
+  ],
+  "category": "godan verb"
+}

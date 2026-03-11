@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1351040",
+  "japanese": "省く",
+  "kana": "はぶく",
+  "meanings": [
+    "to omit",
+    "to leave out",
+    "to exclude",
+    "to eliminate"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to curtail",
+    "to save",
+    "to cut down",
+    "to economize",
+    "to economise"
+  ],
+  "category": "godan verb"
+}

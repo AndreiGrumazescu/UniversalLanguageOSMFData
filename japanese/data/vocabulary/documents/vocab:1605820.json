@@ -1,0 +1,28 @@
+{
+  "$id": "vocab:1605820",
+  "japanese": "良い",
+  "kana": "よい",
+  "meanings": [
+    "good",
+    "excellent",
+    "fine",
+    "nice",
+    "pleasant",
+    "agreeable"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "sufficient",
+    "enough",
+    "ready",
+    "prepared",
+    "profitable (deal, business offer, etc.)",
+    "beneficial",
+    "OK",
+    "all right",
+    "fine",
+    "no problem",
+    "easy to ..."
+  ],
+  "category": "i-adjective"
+}

@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1239560",
+  "japanese": "局",
+  "kana": "きょく",
+  "meanings": [
+    "bureau",
+    "department"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "office (e.g. post, telephone)",
+    "broadcasting station (e.g. television, radio)",
+    "channel",
+    "exchange",
+    "affair",
+    "situation",
+    "game (of go, shogi, etc.)"
+  ],
+  "category": "noun"
+}

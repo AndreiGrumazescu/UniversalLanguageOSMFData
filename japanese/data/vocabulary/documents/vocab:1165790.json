@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1165790",
+  "japanese": "一般",
+  "kana": "いっぱん",
+  "meanings": [
+    "general",
+    "universal"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "ordinary",
+    "average",
+    "common",
+    "non-celebrity",
+    "the same",
+    "no different",
+    "(just) as if"
+  ],
+  "category": "noun"
+}

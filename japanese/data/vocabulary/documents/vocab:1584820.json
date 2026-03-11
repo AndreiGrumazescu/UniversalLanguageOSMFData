@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1584820",
+  "japanese": "夜行",
+  "kana": "やこう",
+  "meanings": [
+    "night travel",
+    "walking around at night"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "night train",
+    "nightly procession of monsters, spirits, etc."
+  ],
+  "category": "noun"
+}

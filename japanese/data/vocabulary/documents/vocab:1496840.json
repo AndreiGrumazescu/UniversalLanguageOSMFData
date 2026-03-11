@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1496840",
+  "japanese": "布",
+  "kana": "ぬの",
+  "meanings": [
+    "cloth",
+    "fabric",
+    "material",
+    "textile"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "bujian (spade-shaped bronze coin of ancient China)"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1434920",
+  "japanese": "停止",
+  "kana": "ていし",
+  "meanings": [
+    "stoppage",
+    "coming to a stop",
+    "halt",
+    "standstill"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "ceasing (movement, activity, etc.)",
+    "suspension (of operations)",
+    "interruption (e.g. of electricity supply)",
+    "cutting off",
+    "suspension (of payment, a licence, etc.)",
+    "(temporary) prohibition",
+    "ban",
+    "suspension of music, dance, etc. as a sign of mourning for a prominent person"
+  ],
+  "category": "noun"
+}

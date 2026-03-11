@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1238460",
+  "japanese": "蕎麦",
+  "kana": "そば",
+  "meanings": [
+    "buckwheat (Fagopyrum esculentum)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "soba",
+    "Japanese buckwheat noodles",
+    "Chinese-style wheat noodles"
+  ],
+  "category": "noun"
+}

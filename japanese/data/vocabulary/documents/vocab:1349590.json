@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1349590",
+  "japanese": "招く",
+  "kana": "まねく",
+  "meanings": [
+    "to invite",
+    "to ask"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to beckon",
+    "to wave someone in",
+    "to gesture to",
+    "to call in",
+    "to send for",
+    "to summon",
+    "to bring on oneself",
+    "to cause",
+    "to incur",
+    "to lead to",
+    "to result in"
+  ],
+  "category": "godan verb"
+}

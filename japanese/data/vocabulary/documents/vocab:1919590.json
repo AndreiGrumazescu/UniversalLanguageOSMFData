@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1919590",
+  "japanese": "級",
+  "kana": "きゅう",
+  "meanings": [
+    "(school) grade",
+    "year",
+    "class"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "class",
+    "grade",
+    "rank",
+    "level",
+    "kyu (junior rank in martial arts, go, shogi, etc.)"
+  ],
+  "category": "noun"
+}

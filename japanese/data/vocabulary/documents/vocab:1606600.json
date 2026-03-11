@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1606600",
+  "japanese": "分かれる",
+  "kana": "わかれる",
+  "meanings": [
+    "to branch",
+    "to fork",
+    "to diverge"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to separate",
+    "to split",
+    "to divide",
+    "to disperse",
+    "to scatter"
+  ],
+  "category": "ichidan verb"
+}

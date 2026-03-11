@@ -1,0 +1,31 @@
+{
+  "$id": "vocab:1441900",
+  "japanese": "伝わる",
+  "kana": "つたわる",
+  "meanings": [
+    "to spread (of a rumour, news, etc.)",
+    "to travel",
+    "to circulate",
+    "to go around",
+    "to be passed around",
+    "to become known"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to be handed down (from generation to generation)",
+    "to be passed down",
+    "to be introduced (to a country, region, etc.)",
+    "to be brought",
+    "to come",
+    "to be conveyed (of a feeling, impression, etc.)",
+    "to be felt",
+    "to come across",
+    "to travel (of sound, electricity, etc.)",
+    "to propagate",
+    "to be conducted",
+    "to be transmitted",
+    "to go along",
+    "to move along"
+  ],
+  "category": "godan verb"
+}

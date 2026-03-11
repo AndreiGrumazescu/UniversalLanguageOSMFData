@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1474370",
+  "japanese": "剥く",
+  "kana": "むく",
+  "meanings": [
+    "to peel",
+    "to skin",
+    "to pare",
+    "to hull",
+    "to strip"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to bare (teeth, fangs)",
+    "to open wide (eyes)"
+  ],
+  "category": "godan verb"
+}

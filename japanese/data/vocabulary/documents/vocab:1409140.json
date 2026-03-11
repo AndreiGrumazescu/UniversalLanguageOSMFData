@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1409140",
+  "japanese": "体",
+  "kana": "からだ",
+  "meanings": [
+    "body"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "torso",
+    "trunk",
+    "build",
+    "physique",
+    "frame",
+    "figure",
+    "health",
+    "constitution"
+  ],
+  "category": "noun"
+}

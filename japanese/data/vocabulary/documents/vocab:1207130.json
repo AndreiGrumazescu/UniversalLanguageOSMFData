@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1207130",
+  "japanese": "学問",
+  "kana": "がくもん",
+  "meanings": [
+    "study",
+    "scholarship",
+    "learning",
+    "education",
+    "knowledge"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "discipline",
+    "branch of learning",
+    "(a) science"
+  ],
+  "category": "noun"
+}

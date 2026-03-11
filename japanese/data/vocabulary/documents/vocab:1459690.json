@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1459690",
+  "japanese": "謎",
+  "kana": "なぞ",
+  "meanings": [
+    "riddle",
+    "puzzle",
+    "enigma",
+    "mystery"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "enigmatic",
+    "mysterious"
+  ],
+  "category": "noun"
+}

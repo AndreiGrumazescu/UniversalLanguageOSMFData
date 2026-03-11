@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1303400",
+  "japanese": "撒く",
+  "kana": "まく",
+  "meanings": [
+    "to scatter",
+    "to sprinkle",
+    "to strew"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to distribute (flyers, etc.)",
+    "to give out",
+    "to hand out",
+    "to shake off (a pursuer, companion, etc.)",
+    "to give the slip",
+    "to throw off",
+    "to lose",
+    "to get rid of"
+  ],
+  "category": "godan verb"
+}

@@ -1,0 +1,27 @@
+{
+  "$id": "vocab:1379110",
+  "japanese": "生臭い",
+  "kana": "なまぐさい",
+  "meanings": [
+    "smelling of fish",
+    "fishy",
+    "smelling of blood",
+    "bloody"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "degenerate (of a monk)",
+    "depraved",
+    "corrupt",
+    "fallen",
+    "worldly",
+    "mundane",
+    "secular",
+    "common",
+    "ordinary",
+    "fishy",
+    "suspicious",
+    "questionable"
+  ],
+  "category": "i-adjective"
+}

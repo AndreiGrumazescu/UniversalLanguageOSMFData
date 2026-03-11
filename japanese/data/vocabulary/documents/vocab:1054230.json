@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1054230",
+  "japanese": "ゴール",
+  "kana": "ゴール",
+  "meanings": [
+    "goal (in soccer, hockey, etc.)",
+    "basket (in basketball)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "finish line",
+    "finishing line",
+    "winning post",
+    "reaching the finish line",
+    "finishing (a race)",
+    "goal",
+    "objective"
+  ],
+  "category": "noun"
+}

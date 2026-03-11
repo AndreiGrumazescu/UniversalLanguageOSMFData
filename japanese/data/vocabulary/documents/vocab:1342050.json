@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1342050",
+  "japanese": "巡る",
+  "kana": "めぐる",
+  "meanings": [
+    "to go around",
+    "to make a circle around"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to surround",
+    "to circle",
+    "to enclose",
+    "to come around (of a season, anniversary, turn, etc.)",
+    "to return",
+    "to repeat",
+    "to circulate (of blood, money, etc.)",
+    "to travel around",
+    "to make a tour of",
+    "to concern (a matter)",
+    "to surround"
+  ],
+  "category": "godan verb"
+}

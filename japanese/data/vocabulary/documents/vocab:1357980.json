@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1357980",
+  "japanese": "触る",
+  "kana": "さわる",
+  "meanings": [
+    "to touch",
+    "to feel",
+    "to handle"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to get involved (with)",
+    "to approach",
+    "to be harmful to",
+    "to hinder",
+    "to interfere with",
+    "to irritate"
+  ],
+  "category": "godan verb"
+}

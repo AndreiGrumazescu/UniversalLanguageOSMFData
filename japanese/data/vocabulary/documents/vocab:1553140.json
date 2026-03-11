@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1553140",
+  "japanese": "旅客",
+  "kana": "りょかく",
+  "meanings": [
+    "passenger"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "traveller",
+    "traveler",
+    "tourist"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1586250",
+  "japanese": "飽きる",
+  "kana": "あきる",
+  "meanings": [
+    "to get tired of",
+    "to tire of",
+    "to lose interest in",
+    "to grow weary of",
+    "to get fed up with",
+    "to get sick of",
+    "to become bored with"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to become sated",
+    "to become satiated",
+    "to have one's fill"
+  ],
+  "category": "ichidan verb"
+}

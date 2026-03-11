@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1597790",
+  "japanese": "付き合う",
+  "kana": "つきあう",
+  "meanings": [
+    "to associate with",
+    "to keep company with",
+    "to go out with",
+    "to go steady with",
+    "to get on with"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to go along with",
+    "to follow someone's lead",
+    "to accompany someone",
+    "to compromise"
+  ],
+  "category": "godan verb"
+}

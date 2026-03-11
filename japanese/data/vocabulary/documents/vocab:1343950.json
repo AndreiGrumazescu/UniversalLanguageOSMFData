@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1343950",
+  "japanese": "書く",
+  "kana": "かく",
+  "meanings": [
+    "to write",
+    "to compose",
+    "to pen"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "to draw",
+    "to paint"
+  ],
+  "category": "godan verb"
+}

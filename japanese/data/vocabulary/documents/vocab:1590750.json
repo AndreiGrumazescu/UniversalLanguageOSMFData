@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1590750",
+  "japanese": "交わす",
+  "kana": "かわす",
+  "meanings": [
+    "to exchange (messages, greetings, arguments, etc.)"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to intersect",
+    "to cross",
+    "to interlace",
+    "... with one another",
+    "... to each other"
+  ],
+  "category": "godan verb"
+}

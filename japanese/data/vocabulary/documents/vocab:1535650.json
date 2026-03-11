@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1535650",
+  "japanese": "目標",
+  "kana": "もくひょう",
+  "meanings": [
+    "goal",
+    "target",
+    "aim",
+    "objective"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "mark",
+    "sign",
+    "landmark"
+  ],
+  "category": "noun"
+}

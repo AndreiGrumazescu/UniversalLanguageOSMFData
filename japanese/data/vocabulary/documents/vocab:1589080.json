@@ -1,0 +1,34 @@
+{
+  "$id": "vocab:1589080",
+  "japanese": "押さえる",
+  "kana": "おさえる",
+  "meanings": [
+    "to pin down",
+    "to hold down",
+    "to press down",
+    "to hold in place",
+    "to hold steady"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to cover (esp. a part of one's body with one's hand)",
+    "to clutch (a body part in pain)",
+    "to press (a body part)",
+    "to get a hold of",
+    "to obtain",
+    "to seize",
+    "to catch",
+    "to arrest",
+    "to grasp (a point)",
+    "to comprehend",
+    "to quell",
+    "to subdue",
+    "to suppress",
+    "to repress",
+    "to hold back",
+    "to check",
+    "to curb",
+    "to contain"
+  ],
+  "category": "ichidan verb"
+}

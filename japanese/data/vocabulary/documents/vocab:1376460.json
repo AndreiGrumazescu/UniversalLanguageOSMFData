@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1376460",
+  "japanese": "晴れ",
+  "kana": "はれ",
+  "meanings": [
+    "clear weather",
+    "fine weather"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "formal",
+    "ceremonial",
+    "public",
+    "cleared of suspicion"
+  ],
+  "category": "noun"
+}

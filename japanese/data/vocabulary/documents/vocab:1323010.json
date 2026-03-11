@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1323010",
+  "japanese": "謝る",
+  "kana": "あやまる",
+  "meanings": [
+    "to apologize (apologise)"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to refuse",
+    "to decline",
+    "to be unable to bear",
+    "to be defeated (by)",
+    "to be at a loss",
+    "to be stumped (by)"
+  ],
+  "category": "godan verb"
+}

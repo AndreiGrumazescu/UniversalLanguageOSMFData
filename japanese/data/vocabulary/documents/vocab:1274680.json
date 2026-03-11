@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1274680",
+  "japanese": "公募",
+  "kana": "こうぼ",
+  "meanings": [
+    "public appeal (e.g. for contributions)",
+    "public advertisement (of a post)",
+    "open recruitment"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "public offering (of securities)"
+  ],
+  "category": "noun"
+}

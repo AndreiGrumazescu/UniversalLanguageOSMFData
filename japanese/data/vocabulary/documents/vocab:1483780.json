@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1483780",
+  "japanese": "疲労",
+  "kana": "ひろう",
+  "meanings": [
+    "fatigue",
+    "weariness",
+    "exhaustion",
+    "tiredness"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "fatigue (of metal, etc.)"
+  ],
+  "category": "noun"
+}

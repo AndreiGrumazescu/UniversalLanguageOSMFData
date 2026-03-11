@@ -1,0 +1,14 @@
+{
+  "$id": "vocab:1438690",
+  "japanese": "天気",
+  "kana": "てんき",
+  "meanings": [
+    "weather"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "fair weather",
+    "fine weather"
+  ],
+  "category": "noun"
+}

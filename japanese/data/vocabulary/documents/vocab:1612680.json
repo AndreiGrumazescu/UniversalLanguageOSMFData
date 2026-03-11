@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1612680",
+  "japanese": "お休み",
+  "kana": "おやすみ",
+  "meanings": [
+    "holiday",
+    "day off",
+    "absence"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "sleep",
+    "rest",
+    "good night"
+  ],
+  "category": "noun"
+}

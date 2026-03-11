@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1584270",
+  "japanese": "本文",
+  "kana": "ほんぶん",
+  "meanings": [
+    "text (of a book, document, etc.)",
+    "body (of a letter)"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "this passage",
+    "this sentence"
+  ],
+  "category": "noun"
+}

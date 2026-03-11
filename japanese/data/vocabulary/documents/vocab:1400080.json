@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1400080",
+  "japanese": "操縦",
+  "kana": "そうじゅう",
+  "meanings": [
+    "steering",
+    "piloting",
+    "flying",
+    "control",
+    "operation",
+    "handling"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "management (of people)",
+    "handling",
+    "manipulation",
+    "maneuvering"
+  ],
+  "category": "noun"
+}

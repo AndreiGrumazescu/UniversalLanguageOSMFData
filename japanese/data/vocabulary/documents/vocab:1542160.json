@@ -1,0 +1,25 @@
+{
+  "$id": "vocab:1542160",
+  "japanese": "遊ぶ",
+  "kana": "あそぶ",
+  "meanings": [
+    "to play (games, sports)",
+    "to enjoy oneself",
+    "to have a good time"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "to mess about (with alcohol, gambling, philandery, etc.)",
+    "to be idle",
+    "to do nothing",
+    "to be unused",
+    "to meet up (with friends)",
+    "to hang out",
+    "to give oneself up (to gambling, drinking, etc.)",
+    "to go to (for pleasure or for study)",
+    "to tease (someone)",
+    "to play (with)",
+    "to intentionally throw a ball to lower the batter's concentration"
+  ],
+  "category": "godan verb"
+}

@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1310680",
+  "japanese": "止める",
+  "kana": "やめる",
+  "meanings": [
+    "to stop (an activity)",
+    "to cease",
+    "to discontinue",
+    "to end",
+    "to quit"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to cancel",
+    "to abandon",
+    "to give up",
+    "to abolish",
+    "to abstain",
+    "to refrain"
+  ],
+  "category": "ichidan verb"
+}

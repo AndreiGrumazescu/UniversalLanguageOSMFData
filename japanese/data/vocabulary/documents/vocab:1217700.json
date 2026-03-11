@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1217700",
+  "japanese": "頑張る",
+  "kana": "がんばる",
+  "meanings": [
+    "to persevere",
+    "to persist",
+    "to keep at it",
+    "to hang on",
+    "to hold out",
+    "to do one's best"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to insist that",
+    "to stick to (one's opinion)",
+    "to remain in a place",
+    "to stick to one's post",
+    "to refuse to budge"
+  ],
+  "category": "godan verb"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1486670",
+  "japanese": "美容",
+  "kana": "びよう",
+  "meanings": [
+    "beauty",
+    "good figure",
+    "(beautiful) appearance",
+    "(beautiful) features"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "beautification",
+    "beauty treatment",
+    "beauty culture",
+    "cosmetics"
+  ],
+  "category": "noun"
+}

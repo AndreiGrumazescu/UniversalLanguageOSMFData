@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1599760",
+  "japanese": "匂い",
+  "kana": "におい",
+  "meanings": [
+    "smell",
+    "scent",
+    "odour",
+    "odor",
+    "stench"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "aura",
+    "whiff",
+    "smack",
+    "flavour",
+    "flavor",
+    "mood",
+    "faint, mist-like pattern along the temper line of a Japanese sword"
+  ],
+  "category": "noun"
+}

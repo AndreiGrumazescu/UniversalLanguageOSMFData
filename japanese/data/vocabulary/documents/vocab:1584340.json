@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1584340",
+  "japanese": "埋まる",
+  "kana": "うまる",
+  "meanings": [
+    "to be buried",
+    "to be covered",
+    "to be surrounded"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to overflow",
+    "to be crowded",
+    "to be filled",
+    "to be repaid (e.g. debt)",
+    "to be replenished",
+    "to be filled (e.g. blank, vacancy, schedule)"
+  ],
+  "category": "godan verb"
+}

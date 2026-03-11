@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1410410",
+  "japanese": "帯",
+  "kana": "おび",
+  "meanings": [
+    "obi (kimono sash)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "obi (strip of paper looped around a book, CD, etc. containing information about the product)",
+    "band",
+    "belt",
+    "strip",
+    "cingulum",
+    "radio or television program broadcast in the same time slot on all or most days"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1419270",
+  "japanese": "団体",
+  "kana": "だんたい",
+  "meanings": [
+    "group",
+    "party",
+    "team"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "organization",
+    "organisation",
+    "association",
+    "group",
+    "body",
+    "society"
+  ],
+  "category": "noun"
+}

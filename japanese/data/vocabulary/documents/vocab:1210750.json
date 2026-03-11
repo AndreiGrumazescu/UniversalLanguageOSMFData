@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1210750",
+  "japanese": "勘定",
+  "kana": "かんじょう",
+  "meanings": [
+    "calculation",
+    "computation",
+    "counting",
+    "reckoning",
+    "count"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "bill",
+    "check",
+    "account",
+    "payment (of a bill)",
+    "settlement (of an account)",
+    "consideration",
+    "allowance"
+  ],
+  "category": "noun"
+}

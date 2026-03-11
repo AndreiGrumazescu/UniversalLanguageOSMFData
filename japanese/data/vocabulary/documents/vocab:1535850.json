@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1535850",
+  "japanese": "戻す",
+  "kana": "もどす",
+  "meanings": [
+    "to put back",
+    "to return",
+    "to give back",
+    "to restore (to a previous state, e.g. defrosting, reconstituting, reconciling)",
+    "to turn back (e.g. clock hand)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to vomit",
+    "to throw up",
+    "to recover (of a market price)"
+  ],
+  "category": "godan verb"
+}

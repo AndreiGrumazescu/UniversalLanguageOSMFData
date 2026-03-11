@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1515950",
+  "japanese": "奉仕",
+  "kana": "ほうし",
+  "meanings": [
+    "service",
+    "ministry",
+    "attendance",
+    "church work"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "offering goods at a reduced price",
+    "providing a service for free"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1604670",
+  "japanese": "見逃す",
+  "kana": "みのがす",
+  "meanings": [
+    "to miss",
+    "to overlook",
+    "to fail to notice"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to let pass (a matter)",
+    "to overlook (e.g. a wrongdoing)",
+    "to turn a blind eye to",
+    "to pass up (e.g. an opportunity)",
+    "to let (a good ball) go by"
+  ],
+  "category": "godan verb"
+}

@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1415020",
+  "japanese": "大方",
+  "kana": "おおかた",
+  "meanings": [
+    "large part",
+    "greater part",
+    "majority"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "people in general",
+    "general public",
+    "public at large",
+    "mostly",
+    "for the most part",
+    "almost",
+    "nearly",
+    "probably",
+    "maybe",
+    "perhaps"
+  ],
+  "category": "noun"
+}

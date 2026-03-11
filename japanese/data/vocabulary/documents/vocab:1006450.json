@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1006450",
+  "japanese": "ずれ",
+  "kana": "ずれ",
+  "meanings": [
+    "gap",
+    "lag",
+    "slippage"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "difference",
+    "discrepancy",
+    "shear (e.g. shear stress)"
+  ],
+  "category": "noun"
+}

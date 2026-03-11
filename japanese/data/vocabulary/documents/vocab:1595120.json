@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1595120",
+  "japanese": "芯",
+  "kana": "しん",
+  "meanings": [
+    "wick",
+    "marrow",
+    "staple (for stapler)",
+    "(pencil) lead",
+    "stuffing",
+    "pith"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "core",
+    "heart",
+    "centre",
+    "center",
+    "pistil (of a flower)",
+    "stamen"
+  ],
+  "category": "noun"
+}

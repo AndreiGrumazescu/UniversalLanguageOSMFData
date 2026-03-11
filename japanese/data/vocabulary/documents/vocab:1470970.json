@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1470970",
+  "japanese": "波",
+  "kana": "なみ",
+  "meanings": [
+    "wave",
+    "billow",
+    "ripple",
+    "breaker",
+    "swell"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "ups and downs",
+    "(something) advancing step by step",
+    "(something) surging forward inopposably",
+    "succession of changes",
+    "tendency",
+    "(new) wave"
+  ],
+  "category": "noun"
+}

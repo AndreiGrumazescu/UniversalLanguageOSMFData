@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1504680",
+  "japanese": "焚き火",
+  "kana": "たきび",
+  "meanings": [
+    "open-air fire (e.g. for garden refuse)",
+    "bonfire",
+    "campfire"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "open fire (e.g. in a kitchen)"
+  ],
+  "category": "noun"
+}

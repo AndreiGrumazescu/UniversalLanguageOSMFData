@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1333750",
+  "japanese": "集中",
+  "kana": "しゅうちゅう",
+  "meanings": [
+    "concentration (on a task)",
+    "focusing one's attention"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "concentration (of population, buildings, power, etc.)",
+    "centralization",
+    "convergence",
+    "focus (of a debate, questions, etc.)",
+    "within a collection of works"
+  ],
+  "category": "noun"
+}

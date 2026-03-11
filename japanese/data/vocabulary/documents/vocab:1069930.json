@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1069930",
+  "japanese": "スタンド",
+  "kana": "スタンド",
+  "meanings": [
+    "stands",
+    "bleachers"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "stand (e.g. newspaper stand)",
+    "counter (e.g. lunch counter)",
+    "stand (e.g. inkstand)",
+    "desk lamp",
+    "floor lamp",
+    "standard lamp",
+    "station (e.g. gas station)"
+  ],
+  "category": "noun"
+}

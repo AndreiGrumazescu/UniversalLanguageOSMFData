@@ -1,0 +1,36 @@
+{
+  "$id": "vocab:1266570",
+  "japanese": "固める",
+  "kana": "かためる",
+  "meanings": [
+    "to harden",
+    "to freeze",
+    "to strengthen",
+    "to solidify",
+    "to make (a fist)",
+    "to tramp down (snow, dirt)"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to put together",
+    "to collect",
+    "to gather",
+    "to consolidate",
+    "to make secure",
+    "to stabilize",
+    "to settle down",
+    "to strengthen (belief, resolution, etc.)",
+    "to establish (evidence)",
+    "to fortify",
+    "to reinforce",
+    "to support",
+    "to wear for a specific purpose (armor, coat, etc.)",
+    "to swear",
+    "to resolutely vow",
+    "to sincerely promise",
+    "to tie tightly",
+    "to fasten",
+    "to hold a bow fully drawn"
+  ],
+  "category": "ichidan verb"
+}

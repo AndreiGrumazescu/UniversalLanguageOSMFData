@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1496540",
+  "japanese": "夫人",
+  "kana": "ふじん",
+  "meanings": [
+    "wife",
+    "Mrs",
+    "Madam"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "wife of a nobleman",
+    "consort (of the emperor) of the third rank (ritsuryō system)"
+  ],
+  "category": "noun"
+}

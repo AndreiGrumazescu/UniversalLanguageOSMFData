@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1235950",
+  "japanese": "境",
+  "kana": "さかい",
+  "meanings": [
+    "border",
+    "boundary"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "turning point",
+    "watershed",
+    "area",
+    "region",
+    "spot",
+    "space",
+    "environment",
+    "psychological state",
+    "mental state",
+    "cognitive object",
+    "something perceptible by the sense organs or mind"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,25 @@
+{
+  "$id": "vocab:1037630",
+  "japanese": "カット",
+  "kana": "カット",
+  "meanings": [
+    "cut",
+    "cutting"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "omission",
+    "cutting",
+    "reduction",
+    "haircut",
+    "(continuous) shot (in a film or TV show)",
+    "illustration (in a book, newspaper, etc.)",
+    "cut",
+    "cut (shot; in tennis, table tennis, etc.)",
+    "chop",
+    "cutting (the ball)",
+    "cutting off (an outfielder's throw)",
+    "cut (of a deck of cards)"
+  ],
+  "category": "noun"
+}

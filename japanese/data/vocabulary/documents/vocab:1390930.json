@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1390930",
+  "japanese": "洗う",
+  "kana": "あらう",
+  "meanings": [
+    "to wash",
+    "to cleanse",
+    "to rinse"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "to inquire into",
+    "to investigate",
+    "to purify (one's heart)",
+    "to lave (e.g. shore)",
+    "to wash over (e.g. deck)",
+    "to sweep"
+  ],
+  "category": "godan verb"
+}

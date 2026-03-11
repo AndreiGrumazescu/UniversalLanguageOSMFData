@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1331300",
+  "japanese": "周辺",
+  "kana": "しゅうへん",
+  "meanings": [
+    "circumference",
+    "outskirts",
+    "environs",
+    "around",
+    "in the area of",
+    "in the vicinity of"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "(computer) peripheral"
+  ],
+  "category": "noun"
+}

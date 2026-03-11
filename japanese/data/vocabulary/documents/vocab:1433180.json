@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1433180",
+  "japanese": "通行",
+  "kana": "つうこう",
+  "meanings": [
+    "passage (of people or vehicles)",
+    "passing (through)",
+    "traffic"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "common usage",
+    "widespread use"
+  ],
+  "category": "noun"
+}

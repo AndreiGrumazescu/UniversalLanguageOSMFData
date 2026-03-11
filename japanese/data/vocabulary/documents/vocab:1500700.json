@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1500700",
+  "japanese": "復活",
+  "kana": "ふっかつ",
+  "meanings": [
+    "revival (of an old system, custom, fashion, etc.)",
+    "restoration",
+    "return",
+    "comeback"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "resurrection",
+    "rebirth"
+  ],
+  "category": "noun"
+}

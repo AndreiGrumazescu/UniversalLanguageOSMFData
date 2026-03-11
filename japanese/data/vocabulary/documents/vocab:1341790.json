@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1341790",
+  "japanese": "潤う",
+  "kana": "うるおう",
+  "meanings": [
+    "to become moist",
+    "to be moistened",
+    "to become damp",
+    "to get wet"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to profit (from)",
+    "to benefit",
+    "to become prosperous",
+    "to flourish",
+    "to be made rich",
+    "to be refreshed (of one's mind)",
+    "to be enriched (of one's heart)"
+  ],
+  "category": "godan verb"
+}

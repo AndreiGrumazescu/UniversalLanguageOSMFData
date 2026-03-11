@@ -1,0 +1,14 @@
+{
+  "$id": "vocab:1226760",
+  "japanese": "客席",
+  "kana": "きゃくせき",
+  "meanings": [
+    "guest seating (e.g. theater, stadium)",
+    "passenger seat (e.g. taxi)"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "audience"
+  ],
+  "category": "noun"
+}

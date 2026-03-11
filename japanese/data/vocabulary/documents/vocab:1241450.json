@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1241450",
+  "japanese": "琴",
+  "kana": "こと",
+  "meanings": [
+    "koto (13-stringed Japanese zither)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "stringed instrument",
+    "zheng (Chinese zither)",
+    "guzheng"
+  ],
+  "category": "noun"
+}

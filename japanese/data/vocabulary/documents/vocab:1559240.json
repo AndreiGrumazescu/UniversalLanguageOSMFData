@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1559240",
+  "japanese": "連なる",
+  "kana": "つらなる",
+  "meanings": [
+    "to extend",
+    "to stretch out",
+    "to stand in a row"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to attend",
+    "to participate in",
+    "to enrol",
+    "to enroll",
+    "to join",
+    "to have a connection",
+    "to be related",
+    "to be linked"
+  ],
+  "category": "godan verb"
+}

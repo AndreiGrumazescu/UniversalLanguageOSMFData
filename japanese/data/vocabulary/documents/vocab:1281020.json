@@ -1,0 +1,43 @@
+{
+  "$id": "vocab:1281020",
+  "japanese": "考える",
+  "kana": "かんがえる",
+  "meanings": [
+    "to think (about, of)",
+    "to think over",
+    "to ponder",
+    "to contemplate",
+    "to reflect (on)",
+    "to meditate (on)"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to consider",
+    "to bear in mind",
+    "to allow for",
+    "to take into consideration",
+    "to think (that)",
+    "to believe",
+    "to hold (a view)",
+    "to judge",
+    "to conclude",
+    "to suspect",
+    "to intend (to do)",
+    "to think of (doing)",
+    "to plan",
+    "to predict",
+    "to anticipate",
+    "to expect",
+    "to imagine",
+    "to come up with",
+    "to think up",
+    "to contrive",
+    "to devise",
+    "to consider (as)",
+    "to regard (as)",
+    "to look on (as)",
+    "to take",
+    "to view"
+  ],
+  "category": "ichidan verb"
+}

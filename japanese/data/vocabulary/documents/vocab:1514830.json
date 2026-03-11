@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1514830",
+  "japanese": "募集",
+  "kana": "ぼしゅう",
+  "meanings": [
+    "recruitment",
+    "invitation",
+    "selection",
+    "advertisement",
+    "taking applications"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "raising (funds, donations, etc.)",
+    "collection",
+    "subscription",
+    "solicitation",
+    "flotation (of shares, loans, etc.)"
+  ],
+  "category": "noun"
+}

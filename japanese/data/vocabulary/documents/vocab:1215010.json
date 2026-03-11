@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1215010",
+  "japanese": "観念",
+  "kana": "かんねん",
+  "meanings": [
+    "idea",
+    "notion",
+    "concept",
+    "conception"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "sense (e.g. of duty)",
+    "resignation (to one's fate)",
+    "acceptance",
+    "preparedness",
+    "observation and contemplation",
+    "meditation"
+  ],
+  "category": "noun"
+}

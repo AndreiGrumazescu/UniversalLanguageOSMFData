@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1282220",
+  "japanese": "行列",
+  "kana": "ぎょうれつ",
+  "meanings": [
+    "line",
+    "queue",
+    "procession",
+    "parade"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "matrix"
+  ],
+  "category": "noun"
+}

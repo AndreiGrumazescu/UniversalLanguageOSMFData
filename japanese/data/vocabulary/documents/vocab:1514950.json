@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1514950",
+  "japanese": "暮れ",
+  "kana": "くれ",
+  "meanings": [
+    "sunset",
+    "sundown",
+    "nightfall",
+    "dusk"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "end",
+    "close",
+    "year-end",
+    "end of the year"
+  ],
+  "category": "noun"
+}

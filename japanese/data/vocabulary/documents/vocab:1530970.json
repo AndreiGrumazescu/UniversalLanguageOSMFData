@@ -1,0 +1,27 @@
+{
+  "$id": "vocab:1530970",
+  "japanese": "無理",
+  "kana": "むり",
+  "meanings": [
+    "unreasonable",
+    "unnatural",
+    "unjustifiable"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "impossible",
+    "forcible",
+    "forced",
+    "compulsory",
+    "excessive (work, etc.)",
+    "immoderate",
+    "to work too hard",
+    "to try too hard",
+    "no way",
+    "not a chance",
+    "never",
+    "dream on",
+    "irrational"
+  ],
+  "category": "na-adjective"
+}

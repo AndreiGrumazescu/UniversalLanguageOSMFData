@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1198920",
+  "japanese": "解ける",
+  "kana": "ほどける",
+  "meanings": [
+    "to come loose",
+    "to come untied",
+    "to come undone",
+    "to unravel"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to loosen up (e.g. tension)"
+  ],
+  "category": "ichidan verb"
+}

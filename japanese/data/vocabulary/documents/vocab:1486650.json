@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1486650",
+  "japanese": "美味しい",
+  "kana": "おいしい",
+  "meanings": [
+    "good(-tasting)",
+    "nice",
+    "delicious",
+    "tasty"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "attractive (offer, opportunity, etc.)",
+    "appealing",
+    "convenient",
+    "favorable",
+    "desirable",
+    "profitable"
+  ],
+  "category": "i-adjective"
+}

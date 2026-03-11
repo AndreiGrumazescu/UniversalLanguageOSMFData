@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1358550",
+  "japanese": "食堂",
+  "kana": "しょくどう",
+  "meanings": [
+    "dining room",
+    "dining hall",
+    "cafeteria",
+    "canteen",
+    "messroom"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "restaurant",
+    "eatery",
+    "snack bar",
+    "diner"
+  ],
+  "category": "noun"
+}

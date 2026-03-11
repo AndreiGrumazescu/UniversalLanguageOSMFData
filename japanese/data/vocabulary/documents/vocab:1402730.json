@@ -1,0 +1,31 @@
+{
+  "$id": "vocab:1402730",
+  "japanese": "送る",
+  "kana": "おくる",
+  "meanings": [
+    "to send",
+    "to dispatch",
+    "to forward",
+    "to transmit",
+    "to ship",
+    "to remit"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to see (someone) off",
+    "to escort",
+    "to accompany",
+    "to take",
+    "to bid farewell to (the departed)",
+    "to say goodbye to",
+    "to bury",
+    "to spend (time)",
+    "to pass",
+    "to lead (a life)",
+    "to live",
+    "to pass (on, along)",
+    "to advance (a runner)",
+    "to affix (okurigana)"
+  ],
+  "category": "godan verb"
+}

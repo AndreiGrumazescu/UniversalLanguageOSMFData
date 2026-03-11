@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1365860",
+  "japanese": "辛い",
+  "kana": "つらい",
+  "meanings": [
+    "painful",
+    "bitter",
+    "heart-breaking",
+    "difficult (emotionally)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "tough",
+    "difficult",
+    "hard (usu. of situations)",
+    "cruel",
+    "harsh",
+    "cold"
+  ],
+  "category": "i-adjective"
+}

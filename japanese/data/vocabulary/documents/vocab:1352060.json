@@ -1,0 +1,25 @@
+{
+  "$id": "vocab:1352060",
+  "japanese": "障害",
+  "kana": "しょうがい",
+  "meanings": [
+    "obstacle",
+    "impediment",
+    "hindrance",
+    "barrier",
+    "difficulty"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "disorder",
+    "defect",
+    "disability",
+    "handicap",
+    "impairment",
+    "dysfunction",
+    "steeplechase",
+    "obstacle race",
+    "steeplechase (athletics)"
+  ],
+  "category": "noun"
+}

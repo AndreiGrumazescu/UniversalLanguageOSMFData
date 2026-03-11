@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1223980",
+  "japanese": "軌道",
+  "kana": "きどう",
+  "meanings": [
+    "orbit",
+    "trajectory"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "(railroad) track",
+    "(right) track",
+    "proper course"
+  ],
+  "category": "noun"
+}

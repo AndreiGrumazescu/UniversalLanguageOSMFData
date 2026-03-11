@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1499830",
+  "japanese": "風景",
+  "kana": "ふうけい",
+  "meanings": [
+    "scenery",
+    "scene",
+    "landscape",
+    "view",
+    "sight"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "scene (e.g. of a crime)"
+  ],
+  "category": "noun"
+}

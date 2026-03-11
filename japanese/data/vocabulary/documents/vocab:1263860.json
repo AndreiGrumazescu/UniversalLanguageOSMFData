@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1263860",
+  "japanese": "現地",
+  "kana": "げんち",
+  "meanings": [
+    "actual place",
+    "actual location",
+    "the spot",
+    "the scene",
+    "the field",
+    "(on) site"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "place where one is currently living"
+  ],
+  "category": "noun"
+}

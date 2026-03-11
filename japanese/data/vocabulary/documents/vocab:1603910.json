@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1603910",
+  "japanese": "勝る",
+  "kana": "まさる",
+  "meanings": [
+    "to excel",
+    "to surpass",
+    "to exceed",
+    "to have an edge",
+    "to be superior",
+    "to outrival"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to outweigh",
+    "to preponderate"
+  ],
+  "category": "godan verb"
+}

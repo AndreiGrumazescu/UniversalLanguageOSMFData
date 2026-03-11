@@ -1,0 +1,32 @@
+{
+  "$id": "vocab:1250220",
+  "japanese": "形",
+  "kana": "かたち",
+  "meanings": [
+    "(physical) form",
+    "shape",
+    "figure"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "visage",
+    "(facial) features",
+    "appearance (of a person)",
+    "figure",
+    "looks",
+    "form (as opposed to substance)",
+    "manner (of action)",
+    "style",
+    "(outward) appearance",
+    "(resultant) state",
+    "situation",
+    "condition",
+    "form",
+    "behaviour (towards others)",
+    "attitude",
+    "demeanor",
+    "manners",
+    "shape (positional qualities of a group of stones)"
+  ],
+  "category": "noun"
+}

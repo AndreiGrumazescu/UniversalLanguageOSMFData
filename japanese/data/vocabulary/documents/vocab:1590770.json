@@ -1,0 +1,30 @@
+{
+  "$id": "vocab:1590770",
+  "japanese": "代わり",
+  "kana": "かわり",
+  "meanings": [
+    "substitute",
+    "replacement",
+    "substituting",
+    "replacing"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "stand-in",
+    "proxy",
+    "alternate",
+    "deputy",
+    "relief",
+    "successor",
+    "compensation",
+    "exchange",
+    "return",
+    "another helping",
+    "second helping",
+    "seconds",
+    "refill",
+    "upcoming program",
+    "upcoming programme"
+  ],
+  "category": "noun"
+}

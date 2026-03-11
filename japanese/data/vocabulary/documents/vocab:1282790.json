@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1282790",
+  "japanese": "降る",
+  "kana": "ふる",
+  "meanings": [
+    "to fall (of rain, snow, ash, etc.)",
+    "to come down"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "to form (of frost)",
+    "to beam down (of sunlight or moonlight)",
+    "to pour in",
+    "to visit (of luck, misfortune, etc.)",
+    "to come",
+    "to arrive"
+  ],
+  "category": "godan verb"
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1199250",
+  "japanese": "解放",
+  "kana": "かいほう",
+  "meanings": [
+    "release",
+    "unleashing",
+    "liberation",
+    "emancipation",
+    "setting free"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "deallocation (of computer memory)"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,38 @@
+{
+  "$id": "vocab:1310670",
+  "japanese": "止める",
+  "kana": "とめる",
+  "meanings": [
+    "to stop",
+    "to turn off"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to park",
+    "to prevent",
+    "to suppress (a cough)",
+    "to hold back (tears)",
+    "to hold (one's breath)",
+    "to relieve (pain)",
+    "to stop (someone from doing something)",
+    "to dissuade",
+    "to forbid",
+    "to prohibit",
+    "to notice",
+    "to be aware of",
+    "to concentrate on",
+    "to pay attention to",
+    "to remember",
+    "to bear in mind",
+    "to fix (in place)",
+    "to fasten",
+    "to tack",
+    "to pin",
+    "to nail",
+    "to button",
+    "to staple",
+    "to detain",
+    "to keep in custody"
+  ],
+  "category": "ichidan verb"
+}

@@ -1,0 +1,32 @@
+{
+  "$id": "vocab:1383800",
+  "japanese": "切り",
+  "kana": "きり",
+  "meanings": [
+    "end",
+    "finish",
+    "place to stop"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "bound",
+    "limit",
+    "end",
+    "delivery date (of a futures contract)",
+    "finale (of a noh song)",
+    "end of an act (in jōruri or kabuki)",
+    "final performance of the day (in vaudeville)",
+    "trump card",
+    "king (court card; in mekuri karuta and unsun karuta)",
+    "counter for slices (esp. thick slices)",
+    "counter for cuts (of fish, meat, etc.)",
+    "only",
+    "just",
+    "(ever) since",
+    "after",
+    "continuously",
+    "remaining (in a particular state)",
+    "cut"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1200730",
+  "japanese": "改まる",
+  "kana": "あらたまる",
+  "meanings": [
+    "to be renewed",
+    "to change"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to be improved",
+    "to be reformed",
+    "to be revised",
+    "to be corrected",
+    "to stand on ceremony",
+    "to be formal",
+    "to take a turn for the worse (of an illness)",
+    "to take a serious turn"
+  ],
+  "category": "godan verb"
+}

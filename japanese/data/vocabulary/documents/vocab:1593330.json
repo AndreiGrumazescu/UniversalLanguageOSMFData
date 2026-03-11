@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1593330",
+  "japanese": "言付ける",
+  "kana": "ことづける",
+  "meanings": [
+    "to have someone send (a message, parcel, etc.)",
+    "to send (via someone else)",
+    "to leave (a message) with someone"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to use as an excuse",
+    "to make a pretext of"
+  ],
+  "category": "ichidan verb"
+}

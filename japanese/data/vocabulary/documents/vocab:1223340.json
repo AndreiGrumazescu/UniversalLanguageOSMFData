@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1223340",
+  "japanese": "記念",
+  "kana": "きねん",
+  "meanings": [
+    "commemoration",
+    "celebration",
+    "remembrance",
+    "memory",
+    "honoring the memory of"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "memento",
+    "souvenir",
+    "keepsake"
+  ],
+  "category": "noun"
+}

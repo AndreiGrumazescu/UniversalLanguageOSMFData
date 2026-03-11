@@ -1,0 +1,13 @@
+{
+  "$id": "vocab:1267030",
+  "japanese": "戸籍",
+  "kana": "こせき",
+  "meanings": [
+    "family register"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "census"
+  ],
+  "category": "noun"
+}

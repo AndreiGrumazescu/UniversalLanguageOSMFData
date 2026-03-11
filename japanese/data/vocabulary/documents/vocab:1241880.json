@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1241880",
+  "japanese": "緊張",
+  "kana": "きんちょう",
+  "meanings": [
+    "tension",
+    "strain",
+    "nervousness",
+    "stress"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "tensions (between countries, groups, etc.)",
+    "tonus",
+    "muscle tone"
+  ],
+  "category": "noun"
+}

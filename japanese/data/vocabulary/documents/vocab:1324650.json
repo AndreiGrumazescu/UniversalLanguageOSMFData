@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1324650",
+  "japanese": "弱る",
+  "kana": "よわる",
+  "meanings": [
+    "to weaken",
+    "to grow weak",
+    "to wane",
+    "to decline (of one's health)"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to be downcast",
+    "to be dejected",
+    "to be dispirited",
+    "to be troubled",
+    "to be at a loss",
+    "to be perplexed",
+    "to be annoyed"
+  ],
+  "category": "godan verb"
+}

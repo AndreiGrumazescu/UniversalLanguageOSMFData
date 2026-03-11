@@ -1,0 +1,32 @@
+{
+  "$id": "vocab:1203260",
+  "japanese": "他",
+  "kana": "ほか",
+  "meanings": [
+    "another place",
+    "some other place",
+    "somewhere else",
+    "outside"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "another (person or thing)",
+    "other",
+    "different",
+    "something else",
+    "someone else",
+    "the rest",
+    "et al.",
+    "beyond (one's expectations, imagination, etc.)",
+    "outside",
+    "except",
+    "but",
+    "other than",
+    "apart from",
+    "besides",
+    "in addition to",
+    "as well as",
+    "on top of"
+  ],
+  "category": "noun"
+}

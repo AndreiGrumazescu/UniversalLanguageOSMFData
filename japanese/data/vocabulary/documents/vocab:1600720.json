@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1600720",
+  "japanese": "激しい",
+  "kana": "はげしい",
+  "meanings": [
+    "violent",
+    "furious",
+    "tempestuous"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "extreme",
+    "intense",
+    "fierce",
+    "strong",
+    "fervent",
+    "vehement",
+    "incessant",
+    "relentless",
+    "precipitous",
+    "steep"
+  ],
+  "category": "i-adjective"
+}

@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1389430",
+  "japanese": "占う",
+  "kana": "うらなう",
+  "meanings": [
+    "to tell someone's fortune",
+    "to divine (the future)"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to predict",
+    "to forecast"
+  ],
+  "category": "godan verb"
+}

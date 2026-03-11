@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1009210",
+  "japanese": "どっと",
+  "kana": "どっと",
+  "meanings": [
+    "bursting out (laughter)",
+    "breaking out (applause)",
+    "roaring",
+    "whooping"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "in a rush",
+    "in a surge",
+    "flooding in",
+    "pouring in",
+    "suddenly",
+    "all of a sudden"
+  ],
+  "category": "adverb"
+}

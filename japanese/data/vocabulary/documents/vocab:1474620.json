@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1474620",
+  "japanese": "博士",
+  "kana": "はかせ",
+  "meanings": [
+    "expert",
+    "learned person"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "doctor",
+    "PhD",
+    "Dr.",
+    "instructor at the imperial court (ritsuryō period)",
+    "pitch and length marks (to accompany a Buddhist liturgical chant, etc.)"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1216880",
+  "japanese": "含む",
+  "kana": "ふくむ",
+  "meanings": [
+    "to contain",
+    "to comprise",
+    "to have",
+    "to hold",
+    "to include",
+    "to embrace"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to hold in the mouth",
+    "to bear in mind",
+    "to understand",
+    "to harbor (grudge, etc.)",
+    "to harbour",
+    "to express (emotion, etc.)",
+    "to imply"
+  ],
+  "category": "godan verb"
+}

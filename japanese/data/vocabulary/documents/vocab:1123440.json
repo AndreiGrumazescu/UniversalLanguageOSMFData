@@ -1,0 +1,14 @@
+{
+  "$id": "vocab:1123440",
+  "japanese": "ボート",
+  "kana": "ボート",
+  "meanings": [
+    "boat"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "rowboat",
+    "rowing boat"
+  ],
+  "category": "noun"
+}

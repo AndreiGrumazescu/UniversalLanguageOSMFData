@@ -1,0 +1,19 @@
+{
+  "$id": "vocab:1206060",
+  "japanese": "覚ます",
+  "kana": "さます",
+  "meanings": [
+    "to awaken",
+    "to arouse from sleep"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to bring to one's senses",
+    "to disabuse (someone of)",
+    "to sober up",
+    "to dampen",
+    "to throw a damper on",
+    "to spoil"
+  ],
+  "category": "godan verb"
+}

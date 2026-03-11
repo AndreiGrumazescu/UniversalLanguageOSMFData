@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1168880",
+  "japanese": "引き起こす",
+  "kana": "ひきおこす",
+  "meanings": [
+    "to cause",
+    "to induce",
+    "to bring about",
+    "to provoke"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to pull upright",
+    "to help up (e.g. a fallen person)"
+  ],
+  "category": "godan verb"
+}

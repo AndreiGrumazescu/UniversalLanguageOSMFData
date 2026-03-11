@@ -1,0 +1,24 @@
+{
+  "$id": "vocab:1460830",
+  "japanese": "難",
+  "kana": "なん",
+  "meanings": [
+    "difficulty",
+    "trouble",
+    "hardship",
+    "shortage"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "accident",
+    "disaster",
+    "danger",
+    "fault",
+    "defect",
+    "flaw",
+    "criticism",
+    "charge",
+    "blame"
+  ],
+  "category": "noun"
+}

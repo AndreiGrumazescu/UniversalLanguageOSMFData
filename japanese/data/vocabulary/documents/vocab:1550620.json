@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1550620",
+  "japanese": "裏返し",
+  "kana": "うらがえし",
+  "meanings": [
+    "inside out",
+    "upside down"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "flip side",
+    "opposite",
+    "contrary",
+    "reverse"
+  ],
+  "category": "noun"
+}

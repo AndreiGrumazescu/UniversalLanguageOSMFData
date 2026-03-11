@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1196520",
+  "japanese": "霞む",
+  "kana": "かすむ",
+  "meanings": [
+    "to become misty",
+    "to become hazy"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to get blurry",
+    "to grow dim",
+    "to be overshadowed",
+    "to be upstaged",
+    "to be outshone"
+  ],
+  "category": "godan verb"
+}

@@ -1,0 +1,23 @@
+{
+  "$id": "vocab:1531870",
+  "japanese": "名誉",
+  "kana": "めいよ",
+  "meanings": [
+    "honor",
+    "honour",
+    "credit",
+    "glory",
+    "fame",
+    "distinction"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "prestige",
+    "dignity",
+    "reputation",
+    "honor",
+    "good name",
+    "honorary (e.g. president, doctorate)"
+  ],
+  "category": "noun"
+}

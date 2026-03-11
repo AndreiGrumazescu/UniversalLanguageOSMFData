@@ -1,0 +1,28 @@
+{
+  "$id": "vocab:1355790",
+  "japanese": "場",
+  "kana": "ば",
+  "meanings": [
+    "place",
+    "spot",
+    "space"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "field",
+    "discipline",
+    "sphere",
+    "realm",
+    "occasion",
+    "situation",
+    "scene (of a play, movie, etc.)",
+    "session",
+    "field",
+    "table",
+    "area in which cards are laid out",
+    "round (east, south, etc.)",
+    "field",
+    "field (in Gestalt psychology)"
+  ],
+  "category": "noun"
+}

@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1206120",
+  "japanese": "角",
+  "kana": "つの",
+  "meanings": [
+    "horn",
+    "antler"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "antenna",
+    "feeler",
+    "tentacle (e.g. of a snail)",
+    "horn-like projection (e.g. peaks of whipped cream)"
+  ],
+  "category": "noun"
+}

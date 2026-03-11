@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1199270",
+  "japanese": "解剖",
+  "kana": "かいぼう",
+  "meanings": [
+    "dissection",
+    "autopsy",
+    "postmortem examination"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "analysis",
+    "postmortem"
+  ],
+  "category": "noun"
+}

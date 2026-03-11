@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1075060",
+  "japanese": "センチ",
+  "kana": "センチ",
+  "meanings": [
+    "centimeter",
+    "centimetre"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "centi-",
+    "10^-2",
+    "sentimental"
+  ],
+  "category": "noun"
+}

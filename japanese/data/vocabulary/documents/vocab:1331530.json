@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1331530",
+  "japanese": "就く",
+  "kana": "つく",
+  "meanings": [
+    "to take (seat, position, course, office, etc.)",
+    "to assume",
+    "to be hired",
+    "to be employed"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to ascend (the throne)",
+    "to accede",
+    "to start (on a journey)",
+    "to commence",
+    "to depart",
+    "to study (under teacher)",
+    "to be an apprentice"
+  ],
+  "category": "godan verb"
+}

@@ -1,0 +1,30 @@
+{
+  "$id": "vocab:1429170",
+  "japanese": "調子",
+  "kana": "ちょうし",
+  "meanings": [
+    "tune",
+    "tone",
+    "key",
+    "pitch",
+    "time",
+    "rhythm"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "vein",
+    "mood",
+    "way",
+    "manner",
+    "style",
+    "knack",
+    "condition",
+    "state of health",
+    "shape",
+    "impetus",
+    "spur of the moment",
+    "strain",
+    "trend"
+  ],
+  "category": "noun"
+}

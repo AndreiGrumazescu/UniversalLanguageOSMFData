@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1474850",
+  "japanese": "泊まる",
+  "kana": "とまる",
+  "meanings": [
+    "to stay at (e.g. hotel)"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to be docked",
+    "to be berthed",
+    "to be moored"
+  ],
+  "category": "godan verb"
+}

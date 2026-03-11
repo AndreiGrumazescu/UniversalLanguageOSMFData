@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1215330",
+  "japanese": "間違える",
+  "kana": "まちがえる",
+  "meanings": [
+    "to make a mistake (in)",
+    "to commit an error",
+    "to get wrong",
+    "to do incorrectly"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to mistake (one thing for another)",
+    "to confuse"
+  ],
+  "category": "ichidan verb"
+}

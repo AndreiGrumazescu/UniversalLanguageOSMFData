@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1956960",
+  "japanese": "無",
+  "kana": "む",
+  "meanings": [
+    "nothing",
+    "naught",
+    "nought",
+    "nil",
+    "zero"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "un-",
+    "non-"
+  ],
+  "category": "noun"
+}

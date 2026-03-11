@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1295610",
+  "japanese": "細工",
+  "kana": "さいく",
+  "meanings": [
+    "work",
+    "workmanship",
+    "craftsmanship",
+    "handiwork"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "artifice",
+    "trick",
+    "device",
+    "tampering",
+    "doctoring"
+  ],
+  "category": "noun"
+}

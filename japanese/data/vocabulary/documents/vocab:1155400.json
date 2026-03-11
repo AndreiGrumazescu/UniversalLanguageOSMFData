@@ -1,0 +1,28 @@
+{
+  "$id": "vocab:1155400",
+  "japanese": "位",
+  "kana": "くらい",
+  "meanings": [
+    "throne",
+    "crown",
+    "(nobleman's) seat"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "government position",
+    "court rank",
+    "social standing",
+    "rank",
+    "class",
+    "echelon",
+    "rung",
+    "grade (of quality, etc.)",
+    "level",
+    "tier",
+    "rank",
+    "position of a figure (e.g. tens, thousands)",
+    "digit",
+    "(decimal) place"
+  ],
+  "category": "noun"
+}

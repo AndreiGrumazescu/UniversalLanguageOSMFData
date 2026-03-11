@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1516510",
+  "japanese": "放り出す",
+  "kana": "ほうりだす",
+  "meanings": [
+    "to throw out"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to drop",
+    "to toss",
+    "to dump",
+    "to abandon",
+    "to neglect",
+    "to leave behind",
+    "to give up",
+    "to dismiss",
+    "to fire",
+    "to expel"
+  ],
+  "category": "godan verb"
+}

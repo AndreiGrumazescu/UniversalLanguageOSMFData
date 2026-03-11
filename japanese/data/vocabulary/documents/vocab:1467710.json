@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1467710",
+  "japanese": "熱",
+  "kana": "ねつ",
+  "meanings": [
+    "heat"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "fever",
+    "temperature",
+    "zeal",
+    "passion",
+    "enthusiasm",
+    "mania",
+    "craze",
+    "rage"
+  ],
+  "category": "noun"
+}

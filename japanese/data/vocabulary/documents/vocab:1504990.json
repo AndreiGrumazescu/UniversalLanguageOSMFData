@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1504990",
+  "japanese": "紛らわしい",
+  "kana": "まぎらわしい",
+  "meanings": [
+    "easily mixed up (e.g. similar words)",
+    "easily mistaken",
+    "confusing",
+    "misleading",
+    "equivocal",
+    "ambiguous"
+  ],
+  "jlptLevel": "N1",
+  "category": "i-adjective"
+}

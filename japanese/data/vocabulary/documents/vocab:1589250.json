@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1589250",
+  "japanese": "落し物",
+  "kana": "おとしもの",
+  "meanings": [
+    "lost property",
+    "something dropped and left behind"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "dropping something (without realising)",
+    "losing something"
+  ],
+  "category": "noun"
+}

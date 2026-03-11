@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1263550",
+  "japanese": "現金",
+  "kana": "げんきん",
+  "meanings": [
+    "cash",
+    "ready money",
+    "money on hand",
+    "currency"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "mercenary",
+    "self-interested",
+    "calculating"
+  ],
+  "category": "noun"
+}

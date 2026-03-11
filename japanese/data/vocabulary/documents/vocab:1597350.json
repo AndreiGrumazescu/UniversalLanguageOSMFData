@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1597350",
+  "japanese": "段々",
+  "kana": "だんだん",
+  "meanings": [
+    "gradually",
+    "by degrees",
+    "little by little",
+    "more and more",
+    "increasingly"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "steps",
+    "stairs",
+    "staircase",
+    "terrace"
+  ],
+  "category": "adverb"
+}

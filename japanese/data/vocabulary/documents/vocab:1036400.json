@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1036400",
+  "japanese": "カード",
+  "kana": "カード",
+  "meanings": [
+    "card (information, filing, etc.)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "card (greetings, congratulations, etc.)",
+    "(Western) playing cards",
+    "credit card",
+    "debit card",
+    "card",
+    "program",
+    "matchup",
+    "pairing",
+    "dough scraper",
+    "spatula"
+  ],
+  "category": "noun"
+}

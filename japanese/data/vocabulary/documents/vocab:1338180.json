@@ -1,0 +1,28 @@
+{
+  "$id": "vocab:1338180",
+  "japanese": "出す",
+  "kana": "だす",
+  "meanings": [
+    "to take out",
+    "to get out"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "to put out",
+    "to reveal",
+    "to show",
+    "to submit (e.g. thesis)",
+    "to turn in",
+    "to publish",
+    "to make public",
+    "to send (e.g. letter)",
+    "to produce (a sound)",
+    "to start (fire)",
+    "to serve (food)",
+    "... out (e.g. to jump out, to carry out)",
+    "to begin ...",
+    "to start to ...",
+    "to burst into ..."
+  ],
+  "category": "godan verb"
+}

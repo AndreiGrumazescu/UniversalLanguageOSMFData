@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1385910",
+  "japanese": "折る",
+  "kana": "おる",
+  "meanings": [
+    "to break",
+    "to fracture",
+    "to break off",
+    "to snap off",
+    "to pick (e.g. flowers)"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to fold",
+    "to bend",
+    "to make (origami)",
+    "to interrupt",
+    "to end"
+  ],
+  "category": "godan verb"
+}

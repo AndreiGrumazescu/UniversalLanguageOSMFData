@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1514110",
+  "japanese": "捕まる",
+  "kana": "つかまる",
+  "meanings": [
+    "to be caught",
+    "to be arrested"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to hold on to",
+    "to grasp",
+    "to find (e.g. proof)",
+    "to get (e.g. a taxi)",
+    "to be detained by"
+  ],
+  "category": "godan verb"
+}

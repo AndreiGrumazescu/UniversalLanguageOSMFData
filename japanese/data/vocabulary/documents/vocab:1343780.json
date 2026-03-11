@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1343780",
+  "japanese": "書き取る",
+  "kana": "かきとる",
+  "meanings": [
+    "to write down (what someone says)",
+    "to take down dictation",
+    "to take notes (e.g. of a lecture)"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to copy out (a text)"
+  ],
+  "category": "godan verb"
+}

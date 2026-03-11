@@ -1,0 +1,14 @@
+{
+  "$id": "vocab:1577310",
+  "japanese": "火傷",
+  "kana": "やけど",
+  "meanings": [
+    "burn",
+    "scald"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "getting one's fingers burned (e.g. poor investment, mixing with the wrong people)"
+  ],
+  "category": "noun"
+}

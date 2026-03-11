@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1198530",
+  "japanese": "会合",
+  "kana": "かいごう",
+  "meanings": [
+    "meeting",
+    "assembly",
+    "gathering"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "association",
+    "conjunction"
+  ],
+  "category": "noun"
+}

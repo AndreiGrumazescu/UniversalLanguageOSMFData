@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1445470",
+  "japanese": "土地",
+  "kana": "とち",
+  "meanings": [
+    "plot of land",
+    "lot",
+    "soil"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "locality",
+    "region",
+    "place"
+  ],
+  "category": "noun"
+}

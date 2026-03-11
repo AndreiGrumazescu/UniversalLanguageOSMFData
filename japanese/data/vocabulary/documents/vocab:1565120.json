@@ -1,0 +1,16 @@
+{
+  "$id": "vocab:1565120",
+  "japanese": "呟く",
+  "kana": "つぶやく",
+  "meanings": [
+    "to mutter",
+    "to murmur",
+    "to grumble"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to tweet",
+    "to post on Twitter"
+  ],
+  "category": "godan verb"
+}

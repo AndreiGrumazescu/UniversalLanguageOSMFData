@@ -1,0 +1,22 @@
+{
+  "$id": "vocab:1001140",
+  "japanese": "ええ",
+  "kana": "ええ",
+  "meanings": [
+    "yes",
+    "that is correct",
+    "right"
+  ],
+  "jlptLevel": "N5",
+  "secondaryMeanings": [
+    "um",
+    "errr",
+    "well",
+    "huh?",
+    "grrr",
+    "gah",
+    "must I?",
+    "good"
+  ],
+  "category": "interjection"
+}

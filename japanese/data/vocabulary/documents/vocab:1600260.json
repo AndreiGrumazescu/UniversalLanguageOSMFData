@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1600260",
+  "japanese": "残す",
+  "kana": "のこす",
+  "meanings": [
+    "to leave (behind)"
+  ],
+  "jlptLevel": "N3",
+  "secondaryMeanings": [
+    "to leave (undone)",
+    "to not finish",
+    "to save",
+    "to set aside",
+    "to reserve",
+    "to leave (to someone, esp. after one's death)",
+    "to bequeath",
+    "to stay (in the ring)",
+    "to hold on"
+  ],
+  "category": "godan verb"
+}

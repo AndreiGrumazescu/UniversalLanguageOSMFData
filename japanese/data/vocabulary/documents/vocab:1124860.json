@@ -1,0 +1,30 @@
+{
+  "$id": "vocab:1124860",
+  "japanese": "ポイント",
+  "kana": "ポイント",
+  "meanings": [
+    "point (of a story, argument, etc.)",
+    "key point",
+    "important part"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "point",
+    "site",
+    "spot",
+    "point (in scoring)",
+    "point (in a loyalty program)",
+    "points",
+    "(percentage) point",
+    "(decimal) point",
+    "switch",
+    "points",
+    "point (unit of type measurement)",
+    "point (in a stock index)",
+    "place where many fish gather",
+    "ace",
+    "(projectile) point",
+    "to point (at)"
+  ],
+  "category": "noun"
+}

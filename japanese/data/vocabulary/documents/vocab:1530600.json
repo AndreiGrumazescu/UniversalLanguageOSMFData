@@ -1,0 +1,15 @@
+{
+  "$id": "vocab:1530600",
+  "japanese": "無断",
+  "kana": "むだん",
+  "meanings": [
+    "absence of permission",
+    "lack of permission"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "absence of (advance) notice",
+    "lack of notice"
+  ],
+  "category": "noun"
+}

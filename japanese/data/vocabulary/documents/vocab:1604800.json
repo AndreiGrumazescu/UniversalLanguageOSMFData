@@ -1,0 +1,14 @@
+{
+  "$id": "vocab:1604800",
+  "japanese": "向かう",
+  "kana": "むかう",
+  "meanings": [
+    "to face"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to go towards",
+    "to head towards"
+  ],
+  "category": "godan verb"
+}

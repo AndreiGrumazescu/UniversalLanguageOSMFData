@@ -1,0 +1,28 @@
+{
+  "$id": "vocab:1297050",
+  "japanese": "冴える",
+  "kana": "さえる",
+  "meanings": [
+    "to be clear (of a sight, sound, colour, etc.)",
+    "to be bright",
+    "to be vivid",
+    "to be crisp"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to be clear-headed",
+    "to be alert",
+    "to be on the ball",
+    "to be wide awake",
+    "to look upbeat",
+    "to be perky",
+    "to be cheerful",
+    "to master (a skill)",
+    "to excel at",
+    "to cleanly execute",
+    "to be satisfying",
+    "to become frigid",
+    "to become intensely cold"
+  ],
+  "category": "ichidan verb"
+}

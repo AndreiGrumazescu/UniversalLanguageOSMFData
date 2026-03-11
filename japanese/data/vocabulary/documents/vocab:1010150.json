@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1010150",
+  "japanese": "はっきり",
+  "kana": "はっきり",
+  "meanings": [
+    "clearly",
+    "plainly",
+    "distinctly"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to be clear",
+    "to be definite",
+    "to be certain",
+    "to be exact",
+    "to become clear",
+    "to clear up"
+  ],
+  "category": "adverb"
+}

@@ -1,0 +1,18 @@
+{
+  "$id": "vocab:1333330",
+  "japanese": "襲う",
+  "kana": "おそう",
+  "meanings": [
+    "to attack",
+    "to assail",
+    "to make an assault",
+    "to strike",
+    "to hunt down"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "to succeed (someone in a post, role, etc.)",
+    "to make a sudden visit"
+  ],
+  "category": "godan verb"
+}

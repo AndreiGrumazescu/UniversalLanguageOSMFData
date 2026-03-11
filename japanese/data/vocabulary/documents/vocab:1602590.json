@@ -1,0 +1,28 @@
+{
+  "$id": "vocab:1602590",
+  "japanese": "塞ぐ",
+  "kana": "ふさぐ",
+  "meanings": [
+    "to stop up",
+    "to close up",
+    "to block (up)",
+    "to plug up",
+    "to shut up",
+    "to cover (ears, eyes, etc.)",
+    "to close (eyes, mouth)"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "to stand in the way",
+    "to obstruct",
+    "to occupy",
+    "to fill up",
+    "to take up",
+    "to perform one's role",
+    "to do one's duty",
+    "to feel depressed",
+    "to be in low spirits",
+    "to mope"
+  ],
+  "category": "godan verb"
+}

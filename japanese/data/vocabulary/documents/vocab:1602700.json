@@ -1,0 +1,17 @@
+{
+  "$id": "vocab:1602700",
+  "japanese": "付属",
+  "kana": "ふぞく",
+  "meanings": [
+    "being attached (to)",
+    "being affiliated (to)",
+    "belonging (to)",
+    "going with"
+  ],
+  "jlptLevel": "N2",
+  "secondaryMeanings": [
+    "attached school",
+    "affiliated school"
+  ],
+  "category": "noun"
+}

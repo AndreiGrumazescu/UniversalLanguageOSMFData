@@ -1,0 +1,21 @@
+{
+  "$id": "vocab:1589040",
+  "japanese": "遅れる",
+  "kana": "おくれる",
+  "meanings": [
+    "to be late",
+    "to be delayed",
+    "to fall behind schedule",
+    "to be overdue"
+  ],
+  "jlptLevel": "N4",
+  "secondaryMeanings": [
+    "to fall behind (in a race, one's studies, etc.)",
+    "to lag behind",
+    "to be behind (the times)",
+    "to be bereaved of",
+    "to be preceded by (someone) in death",
+    "to be slow (of a clock or watch)"
+  ],
+  "category": "ichidan verb"
+}

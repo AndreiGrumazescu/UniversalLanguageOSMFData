@@ -1,0 +1,20 @@
+{
+  "$id": "vocab:1393680",
+  "japanese": "前提",
+  "kana": "ぜんてい",
+  "meanings": [
+    "condition",
+    "assumption",
+    "prerequisite",
+    "hypothesis"
+  ],
+  "jlptLevel": "N1",
+  "secondaryMeanings": [
+    "intention",
+    "intent",
+    "aim",
+    "goal",
+    "premise"
+  ],
+  "category": "noun"
+}
