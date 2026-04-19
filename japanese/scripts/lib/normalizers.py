@@ -73,6 +73,20 @@ def nfkc(char: str) -> str:
         result = normalized
 
 
+def katakana_to_hiragana(text: str) -> str:
+    """
+    Convert katakana characters to their hiragana equivalents.
+
+    Characters in U+30A1..U+30F6 are shifted down by 0x60 to U+3041..U+3096.
+    All other characters (including U+30FC ー prolonged sound mark) are
+    preserved as-is. Idempotent: hiragana input returns unchanged.
+    """
+    return "".join(
+        chr(ord(c) - 0x60) if 0x30A1 <= ord(c) <= 0x30F6 else c
+        for c in text
+    )
+
+
 def nfkc_plus(char: str) -> str:
     """
     NFKC plus manual mappings for CJK Radicals Supplement (U+2E80-2EFF).

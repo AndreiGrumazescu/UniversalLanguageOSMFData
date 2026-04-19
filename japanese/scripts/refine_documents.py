@@ -44,7 +44,13 @@ import sys
 import threading
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from datetime import datetime, timezone
 from pathlib import Path
+
+# Add script directory to path for lib imports
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+
+from lib.paths import MIGRATIONS_DIR, MIGRATION_LOGS_DIR
 
 
 # ---------------------------------------------------------------------------
@@ -305,6 +311,66 @@ def run_batch(
 
 
 # ---------------------------------------------------------------------------
+# Migration Log Emission
+# ---------------------------------------------------------------------------
+
+def _next_migration_number() -> int:
+    """
+    Find the next unused migration number by scanning existing migrations
+    and migration logs for NNN_ prefixes. Returns max + 1.
+    """
+    highest = 0
+    for directory in (MIGRATIONS_DIR, MIGRATION_LOGS_DIR):
+        if not directory.exists():
+            continue
+        for entry in directory.iterdir():
+            name = entry.name
+            if len(name) >= 4 and name[:3].isdigit() and name[3] == "_":
+                highest = max(highest, int(name[:3]))
+    return highest + 1
+
+
+def emit_refine_log(
+    number: int,
+    args: argparse.Namespace,
+    docs_dir: Path,
+    schema_path: Path | None,
+    total: int,
+    remaining: int,
+    succeeded: int,
+    failed: int,
+    completed_total: int,
+    elapsed: float,
+) -> Path:
+    """
+    Write a migration log for this refine invocation.
+
+    One invocation produces one log file. Resumed runs (same goal, same target)
+    get a new number — the progress ledger tracks cumulative completion; each
+    log records the activity of that specific invocation.
+    """
+    log_path = MIGRATION_LOGS_DIR / f"{number:03d}_refine_migration_log.txt"
+    log_path.parent.mkdir(parents=True, exist_ok=True)
+
+    timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    content = (
+        f"Migration {number:03d}: refine\n"
+        f"Goal: {args.goal}\n"
+        f"Target: {docs_dir}\n"
+        f"Schema: {schema_path or '(none)'}\n"
+        f"Batch size: {args.batch_size}\n"
+        f"Workers: {args.workers}\n"
+        f"Model: {args.model}\n"
+        f"\n"
+        f"Run: {timestamp}  total={total} remaining={remaining} "
+        f"succeeded={succeeded} failed={failed} "
+        f"completed_total={completed_total} elapsed={elapsed:.1f}s\n"
+    )
+    log_path.write_text(content, encoding="utf-8")
+    return log_path
+
+
+# ---------------------------------------------------------------------------
 # Main
 # ---------------------------------------------------------------------------
 
@@ -500,6 +566,22 @@ def main():
         remaining_after = len(all_files) - ledger.count
         print(f"\n{remaining_after} files still need processing.")
         print(f"Re-run the same command to resume — completed files will be skipped.")
+
+    # Emit migration log — every real (non-dry-run) invocation leaves a log.
+    migration_number = _next_migration_number()
+    log_path = emit_refine_log(
+        number=migration_number,
+        args=args,
+        docs_dir=docs_dir,
+        schema_path=schema_path,
+        total=len(all_files),
+        remaining=len(remaining_files),
+        succeeded=succeeded,
+        failed=failed,
+        completed_total=ledger.count,
+        elapsed=elapsed,
+    )
+    print(f"  Migration log:   {log_path}")
 
 
 if __name__ == "__main__":

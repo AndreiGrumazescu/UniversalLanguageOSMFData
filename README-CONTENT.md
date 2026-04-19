@@ -40,16 +40,17 @@ Shared reusable schemas that apply across languages live in `shared-models/`.
 
 ## Scripts
 
-Each language directory contains scripts organized into four categories:
+Each language directory contains scripts organized into five categories:
 
 | Category | Role | Output |
 |----------|------|--------|
 | **Adapters** | Reusable parsing/querying of source datasets | Python data structures |
 | **Analyzers** | Scan any domain (source or product), collect metrics | Reports and visualizations |
 | **Generators** | Create OSMF documents from source datasets (must be idempotent) | OSMF documents (JSON files) |
+| **Migrations** | Numbered, idempotent transformations over existing documents | Mutated OSMF documents + per-migration log |
 | **Lib** | Shared utilities (normalizers, paths, I/O) | — |
 
-All generators must be **idempotent**: running them multiple times produces the same result.
+All generators must be **idempotent**: running them multiple times produces the same result. Generators are **bootstrap-only** — they seed a new document set from a source dataset. Once documents exist, ongoing evolution happens via `migrations/`, which treat the documents themselves as the source of truth (re-running a generator against populated data would destroy post-generation refinements).
 
 See the language-specific documentation for details on individual scripts:
 - [Japanese Content](japanese/docs/japanese_content.md)

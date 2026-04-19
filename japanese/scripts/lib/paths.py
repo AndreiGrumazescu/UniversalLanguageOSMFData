@@ -60,6 +60,13 @@ KANJI_GRAPHEME_DEP_DIR = DATA_DIR / "kanji-grapheme-dependency"
 KANJI_GRAPHEME_DEP_DOCS = KANJI_GRAPHEME_DEP_DIR / "documents"
 
 # ---------------------------------------------------------------------------
+# Migrations
+# ---------------------------------------------------------------------------
+
+MIGRATIONS_DIR = SCRIPT_DIR / "migrations"
+MIGRATION_LOGS_DIR = MIGRATIONS_DIR / "logs"
+
+# ---------------------------------------------------------------------------
 # Source Data (External Datasets)
 # ---------------------------------------------------------------------------
 

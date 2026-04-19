@@ -1,0 +1,8 @@
+Migration 002: kunyomi_to_hiragana
+Goal: Sweep kunyomi and secondaryKunyomi to hiragana (catches stray loan-word katakana).
+Target: /Users/andreigrumazescu/Documents/universal-language-new/UL-Content/japanese/data/kanji/documents
+Schema: /Users/andreigrumazescu/Documents/universal-language-new/UL-Content/japanese/data/kanji/japanese-kanji.schema.json
+
+Runs:
+  2026-04-19T18:35:26Z  scanned=2943 modified=3 errored=0 elapsed=0.5s
+  2026-04-19T18:35:29Z  scanned=2943 modified=0 errored=0 elapsed=0.1s

@@ -1,0 +1,8 @@
+Migration 003: strip_okurigana
+Goal: Strip everything after '.' in reading entries; dedupe within and across primary/secondary.
+Target: /Users/andreigrumazescu/Documents/universal-language-new/UL-Content/japanese/data/kanji/documents
+Schema: /Users/andreigrumazescu/Documents/universal-language-new/UL-Content/japanese/data/kanji/japanese-kanji.schema.json
+
+Runs:
+  2026-04-19T18:47:15Z  scanned=2943 modified=1490 errored=0 elapsed=0.4s
+  2026-04-19T18:47:17Z  scanned=2943 modified=0 errored=0 elapsed=0.1s

@@ -11,24 +11,19 @@
     "0.1"
   ],
   "onyomi": [
-    "ゴウ"
+    "ごう"
   ],
   "secondaryOnyomi": [
-    "ガッ",
-    "カッ"
+    "がっ",
+    "かっ"
   ],
   "kunyomi": [
-    "あ.う"
+    "あ"
   ],
   "secondaryKunyomi": [
-    "-あ.う",
-    "あ.い",
+    "-あ",
     "あい-",
-    "-あ.い",
-    "-あい",
-    "あ.わす",
-    "あ.わせる",
-    "-あ.わせる"
+    "-あい"
   ],
   "strokeCount": 6,
   "jlptLevel": "unspecified"

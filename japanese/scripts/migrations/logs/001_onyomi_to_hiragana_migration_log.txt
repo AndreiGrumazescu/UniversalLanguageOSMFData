@@ -1,0 +1,8 @@
+Migration 001: onyomi_to_hiragana
+Goal: Convert onyomi and secondaryOnyomi from katakana to hiragana.
+Target: /Users/andreigrumazescu/Documents/universal-language-new/UL-Content/japanese/data/kanji/documents
+Schema: /Users/andreigrumazescu/Documents/universal-language-new/UL-Content/japanese/data/kanji/japanese-kanji.schema.json
+
+Runs:
+  2026-04-19T18:29:25Z  scanned=2943 modified=2921 errored=0 elapsed=0.7s
+  2026-04-19T18:29:28Z  scanned=2943 modified=0 errored=0 elapsed=0.1s

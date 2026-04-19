@@ -297,7 +297,7 @@ This is an OSMF Relational Model with an `item` connector and `many` pattern. Ea
 
 ## Scripts
 
-Scripts for generating, analyzing, and maintaining Japanese content are located in `scripts/`. See [README-CONTENT.md](../../README-CONTENT.md) for the general script architecture (adapters, analyzers, generators, lib).
+Scripts for generating, analyzing, and maintaining Japanese content are located in `scripts/`. See [README-CONTENT.md](../../README-CONTENT.md) for the general script architecture (adapters, analyzers, generators, migrations, lib).
 
 ### Generators
 
@@ -327,13 +327,27 @@ Scripts for generating, analyzing, and maintaining Japanese content are located 
 
 | Module | Purpose |
 |--------|---------|
-| `lib/normalizers.py` | NFKC_PLUS normalization — extends Unicode NFKC with additional CJK variant mappings |
+| `lib/normalizers.py` | NFKC_PLUS normalization; katakana→hiragana conversion |
 | `lib/grapheme_io.py` | OSMF document I/O for grapheme and relational data |
 | `lib/paths.py` | Path configuration for all data, source, and output directories |
 | `adapters/component_analysis.py` | CHISE IDS and KanjiVG decomposition logic |
 | `adapters/kanjidic.py` | kanjidic2 dataset parsing |
 | `adapters/jmdict.py` | JMdict XML dictionary parsing |
 | `adapters/jlpt.py` | JLPT word list parsing |
+
+### Migrations
+
+Generators bootstrap documents from source datasets; once documents exist, further evolution happens through **migrations**. A migration is a numbered, idempotent transformation over an existing document set — safe to re-run, diffable per-file via [`write_json_document`](../scripts/lib/grapheme_io.py). Documents are the source of truth; generators are no longer re-run against populated data (doing so would wipe out post-generation refinements).
+
+Migrations live in `scripts/migrations/` with a shared runner (`_runner.py`) and per-migration files prefixed with `NNN_`. Each run appends to a log in `scripts/migrations/logs/NNN_<slug>_migration_log.txt`, recording timestamp and scan/modify/error counts.
+
+| Number | Slug | Target | Status |
+|--------|------|--------|--------|
+| 001 | `onyomi_to_hiragana` | `data/kanji/documents/` | Applied |
+| 002 | `kunyomi_to_hiragana` | `data/kanji/documents/` | Applied |
+| 003 | `strip_okurigana` | `data/kanji/documents/` | Applied |
+
+The LLM-powered [`refine_documents.py`](../scripts/refine_documents.py) also emits a migration log each invocation (`NNN_refine_migration_log.txt`, auto-numbered). Refinements performed before this convention was introduced (e.g., the original onyomi/kunyomi primary/secondary split) are not logged.
 
 ---
 
