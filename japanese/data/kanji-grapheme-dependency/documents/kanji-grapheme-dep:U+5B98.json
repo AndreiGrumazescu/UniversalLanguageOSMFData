@@ -9,6 +9,13 @@
     {
       "connectors": {
         "component": {
+          "$id": "grapheme:U+5B98"
+        }
+      }
+    },
+    {
+      "connectors": {
+        "component": {
           "$id": "grapheme:U+5B80"
         }
       }

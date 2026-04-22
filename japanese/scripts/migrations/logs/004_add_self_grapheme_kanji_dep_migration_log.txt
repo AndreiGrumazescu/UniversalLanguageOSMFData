@@ -1,0 +1,8 @@
+Migration 004: add_self_grapheme_kanji_dep
+Goal: For every kanji whose primary symbol matches a grapheme's primary symbol, ensure the kanji-grapheme-dependency document includes that grapheme as a component. Creates missing dependency docs; prepends the self-grapheme to existing docs that omit it.
+Target: /Users/andreigrumazescu/Documents/universal-language-new/UL-Content/japanese/data/kanji-grapheme-dependency/documents
+Schema: /Users/andreigrumazescu/Documents/universal-language-new/UL-Content/japanese/data/kanji-grapheme-dependency/japanese-kanji-grapheme-dependency.schema.json
+
+Runs:
+  2026-04-22T21:44:26Z  scanned=255 created=69 updated=186 errored=0 elapsed=0.0s
+  2026-04-22T21:44:32Z  scanned=255 created=0 updated=0 errored=0 elapsed=0.0s
